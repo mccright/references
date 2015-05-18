@@ -5,8 +5,8 @@ Collection of reusable references
 
 First and foremost: a couple **git cheat sheets** 
 * [https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
-and TimGreen's cheat sheet -- with a table of resources and books at the bottom:
-* [A list of cool features of Git and GitHub](A list of cool features of Git and GitHub)
+* and TimGreen's list of git & github features -- with a table of resources and books at the bottom:
+[https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 maybe also 
 * [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/) 
 and 
