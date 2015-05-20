@@ -81,7 +81,7 @@ and
  * [http://longurl.org/services](http://longurl.org/services)
  
 **Stay Informed**
-(in no particular order)      
+(in no particular order - and thank you Joe Fleischman)      
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/)
  * Schneier on Security [https://www.schneier.com/](https://www.schneier.com/)
  * Help Net Security [http://www.net-security.org/secworld_main.php](http://www.net-security.org/secworld_main.php)
@@ -94,11 +94,16 @@ and
  * SC Magazine [http://www.scmagazine.com/news/section/100/](http://www.scmagazine.com/news/section/100/)
  * Reddit (cybersecurity) [http://www.reddit.com/r/cybersecurity/](http://www.reddit.com/r/cybersecurity/)
  * Mashable (cybersecurity) [http://mashable.com/category/cybersecurity/](http://mashable.com/category/cybersecurity/)  
+ * Fierce IT Security [http://www.fierceitsecurity.com/](http://www.fierceitsecurity.com/)
 (and for more details)  
- * Information Week Dark Reading [http://www.darkreading.com/](http://www.darkreading.com/)
- * White Hat Security Blog [https://blog.whitehatsec.com/](https://blog.whitehatsec.com/)
- * Sucuri Blog [https://blog.sucuri.net/](https://blog.sucuri.net/)
- * FireEye Blog [https://www.fireeye.com/blog/threat-research.html](https://www.fireeye.com/blog/threat-research.html)
- * SANS Security Awareness Blog [http://www.securingthehuman.org/blog](http://www.securingthehuman.org/blog)
- * SANS Digital Forensics Blog [http://digital-forensics.sans.org/blog](http://digital-forensics.sans.org/blog)
+ * 1 Raindrop [http://1raindrop.typepad.com/1_raindrop/](http://1raindrop.typepad.com/1_raindrop/)  
+ * Information Week Dark Reading [http://www.darkreading.com/](http://www.darkreading.com/)  
+ * White Hat Security Blog [https://blog.whitehatsec.com/](https://blog.whitehatsec.com/)  
+ * Sucuri Blog [https://blog.sucuri.net/](https://blog.sucuri.net/)  
+ * FireEye Blog [https://www.fireeye.com/blog/threat-research.html](https://www.fireeye.com/blog/threat-research.html)  
+ * SANS Security Awareness Blog [http://www.securingthehuman.org/blog](http://www.securingthehuman.org/blog)  
+ * SANS Digital Forensics Blog [http://digital-forensics.sans.org/blog](http://digital-forensics.sans.org/blog)  
+ * SEI Blog [http://blog.sei.cmu.edu/](http://blog.sei.cmu.edu/)  
+ * System Forensics [http://www.sysforensics.org/](http://www.sysforensics.org/)  
+ * 
  
