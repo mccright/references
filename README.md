@@ -94,7 +94,7 @@ and
  * SC Magazine [http://www.scmagazine.com/news/section/100/](http://www.scmagazine.com/news/section/100/)
  * Reddit (cybersecurity) [http://www.reddit.com/r/cybersecurity/](http://www.reddit.com/r/cybersecurity/)
  * Mashable (cybersecurity) [http://mashable.com/category/cybersecurity/](http://mashable.com/category/cybersecurity/)  
- * Fierce IT Security [http://www.fierceitsecurity.com/](http://www.fierceitsecurity.com/)
+ * Fierce IT Security [http://www.fierceitsecurity.com/](http://www.fierceitsecurity.com/)  
 (and for more details)  
  * 1 Raindrop [http://1raindrop.typepad.com/1_raindrop/](http://1raindrop.typepad.com/1_raindrop/)  
  * Information Week Dark Reading [http://www.darkreading.com/](http://www.darkreading.com/)  
