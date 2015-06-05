@@ -65,6 +65,19 @@ and
 * Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)
 
 **Respect software author's license decisions**
+ * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
+ * IBM Security-Intelligence Feed [http://securityintelligence.com/](http://securityintelligence.com/)
+ * IBM Research News [http://ibmresearchnews.blogspot.com/](http://ibmresearchnews.blogspot.com/)
+ * IBM Research Home [http://www.research.ibm.com/](http://www.research.ibm.com/)
+ * IBM Community Blogs [https://www-304.ibm.com/connections/communities/service/html/allcommunities](https://www-304.ibm.com/connections/communities/service/html/allcommunities)
+ * IBM DeveloperWorks Blogs -- Recent Updates [https://www.ibm.com/developerworks/](https://www.ibm.com/developerworks/community/groups/service/html/community/updates?communityUuid=81c130c7-4408-4e01-adf5-658ae0ef5f0c&filter=all)
+ * Microsoft Research Blogs [http://blogs.technet.com/b/inside_microsoft_research/](http://blogs.technet.com/b/inside_microsoft_research/)
+ * Microsoft Cybersecurity Blog [http://blogs.microsoft.com/cybertrust/category/cybersecurity/](http://blogs.microsoft.com/cybertrust/category/cybersecurity/) and more generally [http://blogs.microsoft.com/cybertrust/](http://blogs.microsoft.com/cybertrust/)
+ * Google Online Security Blog [http://googleonlinesecurity.blogspot.com/](http://googleonlinesecurity.blogspot.com/)
+ * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1)
+ * Apple Research News/Blog/Home [oops, I guess there aren't any](oops, I guess there aren't any)
+
+**Respect software author's license decisions**
  * Comparison of free and open-source software licenses [http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 
  * Open Source Initiative list of links to license information [http://opensource.org/licenses](http://opensource.org/licenses)
  * "Various Licenses and Comments about Them" from GNU [http://www.gnu.org/philosophy/license-list.html](http://www.gnu.org/philosophy/license-list.html)
@@ -84,8 +97,10 @@ and
 (in no particular order - and thank you Joe Fleischman)      
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/)
  * Schneier on Security [https://www.schneier.com/](https://www.schneier.com/)
+ * IBM X-Force Home [http://securityintelligence.com/topics/x-force/](http://securityintelligence.com/topics/x-force/)
  * Help Net Security [http://www.net-security.org/secworld_main.php](http://www.net-security.org/secworld_main.php)
  * Malwarebytes Blog [https://blog.malwarebytes.org/](https://blog.malwarebytes.org/)
+ * Sophos NakedSecurity Blog [https://nakedsecurity.sophos.com/](https://nakedsecurity.sophos.com/)
  * FreedomHacker [http://freedomhacker.net/](http://freedomhacker.net/)
  * Wired Threat Level  [http://www.wired.com/category/threatlevel](http://www.wired.com/category/threatlevel)
  * Homeland Security News Wire  [http://www.homelandsecuritynewswire.com/topics/cybersecurity](http://www.homelandsecuritynewswire.com/topics/cybersecurity)
