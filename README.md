@@ -64,17 +64,21 @@ and
 * Random reminder of how SQL Joins work.  [http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) Browse the comments as well.  And if that doesn't do it, try [http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html](http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html)
 * Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)
 
-**Respect software author's license decisions**
+**Several Tech Company Research & Security Blogs**
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
- * IBM Security-Intelligence Feed [http://securityintelligence.com/](http://securityintelligence.com/)
- * IBM Research News [http://ibmresearchnews.blogspot.com/](http://ibmresearchnews.blogspot.com/)
- * IBM Research Home [http://www.research.ibm.com/](http://www.research.ibm.com/)
- * IBM Community Blogs [https://www-304.ibm.com/connections/communities/service/html/allcommunities](https://www-304.ibm.com/connections/communities/service/html/allcommunities)
- * IBM DeveloperWorks Blogs -- Recent Updates [https://www.ibm.com/developerworks/](https://www.ibm.com/developerworks/community/groups/service/html/community/updates?communityUuid=81c130c7-4408-4e01-adf5-658ae0ef5f0c&filter=all)
- * Microsoft Research Blogs [http://blogs.technet.com/b/inside_microsoft_research/](http://blogs.technet.com/b/inside_microsoft_research/)
- * Microsoft Cybersecurity Blog [http://blogs.microsoft.com/cybertrust/category/cybersecurity/](http://blogs.microsoft.com/cybertrust/category/cybersecurity/) and more generally [http://blogs.microsoft.com/cybertrust/](http://blogs.microsoft.com/cybertrust/)
- * Google Online Security Blog [http://googleonlinesecurity.blogspot.com/](http://googleonlinesecurity.blogspot.com/)
- * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1)
+ * Fortify AppSecurity Blog [http://h30499.www3.hp.com/t5/Fortify-Application-Security/bg-p/application-security-fortify-on-demand](http://h30499.www3.hp.com/t5/Fortify-Application-Security/bg-p/application-security-fortify-on-demand) 
+ * HP Security Research Blog [http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/bg-p/off-by-on-software-security-blog](http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/bg-p/off-by-on-software-security-blog) 
+ * HP AppSecurity Feed [https://twitter.com/HPappsecurity](https://twitter.com/HPappsecurity) 
+ * IBM Security-Intelligence Feed [http://securityintelligence.com/](http://securityintelligence.com/) 
+ * IBM Research News [http://ibmresearchnews.blogspot.com/](http://ibmresearchnews.blogspot.com/) 
+ * IBM Research Home [http://www.research.ibm.com/](http://www.research.ibm.com/) 
+ * IBM Community Blogs [https://www-304.ibm.com/connections/communities/service/html/allcommunities](https://www-304.ibm.com/connections/communities/service/html/allcommunities) 
+ * IBM DeveloperWorks Blogs -- Recent Updates [https://www.ibm.com/developerworks/](https://www.ibm.com/developerworks/community/groups/service/html/community/updates?communityUuid=81c130c7-4408-4e01-adf5-658ae0ef5f0c&filter=all) 
+ * Microsoft Research Blogs [http://blogs.technet.com/b/inside_microsoft_research/](http://blogs.technet.com/b/inside_microsoft_research/) 
+ * Microsoft Cybersecurity Blog [http://blogs.microsoft.com/cybertrust/category/cybersecurity/](http://blogs.microsoft.com/cybertrust/category/cybersecurity/) and more generally  [http://blogs.microsoft.com/cybertrust/](http://blogs.microsoft.com/cybertrust/) 
+ * Google Online Security Blog [http://googleonlinesecurity.blogspot.com/](http://googleonlinesecurity.blogspot.com/) 
+ * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1) 
+ * PortSwigger (Burp) Blog [http://blog.portswigger.net/](http://blog.portswigger.net/)
  * Apple Research News/Blog/Home [oops, I guess there aren't any](oops, I guess there aren't any)
 
 **Respect software author's license decisions**
