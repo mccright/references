@@ -2,7 +2,6 @@ Application Logging
 ===================
 
 ***Logging***
-First and foremost: a couple **git cheat sheets** 
  * Log all authentication activities [CWE-778]()  
  * Log all elevated-rights activity [CWE-778]()  
  * Log all elevated-rights changes [CWE-778]()  
@@ -25,5 +24,6 @@ First and foremost: a couple **git cheat sheets**
  * []()  
  * []()  
 
-***References**
-Thank you SANS for sending a poster on this topic to goose me into starting on this page.  SANS Securing Web Application Technologies (SWAT) poster, received 06-17-2019.
+***References***
+ * Thank you SANS for sending a large paper poster on this topic to goose me into starting on this page.  SANS Securing Web Application Technologies (SWAT) checklist poster, received via surface mail 06-17-2019.  The initial entries in this list were from the top left corner of the checklist side of the poster.  
+ *   
