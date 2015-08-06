@@ -76,10 +76,11 @@ and
  * IBM DeveloperWorks Blogs -- Recent Updates [https://www.ibm.com/developerworks/](https://www.ibm.com/developerworks/community/groups/service/html/community/updates?communityUuid=81c130c7-4408-4e01-adf5-658ae0ef5f0c&filter=all) 
  * Microsoft Research Blogs [http://blogs.technet.com/b/inside_microsoft_research/](http://blogs.technet.com/b/inside_microsoft_research/) 
  * Microsoft Cybersecurity Blog [http://blogs.microsoft.com/cybertrust/category/cybersecurity/](http://blogs.microsoft.com/cybertrust/category/cybersecurity/) and more generally  [http://blogs.microsoft.com/cybertrust/](http://blogs.microsoft.com/cybertrust/) 
+ * Microsoft Office365 Developer Blog [https://dev.office.com/blogs/](https://dev.office.com/blogs/)  
  * Google Online Security Blog [http://googleonlinesecurity.blogspot.com/](http://googleonlinesecurity.blogspot.com/) 
- * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1) 
- * PortSwigger (Burp) Blog [http://blog.portswigger.net/](http://blog.portswigger.net/)
- * Apple Research News/Blog/Home [oops, I guess there aren't any](oops, I guess there aren't any)
+ * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at  [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1)   
+ * PortSwigger (Burp) Blog [http://blog.portswigger.net/](http://blog.portswigger.net/)  
+ * Apple Research News/Blog/Home [oops, I guess there aren't any security blogs here](oops, I guess there aren't any)  
 
 **Respect software author's license decisions**
  * Comparison of free and open-source software licenses [http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 
@@ -87,8 +88,7 @@ and
  * "Various Licenses and Comments about Them" from GNU [http://www.gnu.org/philosophy/license-list.html](http://www.gnu.org/philosophy/license-list.html)
 
 **Various public documents, whitepapers and articles about APT campaigns**
- * kbandla/APTnotes [https://github.com/kbandla/APTnotes](https://github.com/kbandla/APTnotes)
-
+ * kbandla/APTnotes [https://github.com/kbandla/APTnotes](https://github.com/kbandla/APTnotes) 
 
 **Verify those shortened URLs**
  * [https://tinyurl.com/preview.php](https://tinyurl.com/preview.php)
