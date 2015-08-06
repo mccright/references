@@ -25,8 +25,8 @@ cd into your new project directory
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
 
 **Markdown**
-* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
+* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
+* [https://bitbucket.org/tutorials/markdowndemo](https://bitbucket.org/tutorials/markdowndemo)  
 
 **JavaScript**
 * Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
