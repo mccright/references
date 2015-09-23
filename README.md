@@ -53,8 +53,16 @@ and
 * [http://www.sitepoint.com/10-javascript-cheat-sheets/](http://www.sitepoint.com/10-javascript-cheat-sheets/)
 
 
-**General Programming**
-* Collection of OWASP Web Application Security Testing Cheat Sheets  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)    
+**General Secure Programming**
+* Collection of OWASP Web Application Security Testing Cheat Sheets  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)   
+* Web Application Security Guide/Checklist [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
+* Web Application Security Guide [https://en.wikibooks.org/wiki/Web_Application_Security_Guide](https://en.wikibooks.org/wiki/Web_Application_Security_Guide)  
+* DISA Information Assurance Support Environment [http://iase.disa.mil/Pages/index.aspx](http://iase.disa.mil/Pages/index.aspx)
+* Security Technical Implementation Guides (STIGs) [http://iase.disa.mil/stigs/Pages/index.aspx](http://iase.disa.mil/stigs/Pages/index.aspx)  
+* Application Security STIGs [http://iase.disa.mil/stigs/app-security/app-security/Pages/index.aspx](http://iase.disa.mil/stigs/app-security/app-security/Pages/index.aspx)  
+* Application Aecurity and Development Security Technical Implementation Guide, Version 3, Release 10 - 23 January 2015 [http://iase.disa.mil/stigs/Documents/U_Application_Security_and_Development_V3R10_STIG.zip](http://iase.disa.mil/stigs/Documents/U_Application_Security_and_Development_V3R10_STIG.zip)  
+* DoD Cloud Computing Security [http://iase.disa.mil/cloud_security/Pages/index.aspx](http://iase.disa.mil/cloud_security/Pages/index.aspx)  
+* IASE Application Security [http://iase.disa.mil/stigs/app-security/Pages/index.aspx](http://iase.disa.mil/stigs/app-security/Pages/index.aspx)  
 * [http://www.cheatography.com/tag/programming/](http://www.cheatography.com/tag/programming/)
 * XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
 
