@@ -24,8 +24,20 @@ cd into your new project directory
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
 
+**Software Vulnerability Detection Resources**  
+* U.S. National Checklist Program [http://checklists.nist.gov](http://checklists.nist.gov) and [https://web.nvd.nist.gov/view/ncp/repository](https://web.nvd.nist.gov/view/ncp/repository) 
+* Security Content Automation Protocol (SCAP)  
+   * Nist Overview: [http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf](http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf)  
+   * SCAP Home: [http://scap.nist.gov/](http://scap.nist.gov/)  
+* State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [http://www.acq.osd.mil/se/docs/P-5061-software-soar-mobility-Final-Full-Doc-20140716.pdf](http://www.acq.osd.mil/se/docs/P-5061-software-soar-mobility-Final-Full-Doc-20140716.pdf)  
+* * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+
 **Web Application Vulnerability Analysis**
 * [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
+* [Web Application Security Guide/Checklist}(Web Application Security Guide/Checklist)  
+* Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
+* [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
 
 **Markdown**
 * [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
@@ -42,7 +54,7 @@ and
 
 **General Programming**
 * [http://www.cheatography.com/tag/programming/](http://www.cheatography.com/tag/programming/)
-
+* XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
 
 **PHP**
 * [http://www.cheatography.com/tag/php/](http://www.cheatography.com/tag/php/)
