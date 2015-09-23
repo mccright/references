@@ -54,6 +54,7 @@ and
 
 
 **General Programming**
+* Collection of OWASP Web Application Security Testing Cheat Sheets  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)    
 * [http://www.cheatography.com/tag/programming/](http://www.cheatography.com/tag/programming/)
 * XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
 
