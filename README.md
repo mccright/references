@@ -56,6 +56,7 @@ and
 **General Secure Programming**
 * Collection of OWASP Web Application Security Testing Cheat Sheets  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)   
 * Web Application Security Guide/Checklist [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
+* CSRN Security Checklist for Software Developers [https://security.web.cern.ch/security/recommendations/en/checklist_for_coders.shtml](https://security.web.cern.ch/security/recommendations/en/checklist_for_coders.shtml)  
 * Web Application Security Guide [https://en.wikibooks.org/wiki/Web_Application_Security_Guide](https://en.wikibooks.org/wiki/Web_Application_Security_Guide)  
 * DISA Information Assurance Support Environment [http://iase.disa.mil/Pages/index.aspx](http://iase.disa.mil/Pages/index.aspx)
 * Security Technical Implementation Guides (STIGs) [http://iase.disa.mil/stigs/Pages/index.aspx](http://iase.disa.mil/stigs/Pages/index.aspx)  
@@ -65,6 +66,7 @@ and
 * IASE Application Security [http://iase.disa.mil/stigs/app-security/Pages/index.aspx](http://iase.disa.mil/stigs/app-security/Pages/index.aspx)  
 * [http://www.cheatography.com/tag/programming/](http://www.cheatography.com/tag/programming/)
 * XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
+* Fortify Taxonomy: Software Security Errors [http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html](http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html)
 
 **PHP**
 * [http://www.cheatography.com/tag/php/](http://www.cheatography.com/tag/php/)
@@ -150,5 +152,7 @@ and
  * SANS Digital Forensics Blog [http://digital-forensics.sans.org/blog](http://digital-forensics.sans.org/blog)  
  * SEI Blog [http://blog.sei.cmu.edu/](http://blog.sei.cmu.edu/)  
  * System Forensics [http://www.sysforensics.org/](http://www.sysforensics.org/)  
+ * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)
+ * BOT24 [http://www.bot24.com/](http://www.bot24.com/)
  
  
