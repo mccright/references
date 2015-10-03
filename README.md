@@ -125,6 +125,15 @@ and
 **List of URL Shorteners**
  * [http://longurl.org/services](http://longurl.org/services)
  
+**Find the code you need** 
+ * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)
+ * A large collection of sorting algorithms in many languages [https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93](https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93) 
+ * Competitive Programming, algorithms and data structures [https://algocoding.wordpress.com/](https://algocoding.wordpress.com/)
+
+**Then copy & morph**
+ * virtualenv is a tool to create isolated Python environments [https://virtualenv.pypa.io/en/latest/](https://virtualenv.pypa.io/en/latest/)
+ * A relatively quick Python Numpy Tutorial by Justin Johnson. [http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
+
 **Stay Informed**
 (in no particular order - and thank you Joe Fleischman) 
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/) 
@@ -156,4 +165,6 @@ and
  * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)
  
- 
+ **Temporary list for work tools**
+ * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
+ * 
