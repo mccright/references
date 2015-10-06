@@ -165,6 +165,11 @@ and
  * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)
  
- **Temporary list for work tools**
+ **Temporary list for new work tools**
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
+ * 
+
+ **Temporary list for work tools requiring more follow-up**
+ * Tufin [http://www.tufin.com/](http://www.tufin.com/)
+ * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)
  * 
