@@ -35,10 +35,12 @@ cd into your new project directory
 * Fortify Taxonomy: Software Security Errors [http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html](http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html)  
 
 **Web Application Vulnerability Analysis**  
+* The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
 * [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
 * Web Application Security Guide/Checklist. [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
 * Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
+* SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
 
 **Markdown**
@@ -167,7 +169,7 @@ and
  
  **Temporary list for new work tools**
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
- * 
+ * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)
 
  **Temporary list for work tools requiring more follow-up**
  * Tufin [http://www.tufin.com/](http://www.tufin.com/)
