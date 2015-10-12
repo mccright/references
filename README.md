@@ -40,7 +40,9 @@ cd into your new project directory
 * Web Application Security Guide/Checklist. [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
 * Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
-* SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+* SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
+* Penetration Testers Framework (PTF) [https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)  
+* Social-Engineer Toolkit (SET) [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
 
 **Markdown**
@@ -172,6 +174,9 @@ and
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)
 
  **Temporary list for work tools requiring more follow-up**
- * Tufin [http://www.tufin.com/](http://www.tufin.com/)
- * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)
- * 
+ * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
+ * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
+ * Check tools on: [https://github.com/Hypsurus?tab=repositories](https://github.com/Hypsurus?tab=repositories)  
+ * Check Various tools for testing RFC 5077 [https://github.com/vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077)  
+ * Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
+ * layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)
