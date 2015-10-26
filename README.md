@@ -166,8 +166,9 @@ and
  * SANS Digital Forensics Blog [http://digital-forensics.sans.org/blog](http://digital-forensics.sans.org/blog)  
  * SEI Blog [http://blog.sei.cmu.edu/](http://blog.sei.cmu.edu/)  
  * System Forensics [http://www.sysforensics.org/](http://www.sysforensics.org/)  
- * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)
- * BOT24 [http://www.bot24.com/](http://www.bot24.com/)
+ * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)  
+ * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
+ * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  
  **Temporary list for new work tools**
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
