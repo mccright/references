@@ -59,6 +59,7 @@ and
 
 
 **General Secure Programming**
+* OWASP Cheat Sheet Series -- a collection of high value information on specific web application security topics [https://www.owasp.org/index.php/Cheat_Sheets](https://www.owasp.org/index.php/Cheat_Sheets)  
 * Collection of OWASP Web Application Security Testing Cheat Sheets  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)   
 * Web Application Security Guide/Checklist [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
 * CSRN Security Checklist for Software Developers [https://security.web.cern.ch/security/recommendations/en/checklist_for_coders.shtml](https://security.web.cern.ch/security/recommendations/en/checklist_for_coders.shtml)  
