@@ -176,6 +176,7 @@ and
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
  * Sometimes you need a little local web server [https://github.com/kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome)  
+ * Sometimes only ASCII is needed/allowed -- Convert a HTML table into ASCII table using Python: Colspan and Rowspan allowed [https://github.com/gustavklopp/DashTable](https://github.com/gustavklopp/DashTable)  
 
 
  **Temporary list for work tools requiring more follow-up**
