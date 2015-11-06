@@ -2,6 +2,7 @@
 <head>
   <title>ASCII Character Codes</title>
   <!-- Original copy from: https://github.com/johnantoni/ascii, Thank you. -->
+  <!-- Sometimes you just need a static ASCII table. -->
   <style>
   body {
   display: block;
@@ -17,7 +18,7 @@ A:Visited {color: blue;}
 A:Active {color: blue;}
 A:Hover {text-decoration : underline;}
 TD,td  {background-color:#FFFFFF;font-size:75%;}
-p, P {margin-top : 0px;}
+p, P {margin-top : 0px; font-size : 75%;}
 h1, H1 {font:normal 55% Arial, Helvetica, sans-serif;text-decoration:none;margin:0px;display:inline;}
 h2, H2 {font:normal 120% Verdana, Arial, Helvetica, sans-serif;font-weight: bold; margin:0px;}
 .boldU {font-weight: bold; text-decoration: underline;}
@@ -25,9 +26,6 @@ h2, H2 {font:normal 120% Verdana, Arial, Helvetica, sans-serif;font-weight: bold
 .desktop li {margin-bottom:10px;margin-left:15px;}
 .lankar li {margin-bottom:10px;margin-left:0px;padding-left:0px;}
 .lankar {margin-bottom:10px;margin-left:0px;padding-left:20px;}
-
-#menu a {display:block;padding:5px 10px;}
-#menu A:Hover {background-color:#8DCBFA;text-decoration : underline;color:black;}
 
 .coltab td {align:left;padding:2px;}
 
@@ -52,8 +50,12 @@ div.container {position: relative;margin: 0 auto;width: 860px;text-align: left;}
 </head>
 <body>
 
+<!--
 <table align="center" cellpadding="0" cellspacing="0" width="798px" style="width: 798px; border-style: solid; border-width: 1px 1px 1px 1px; border-color: #000000;">
 <tbody><tr><td style="border-bottom:1px solid black;">
+--> 
+<table align="center" cellpadding="0" cellspacing="0">
+<tbody><tr><td>
 
 </td></tr>
 
@@ -381,12 +383,9 @@ div.container {position: relative;margin: 0 auto;width: 860px;text-align: left;}
 </td></tr></tbody></table>
 
 <br/>
-
-<script>
-if (window.location.protocol != "https:") {
-  window.location.href = "https:" + window.location.href.substring(window.location.protocol.length);
-}
-</script>
+<p>
+Thank you John Griffiths for the original table, <a href="https://github.com/johnantoni/ascii">https://github.com/johnantoni/ascii</a>
+</p>
 
 </body>
 </html>
