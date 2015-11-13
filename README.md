@@ -86,9 +86,13 @@ and
 
 
 **Regex**
+* Test your regex on line: [https://regex101.com/](https://regex101.com/)  
+* * OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
+* A really big collection of regex resources [http://regexlib.com/](http://regexlib.com/)
 * [http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 and 
-* [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)
+* [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)  
+* Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
 
 
 **Bash Shell**
