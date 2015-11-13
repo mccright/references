@@ -177,7 +177,7 @@ and
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
  * Sometimes you need a little local web server [https://github.com/kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome)  
  * Sometimes only ASCII is needed/allowed -- Convert a HTML table into ASCII table using Python: Colspan and Rowspan allowed [https://github.com/gustavklopp/DashTable](https://github.com/gustavklopp/DashTable)  
- * Reference (probably dated, but better than nothing) List of all generic top level domains [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)
+ * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)  
 
 
  **Temporary list for work tools requiring more follow-up**
