@@ -58,7 +58,10 @@ and
 * [http://www.sitepoint.com/10-javascript-cheat-sheets/](http://www.sitepoint.com/10-javascript-cheat-sheets/)
 
 
-**General Secure Programming**
+**General Secure Programming**  
+* "Avoiding the Top 10 Security Flaws." Design guidance by the IEEE Center for Secure Design (CSD),  (http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html)[http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html]  
+* The IEEE Computer Society Center for Secure Design. (http://cybersecurity.ieee.org/center-for-secure-design.html)[http://cybersecurity.ieee.org/center-for-secure-design.html]  
+* The OWASP Application Security Verification Standard (ASVS) Project attempts to provide a basis for testing web application technical security controls. (https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)[https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project]  
 * OWASP Cheat Sheet Series -- a collection of high value information on specific web application security topics [https://www.owasp.org/index.php/Cheat_Sheets](https://www.owasp.org/index.php/Cheat_Sheets)  
 * Collection of OWASP Web Application Security Testing Cheat Sheets  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)   
 * Web Application Security Guide/Checklist [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
@@ -180,10 +183,15 @@ and
  * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)  
 
 
- **Temporary list for work tools requiring more follow-up**
+ **Temporary list for work tools or other resources requiring more follow-up**
+ * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. (http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)[http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf]  
  * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
  * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
  * Check tools on: [https://github.com/Hypsurus?tab=repositories](https://github.com/Hypsurus?tab=repositories)  
  * Check Various tools for testing RFC 5077 [https://github.com/vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077)  
  * Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
- * layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)
+ * layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)  
+
+**Other**  
+* International Building Code, 2012, Second Printing. (http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)[http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm]  
+
