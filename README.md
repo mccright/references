@@ -82,7 +82,12 @@ and
 
 
 **Python**
-* Awesome Python -- A curated list of awesome Python frameworks, libraries and software. Inspired by awesome-php. [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)
+* Awesome Python -- A curated list of awesome Python frameworks, libraries and software. Inspired by awesome-php. [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
+* Error-handling examples: [https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py](https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py)  
+* Datetime examples: [https://github.com/ianozsvald/datetime-examples/blob/master/examples.py](https://github.com/ianozsvald/datetime-examples/blob/master/examples.py)  
+* Essential python tools - Quality [http://aboumrad.info/essential-python-tools-quality.html](http://aboumrad.info/essential-python-tools-quality.html)  
+* Counting things in Python [http://treyhunner.com/2015/11/counting-things-in-python/](http://treyhunner.com/2015/11/counting-things-in-python/)  
+* Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 
 
 **Regex**
