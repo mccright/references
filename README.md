@@ -190,6 +190,7 @@ and
  * Sometimes you need a little local web server [https://github.com/kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome)  
  * Sometimes only ASCII is needed/allowed -- Convert a HTML table into ASCII table using Python: Colspan and Rowspan allowed [https://github.com/gustavklopp/DashTable](https://github.com/gustavklopp/DashTable)  
  * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)  
+ * FuzzDB Project [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)  
 
 
  **Temporary list for work tools or other resources requiring more follow-up**
@@ -203,3 +204,4 @@ and
 
 **Other**  
 * International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
+* The definitive list of lists (of lists) curated on GitHub [https://github.com/jnv/lists](https://github.com/jnv/lists)  
