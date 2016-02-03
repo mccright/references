@@ -211,6 +211,7 @@ and
 
 **Other**  
 * International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
+* Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
 * The definitive list of lists (of lists) curated on GitHub [https://github.com/jnv/lists](https://github.com/jnv/lists)  
 * Mobile App Pentesting Cheetsheet [https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/README.md](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/README.md)  
 * Free Programming Books [https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)  
