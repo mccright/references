@@ -79,7 +79,12 @@ and
 * Fortify Taxonomy: Software Security Errors [http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html](http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html)
 
 **PHP**
-* [http://www.cheatography.com/tag/php/](http://www.cheatography.com/tag/php/)
+* [http://www.cheatography.com/tag/php/](http://www.cheatography.com/tag/php/)  
+* PHP Security Guide, 2005. [http://phpsec.org/projects/guide/](http://phpsec.org/projects/guide/)  
+* Survive The Deep End: PHP Security, 2015. [https://phpsecurity.readthedocs.org/en/latest/](https://phpsecurity.readthedocs.org/en/latest/)  
+* Hacking with PHP -> Securty Concerns. [http://www.hackingwithphp.com/17/0/0/security-concerns](http://www.hackingwithphp.com/17/0/0/security-concerns)
+* PHP The Right Way -> Security. [http://www.phptherightway.com/#security](http://www.phptherightway.com/#security)  
+* PHP Best Practices -- A short, practical guide for common and confusing PHP tasks: [https://phpbestpractices.org/](https://phpbestpractices.org/)  
 
 
 **Python**
