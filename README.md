@@ -16,7 +16,9 @@ and
 and page 2 of 
 * [http://www.git-tower.com/blog/git-cheat-sheet/](http://www.git-tower.com/blog/git-cheat-sheet/) 
 and documenation at 
-[http://git-scm.com/docs](http://git-scm.com/docs)
+[http://git-scm.com/docs](http://git-scm.com/docs)  
+* Git Pocket Guide. By Richard E. Silverman [http://chimera.labs.oreilly.com/books/1230000000561/index.html](http://chimera.labs.oreilly.com/books/1230000000561/index.html)  
+
 
 Just get started...  
 **git remote -v**  (view the full addresses of your configured remotes)  
@@ -57,10 +59,15 @@ cd into your new project directory
 and 
 * [http://www.cheatography.com/tag/javascript/](http://www.cheatography.com/tag/javascript/)
 and 
-* [http://www.sitepoint.com/10-javascript-cheat-sheets/](http://www.sitepoint.com/10-javascript-cheat-sheets/)
+* [http://www.sitepoint.com/10-javascript-cheat-sheets/](http://www.sitepoint.com/10-javascript-cheat-sheets/)  
+* Learning JavaScript Design Patterns. Volume 1.6.2, By Addy Osmani [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
+* Programming JavaScript Applications. By Eric Elliott [http://chimera.labs.oreilly.com/books/1234000000262/index.html](http://chimera.labs.oreilly.com/books/1234000000262/index.html)  
+* Node: Up and Running. By Tom Hughes-Croucher and Mike Wilson [http://chimera.labs.oreilly.com/books/1234000001808/index.html](http://chimera.labs.oreilly.com/books/1234000001808/index.html)  
+* Narrative workbook -- This is a companion workbook that will assist you in working through the codeX Narrative that is to be provided. Resources and references provided that will assist you in your journey will be published in the repository. [https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook](https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook)  
 
 
 **General Secure Programming**  
+* Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
 * "Avoiding the Top 10 Security Flaws." Design guidance by the IEEE Center for Secure Design (CSD),  [http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html](http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html)  
 * The IEEE Computer Society Center for Secure Design. [http://cybersecurity.ieee.org/center-for-secure-design.html](http://cybersecurity.ieee.org/center-for-secure-design.html)   
 * The OWASP Application Security Verification Standard (ASVS) Project attempts to provide a basis for testing web application technical security controls. [https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)  
@@ -208,10 +215,15 @@ and
  * Check Various tools for testing RFC 5077 [https://github.com/vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077)  
  * Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
  * layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)  
+ * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)
 
 **Other**  
+* Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
 * International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
 * The definitive list of lists (of lists) curated on GitHub [https://github.com/jnv/lists](https://github.com/jnv/lists)  
 * Mobile App Pentesting Cheetsheet [https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/README.md](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/README.md)  
 * Free Programming Books [https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)  
+* Tool by Tool, Skill by Skill. By Simon St.Laurent [http://chimera.labs.oreilly.com/books/1234000000882/index.html](http://chimera.labs.oreilly.com/books/1234000000882/index.html)
+Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.oreilly.com/books/1234000000882/apb.html](http://chimera.labs.oreilly.com/books/1234000000882/apb.html)  
+
