@@ -87,6 +87,7 @@ and
 * Fortify Taxonomy: Software Security Errors [http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html](http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html)
 
 **PHP**
+* Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [http://www.cheatography.com/tag/php/](http://www.cheatography.com/tag/php/)  
 * PHP Security Guide, 2005. [http://phpsec.org/projects/guide/](http://phpsec.org/projects/guide/)  
 * Survive The Deep End: PHP Security, 2015. [https://phpsecurity.readthedocs.org/en/latest/](https://phpsecurity.readthedocs.org/en/latest/)  
@@ -228,4 +229,6 @@ and
 * Tool by Tool, Skill by Skill. By Simon St.Laurent [http://chimera.labs.oreilly.com/books/1234000000882/index.html](http://chimera.labs.oreilly.com/books/1234000000882/index.html)
 Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.oreilly.com/books/1234000000882/apb.html](http://chimera.labs.oreilly.com/books/1234000000882/apb.html)  
 * Awesome Selfhosted. This is a list of Free Software network services and web applications which can be hosted locally. [https://github.com/Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)  
+* Awesome SysAdmin. A list of open source sysadmin resources. [https://github.com/kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)  
+* Awesome Data Science.  A repository of resources to learn and apply for real world problems. [https://github.com/okulbilisim/awesome-datascience](https://github.com/okulbilisim/awesome-datascience)  
 
