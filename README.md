@@ -210,6 +210,13 @@ and
  * Sometimes only ASCII is needed/allowed -- Convert a HTML table into ASCII table using Python: Colspan and Rowspan allowed [https://github.com/gustavklopp/DashTable](https://github.com/gustavklopp/DashTable)  
  * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)  
  * FuzzDB Project [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)  
+ * GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?)  
+ * GetGeoIP web service to easily look up countries by IP address  [http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
+ * Get domain name registration record by Host Name / Domain Name (WhoIS)  [http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
+ * Get weather report for any major cities around the world [http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
+ * Get Currency, Curreny code, International Dialing code, ISO country code for all countries [http://www.webservicex.net/New/Home/ServiceDetail/19](http://www.webservicex.net/New/Home/ServiceDetail/19)  
+ * Get State Code,City,Area Code,Time Zone,Zip Code [http://www.webservicex.net/New/Home/ServiceDetail/42](http://www.webservicex.net/New/Home/ServiceDetail/42)  
+ * GetAirportInformationByCountry [http://www.webservicex.net/New/Home/ServiceDetail/20](http://www.webservicex.net/New/Home/ServiceDetail/20)
 
 
  **Temporary list for work tools or other resources requiring more follow-up**
