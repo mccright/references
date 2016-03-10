@@ -227,7 +227,8 @@ and
  * Check Various tools for testing RFC 5077 [https://github.com/vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077)  
  * Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
  * layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)  
- * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)
+ * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
+ * Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)
 
 **Other**  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
