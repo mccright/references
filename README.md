@@ -52,6 +52,7 @@ cd into your new project directory
 **Markdown**
 * [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
 * [https://bitbucket.org/tutorials/markdowndemo](https://bitbucket.org/tutorials/markdowndemo)  
+* Markdown Cheatsheet [http://commonmark.org/help/](http://commonmark.org/help/)  
 
 **JavaScript**
 * Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
@@ -102,7 +103,9 @@ and
 * Datetime examples: [https://github.com/ianozsvald/datetime-examples/blob/master/examples.py](https://github.com/ianozsvald/datetime-examples/blob/master/examples.py)  
 * Essential python tools - Quality [http://aboumrad.info/essential-python-tools-quality.html](http://aboumrad.info/essential-python-tools-quality.html)  
 * Counting things in Python [http://treyhunner.com/2015/11/counting-things-in-python/](http://treyhunner.com/2015/11/counting-things-in-python/)  
+* Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
+
 
 
 **Regex**
@@ -157,9 +160,7 @@ and
 **Verify those shortened URLs**
  * [https://tinyurl.com/preview.php](https://tinyurl.com/preview.php)
  * [http://checkshorturl.com/](http://checkshorturl.com/)
- * [http://longurl.org/](http://longurl.org/)
-**List of URL Shorteners**
- * [http://longurl.org/services](http://longurl.org/services)
+ * URL-Expander / URL-Unshortener [http://urlex.org/](http://urlex.org/)  
  
 **Find the code you need** 
  * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)
@@ -228,7 +229,8 @@ and
  * Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
  * layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)  
  * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
- * Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)
+ * Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)  
+ * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
 
 **Other**  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
