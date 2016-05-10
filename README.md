@@ -248,4 +248,4 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Managing risk in the context of a long time-horizon.  
   * See the "Global Risks 2014 - Ninth Edition" Insight Report from the World Economic Forum. [http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf](http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf)   Especially part 2, pages 38-49. It is a short read on risks associated with -- among other topics -- the way the Internet is evolving, risks associated with "trust," and "managing risk" in the context of a long time-horizon.  
   * Also: "Global Risks 2015 - Tenth Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf)  
-  * And more recently: "Global Risks 2015 - Tenth Edition" [http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf](http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf)  
+  * And more recently: "Global Risks 2016 - Eleventh Edition" [http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf](http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf)  
