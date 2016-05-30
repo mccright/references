@@ -217,7 +217,8 @@ and
  * Get weather report for any major cities around the world [http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
  * Get Currency, Curreny code, International Dialing code, ISO country code for all countries [http://www.webservicex.net/New/Home/ServiceDetail/19](http://www.webservicex.net/New/Home/ServiceDetail/19)  
  * Get State Code,City,Area Code,Time Zone,Zip Code [http://www.webservicex.net/New/Home/ServiceDetail/42](http://www.webservicex.net/New/Home/ServiceDetail/42)  
- * GetAirportInformationByCountry [http://www.webservicex.net/New/Home/ServiceDetail/20](http://www.webservicex.net/New/Home/ServiceDetail/20)
+ * GetAirportInformationByCountry [http://www.webservicex.net/New/Home/ServiceDetail/20](http://www.webservicex.net/New/Home/ServiceDetail/20)  
+ * Website style analizer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
 
 
  **Temporary list for work tools or other resources requiring more follow-up**
@@ -231,6 +232,16 @@ and
  * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
  * Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)  
  * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+ * Handy list of browser user-agent strings (long) in XML format: [https://github.com/smxi/php-browser-detection/blob/master/useragents.xml](https://github.com/smxi/php-browser-detection/blob/master/useragents.xml)  
+ * Another list (short) of UA strings, categorized by device types [https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml](https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml)
+ * Google Fiber Wifi Data Presentation [http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf](http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf) and related utilities: [https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/](https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/) & [https://github.com/apenwarr/wavedroplet/](https://github.com/apenwarr/wavedroplet/) & blip [https://github.com/apenwarr/blip/](https://github.com/apenwarr/blip/)  
+ * blip latency trending utility [https://github.com/apenwarr/blip](https://github.com/apenwarr/blip) hosted at [http://gfblip.appspot.com/](http://gfblip.appspot.com/) and the DNS-aware version [don't have this](don't have this) hosted at [http://6-dot-gfblip.appspot.com)](http://6-dot-gfblip.appspot.com))  
+ * Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more.  [https://github.com/micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet)  
+ * Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
+ * Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
+ * Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
+ * An idea for csv-to-json {csv2json.py} [https://github.com/apenwarr/afterquery/blob/master/csv2json.py](https://github.com/apenwarr/afterquery/blob/master/csv2json.py)  
+ * Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)
 
 **Other**  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
