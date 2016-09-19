@@ -178,11 +178,12 @@ and
  * A relatively quick Python Numpy Tutorial by Justin Johnson. [http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
 
 **Stay Informed**
-(in no particular order - and thank you Joe Fleischman) 
+(in no particular order - and thank you Joe Fleischman for the starter set) 
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/) 
  * Schneier on Security [https://www.schneier.com/](https://www.schneier.com/) 
  * IBM X-Force Home [http://securityintelligence.com/topics/x-force/](http://securityintelligence.com/topics/x-force/) 
  * Security Bloggers Network [http://www.securitybloggersnetwork.com/security-bloggers-network-the-feed/](http://www.securitybloggersnetwork.com/security-bloggers-network-the-feed/) 
+ * News from NetCraft [https://news.netcraft.com/](https://news.netcraft.com/) and their security category at [https://news.netcraft.com/archives/category/security/](https://news.netcraft.com/archives/category/security/)  
  * Help Net Security [http://www.net-security.org/secworld_main.php](http://www.net-security.org/secworld_main.php) 
  * Malwarebytes Blog [https://blog.malwarebytes.org/](https://blog.malwarebytes.org/) 
  * Sophos NakedSecurity Blog [https://nakedsecurity.sophos.com/](https://nakedsecurity.sophos.com/) 
