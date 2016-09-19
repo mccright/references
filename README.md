@@ -1,8 +1,8 @@
 references
 ==========
 
-Collection of reusable references
-Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)
+Collection of reusable references  
+Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
 ***Cheat Sheets***  
 First and foremost: a couple **git cheat sheets** 
