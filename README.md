@@ -41,6 +41,7 @@ Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privac
 * Fortify Taxonomy: Software Security Errors [http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html](http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html)  
 
 **Web Application Vulnerability Analysis**  
+* List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
 * OWASP based Web Application Security Testing Checklist as an Excel Workbook [https://github.com/tanprathan/OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist)  
@@ -49,7 +50,11 @@ Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privac
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
 * SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
 * Penetration Testers Framework (PTF) [https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)  
-* Social-Engineer Toolkit (SET) [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)
+* Social-Engineer Toolkit (SET) [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)  
+* Arachni Web Application Security Scanner Framework {Ruby centric} [http://www.arachni-scanner.com/](http://www.arachni-scanner.com/)  
+* Sn1per is an automated scanner {php} to enumerate and scan for vulnerabilities [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)  
+* windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
+* Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
 
 **Markdown**
@@ -137,9 +142,10 @@ and
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
 
 **Random Cheat Sheets**
-* Massive list of links to lists associated with programming and languages [https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/](https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/)
-* Random reminder of how SQL Joins work.  [http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) Browse the comments as well.  And if that doesn't do it, try [http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html](http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html)
-* Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)
+* Massive list of links to lists associated with programming and languages [https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/](https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/)  
+* Random reminder of how SQL Joins work.  [http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) Browse the comments as well.  And if that doesn't do it, try [http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html](http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html)  
+* Collection of SQL Injection Cheat Sheets [http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)  
+* Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)  
 
 **Several Tech Company Research & Security Blogs**
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
@@ -257,8 +263,12 @@ and
  * Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
  * Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
  * An idea for csv-to-json {csv2json.py} [https://github.com/apenwarr/afterquery/blob/master/csv2json.py](https://github.com/apenwarr/afterquery/blob/master/csv2json.py)  
- * Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)
-
+ * Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)  
+ * WiGPSFi – ESP8266 + GPS [http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/](http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/)  
+ * Creepy Wireless Stalking Made Easy [https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/](https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/)  
+ * WarWalking With The ESP8266 [https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/](https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/)  
+ * Windows 10 Wi-Fi Analyzer [https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n](https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n)  
+ 
 **Other**  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
 * International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
