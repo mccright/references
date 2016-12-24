@@ -1,0 +1,8 @@
+title: References
+description: Collection of reusable references
+google_analytics: UA-84393225-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
