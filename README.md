@@ -290,4 +290,5 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
   * And this year: "Global Risks 2017 -- 12th Edition" [http://www3.weforum.org/docs/GRR17_Report_web.pdf](http://www3.weforum.org/docs/GRR17_Report_web.pdf)  
   * A definitive list of tools for generating static websites [https://github.com/pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)   
   * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
-  * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font) 
+  * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
+  * Big list of HTTP media types [https://www.iana.org/assignments/media-types/media-types.xhtml ](https://www.iana.org/assignments/media-types/media-types.xhtml )  
