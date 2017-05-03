@@ -226,6 +226,7 @@ and
  **Temporary list for new work tools**
  * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
  * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
+ * "awesome-incident-response" a curated list of tools and resources for security incident response [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)  
  * A useful set of app-friendly utilities [https://httpbin.org/](https://httpbin.org/), for example, what is your current IP address [https://httpbin.org/ip](https://httpbin.org/ip)  
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
