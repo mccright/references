@@ -224,6 +224,11 @@ and
 
  
  **Temporary list for new work tools**
+  * Some Open Source Network Monitoring Tools:  
+  ** Snort: [https://www.snort.org/downloads](https://www.snort.org/downloads)  
+  ** Suricata: [https://suricata-ids.org/](https://suricata-ids.org/)  
+  ** Bro: [https://www.bro.org/](https://www.bro.org/)  
+  ** OSSEC - Open Source HIDS SECurity [https://ossec.github.io/](https://ossec.github.io/)  
  * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
  * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
  * "awesome-incident-response" a curated list of tools and resources for security incident response [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)  
