@@ -149,7 +149,7 @@ and
 * Collection of SQL Injection Cheat Sheets [http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)  
 * Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)  
  * Incident "Debriefing Facilitation Guide -- Leading Groups at Etsy to Learn From Accidents." by: John Allspaw, Morgan Evans, Daniel Schauenberg; 2016 [http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) and in MarkDown format: [https://github.com/etsy/DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide)  
- "Digital Services Playbook." [https://playbook.cio.gov/](https://playbook.cio.gov/) and the source in MarkDown at: [https://github.com/usds/playbook](https://github.com/usds/playbook)  
+ * "Digital Services Playbook." [https://playbook.cio.gov/](https://playbook.cio.gov/) and the source in MarkDown at: [https://github.com/usds/playbook](https://github.com/usds/playbook)  
 
 **Several Tech Company Research & Security Blogs**
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
