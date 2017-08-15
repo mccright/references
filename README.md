@@ -147,7 +147,11 @@ and
 * Massive list of links to lists associated with programming and languages [https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/](https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/)  
 * Random reminder of how SQL Joins work.  [http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) Browse the comments as well.  And if that doesn't do it, try [http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html](http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html)  
 * Collection of SQL Injection Cheat Sheets [http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)  
-* Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)  
+* Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)   
+ * "awesome-incident-response" a curated list of tools and resources for security incident response [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)  
+ * Incident "Debriefing Facilitation Guide -- Leading Groups at Etsy to Learn From Accidents." by: John Allspaw, Morgan Evans, Daniel Schauenberg; 2016 [http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) and in MarkDown format: [https://github.com/etsy/DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide)  
+ "Digital Services Playbook." [https://playbook.cio.gov/](https://playbook.cio.gov/) and the source in MarkDown at: [https://github.com/usds/playbook](https://github.com/usds/playbook)  
+
 
 **Several Tech Company Research & Security Blogs**
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
@@ -231,7 +235,6 @@ and
   ** OSSEC - Open Source HIDS SECurity [https://ossec.github.io/](https://ossec.github.io/)  
  * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
  * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
- * "awesome-incident-response" a curated list of tools and resources for security incident response [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)  
  * A useful set of app-friendly utilities [https://httpbin.org/](https://httpbin.org/), for example, what is your current IP address [https://httpbin.org/ip](https://httpbin.org/ip)  
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
