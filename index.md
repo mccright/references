@@ -227,6 +227,26 @@ and
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
 
+    
+ **Software Defined Radio (SDR)**  
+ * Overview: [http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf](http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf)  
+ * Big List of SDR Applications: [https://wiki.radioreference.com/index.php/SDR_Software_Applications](https://wiki.radioreference.com/index.php/SDR_Software_Applications)  
+ * PDW (Paging decoder for monitoring POCSAG, FLEX, ACARS, MOBITEX & ERMES pager traffic): [http://www.discriminator.nl/pdw/index-en.html](http://www.discriminator.nl/pdw/index-en.html) and [https://github.com/Discriminator/PDW](https://github.com/Discriminator/PDW)  
+ * Unitrunker: [http://www.unitrunker.com/](http://www.unitrunker.com/) (pager RF-to-text?).  Manuals at: [http://utahradio.org/mediawiki/index.php/UniTrunker_Guide](http://utahradio.org/mediawiki/index.php/UniTrunker_Guide) and [http://www.unitrunker.com/windows.html](http://www.unitrunker.com/windows.html) and [http://www.unitrunker.com/realtek.html](http://www.unitrunker.com/realtek.html)   
+  Supported protocols (definitions at: http://wiki.radioreference.com/):  
+  o	APCO P25  
+  o	EDACS 4800  
+  o	EDACS 9600  
+  o	Motorola  
+  o	MPT1327  
+ * SDRTrunk   
+ * DMRDecode  
+ * ?? Digital Speech Decoder (software package)  
+ * R820T (integrated multi‐band RF tuner IC implemented in CMOS) data sheet: [https://www.rtl-sdr.com/wp-content/uploads/2013/04/R820T_datasheet-Non_R-20111130_unlocked1.pdf](https://www.rtl-sdr.com/wp-content/uploads/2013/04/R820T_datasheet-Non_R-20111130_unlocked1.pdf)  
+ * Rafael Micro R820T2 Data Sheet (24-1766 MHz, newer lower noise version of the R820T):  Some info in [https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf](https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf) and register descriptions here: [https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/](https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/) and [https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf](https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf)  
+ * Source Code examples for interacting with the R820TU: [https://github.com/emeb/r820t2/tree/master/f030_r820t2](https://github.com/emeb/r820t2/tree/master/f030_r820t2)  
+ * "Hello, world!" for GNSS-SDR: [http://gnss-sdr.org/my-first-fix/](http://gnss-sdr.org/my-first-fix/)  
+  
  
  **Temporary list for new work tools**
   * Some Open Source Network Monitoring Tools:  
