@@ -123,8 +123,11 @@ and
 * The Data Scientist's Toolbox [https://www.coursera.org/learn/data-scientists-tools](https://www.coursera.org/learn/data-scientists-tools)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 
-
-
+**Crypto**  
+* Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
+* Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
+ 
 **Regex**
 * Test your regex on line: [https://regex101.com/](https://regex101.com/)  
 * * OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
@@ -286,7 +289,6 @@ and
  * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
  * Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)  
  * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
- * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
  * Handy list of browser user-agent strings (long) in PHP code: [https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc](https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc)  
  * 7500 user-agent strings from Jerry Gamblin [https://github.com/jgamblin/curluseragent/blob/master/ua.txt](https://github.com/jgamblin/curluseragent/blob/master/ua.txt)  
  * Another list (short) of UA strings, categorized by device types [https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml](https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml)
