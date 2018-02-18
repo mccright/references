@@ -124,6 +124,11 @@ and
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 
 
+**Crypto**  
+* Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
+* Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
+ 
 
 **Regex**
 * Test your regex on line: [https://regex101.com/](https://regex101.com/)  
