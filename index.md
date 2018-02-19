@@ -57,7 +57,17 @@ cd into your new project directory
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
-
+  
+**Pen testing Linux distros**  
+* BackBox  [https://backbox.org/](https://backbox.org/)  
+* Blackarch   [https://blackarch.org/](https://blackarch.org/)  
+* Bugtraq-2  [http://bugtraq-team.com/](http://bugtraq-team.com/)  
+* Kali  [https://www.kali.org/](https://www.kali.org/)  
+* Network Security Toolkit, NST [http://www.networksecuritytoolkit.org/nst/index.html](http://www.networksecuritytoolkit.org/nst/index.html)  
+* Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
+* Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
+* WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
+  
 **Markdown**
 * [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
 * [https://bitbucket.org/tutorials/markdowndemo](https://bitbucket.org/tutorials/markdowndemo)  
