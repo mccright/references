@@ -338,9 +338,10 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Awesome R [https://github.com/qinwf/awesome-R](https://github.com/qinwf/awesome-R) and [https://awesome-r.com/](https://awesome-r.com/)  
 * Managing risk in the context of a long time-horizon.  
   * See the "Global Risks 2014 - Ninth Edition" Insight Report from the World Economic Forum. [http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf](http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf)   Especially part 2, pages 38-49. It is a short read on risks associated with -- among other topics -- the way the Internet is evolving, risks associated with "trust," and "managing risk" in the context of a long time-horizon.  
-  * Also: "Global Risks 2015 - Tenth Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf)  
-  * And more recently: "Global Risks 2016 - Eleventh Edition" [http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf](http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf)   
-  * And this year: "Global Risks 2017 -- 12th Edition" [http://www3.weforum.org/docs/GRR17_Report_web.pdf](http://www3.weforum.org/docs/GRR17_Report_web.pdf)  
+  * Also: "Global Risks 2015 - 10th Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf)  
+  * And more recently: "Global Risks 2016 - 11th Edition" [http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf](http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf)   
+  * And 2017: "Global Risks 2017 -- 12th Edition" [http://www3.weforum.org/docs/GRR17_Report_web.pdf](http://www3.weforum.org/docs/GRR17_Report_web.pdf)  
+  * And most recently:  "The Global Risks Report 2018 - 13th Edition" [http://www3.weforum.org/docs/WEF_GRR18_Report.pdf](http://www3.weforum.org/docs/WEF_GRR18_Report.pdf)  
   * A definitive list of tools for generating static websites [https://github.com/pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)   
   * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
   * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
