@@ -39,8 +39,8 @@ cd into your new project directory
 * State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [http://www.acq.osd.mil/se/docs/P-5061-software-soar-mobility-Final-Full-Doc-20140716.pdf](http://www.acq.osd.mil/se/docs/P-5061-software-soar-mobility-Final-Full-Doc-20140716.pdf)  
 * * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
-* Fortify Taxonomy: Software Security Errors [http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html](http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html)  
-
+*  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
+  
 **Web Application Vulnerability Analysis**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
@@ -111,7 +111,7 @@ and
 * Unified Compliance Hub for navigating the ever-evolving rats nest of public and private mandates [https://www.unifiedcompliance.com/products/](https://www.unifiedcompliance.com/products/)  
 * [http://www.cheatography.com/tag/programming/](http://www.cheatography.com/tag/programming/)
 * XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
-* Fortify Taxonomy: Software Security Errors [http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html](http://www.hpenterprisesecurity.com/vulncat/en/vulncat/index.html)  
+*  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Java Deserialization Cheat Sheet [https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)  
 * HTTP Status Codes [https://httpstatuses.com/](https://httpstatuses.com/)  
 * Sometimes it is just important to get started: "Hello world in every computer language." [https://github.com/leachim6/hello-world](https://github.com/leachim6/hello-world)  
