@@ -90,6 +90,7 @@ and
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
 * Awesom Static Analysis -  a collection of static analysis tools and code quality checkers. [https://github.com/mre/awesome-static-analysis](https://github.com/mre/awesome-static-analysis)  
+* Python Taint -- pyt -- A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications [https://github.com/python-security/pyt](https://github.com/python-security/pyt)  
 * "Avoiding the Top 10 Security Flaws." Design guidance by the IEEE Center for Secure Design (CSD),  [http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html](http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html)  
 * The IEEE Computer Society Center for Secure Design. [http://cybersecurity.ieee.org/center-for-secure-design.html](http://cybersecurity.ieee.org/center-for-secure-design.html)   
 * The OWASP Application Security Verification Standard (ASVS) Project attempts to provide a basis for testing web application technical security controls. [https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)  
