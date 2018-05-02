@@ -43,7 +43,10 @@ cd into your new project directory
 
 **Web Application Vulnerability Analysis**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
+* Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
+* Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
+* Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
 * OWASP based Web Application Security Testing Checklist as an Excel Workbook [https://github.com/tanprathan/OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist)  
 * Web Application Security Guide/Checklist. [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
@@ -54,8 +57,9 @@ cd into your new project directory
 * Social-Engineer Toolkit (SET) [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)  
 * Arachni Web Application Security Scanner Framework {Ruby centric} [http://www.arachni-scanner.com/](http://www.arachni-scanner.com/)  
 * Sn1per is an automated scanner {php} to enumerate and scan for vulnerabilities [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)  
+* WhatWeb - Next generation web scanner [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)  
+* OWASP-Nettacker - Automated Penetration Testing Framework [https://github.com/zdresearch/OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)  
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
-* Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
   
 **Pen testing Linux distros**  
