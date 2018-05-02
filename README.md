@@ -121,6 +121,7 @@ and
 * HTTP Status Codes [https://httpstatuses.com/](https://httpstatuses.com/)  
 * Sometimes it is just important to get started: "Hello world in every computer language." [https://github.com/leachim6/hello-world](https://github.com/leachim6/hello-world)  
 * And a 'free' temporary platform may also be important: "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev." [https://github.com/haneefmubarak/free-for-dev](https://github.com/haneefmubarak/free-for-dev)  
+* Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
