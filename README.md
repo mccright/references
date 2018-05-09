@@ -276,6 +276,9 @@ and
   
   
  **Temporary list for new work tools**
+ * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
+ * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
+ * Conference Session Search Service - Con Collector [http://cc.thinkst.com/searchMore/](http://cc.thinkst.com/searchMore/)  
  * Some Open Source Network Monitoring Tools:  
   ** Snort: [https://www.snort.org/downloads](https://www.snort.org/downloads)  
   ** Suricata: [https://suricata-ids.org/](https://suricata-ids.org/)  
