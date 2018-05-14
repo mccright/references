@@ -3,6 +3,7 @@ references
 
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
+* Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html)  
 
 ***Cheat Sheets***  
 First and foremost: a couple **git cheat sheets** 
