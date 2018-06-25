@@ -166,7 +166,7 @@ and
 **DOS/Windows Shell**
 * Guide to Batch Scripting [http://steve-jansen.github.io/guides/windows-batch-scripting/](http://steve-jansen.github.io/guides/windows-batch-scripting/)   
 
-**Information Sources for your Security Investigations**
+**Information Sources for your Security Investigations**  
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
  * Alienvault OTX for IPv4, CVE, MD5, SHA1 and SHA2 lookups [https://otx.alienvault.com/](https://otx.alienvault.com/)  
