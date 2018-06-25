@@ -5,7 +5,7 @@ Application Logging
  * Log all information that would be important for identifying the source or nature of an attack, or determining if an action is safe. [CWE-223](https://cwe.mitre.org/data/definitions/223.html)  
  * Log all authentication activities [CWE-778](https://cwe.mitre.org/data/definitions/778.html)  
  * Log all elevated-rights activity [CWE-778](https://cwe.mitre.org/data/definitions/778.html)  
- * Log all elevated-rights changes [CWE-778](https://cwe.mitre.org/data/definitions/778.html)  
+ * Log all elevated-rights permission or access control changes [CWE-778](https://cwe.mitre.org/data/definitions/778.html)  
  * Log administrative activities [CWE-778](https://cwe.mitre.org/data/definitions/778.html)  
  * Log all access to sensitive data [CWE-778](https://cwe.mitre.org/data/definitions/778.html)  
  * Log only data that meets your risk tolerance [CWE-532](https://cwe.mitre.org/data/definitions/532.html)  
