@@ -29,28 +29,28 @@ The organization must have a set of defined and auditable events and the capture
 Auditing requirements, including the need for auditable events, may be referenced in other security controls and control enhancements. Organizations also include auditable events that are required by applicable laws, regulations, directives, contracts, policies, and standards.  
 Audit records can be generated at various levels of abstraction. Selecting the appropriate level of abstraction is a critical aspect of an audit capability and can facilitate the identification of root causes to problems.  
 
-**NIST AU-3**  	
+**NIST AU-3**  
 Log records must contain information that establishes what type of event occurred, when the event occurred, where the event occurred, the source of the event, the outcome of the event, and the identity of any individuals or subjects associated with the event.  
 
-**NIST AU-4**  	
+**NIST AU-4**  
 The organization must allocate audit record storage capacity consistent with necessary requirements laid out in current logging obligations.  
 
-**NIST AU-5**  	
+**NIST AU-5**  
 The information system may, when shut down, overwrite the oldest audit records, or stop generating records during a process failure – consistent with its logging obligations.  
 
-**NIST AU-6**  	
+**NIST AU-6**  
 The organization must regularly review information system audit records for inappropriate or unusual activities.  Reports of these audits must be generated and maintained.  
 
-**NIST AU-7**  	
+**NIST AU-7**  
 The information system incorporates an approved audit reduction and report generation capability that supports on-demand audit review, analysis, and reporting requirements, after-the-fact investigations of security incidents.  This functionality must not alter the original content or time order of audit records.  
 
-**NIST AU-8**  	
+**NIST AU-8**  
 The information system uses an internal system of clocks to generate audit record time stamps which are mapped to Coordinated Universal Time (UTC) or Greenwich Mean Time (GMT) and are/remain accurate-enough to meet all applicable laws, regulations, directives, contracts, policies, and standards.  
 
-**NIST AU-9**  	
+**NIST AU-9**  
 The information system must effectively protect audit information and tools from unauthorized access, modification, and deletion.  
 
-**NIST AU-11**  	 
+**NIST AU-11**  
 The organization must retain audit records for the period of time defined by their formal records retention schedule to provide support for after-the-fact investigations of security incidents and to meet regulatory and Principal information retention requirements.  
 
 **NIST AU-12 Audit Generation**  
