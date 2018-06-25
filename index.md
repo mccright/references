@@ -161,13 +161,36 @@ and
 * [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)  
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
 
-
 **Bash Shell**
 * [ http://cli.learncodethehardway.org/bash_cheat_sheet.pdf](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)  
 
 **DOS/Windows Shell**
 * Guide to Batch Scripting [http://steve-jansen.github.io/guides/windows-batch-scripting/](http://steve-jansen.github.io/guides/windows-batch-scripting/)   
-
+  
+**Information Sources for your Security Investigations**
+A starter list of information sources for your security investigations & integrations:  
+(Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
+ * Alienvault OTX for IPv4, CVE, MD5, SHA1 and SHA2 lookups [https://otx.alienvault.com/](https://otx.alienvault.com/)  
+ * Bitcoin Whos Who for Bitcoin lookups [http://bitcoinwhoswho.com/](http://bitcoinwhoswho.com/)  
+ * BlockChain.info for Bitcoin lookups [https://blockchain.info/](https://blockchain.info/)  
+ * BTC for Bitcoin lookups [https://btc.com/](https://btc.com/)  
+ * Censys.io for IPv4 lookups [https://censys.io/](https://censys.io/)  
+ * CIRCL (Computer Incident Response Center Luxembourg) for CVE lookups [https://www.circl.lu/](https://www.circl.lu/)  
+ * Cymon.io for IPv4 lookups [https://cymon.io/](https://cymon.io/)  
+ * Google Safe Browsing for URL lookups [https://safebrowsing.google.com/](https://safebrowsing.google.com/)  
+ * Have I Been Pwned for Email lookups [https://haveibeenpwned.com/](https://haveibeenpwned.com/)  
+ * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com[](https://exchange.xforce.ibmcloud.com/)  
+ * MISP for MD5 and SHA2 [http://www.misp-project.org/](http://www.misp-project.org/)  
+   * Also consider MISP Taxonomies for your integration work [https://github.com/MISP/misp-taxonomies/](https://github.com/MISP/misp-taxonomies/)  
+ * PassiveTotal for FQDN Whois lookups [https://www.passivetotal.org/](https://www.passivetotal.org/)  
+ * PulseDive for IPv4, FQDN and URL lookups [https://pulsedive.com/](https://pulsedive.com/)  
+ * Recorded Future for IPv4, FQDN, MD5, SHA1 and SHA2 lookups [http://recordedfuture.com/](http://recordedfuture.com/)  
+ * Shodan for IPv4 lookups [https://www.shodan.io/](https://www.shodan.io/)  
+ * ThreatCrowd for IPv4, FQDN and MD5 lookups [https://www.threatcrowd.org/](https://www.threatcrowd.org/)  
+ * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
+ * VirusTotal for MD5, SHA1, SHA2, URL and FQDN lookups [https://www.virustotal.com/](https://www.virustotal.com/)  
+ * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
+ 
 **Math and Statistics**
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
 * Chen’s Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
