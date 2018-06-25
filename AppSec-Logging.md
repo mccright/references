@@ -24,7 +24,7 @@ Application Logging
 **NIST AU-1  Audit Generation / System-Wide / Time-Correlated Audit Trail**  
 The organization must have documented policies and procedures which establish an effective implementation of selected security controls related to auditing and accountability which are developed, disseminated, reviewed, and updated.  
 
-**NIST AU-2   Audit and Accountability / Audiable Events**  
+**NIST AU-2   Audit and Accountability / Auditable Events**  
 The organization must have a set of defined and auditable events and the captured information must be coordinated throughout the organization.  
 Auditing requirements, including the need for auditable events, may be referenced in other security controls and control enhancements. Organizations also include auditable events that are required by applicable laws, regulations, directives, contracts, policies, and standards.  
 Audit records can be generated at various levels of abstraction. Selecting the appropriate level of abstraction is a critical aspect of an audit capability and can facilitate the identification of root causes to problems.  
