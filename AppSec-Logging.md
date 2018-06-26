@@ -25,9 +25,24 @@ Application Logging
 The organization must have documented policies and procedures which establish an effective implementation of selected security controls related to auditing and accountability which are developed, disseminated, reviewed, and updated.  
 
 **NIST AU-2   Audit and Accountability / Auditable Events**  
-The organization must have a set of defined and auditable events and the captured information must be coordinated throughout the organization.  
+The organization must have a set of defined and auditable events and the captured information must be coordinated throughout the organization. An event is any observable occurrence in an organizational information system.  
 Auditing requirements, including the need for auditable events, may be referenced in other security controls and control enhancements. Organizations also include auditable events that are required by applicable laws, regulations, directives, contracts, policies, and standards.  
 Audit records can be generated at various levels of abstraction. Selecting the appropriate level of abstraction is a critical aspect of an audit capability and can facilitate the identification of root causes to problems.  
+List of Auditable Events:  
+a) Server alerts and error messages;  
+b) User log-on and log-off (successful or unsuccessful);  
+c) All system administration activities;  
+d) Modification of privileges and access;  
+e) Start up and shut down;  
+f) Application modifications (e.g., new code);  
+g) Application alerts and error messages;  
+h) Configuration changes;  
+i) Account creation, modification, or deletion;  
+j) File creation and deletion;  
+k) Read access to information deemed critically sensitive (as prioritized by our various constituencies);  
+l) Modification to information deemed critically sensitive (as prioritized by our various constituencies);  
+m) Printing sensitive information; and  
+n) Database modifications (e.g., schema changes, dropped tables, etc.).  
 
 **NIST AU-3**  
 Log records must contain information that establishes what type of event occurred, when the event occurred, where the event occurred, the source of the event, the outcome of the event, and the identity of any individuals or subjects associated with the event.  
