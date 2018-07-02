@@ -43,6 +43,24 @@ cd into your new project directory
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 
+**Architecture Risk Analysis**  
+* BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
+* U.S. CERT Definition & Best Practices Document on Architecture Risk Analysis: [https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis](https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis)  
+* Lecture 28: Threat Modeling, or Architectural Risk Analysis - Coursera-hosted lecture on this topic by Michael Hicks, University of Maryland, College Park: [https://www.coursera.org/learn/software-security/lecture/bQAoU/threat-modeling-or-architectural-risk-analysis](https://www.coursera.org/learn/software-security/lecture/bQAoU/threat-modeling-or-architectural-risk-analysis)  
+* "A Non-Trivial Task of Introducing Architecture Risk Analysis into Software Development Process." OWASP EU presentation by Denis Pilipchuk, Global Product Security, Oracle: [http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf](http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf)  
+* Mitre Att&ck threat list [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/)  
+* The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC): [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
+* Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
+* “The STRIDE Threat Model.” [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
+* "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
+* "How To: Create a Threat Model for a Web Application at Design Time." [http://msdn.microsoft.com/en-us/library/ms978527.aspx](http://msdn.microsoft.com/en-us/library/ms978527.aspx)  
+* "Walkthrough: Creating a Threat Model for a Web Application." [http://msdn.microsoft.com/en-us/library/ms978538.aspx](http://msdn.microsoft.com/en-us/library/ms978538.aspx)  
+* "Application Threat Modeling (OWASP)" [https://www.owasp.org/index.php/Application_Threat_Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)  
+* "Threat Modeling Cheat Sheet (OWASP)" [https://www.owasp.org/index.php/Threat_Modeling_Cheat_Sheet](https://www.owasp.org/index.php/Threat_Modeling_Cheat_Sheet)  
+* "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
+* "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)  
+* "Application Security Risk Assessment Guidelines (Univ. of Wisconsin-Madison)" [http://kb.wisc.edu/page.php?id=20262](http://kb.wisc.edu/page.php?id=20262)  
+
 **Web Application Vulnerability Analysis**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
