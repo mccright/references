@@ -49,7 +49,14 @@ cd into your new project directory
 * Lecture 28: Threat Modeling, or Architectural Risk Analysis - Coursera-hosted lecture on this topic by Michael Hicks, University of Maryland, College Park: [https://www.coursera.org/learn/software-security/lecture/bQAoU/threat-modeling-or-architectural-risk-analysis](https://www.coursera.org/learn/software-security/lecture/bQAoU/threat-modeling-or-architectural-risk-analysis)  
 * "A Non-Trivial Task of Introducing Architecture Risk Analysis into Software Development Process." OWASP EU presentation by Denis Pilipchuk, Global Product Security, Oracle: [http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf](http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf)  
 * Mitre Att&ck threat list [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/)  
-* The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC): [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
+    ATT&CK is a catalog of techniques and tactics that describe post-compromise adversary behavior on typical enterprise IT environments. The core use cases involve using the catalog to analyze, triage, compare, describe, relate, and share post-compromise adversary behavior.  
+* The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC):  
+Understanding how the adversary operates is essential to effective cyber security. CAPEC™ helps by providing a comprehensive dictionary of known patterns of attacks employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. It can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.  
+   * Focuses on application security  
+   * Enumerates exploits against vulnerable systems  
+   * Includes social engineering / supply chain  
+   * Associated with Common Weakness Enumeration (CWE)  
+    [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
 * Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
 * “The STRIDE Threat Model.” [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
 * "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
@@ -60,6 +67,7 @@ cd into your new project directory
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
 * "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)  
 * "Application Security Risk Assessment Guidelines (Univ. of Wisconsin-Madison)" [http://kb.wisc.edu/page.php?id=20262](http://kb.wisc.edu/page.php?id=20262)  
+
 
 **Web Application Vulnerability Analysis**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
