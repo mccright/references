@@ -51,11 +51,11 @@ cd into your new project directory
 * Mitre Att&ck threat list [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/)  
 * The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC):  
 Understanding how the adversary operates is essential to effective cyber security. CAPEC™ helps by providing a comprehensive dictionary of known patterns of attacks employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. It can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.  
- - Focuses on application security  
- - Enumerates exploits against vulnerable systems  
- - Includes social engineering / supply chain  
- - Associated with Common Weakness Enumeration (CWE)  
-  [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
+   * Focuses on application security  
+   * Enumerates exploits against vulnerable systems  
+   * Includes social engineering / supply chain  
+   * Associated with Common Weakness Enumeration (CWE)  
+    [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
 * Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
 * “The STRIDE Threat Model.” [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
 * "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
