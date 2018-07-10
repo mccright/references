@@ -19,6 +19,18 @@ Application Logging
  * All error message text should be HTML entity encoded before being written to the log file to protect against potential cross-site scripting attacks against the viewer of the logs {logs are an attack path, neutralize hostile content} [CWE-497](https://cwe.mitre.org/data/definitions/497.html)  
  * Log only "known good" input.  Assume all input is malicious. Use a whitelist of acceptable inputs that strictly conform to specifications. Reject any input that does not strictly conform to specifications, or transform it into something that does.  
 
+***Error Handling***
+ * Display generic, non-descriptive error messages.  Where risk-appropriate, provide user guidance [CWE-209](https://cwe.mitre.org/data/definitions/209.html)  
+ * Never emit unhandled errors [CWE-391](https://cwe.mitre.org/data/definitions/391.html)  
+ * Configure an 'error-handler of last resort' [CWE-391](https://cwe.mitre.org/data/definitions/391.html)  
+ * Suppress raw framework-generated errors [CWE-209](https://cwe.mitre.org/data/definitions/209.html)  
+ * [CWE-]()  
+ * [CWE-]()  
+ * []()  
+ * []()  
+ * []()  
+ 
+
 ***NIST Guidance for Logging***  
 *NIST SP 800-53 rev 4*  
 **NIST AU-1  Audit Generation / System-Wide / Time-Correlated Audit Trail**  
@@ -77,20 +89,6 @@ The information system compiles audit records into a system-wide (logical or phy
 **AU-12 (2)	Audit Generation / Standardized Formats**  
 The information system must have the capability to provide and generate audit records in Standardized Format(s).  
   
-
-***Error Handling***
- * Display generic, non-descriptive error messages [CWE-209]()  
- * Never emit unhandled errors [CWE-391]()  
- * Configure an 'error-handler of last resort' [CWE-391]()  
- * Suppress raw framework-generated errors [CWE-209]()  
- * [CWE-]()  
- * [CWE-]()  
- * []()  
- * []()  
- * []()  
- * []()  
- * []()  
- * []()  
 
 ***References***
  * Thank you SANS for sending a large paper poster on this topic to goose me into starting on this page.  SANS Securing Web Application Technologies (SWAT) checklist poster, received via surface mail 06-17-2019.  The initial entries in this list were from the top left corner of the checklist side of the poster.  
