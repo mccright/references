@@ -384,6 +384,7 @@ A starter list of information sources for your security investigations & integra
  
 **Other**  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
+* High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
 * International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
