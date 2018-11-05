@@ -28,6 +28,9 @@ cd into your new project directory
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
 
+**Browse** 
+Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)  
+
 **Manage Your Privacy**  
 * Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privacy-checklist](https://github.com/diafygi/privacy-checklist)  
 * 11 tips for protecting your privacy... by Olivia Martin [https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)  
