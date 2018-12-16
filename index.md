@@ -28,6 +28,9 @@ cd into your new project directory
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
 
+**Awesome-Awesome**
+A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
+
 **Browse** 
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)  
 
