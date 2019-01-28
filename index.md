@@ -333,7 +333,8 @@ A starter list of information sources for your security investigations & integra
  * "Hello, world!" for GNSS-SDR: [http://gnss-sdr.org/my-first-fix/](http://gnss-sdr.org/my-first-fix/)  
   
  
- **Temporary list for new work tools**
+ **Temporary list for new work tools**  
+ * W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
  * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
  * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
  * WebSphere Password Decoders: [http://strelitzia.net/wasXORdecoder/wasXORdecoder.html](http://strelitzia.net/wasXORdecoder/wasXORdecoder.html) and [http://www.poweredbywebsphere.com/decoder.html](http://www.poweredbywebsphere.com/decoder.html)  
