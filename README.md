@@ -47,7 +47,8 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)  
 * * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
-*  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
+* Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
+* Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 
 **Architecture Risk Analysis**  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
@@ -94,6 +95,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * OWASP-Nettacker - Automated Penetration Testing Framework [https://github.com/zdresearch/OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)  
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
+* Website fingerprint script [https://github.com/bgiarrizzo/website-fingerprint](https://github.com/bgiarrizzo/website-fingerprint)  
+ 
   
 **Pen testing Linux distros**  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
@@ -335,6 +338,7 @@ A starter list of information sources for your security investigations & integra
   
   
  **Temporary list for new work tools**  
+ * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
  * W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
  * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
  * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
@@ -365,7 +369,7 @@ A starter list of information sources for your security investigations & integra
  * Website style analizer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
 
 
- **Temporary list for work tools or other resources requiring more follow-up**
+ **Temporary list for work tools or other resources requiring more follow-up**  
  * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
  * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
  * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
