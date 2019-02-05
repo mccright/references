@@ -46,6 +46,13 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf](https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf)  
 * State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)   
 * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
+* Vulnerability and exploit lists: 
+  o	[http://cve.mitre.org/](http://cve.mitre.org/)  
+  o	[http://www.cvedetails.com/](http://www.cvedetails.com/)  
+  o	[http://0day.today/](http://0day.today/)  
+  o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
+  o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
+  o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 
@@ -95,6 +102,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * OWASP-Nettacker - Automated Penetration Testing Framework [https://github.com/zdresearch/OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)  
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
+* Website fingerprint script [https://github.com/bgiarrizzo/website-fingerprint](https://github.com/bgiarrizzo/website-fingerprint)  
+
   
 **Pen testing Linux distros**  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
@@ -155,6 +164,7 @@ and
 * Sometimes it is just important to get started: "Hello world in every computer language." [https://github.com/leachim6/hello-world](https://github.com/leachim6/hello-world)  
 * And a 'free' temporary platform may also be important: "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev." [https://github.com/haneefmubarak/free-for-dev](https://github.com/haneefmubarak/free-for-dev)  
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
+* Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
@@ -334,6 +344,7 @@ A starter list of information sources for your security investigations & integra
   
  
  **Temporary list for new work tools**  
+ * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
  * W3C HTML Tidy - Usage: pipe output to "Tidy -iq" [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
  * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
  * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
