@@ -180,6 +180,7 @@ and
 * Pythonic Data Structures and Algorithms [https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
 * Python Docker image with poetry as dependency manager. [https://github.com/etienne-napoleone/docker-python-poetry](https://github.com/etienne-napoleone/docker-python-poetry)  
 * Awesome Python -- A curated list of awesome Python frameworks, libraries and software. Inspired by awesome-php. [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
+* Awesome Python Security [https://github.com/guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)  
 * Error-handling examples: [https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py](https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py)  
 * Datetime examples: [https://github.com/ianozsvald/datetime-examples/blob/master/examples.py](https://github.com/ianozsvald/datetime-examples/blob/master/examples.py)  
 * Scientific Python Cheatsheet [https://ipgp.github.io/scientific_python_cheat_sheet/](https://ipgp.github.io/scientific_python_cheat_sheet/)  
