@@ -324,6 +324,7 @@ A starter list of information sources for your security investigations & integra
  * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)  
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
+ * Kite Blog: [https://kite.com/blog](https://kite.com/blog)  
   
    
  **Software Defined Radio (SDR)**  
