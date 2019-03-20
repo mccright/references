@@ -232,6 +232,8 @@ A starter list of information sources for your security investigations & integra
  * PulseDive for IPv4, FQDN and URL lookups [https://pulsedive.com/](https://pulsedive.com/)  
  * Recorded Future for IPv4, FQDN, MD5, SHA1 and SHA2 lookups [http://recordedfuture.com/](http://recordedfuture.com/)  
  * Shodan for IPv4 lookups [https://www.shodan.io/](https://www.shodan.io/)  
+     * Search Query Fundamentals: [https://help.shodan.io/the-basics/search-query-fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)  
+     * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
  * ThreatCrowd for IPv4, FQDN and MD5 lookups [https://www.threatcrowd.org/](https://www.threatcrowd.org/)  
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
  * VirusTotal for MD5, SHA1, SHA2, URL and FQDN lookups [https://www.virustotal.com/](https://www.virustotal.com/)  
