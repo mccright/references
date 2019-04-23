@@ -79,8 +79,6 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "Threat Modeling Cheat Sheet (OWASP)" [https://www.owasp.org/index.php/Threat_Modeling_Cheat_Sheet](https://www.owasp.org/index.php/Threat_Modeling_Cheat_Sheet)  
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
 * "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)  
-* "Application Security Risk Assessment Guidelines (Univ. of Wisconsin-Madison)" [http://kb.wisc.edu/page.php?id=20262](http://kb.wisc.edu/page.php?id=20262)  
-
 
 **Web Application Vulnerability Analysis**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
