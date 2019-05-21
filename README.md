@@ -297,6 +297,10 @@ A starter list of information sources for your security investigations & integra
  * virtualenv is a tool to create isolated Python environments [https://virtualenv.pypa.io/en/latest/](https://virtualenv.pypa.io/en/latest/)
  * A relatively quick Python Numpy Tutorial by Justin Johnson. [http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
 
+**Risk Management Frameworks**  
+* Financial Services Sector "Cybersecurity Profile" - 280 'diagnostic statements' [https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile ](https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile )  
+* NIST SP-800-53 v4 []()  
+
 **Stay Informed**
 (in no particular order - and thank you Joe Fleischman for the starter set) 
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/) 
