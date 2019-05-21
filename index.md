@@ -76,7 +76,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "How To: Create a Threat Model for a Web Application at Design Time." [http://msdn.microsoft.com/en-us/library/ms978527.aspx](http://msdn.microsoft.com/en-us/library/ms978527.aspx)  
 * "Walkthrough: Creating a Threat Model for a Web Application." [http://msdn.microsoft.com/en-us/library/ms978538.aspx](http://msdn.microsoft.com/en-us/library/ms978538.aspx)  
 * "Application Threat Modeling (OWASP)" [https://www.owasp.org/index.php/Application_Threat_Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)  
-* "Threat Modeling Cheat Sheet (OWASP)" [https://www.owasp.org/index.php/Threat_Modeling_Cheat_Sheet](https://www.owasp.org/index.php/Threat_Modeling_Cheat_Sheet)  
+* "Threat Modeling Cheat Sheet (OWASP)" [https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md)  
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
 * "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)  
 
