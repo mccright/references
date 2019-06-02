@@ -34,6 +34,8 @@ A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https
 
 **Browse** 
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)  
+* WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
+* and if you need a little Linux help using it [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 **Manage Your Privacy**  
 * Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privacy-checklist](https://github.com/diafygi/privacy-checklist)  
@@ -114,6 +116,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
 * WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
+* and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
   
 **Markdown**
 * [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
@@ -177,16 +180,16 @@ and
 
 
 **Python**
-* Pythonic Data Structures and Algorithms [https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
-* Python Docker image with poetry as dependency manager. [https://github.com/etienne-napoleone/docker-python-poetry](https://github.com/etienne-napoleone/docker-python-poetry)  
+* Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Awesome Python -- A curated list of awesome Python frameworks, libraries and software. Inspired by awesome-php. [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
 * Awesome Python Security [https://github.com/guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)  
+* Python Docker image with poetry as dependency manager. [https://github.com/etienne-napoleone/docker-python-poetry](https://github.com/etienne-napoleone/docker-python-poetry)  
+* Essential python tools - Quality [http://aboumrad.info/essential-python-tools-quality.html](http://aboumrad.info/essential-python-tools-quality.html)  
+* Pythonic Data Structures and Algorithms [https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
 * Error-handling examples: [https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py](https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py)  
 * Datetime examples: [https://github.com/ianozsvald/datetime-examples/blob/master/examples.py](https://github.com/ianozsvald/datetime-examples/blob/master/examples.py)  
 * Scientific Python Cheatsheet [https://ipgp.github.io/scientific_python_cheat_sheet/](https://ipgp.github.io/scientific_python_cheat_sheet/)  
-* Python Cheatsheet, comprehensive [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * "10 Useful Python Data Visualization Libraries for Any Discipline" by Melissa Bierly [https://blog.modeanalytics.com/python-data-visualization-libraries/](https://blog.modeanalytics.com/python-data-visualization-libraries/)  
-* Essential python tools - Quality [http://aboumrad.info/essential-python-tools-quality.html](http://aboumrad.info/essential-python-tools-quality.html)  
 * Counting things in Python [http://treyhunner.com/2015/11/counting-things-in-python/](http://treyhunner.com/2015/11/counting-things-in-python/)  
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
 * The Data Scientist's Toolbox [https://www.coursera.org/learn/data-scientists-tools](https://www.coursera.org/learn/data-scientists-tools)  
