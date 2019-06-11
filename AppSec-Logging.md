@@ -78,7 +78,7 @@ The information system uses an internal system of clocks to generate audit recor
 The information system must effectively protect audit information and tools from unauthorized access, modification, and deletion.  
 
 **NIST AU-11**  
-The organization must retain audit records for the period of time defined by their formal records retention schedule to provide support for after-the-fact investigations of security incidents and to meet regulatory and Principal information retention requirements.  
+The organization must retain audit records for the period of time defined by their formal records retention schedule to provide support for after-the-fact investigations of security incidents and to meet regulatory and company information retention requirements.  
 
 **NIST AU-12 Audit Generation**  
 The information system must have the capability to provide and generate audit records.  
