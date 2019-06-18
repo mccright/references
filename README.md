@@ -181,6 +181,8 @@ and
 
 **Python**
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
+* Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
+* MATLAB–Python–Julia cheatsheet [https://cheatsheets.quantecon.org/](https://cheatsheets.quantecon.org/)  
 * Awesome Python -- A curated list of awesome Python frameworks, libraries and software. Inspired by awesome-php. [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
 * Awesome Python Security [https://github.com/guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)  
 * Python Docker image with poetry as dependency manager. [https://github.com/etienne-napoleone/docker-python-poetry](https://github.com/etienne-napoleone/docker-python-poetry)  
@@ -395,6 +397,7 @@ A starter list of information sources for your security investigations & integra
 
 
  **Temporary list for work tools or other resources requiring more follow-up**  
+ * Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
  * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
  * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
  * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
