@@ -101,7 +101,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
 * Website fingerprint script [https://github.com/bgiarrizzo/website-fingerprint](https://github.com/bgiarrizzo/website-fingerprint)  
-
+* Awesome Mainframe Hacking/Pentesting Resources.[https://github.com/samanL33T/Awesome-Mainframe-Hacking/](https://github.com/samanL33T/Awesome-Mainframe-Hacking/)  
   
 **Pen testing Linux distros**  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
