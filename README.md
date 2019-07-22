@@ -117,6 +117,23 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
 * WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
+
+**Online Scanners**  
+* yougetsignal [http://www.yougetsignal.com/tools/open-ports/](http://www.yougetsignal.com/tools/open-ports/)  
+  * Reverse IP Domain Check [https://www.yougetsignal.com/tools/web-sites-on-web-server/](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
+  * Network Location Check [https://www.yougetsignal.com/tools/network-location/](https://www.yougetsignal.com/tools/network-location/)  
+* viewdns [a range of dns tools] [http://viewdns.info/](http://viewdns.info/)  
+* hackertarget [https://hackertarget.com/nmap-online-port-scanner/](https://hackertarget.com/nmap-online-port-scanner/)  
+  * Dump links from a page [https://hackertarget.com/extract-links/](https://hackertarget.com/extract-links/)  
+  * And a range of related tools [https://hackertarget.com/ip-tools/](https://hackertarget.com/ip-tools/)  
+* ipfingerprints [http://www.ipfingerprints.com/portscan.php](http://www.ipfingerprints.com/portscan.php)  
+* pingeu [http://ping.eu/port-chk/](http://ping.eu/port-chk/)  
+* spiderip [https://spiderip.com/online-port-scan.php](https://spiderip.com/online-port-scan.php)  
+* t1shopper [http://www.t1shopper.com/tools/port-scan/](http://www.t1shopper.com/tools/port-scan/)  
+  * Whois Ping Port Scanner NSlookup & Traceroute @ t1shopper [http://www.t1shopper.com/tools/](http://www.t1shopper.com/tools/)  
+* standingtech [https://portscanner.standingtech.com/](https://portscanner.standingtech.com/)  
+  * Convert IP Address to Binary, Hexadecimal, Octal, and Long Integer [https://ipaddress.standingtech.com/online-ip-address-converter](https://ipaddress.standingtech.com/online-ip-address-converter)  
+* Or use a Python-based command-line utility for using websites that can perform port scans on your behalf [https://github.com/vesche/scanless](https://github.com/vesche/scanless)  
   
 **Markdown**
 * [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
