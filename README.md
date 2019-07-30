@@ -106,6 +106,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
 * Website fingerprint script [https://github.com/bgiarrizzo/website-fingerprint](https://github.com/bgiarrizzo/website-fingerprint)  
 * Awesome Mainframe Hacking/Pentesting Resources.[https://github.com/samanL33T/Awesome-Mainframe-Hacking/](https://github.com/samanL33T/Awesome-Mainframe-Hacking/)  
+* Excellent list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)  
  
   
 **Pen testing Linux distros**  
