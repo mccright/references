@@ -221,6 +221,7 @@ and
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
+* The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
  
 **Regex**
 * Test your regex on line: [https://regex101.com/](https://regex101.com/)  
