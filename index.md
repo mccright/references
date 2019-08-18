@@ -259,6 +259,8 @@ A starter list of information sources for your security investigations & integra
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
  * VirusTotal for MD5, SHA1, SHA2, URL and FQDN lookups [https://www.virustotal.com/](https://www.virustotal.com/)  
  * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
+ * Buster, An advanced tool for email reconnaissance [https://github.com/sham00n/buster](https://github.com/sham00n/buster)  
+ * WayBulk, Search a list of domains on the wayback machine [https://github.com/sham00n/waybulk](https://github.com/sham00n/waybulk)  
  
 **Math and Statistics**
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
