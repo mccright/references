@@ -210,7 +210,7 @@ and
 * The Data Scientist's Toolbox [https://www.coursera.org/learn/data-scientists-tools](https://www.coursera.org/learn/data-scientists-tools)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 * Python library to convert Microsoft Outlook .msg files to .eml/MIME message files [https://github.com/JoshData/convert-outlook-msg-file](https://github.com/JoshData/convert-outlook-msg-file)  
-
+* Understanding iteration in Python [https://github.com/wyounas/python_training_hq/tree/master/blog_iterator_code_samples](https://github.com/wyounas/python_training_hq/tree/master/blog_iterator_code_samples)  
 
 **Crypto**  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
