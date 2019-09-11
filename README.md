@@ -154,6 +154,7 @@ and
 * Programming JavaScript Applications. By Eric Elliott [http://chimera.labs.oreilly.com/books/1234000000262/index.html](http://chimera.labs.oreilly.com/books/1234000000262/index.html)  
 * Node: Up and Running. By Tom Hughes-Croucher and Mike Wilson [http://chimera.labs.oreilly.com/books/1234000001808/index.html](http://chimera.labs.oreilly.com/books/1234000001808/index.html)  
 * Narrative workbook -- This is a companion workbook that will assist you in working through the codeX Narrative that is to be provided. Resources and references provided that will assist you in your journey will be published in the repository. [https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook](https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook)  
+* "Don't make fun of JavaScript" [https://github.com/pixari/dmfojs](https://github.com/pixari/dmfojs) and - GitBook Format - [https://book.dmfoj.dev](https://book.dmfoj.dev)  
 
 
 **General Secure Programming**  
