@@ -479,3 +479,4 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
 * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
 * Big list of HTTP media types [https://www.iana.org/assignments/media-types/media-types.xhtml ](https://www.iana.org/assignments/media-types/media-types.xhtml )  
+* and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
