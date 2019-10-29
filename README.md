@@ -394,6 +394,7 @@ A starter list of information sources for your security investigations & integra
  * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
  * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
  * Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
+ * A pair of tools for running phishing campaigns to raise security awareness: Swordphish Phishing Awareness Tool [https://github.com/certsocietegenerale/swordphish-awareness/](https://github.com/certsocietegenerale/swordphish-awareness/) and the Outlook add-in companion to report suspicious mail easily [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)  
  * W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
  * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
  * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
