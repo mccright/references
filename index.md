@@ -28,11 +28,14 @@ cd into your new project directory
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
 
+
 **Awesome-Awesome**
 A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
 
 **Browse** 
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)  
+* WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
+* and if you need a little Linux help using it [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 **Manage Your Privacy**  
 * Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privacy-checklist](https://github.com/diafygi/privacy-checklist)  
@@ -44,8 +47,8 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
    * Nist Overview: [http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf](http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf)  
    * SCAP Home: [http://scap.nist.gov/](http://scap.nist.gov/)  
 * State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf](https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf)  
-* State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)   
-* Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
+* State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)  
+* * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
 * Vulnerability and exploit lists:  
   o	[http://cve.mitre.org/](http://cve.mitre.org/)  
   o	[http://www.cvedetails.com/](http://www.cvedetails.com/)  
@@ -54,7 +57,8 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
-*  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
+* Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
+* Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 
 **Architecture Risk Analysis**  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
@@ -78,7 +82,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "Application Threat Modeling (OWASP)" [https://www.owasp.org/index.php/Application_Threat_Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)  
 * "Threat Modeling Cheat Sheet (OWASP)" [https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md)  
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
-* "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)  
+* "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)    
 
 **Web Application Vulnerability Analysis**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
@@ -104,8 +108,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Awesome Mainframe Hacking/Pentesting Resources.[https://github.com/samanL33T/Awesome-Mainframe-Hacking/](https://github.com/samanL33T/Awesome-Mainframe-Hacking/)  
 * Excellent list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)  
 * CloudGoat, Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  
-
-
+ 
+  
 **Pen testing Linux distros**  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
@@ -115,7 +119,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
 * WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
-  
+* and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
+
 **Online Scanners**  
 * yougetsignal [http://www.yougetsignal.com/tools/open-ports/](http://www.yougetsignal.com/tools/open-ports/)  
   * Reverse IP Domain Check [https://www.yougetsignal.com/tools/web-sites-on-web-server/](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
@@ -151,6 +156,7 @@ and
 * Narrative workbook -- This is a companion workbook that will assist you in working through the codeX Narrative that is to be provided. Resources and references provided that will assist you in your journey will be published in the repository. [https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook](https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook)  
 * "Don't make fun of JavaScript" [https://github.com/pixari/dmfojs](https://github.com/pixari/dmfojs) and - GitBook Format - [https://book.dmfoj.dev](https://book.dmfoj.dev)  
 
+
 **General Secure Programming**  
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
@@ -177,12 +183,12 @@ and
 * Unified Compliance Hub for navigating the ever-evolving rats nest of public and private mandates [https://www.unifiedcompliance.com/products/](https://www.unifiedcompliance.com/products/)  
 * [http://www.cheatography.com/tag/programming/](http://www.cheatography.com/tag/programming/)
 * XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
+*  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Java Deserialization Cheat Sheet [https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)  
 * HTTP Status Codes [https://httpstatuses.com/](https://httpstatuses.com/)  
 * Sometimes it is just important to get started: "Hello world in every computer language." [https://github.com/leachim6/hello-world](https://github.com/leachim6/hello-world)  
 * And a 'free' temporary platform may also be important: "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev." [https://github.com/haneefmubarak/free-for-dev](https://github.com/haneefmubarak/free-for-dev)  
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
-* Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
@@ -194,7 +200,7 @@ and
 * PHP Best Practices -- A short, practical guide for common and confusing PHP tasks: [https://phpbestpractices.org/](https://phpbestpractices.org/)  
 
 
-**Python**  
+**Python**
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
 * 30-seconds-of-python - Curated collection of useful Python snippets that you can understand in 30 seconds or less  [https://github.com/30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)  
@@ -225,19 +231,19 @@ and
 **Regex**
 * Test your regex on line: [https://regex101.com/](https://regex101.com/)  
 * Test your JavaScript style regex: [https://regexper.com/](https://regexper.com/)  
-* OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
+* * OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
 * A really big collection of regex resources [http://regexlib.com/](http://regexlib.com/)
-* [http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/) 
+* [http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 and 
 * [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)  
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
-
+  
 **Bash Shell**
 * [ http://cli.learncodethehardway.org/bash_cheat_sheet.pdf](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)  
-
+  
 **DOS/Windows Shell**
 * Guide to Batch Scripting [http://steve-jansen.github.io/guides/windows-batch-scripting/](http://steve-jansen.github.io/guides/windows-batch-scripting/)   
-  
+
 **Information Sources for your Security Investigations**  
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
@@ -257,7 +263,7 @@ A starter list of information sources for your security investigations & integra
  * PulseDive for IPv4, FQDN and URL lookups [https://pulsedive.com/](https://pulsedive.com/)  
  * Recorded Future for IPv4, FQDN, MD5, SHA1 and SHA2 lookups [http://recordedfuture.com/](http://recordedfuture.com/)  
  * Shodan for IPv4 lookups [https://www.shodan.io/](https://www.shodan.io/)  
-      * Search Query Fundamentals: [https://help.shodan.io/the-basics/search-query-fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)  
+     * Search Query Fundamentals: [https://help.shodan.io/the-basics/search-query-fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)  
      * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
  * ThreatCrowd for IPv4, FQDN and MD5 lookups [https://www.threatcrowd.org/](https://www.threatcrowd.org/)  
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
@@ -265,8 +271,10 @@ A starter list of information sources for your security investigations & integra
  * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
  * Buster, An advanced tool for email reconnaissance [https://github.com/sham00n/buster](https://github.com/sham00n/buster)  
  * WayBulk, Search a list of domains on the wayback machine [https://github.com/sham00n/waybulk](https://github.com/sham00n/waybulk)  
- 
-**Math and Statistics**
+
+
+**Math and Statistics**  
+* Statistics in Pandas Cheatsheet [https://cheatsheets.quantecon.org/stats-cheatsheet.html](https://cheatsheets.quantecon.org/stats-cheatsheet.html)  
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
 * Chen’s Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
@@ -276,10 +284,11 @@ A starter list of information sources for your security investigations & integra
 * Massive list of links to lists associated with programming and languages [https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/](https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/)  
 * Random reminder of how SQL Joins work.  [http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) Browse the comments as well.  And if that doesn't do it, try [http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html](http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html)  
 * Collection of SQL Injection Cheat Sheets [http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)  
-* Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)  
+* Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)   
+ * "awesome-incident-response" a curated list of tools and resources for security incident response [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)  
  * Incident "Debriefing Facilitation Guide -- Leading Groups at Etsy to Learn From Accidents." by: John Allspaw, Morgan Evans, Daniel Schauenberg; 2016 [http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) and in MarkDown format: [https://github.com/etsy/DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide)  
  * "Digital Services Playbook." [https://playbook.cio.gov/](https://playbook.cio.gov/) and the source in MarkDown at: [https://github.com/usds/playbook](https://github.com/usds/playbook)  
-  * 101 Machine Learning Algorithms for Data Science with Cheat Sheets [https://blog.datasciencedojo.com/machine-learning-algorithms/](https://blog.datasciencedojo.com/machine-learning-algorithms/)  
+ * 101 Machine Learning Algorithms for Data Science with Cheat Sheets [https://blog.datasciencedojo.com/machine-learning-algorithms/](https://blog.datasciencedojo.com/machine-learning-algorithms/)  
 
 **Several Tech Company Research & Security Blogs**
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
@@ -321,6 +330,10 @@ A starter list of information sources for your security investigations & integra
  * virtualenv is a tool to create isolated Python environments [https://virtualenv.pypa.io/en/latest/](https://virtualenv.pypa.io/en/latest/)
  * A relatively quick Python Numpy Tutorial by Justin Johnson. [http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
 
+**Risk Management Frameworks**  
+* Financial Services Sector "Cybersecurity Profile" - 280 'diagnostic statements' [https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile ](https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile )  
+* NIST SP-800-53 v4 []()  
+
 **Stay Informed**
 (in no particular order - and thank you Joe Fleischman for the starter set) 
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/) 
@@ -354,8 +367,8 @@ A starter list of information sources for your security investigations & integra
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  * Kite Blog: [https://kite.com/blog](https://kite.com/blog)  
- 
-    
+  
+   
  **Software Defined Radio (SDR)**  
  * Overview: [http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf](http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf)  
  * Big List of SDR Applications: [https://wiki.radioreference.com/index.php/SDR_Software_Applications](https://wiki.radioreference.com/index.php/SDR_Software_Applications)  
@@ -375,33 +388,34 @@ A starter list of information sources for your security investigations & integra
  * Source Code examples for interacting with the R820TU: [https://github.com/emeb/r820t2/tree/master/f030_r820t2](https://github.com/emeb/r820t2/tree/master/f030_r820t2)  
  * "Hello, world!" for GNSS-SDR: [http://gnss-sdr.org/my-first-fix/](http://gnss-sdr.org/my-first-fix/)  
   
- 
+  
  **Temporary list for new work tools**  
  * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
  * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
  * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
  * Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
- * W3C HTML Tidy - Usage: pipe output to "Tidy -iq" [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
+ * A pair of tools for running phishing campaigns to raise security awareness: Swordphish Phishing Awareness Tool [https://github.com/certsocietegenerale/swordphish-awareness/](https://github.com/certsocietegenerale/swordphish-awareness/) and the Outlook add-in companion to report suspicious mail easily [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)  
+ * W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
  * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
  * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
  * WebSphere Password Decoders: [http://strelitzia.net/wasXORdecoder/wasXORdecoder.html](http://strelitzia.net/wasXORdecoder/wasXORdecoder.html) and [http://www.poweredbywebsphere.com/decoder.html](http://www.poweredbywebsphere.com/decoder.html)  
  * Conference Session Search Service - Con Collector [http://cc.thinkst.com/searchMore/](http://cc.thinkst.com/searchMore/)  
-  * Some Open Source Network Monitoring Tools:  
+ * Some Open Source Network Monitoring Tools:  
   ** Snort: [https://www.snort.org/downloads](https://www.snort.org/downloads)  
   ** Suricata: [https://suricata-ids.org/](https://suricata-ids.org/)  
   ** Bro: [https://www.bro.org/](https://www.bro.org/)  
   ** OSSEC - Open Source HIDS SECurity [https://ossec.github.io/](https://ossec.github.io/)  
- * Lists of IP addresses by Country - use to block or to assess your log data, etc. [http://www.ipdeny.com/ipblocks/](http://www.ipdeny.com/ipblocks/)  
+ * Lists of IP addresses by Country - use to block or to assess your log data, etc. [http://www.ipdeny.com/ipblocks/](http://www.ipdeny.com/ipblocks/) 
  * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
  * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
- * "awesome-incident-response" a curated list of tools and resources for security incident response [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)  
  * A useful set of app-friendly utilities [https://httpbin.org/](https://httpbin.org/), for example, what is your current IP address [https://httpbin.org/ip](https://httpbin.org/ip)  
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
  * Sometimes you need a little local web server [https://github.com/kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome)  
  * Sometimes only ASCII is needed/allowed -- Convert a HTML table into ASCII table using Python: Colspan and Rowspan allowed [https://github.com/gustavklopp/DashTable](https://github.com/gustavklopp/DashTable)  
- * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)  
+ * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)    
  * FuzzDB Project [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)  
+ * Free IP geolocation API: 'curl http://api.db-ip.com/v2/free/<IP-Address>' or curl http://api.db-ip.com/v2/free/<IP-Address>/countryName [up to 1000/day]  
  * GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?)  
  * GetGeoIP web service to easily look up countries by IP address  [http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
  * Get domain name registration record by Host Name / Domain Name (WhoIS)  [http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
@@ -412,7 +426,8 @@ A starter list of information sources for your security investigations & integra
  * Website style analizer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
 
 
- **Temporary list for work tools or other resources requiring more follow-up**
+ **Temporary list for work tools or other resources requiring more follow-up**  
+ * Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
  * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
  * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
  * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
@@ -422,7 +437,6 @@ A starter list of information sources for your security investigations & integra
  * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
  * Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)  
  * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
- * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
  * Handy list of browser user-agent strings (long) in PHP code: [https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc](https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc)  
  * 7500 user-agent strings from Jerry Gamblin [https://github.com/jgamblin/curluseragent/blob/master/ua.txt](https://github.com/jgamblin/curluseragent/blob/master/ua.txt)  
  * Another list (short) of UA strings, categorized by device types [https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml](https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml)
@@ -432,7 +446,7 @@ A starter list of information sources for your security investigations & integra
  * Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
  * Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
  * Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
-  * A feature-packed Python package and for utilizing SQLite in Python by Plasticity [https://github.com/plasticityai/supersqlite](https://github.com/plasticityai/supersqlite)  
+ * A feature-packed Python package and for utilizing SQLite in Python by Plasticity [https://github.com/plasticityai/supersqlite](https://github.com/plasticityai/supersqlite)  
  * An idea for csv-to-json {csv2json.py} [https://github.com/apenwarr/afterquery/blob/master/csv2json.py](https://github.com/apenwarr/afterquery/blob/master/csv2json.py)  
  * Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)  
  * WiGPSFi – ESP8266 + GPS [http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/](http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/)  
@@ -457,11 +471,13 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Awesome R [https://github.com/qinwf/awesome-R](https://github.com/qinwf/awesome-R) and [https://awesome-r.com/](https://awesome-r.com/)  
 * Managing risk in the context of a long time-horizon.  
   * See the "Global Risks 2014 - Ninth Edition" Insight Report from the World Economic Forum. [http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf](http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf)   Especially part 2, pages 38-49. It is a short read on risks associated with -- among other topics -- the way the Internet is evolving, risks associated with "trust," and "managing risk" in the context of a long time-horizon.  
-  * Also: "Global Risks 2015 - 10th Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf)  
-  * And more recently: "Global Risks 2016 - 11th Edition" [http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf](http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf)   
+  * Also: "Global Risks 2015 - Tenth Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_2015_Report15.pdf)  
+  * And more recently: "Global Risks 2016 - Eleventh Edition" [http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf](http://www3.weforum.org/docs/GRR/WEF_GRR16.pdf)   
   * And 2017: "Global Risks 2017 -- 12th Edition" [http://www3.weforum.org/docs/GRR17_Report_web.pdf](http://www3.weforum.org/docs/GRR17_Report_web.pdf)  
-  * And most recently:  "Global Risks 2018 - 13th Edition" [http://www3.weforum.org/docs/WEF_GRR18_Report.pdf](http://www3.weforum.org/docs/WEF_GRR18_Report.pdf)  
-  * A definitive list of tools for generating static websites [https://github.com/pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)   
-  * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
-  * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
-  * Big list of HTTP media types [https://www.iana.org/assignments/media-types/media-types.xhtml ](https://www.iana.org/assignments/media-types/media-types.xhtml )  
+  * And 2018:  "The Global Risks Report 2018 - 13th Edition" [http://www3.weforum.org/docs/WEF_GRR18_Report.pdf](http://www3.weforum.org/docs/WEF_GRR18_Report.pdf)  
+  * And most recently: "The Global Risks Report 2019 - 14th Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf)  
+* A definitive list of tools for generating static websites [https://github.com/pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)   
+* The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
+* hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
+* Big list of HTTP media types [https://www.iana.org/assignments/media-types/media-types.xhtml ](https://www.iana.org/assignments/media-types/media-types.xhtml )  
+* and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
