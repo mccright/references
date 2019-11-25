@@ -463,6 +463,7 @@ A starter list of information sources for your security investigations & integra
 * The definitive list of lists (of lists) curated on GitHub [https://github.com/jnv/lists](https://github.com/jnv/lists)  
 * Mobile App Pentesting Cheetsheet [https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/README.md](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/blob/master/README.md)  
 * Free Programming Books [https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)  
+* More Free Programming Books [https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)  
 * Tool by Tool, Skill by Skill. By Simon St.Laurent [http://chimera.labs.oreilly.com/books/1234000000882/index.html](http://chimera.labs.oreilly.com/books/1234000000882/index.html)
 Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.oreilly.com/books/1234000000882/apb.html](http://chimera.labs.oreilly.com/books/1234000000882/apb.html)  
 * Awesome Selfhosted. This is a list of Free Software network services and web applications which can be hosted locally. [https://github.com/Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)  
