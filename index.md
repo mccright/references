@@ -56,7 +56,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 
@@ -481,4 +481,5 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
 * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
 * Big list of HTTP media types [https://www.iana.org/assignments/media-types/media-types.xhtml ](https://www.iana.org/assignments/media-types/media-types.xhtml )  
+* Open source, free textbooks: [https://ocw.mit.edu/courses/online-textbooks/](https://ocw.mit.edu/courses/online-textbooks/) and [https://openstax.org/](https://openstax.org/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
