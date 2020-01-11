@@ -19,7 +19,7 @@ and page 2 of
 * [http://www.git-tower.com/blog/git-cheat-sheet/](http://www.git-tower.com/blog/git-cheat-sheet/) 
 and documenation at 
 [http://git-scm.com/docs](http://git-scm.com/docs)  
-* Git Pocket Guide. By Richard E. Silverman [http://chimera.labs.oreilly.com/books/1230000000561/index.html](http://chimera.labs.oreilly.com/books/1230000000561/index.html)  
+* Git Pocket Guide. By Richard E. Silverman [https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)  
 
 
 Just get started...  
