@@ -34,8 +34,7 @@ cd into your new project directory
 A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
 
 **Browse** 
-Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)  
-* WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
+Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
 * and if you need a little Linux help using it [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 **Manage Your Privacy**  
@@ -115,11 +114,11 @@ Understanding how the adversary operates is essential to effective cyber securit
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
 * Bugtraq-2  [http://bugtraq-team.com/](http://bugtraq-team.com/)  
+* DemonLinux  [https://demonlinux.com/about.php](hhttps://demonlinux.com/about.php)  
 * Kali  [https://www.kali.org/](https://www.kali.org/)  
 * Network Security Toolkit, NST [http://www.networksecuritytoolkit.org/nst/index.html](http://www.networksecuritytoolkit.org/nst/index.html)  
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
-* WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 **Online Scanners**  
