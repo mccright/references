@@ -5,7 +5,7 @@ Collection of reusable references
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 * Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
-
+  
 ***Cheat Sheets***  
 First and foremost: a couple **git cheat sheets** 
 * [https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
@@ -34,8 +34,7 @@ cd into your new project directory
 A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
 
 **Browse** 
-Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)  
-* WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
+Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
 * and if you need a little Linux help using it [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 **Manage Your Privacy**  
@@ -57,7 +56,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 
@@ -115,11 +114,11 @@ Understanding how the adversary operates is essential to effective cyber securit
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
 * Bugtraq-2  [http://bugtraq-team.com/](http://bugtraq-team.com/)  
+* DemonLinux  [https://demonlinux.com/about.php](hhttps://demonlinux.com/about.php)  
 * Kali  [https://www.kali.org/](https://www.kali.org/)  
 * Network Security Toolkit, NST [http://www.networksecuritytoolkit.org/nst/index.html](http://www.networksecuritytoolkit.org/nst/index.html)  
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
-* WeakNet  [http://www.weaknetlabs.com](http://www.weaknetlabs.com)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 **Online Scanners**  
