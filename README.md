@@ -48,7 +48,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
    * SCAP Home: [http://scap.nist.gov/](http://scap.nist.gov/)  
 * State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf](https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf)  
 * State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)  
-* * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
+* Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
 * Vulnerability and exploit lists:  
   o	[http://cve.mitre.org/](http://cve.mitre.org/)  
   o	[http://www.cvedetails.com/](http://www.cvedetails.com/)  
@@ -58,8 +58,11 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
+* Or host your own list to keep your research more private:  
+  o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
+  o	The CVE-Search Project [https://www.cve-search.org/software/](https://www.cve-search.org/software/), and cve-search - a tool to perform local searches for known vulnerabilities [https://github.com/cve-search/cve-search](https://github.com/cve-search/cve-search)  
 * Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
-
+  
 **Architecture Risk Analysis**  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
 * U.S. CERT Definition & Best Practices Document on Architecture Risk Analysis: [https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis](https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis)  
@@ -231,7 +234,7 @@ and
 **Regex**
 * Test your regex on line: [https://regex101.com/](https://regex101.com/)  
 * Test your JavaScript style regex: [https://regexper.com/](https://regexper.com/)  
-* * OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
+* OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
 * A really big collection of regex resources [http://regexlib.com/](http://regexlib.com/)
 * [http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 and 
