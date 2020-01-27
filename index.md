@@ -261,6 +261,7 @@ A starter list of information sources for your security investigations & integra
  * Google Safe Browsing for URL lookups [https://safebrowsing.google.com/](https://safebrowsing.google.com/)  
  * Have I Been Pwned for Email lookups [https://haveibeenpwned.com/](https://haveibeenpwned.com/)  
  * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com[](https://exchange.xforce.ibmcloud.com/)  
+ * IP Geo Tool {free} for your script integration: [https://tools.keycdn.com/geo.json?host={IP or hostname}](https://tools.keycdn.com/geo.json?host={IP or hostname})  
  * MISP for MD5 and SHA2 [http://www.misp-project.org/](http://www.misp-project.org/)  
    * Also consider MISP Taxonomies for your integration work [https://github.com/MISP/misp-taxonomies/](https://github.com/MISP/misp-taxonomies/)  
  * PassiveTotal for FQDN Whois lookups [https://www.passivetotal.org/](https://www.passivetotal.org/)  
