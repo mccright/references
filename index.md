@@ -56,7 +56,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
   o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
@@ -206,6 +206,7 @@ and
 **Python**
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
+* Type hints cheat sheet (Python 3) [https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
 * 30-seconds-of-python - Curated collection of useful Python snippets that you can understand in 30 seconds or less  [https://github.com/30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)  
 * Packaging Projects with Python [https://github.com/russomi/packaging_tutorial](https://github.com/russomi/packaging_tutorial)  and [https://packaging.python.org/tutorials/packaging-projects/](https://packaging.python.org/tutorials/packaging-projects/)  
 * MATLAB–Python–Julia cheatsheet [https://cheatsheets.quantecon.org/](https://cheatsheets.quantecon.org/)  
