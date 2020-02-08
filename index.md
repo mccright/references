@@ -56,7 +56,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
   o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
@@ -117,7 +117,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
 * Bugtraq-2  [http://bugtraq-team.com/](http://bugtraq-team.com/)  
-* DemonLinux  [https://demonlinux.com/about.php](hhttps://demonlinux.com/about.php)  
+* DemonLinux  [https://demonlinux.com/about.php](hhttps://demonlinux.com/about.php) 
+* Fedora Security Lab [https://labs.fedoraproject.org/en/security/](https://labs.fedoraproject.org/en/security/)  
 * Kali  [https://www.kali.org/](https://www.kali.org/)  
 * Network Security Toolkit, NST [http://www.networksecuritytoolkit.org/nst/index.html](http://www.networksecuritytoolkit.org/nst/index.html)  
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
