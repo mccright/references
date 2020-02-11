@@ -323,7 +323,7 @@ A starter list of information sources for your security investigations & integra
  * "Various Licenses and Comments about Them" from GNU [http://www.gnu.org/philosophy/license-list.html](http://www.gnu.org/philosophy/license-list.html)
 
 **Various public documents, whitepapers and articles about APT campaigns**
- * kbandla/APTnotes [https://github.com/kbandla/APTnotes](https://github.com/kbandla/APTnotes) 
+* APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets. [https://github.com/aptnotes/data](https://github.com/aptnotes/data) or go directly to the resource links at [https://github.com/aptnotes/data/blob/master/APTnotes.csv](https://github.com/aptnotes/data/blob/master/APTnotes.csv)   
 
 **Verify those shortened URLs**
  * [https://tinyurl.com/preview.php](https://tinyurl.com/preview.php)
