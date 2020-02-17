@@ -229,6 +229,13 @@ and
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 * Python library to convert Microsoft Outlook .msg files to .eml/MIME message files [https://github.com/JoshData/convert-outlook-msg-file](https://github.com/JoshData/convert-outlook-msg-file)  
 * Understanding iteration in Python [https://github.com/wyounas/python_training_hq/tree/master/blog_iterator_code_samples](https://github.com/wyounas/python_training_hq/tree/master/blog_iterator_code_samples)  
+* Virtualenv [https://virtualenv.pypa.io/en/latest/installation.html](https://virtualenv.pypa.io/en/latest/installation.html) and a how-to [https://www.youtube.com/watch?v=N5vscPTWKOk](https://www.youtube.com/watch?v=N5vscPTWKOk)  
+    Along with related/supporting projects:  
+    * virtualenvwrapper - a useful set of scripts for creating and deleting virtual environments [https://pypi.org/project/virtualenvwrapper](https://pypi.org/project/virtualenvwrapper)  
+    * pew: provides a set of commands to manage multiple virtual environments [https://pypi.org/project/pew](https://pypi.org/project/pew)  
+    * tox: a generic virtualenv management and test automation command line tool, driven by a tox.ini configuration file [https://pypi.org/project/tox](https://pypi.org/project/tox)  
+    * nox: a tool that automates testing in multiple Python environments, similar to tox, driven by a noxfile.py configuration file [https://pypi.org/project/nox](https://pypi.org/project/nox)  
+    * And a hot-to [https://www.youtube.com/watch?v=N5vscPTWKOk](https://www.youtube.com/watch?v=N5vscPTWKOk)  
 
 **Crypto**  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
