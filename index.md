@@ -56,7 +56,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
   o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
@@ -101,6 +101,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
 * Penetration Testers Framework (PTF) [https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)  
 * Social-Engineer Toolkit (SET) [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)  
+* A Python based web application scanner - BlackWidow - with Docker help [https://github.com/1N3/BlackWidow](https://github.com/1N3/BlackWidow)  
+* Sn1per - Automated pentest framework for offensive security experts [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)  
 * Arachni Web Application Security Scanner Framework {Ruby centric} [http://www.arachni-scanner.com/](http://www.arachni-scanner.com/)  
 * Sn1per is an automated scanner {php} to enumerate and scan for vulnerabilities [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)  
 * WhatWeb - Next generation web scanner [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)  
@@ -111,7 +113,10 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Awesome Mainframe Hacking/Pentesting Resources.[https://github.com/samanL33T/Awesome-Mainframe-Hacking/](https://github.com/samanL33T/Awesome-Mainframe-Hacking/)  
 * Excellent list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)  
 * CloudGoat, Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  
- 
+ * Offensive security testing of your AWS environmtne [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)  
+ * Offensive security testing of your CMS - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs [https://github.com/Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK)  
+ * Tool-X - a kali linux tool installer for Android Termux [https://github.com/rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X)  
+ * An interesting study script intended to automate your reconnaissance work [https://github.com/0blio/lazyrecon](https://github.com/0blio/lazyrecon)   
   
 **Pen testing Linux distros**  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
@@ -262,6 +267,8 @@ and
 **Information Sources for your Security Investigations**  
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
+ * Awesome OSINT [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)  
+ * Discover Your Attack Surface [https://github.com/intrigueio/intrigue-core](https://github.com/intrigueio/intrigue-core)  
  * Alienvault OTX for IPv4, CVE, MD5, SHA1 and SHA2 lookups [https://otx.alienvault.com/](https://otx.alienvault.com/)  
  * Bitcoin Whos Who for Bitcoin lookups [http://bitcoinwhoswho.com/](http://bitcoinwhoswho.com/)  
  * BlockChain.info for Bitcoin lookups [https://blockchain.info/](https://blockchain.info/)  
