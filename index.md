@@ -117,6 +117,7 @@ Understanding how the adversary operates is essential to effective cyber securit
  * Offensive security testing of your CMS - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs [https://github.com/Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK)  
  * Tool-X - a kali linux tool installer for Android Termux [https://github.com/rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X)  
  * An interesting study script intended to automate your reconnaissance work [https://github.com/0blio/lazyrecon](https://github.com/0blio/lazyrecon)   
+ * Abbreviated vulnerability assessment/recon [https://github.com/jivoi/pentest](https://github.com/jivoi/pentest)  
   
 **Pen testing Linux distros**  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
@@ -127,7 +128,9 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Kali  [https://www.kali.org/](https://www.kali.org/)  
 * Network Security Toolkit, NST [http://www.networksecuritytoolkit.org/nst/index.html](http://www.networksecuritytoolkit.org/nst/index.html)  
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
+* Shell Script to Convert Your Debian Into Parrot OS Pentesting Mach1ne [https://github.com/blackhatethicalhacking/parrotfromdebian](https://github.com/blackhatethicalhacking/parrotfromdebian)  
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
+* and some Security-oriented Docker containers [https://github.com/khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 **Online Scanners**  
