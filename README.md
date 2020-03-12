@@ -40,6 +40,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 **Manage Your Privacy**  
 * Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privacy-checklist](https://github.com/diafygi/privacy-checklist)  
 * 11 tips for protecting your privacy... by Olivia Martin [https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)  
+* Your IP address is sometimes your identity [https://myexternalip.com/](https://myexternalip.com/)  
 
 **Software Vulnerability Detection Resources**  
 * U.S. National Checklist Program [http://checklists.nist.gov](http://checklists.nist.gov) and [https://web.nvd.nist.gov/view/ncp/repository](https://web.nvd.nist.gov/view/ncp/repository) 
@@ -118,7 +119,10 @@ Understanding how the adversary operates is essential to effective cyber securit
  * Tool-X - a kali linux tool installer for Android Termux [https://github.com/rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X)  
  * An interesting study script intended to automate your reconnaissance work [https://github.com/0blio/lazyrecon](https://github.com/0blio/lazyrecon)   
  * Abbreviated vulnerability assessment/recon [https://github.com/jivoi/pentest](https://github.com/jivoi/pentest)  
-  
+* 'domain-scan' A lightweight scan pipeline for orchestrating third party tools, at scale and (optionally) using serverless infrastructure [https://github.com/18F/domain-scan](https://github.com/18F/domain-scan)  
+* Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
+
+
 **Pen testing Linux distros**  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
@@ -132,6 +136,12 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
 * and some Security-oriented Docker containers [https://github.com/khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
+
+
+**BPF Tools** 
+Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
+* BPF Compiler Collection (BCC) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more [https://github.com/iovisor/bcc](https://github.com/iovisor/bcc)  
+
 
 **Online Scanners**  
 * yougetsignal [http://www.yougetsignal.com/tools/open-ports/](http://www.yougetsignal.com/tools/open-ports/)  
@@ -244,6 +254,21 @@ and
     * tox: a generic virtualenv management and test automation command line tool, driven by a tox.ini configuration file [https://pypi.org/project/tox](https://pypi.org/project/tox)  
     * nox: a tool that automates testing in multiple Python environments, similar to tox, driven by a noxfile.py configuration file [https://pypi.org/project/nox](https://pypi.org/project/nox)  
     * And a hot-to [https://www.youtube.com/watch?v=N5vscPTWKOk](https://www.youtube.com/watch?v=N5vscPTWKOk)  
+* How to write good quality Python code with GitHub Actions. By Wojciech Krzywiec [https://medium.com/@wkrzywiec/how-to-write-good-quality-python-code-with-github-actions-2f635a2ab09a](https://medium.com/@wkrzywiec/how-to-write-good-quality-python-code-with-github-actions-2f635a2ab09a)  
+* Automating Every Aspect of Your Python Project [https://martinheinz.dev/blog/17](https://martinheinz.dev/blog/17)  
+* An open-source chart and map framework for realtime data [https://github.com/pubnub/eon](https://github.com/pubnub/eon)  
+* Datagen - create sample delimited data using a simple schema format so you can get to work [https://github.com/toddwilson/datagen](https://github.com/toddwilson/datagen)   
+* An asynchronous tasks library using asyncio [https://github.com/joegasewicz/pytask-io](https://github.com/joegasewicz/pytask-io)  
+* Render local readme files before sending off to GitHub [https://github.com/joeyespo/grip](https://github.com/joeyespo/grip) and a sample Python script to generate bulk documentation [https://gist.github.com/mrexmelle/659abc02ae1295d60647](https://gist.github.com/mrexmelle/659abc02ae1295d60647)     
+* A general purpose Python automatization library with real-time web UI [https://github.com/tuomas2/automate](https://github.com/tuomas2/automate)  
+* tmux session manager [https://github.com/tmux-python/tmuxp](https://github.com/tmux-python/tmuxp)  
+* web.py is a web framework for Python that is as simple as it is powerful. [https://github.com/webpy/webpy](https://github.com/webpy/webpy)  
+* A basic spreadsheet to api engine [https://github.com/18F/autoapi](https://github.com/18F/autoapi)  
+* Blog with git [https://github.com/joeyespo/gitpress](https://github.com/joeyespo/gitpress)  
+* deadlinks - link checker [https://github.com/butuzov/deadlinks](https://github.com/butuzov/deadlinks)  
+* A rough RSS/Atom feed parser [https://github.com/dcramer/feedreader](https://github.com/dcramer/feedreader)  
+pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyautogit)  
+
 
 **Crypto**  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
@@ -451,6 +476,17 @@ A starter list of information sources for your security investigations & integra
  * Get State Code,City,Area Code,Time Zone,Zip Code [http://www.webservicex.net/New/Home/ServiceDetail/42](http://www.webservicex.net/New/Home/ServiceDetail/42)  
  * GetAirportInformationByCountry [http://www.webservicex.net/New/Home/ServiceDetail/20](http://www.webservicex.net/New/Home/ServiceDetail/20)  
  * Website style analizer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
+
+
+**Bash Shell**  
+* Pure Bash Bible [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)  
+* Slack CLI via pure bash [https://github.com/rockymadden/slack-cli](https://github.com/rockymadden/slack-cli)  
+* A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
+
+
+**Development Environment on a Mac**  
+* A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
+* "A shell script which turns your Mac into an awesome web development machine." [https://github.com/18F/laptop](https://github.com/18F/laptop)  
 
 
  **Temporary list for work tools or other resources requiring more follow-up**  
