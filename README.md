@@ -268,6 +268,7 @@ and
 * deadlinks - link checker [https://github.com/butuzov/deadlinks](https://github.com/butuzov/deadlinks)  
 * A rough RSS/Atom feed parser [https://github.com/dcramer/feedreader](https://github.com/dcramer/feedreader)  
 pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyautogit)  
+* Library of 60+ commonly-used validator functions [https://github.com/insightindustry/validator-collection](https://github.com/insightindustry/validator-collection)  
 
 
 **Crypto**  
@@ -285,7 +286,8 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 and 
 * [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)  
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
-  
+* Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/BurpSuite-Secret_Finder/blob/master/SecretFinder.py](https://github.com/m4ll0k/BurpSuite-Secret_Finder/blob/master/SecretFinder.py)  
+
 **Bash Shell**
 * [ http://cli.learncodethehardway.org/bash_cheat_sheet.pdf](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)  
   
