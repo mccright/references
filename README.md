@@ -288,9 +288,7 @@ and
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
 * Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/BurpSuite-Secret_Finder/blob/master/SecretFinder.py](https://github.com/m4ll0k/BurpSuite-Secret_Finder/blob/master/SecretFinder.py)  
 
-**Bash Shell**
-* [ http://cli.learncodethehardway.org/bash_cheat_sheet.pdf](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)  
-  
+ 
 **DOS/Windows Shell**
 * Guide to Batch Scripting [http://steve-jansen.github.io/guides/windows-batch-scripting/](http://steve-jansen.github.io/guides/windows-batch-scripting/)   
 
@@ -481,6 +479,7 @@ A starter list of information sources for your security investigations & integra
 
 
 **Bash Shell**  
+* Bash scripting CheatSheet [https://devhints.io/bash](https://devhints.io/bash)  
 * Pure Bash Bible [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)  
 * Slack CLI via pure bash [https://github.com/rockymadden/slack-cli](https://github.com/rockymadden/slack-cli)  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
