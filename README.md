@@ -461,6 +461,7 @@ A starter list of information sources for your security investigations & integra
  * Lists of IP addresses by Country - use to block or to assess your log data, etc. [http://www.ipdeny.com/ipblocks/](http://www.ipdeny.com/ipblocks/) 
  * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
  * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
+ * G Suite Toolbox Browserinfo [https://toolbox.googleapps.com/apps/browserinfo/](https://toolbox.googleapps.com/apps/browserinfo/)  
  * A useful set of app-friendly utilities [https://httpbin.org/](https://httpbin.org/), for example, what is your current IP address [https://httpbin.org/ip](https://httpbin.org/ip)  
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
