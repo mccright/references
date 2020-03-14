@@ -57,7 +57,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
   o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
@@ -461,6 +461,7 @@ A starter list of information sources for your security investigations & integra
  * Lists of IP addresses by Country - use to block or to assess your log data, etc. [http://www.ipdeny.com/ipblocks/](http://www.ipdeny.com/ipblocks/) 
  * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
  * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
+ * G Suite Toolbox Browserinfo [https://toolbox.googleapps.com/apps/browserinfo/](https://toolbox.googleapps.com/apps/browserinfo/)  
  * A useful set of app-friendly utilities [https://httpbin.org/](https://httpbin.org/), for example, what is your current IP address [https://httpbin.org/ip](https://httpbin.org/ip)  
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
