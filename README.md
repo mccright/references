@@ -121,6 +121,7 @@ Understanding how the adversary operates is essential to effective cyber securit
  * Abbreviated vulnerability assessment/recon [https://github.com/jivoi/pentest](https://github.com/jivoi/pentest)  
 * 'domain-scan' A lightweight scan pipeline for orchestrating third party tools, at scale and (optionally) using serverless infrastructure [https://github.com/18F/domain-scan](https://github.com/18F/domain-scan)  
 * Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
+* Know your network -- The Ultimate PCAP [https://weberblog.net/the-ultimate-pcap/](https://weberblog.net/the-ultimate-pcap/)  
 
 
 **Pen testing Linux distros**  
