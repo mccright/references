@@ -88,9 +88,15 @@ The information system compiles audit records into a system-wide (logical or phy
 
 **AU-12 (2)	Audit Generation / Standardized Formats**  
 The information system must have the capability to provide and generate audit records in Standardized Format(s).  
-  
+
+
+***Logging the OWASP Way***
+ * Use their excellent CheatSheet: [https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Logging_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Logging_Cheat_Sheet.md)  
+
+
 ***Logging the GCHQ Way***
 TODO: [https://github.com/gchq/event-logging](https://github.com/gchq/event-logging) and [https://github.com/gchq/event-logging-schema](https://github.com/gchq/event-logging-schema)  
+
 
 ***References***
  * Thank you SANS for sending a large paper poster on this topic to goose me into starting on this page.  SANS Securing Web Application Technologies (SWAT) checklist poster, received via surface mail 06-17-2019.  The initial entries in this list were from the top left corner of the checklist side of the poster.  
