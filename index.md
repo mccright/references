@@ -57,7 +57,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
   o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
@@ -552,3 +552,11 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Open source, free textbooks: [https://ocw.mit.edu/courses/online-textbooks/](https://ocw.mit.edu/courses/online-textbooks/) and [https://openstax.org/](https://openstax.org/)  
 * WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
+
+**Projects associated with Novel Corona Virus - COVID-19**  
+* The COVID Tracking Project [https://covidtracking.com/data/](https://covidtracking.com/data/) and their API at [https://covidtracking.com/api/](https://covidtracking.com/api/) using [https://github.com/COVID19Tracking/covid-tracking](https://github.com/COVID19Tracking/covid-tracking)  
+* Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE [https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
+* And another project exposing the Johns Hopkins Univ. CSSE data via API - A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak [https://github.com/ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api)  
+* Simple map: COVID-19 spread in USA [https://public.tableau.com/views/COVID19inUSA/COVID-19spreadinUSA?:display_count=y&:origin=viz_share_link&:showVizHome=no](https://public.tableau.com/views/COVID19inUSA/COVID-19spreadinUSA?:display_count=y&:origin=viz_share_link&:showVizHome=no)  
+* The U.S. Coronavirus Map from NYT [https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) {get a subscription -- support real news and reporting}  
+* And some eye-candy [https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)  
