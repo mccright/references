@@ -12,7 +12,7 @@ First and foremost: a couple **git cheat sheets**
 * and TimGreen's list of git & github features -- with a table of resources and books at the bottom:
 [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 maybe also 
-* [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/) 
+* "The simple guide" [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/) 
 and 
 * [https://github.com/vineetpandey/github-cheat-sheet](https://github.com/vineetpandey/github-cheat-sheet)
 and page 2 of 
