@@ -12,7 +12,7 @@ First and foremost: a couple **git cheat sheets**
 * and TimGreen's list of git & github features -- with a table of resources and books at the bottom:
 [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 maybe also 
-* [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/) 
+* "The simple guide" [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/) 
 and 
 * [https://github.com/vineetpandey/github-cheat-sheet](https://github.com/vineetpandey/github-cheat-sheet)
 and page 2 of 
@@ -57,7 +57,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
   o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
