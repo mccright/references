@@ -272,6 +272,7 @@ and
 * A rough RSS/Atom feed parser [https://github.com/dcramer/feedreader](https://github.com/dcramer/feedreader)  
 pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyautogit)  
 * Library of 60+ commonly-used validator functions [https://github.com/insightindustry/validator-collection](https://github.com/insightindustry/validator-collection)  
+* Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
 
 
 **Crypto**  
