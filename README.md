@@ -556,11 +556,5 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
 
 **Projects associated with Novel Corona Virus - COVID-19**  
-* The COVID Tracking Project [https://covidtracking.com/data/](https://covidtracking.com/data/) and their API at [https://covidtracking.com/api/](https://covidtracking.com/api/) using [https://github.com/COVID19Tracking/covid-tracking](https://github.com/COVID19Tracking/covid-tracking)  
-* Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE [https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
-* And another project exposing the Johns Hopkins Univ. CSSE data via API - A simple and fast (< 200ms) API for tracking the global coronavirus (COVID-19, SARS-CoV-2) outbreak [https://github.com/ExpDev07/coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api)  
-* Simple map: COVID-19 spread in USA [https://public.tableau.com/views/COVID19inUSA/COVID-19spreadinUSA?:display_count=y&:origin=viz_share_link&:showVizHome=no](https://public.tableau.com/views/COVID19inUSA/COVID-19spreadinUSA?:display_count=y&:origin=viz_share_link&:showVizHome=no)  
-* The U.S. Coronavirus Map from NYT [https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) {get a subscription -- support real news and reporting}  
-* And some eye-candy [https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/)  
-
+See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
 
