@@ -229,6 +229,7 @@ and
 **Python**
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
+* Python Cheatsheet from kickstartcoding [https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
 * Type hints cheat sheet (Python 3) [https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)  
 * 71 Python Code Snippets for Everyday Problems [https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/#checking-if-a-file-exists](https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/#checking-if-a-file-exists)  
 * 30-seconds-of-python - Curated collection of useful Python snippets that you can understand in 30 seconds or less  [https://github.com/30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)  
@@ -272,6 +273,7 @@ and
 * A rough RSS/Atom feed parser [https://github.com/dcramer/feedreader](https://github.com/dcramer/feedreader)  
 pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyautogit)  
 * Library of 60+ commonly-used validator functions [https://github.com/insightindustry/validator-collection](https://github.com/insightindustry/validator-collection)  
+* A python library for parsing multiple types of config files, envvars & command line arguments  [https://github.com/naorlivne/parse_it](https://github.com/naorlivne/parse_it)  
 * Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
 
 
@@ -554,6 +556,5 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
 
-
 **Projects associated with Novel Corona Virus - COVID-19**  
-See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md)  
+See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
