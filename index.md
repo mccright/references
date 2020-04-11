@@ -230,6 +230,8 @@ and
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
 * Python Cheatsheet from kickstartcoding [https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
+* PyFormat Using % and .format() [https://pyformat.info/](https://pyformat.info/)  
+* Python's strftime directives [https://strftime.org/](https://strftime.org/)  
 * Type hints cheat sheet (Python 3) [https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)  
 * 71 Python Code Snippets for Everyday Problems [https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/#checking-if-a-file-exists](https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/#checking-if-a-file-exists)  
 * 30-seconds-of-python - Curated collection of useful Python snippets that you can understand in 30 seconds or less  [https://github.com/30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)  
@@ -555,6 +557,8 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Open source, free textbooks: [https://ocw.mit.edu/courses/online-textbooks/](https://ocw.mit.edu/courses/online-textbooks/) and [https://openstax.org/](https://openstax.org/)  
 * WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
+* Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.)  
+By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
 
 **Projects associated with Novel Corona Virus - COVID-19**  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
