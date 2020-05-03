@@ -175,6 +175,7 @@ and
 * [http://www.sitepoint.com/10-javascript-cheat-sheets/](http://www.sitepoint.com/10-javascript-cheat-sheets/)  
 * Learning JavaScript Design Patterns. Volume 1.6.2, By Addy Osmani [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
 * Programming JavaScript Applications. By Eric Elliott [http://chimera.labs.oreilly.com/books/1234000000262/index.html](http://chimera.labs.oreilly.com/books/1234000000262/index.html)  
+* Cheatsheets for experienced React developers getting started with TypeScript [https://github.com/typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)    
 * Node: Up and Running. By Tom Hughes-Croucher and Mike Wilson [http://chimera.labs.oreilly.com/books/1234000001808/index.html](http://chimera.labs.oreilly.com/books/1234000001808/index.html)  
 * Narrative workbook -- This is a companion workbook that will assist you in working through the codeX Narrative that is to be provided. Resources and references provided that will assist you in your journey will be published in the repository. [https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook](https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook)  
 * "Don't make fun of JavaScript" [https://github.com/pixari/dmfojs](https://github.com/pixari/dmfojs) and - GitBook Format - [https://book.dmfoj.dev](https://book.dmfoj.dev)  
@@ -531,6 +532,7 @@ A starter list of information sources for your security investigations & integra
 **Other**  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
 * High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
+* Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
 * International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
