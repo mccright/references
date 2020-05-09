@@ -57,7 +57,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
   o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
@@ -92,6 +92,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
+* An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
@@ -122,6 +123,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * 'domain-scan' A lightweight scan pipeline for orchestrating third party tools, at scale and (optionally) using serverless infrastructure [https://github.com/18F/domain-scan](https://github.com/18F/domain-scan)  
 * Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
 * Know your network -- The Ultimate PCAP [https://weberblog.net/the-ultimate-pcap/](https://weberblog.net/the-ultimate-pcap/)  
+* Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 
 
 **Pen testing Linux distros**  
@@ -567,4 +569,3 @@ By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://gi
 
 **Projects associated with Novel Corona Virus - COVID-19**  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
-
