@@ -92,6 +92,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
+* An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
@@ -122,6 +123,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * 'domain-scan' A lightweight scan pipeline for orchestrating third party tools, at scale and (optionally) using serverless infrastructure [https://github.com/18F/domain-scan](https://github.com/18F/domain-scan)  
 * Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
 * Know your network -- The Ultimate PCAP [https://weberblog.net/the-ultimate-pcap/](https://weberblog.net/the-ultimate-pcap/)  
+* Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 
 
 **Pen testing Linux distros**  
