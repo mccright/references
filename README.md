@@ -308,6 +308,7 @@ and
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
  * Awesome OSINT [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)  
+ * Ammar Amer's OSINT resources [https://github.com/blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)  
  * Discover Your Attack Surface [https://github.com/intrigueio/intrigue-core](https://github.com/intrigueio/intrigue-core)  
  * Alienvault OTX for IPv4, CVE, MD5, SHA1 and SHA2 lookups [https://otx.alienvault.com/](https://otx.alienvault.com/)  
  * Bitcoin Whos Who for Bitcoin lookups [http://bitcoinwhoswho.com/](http://bitcoinwhoswho.com/)  
