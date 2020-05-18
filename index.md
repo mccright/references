@@ -308,6 +308,7 @@ and
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
  * Awesome OSINT [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)  
+ * Ammar Amer's OSINT resources [https://github.com/blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)  
  * Discover Your Attack Surface [https://github.com/intrigueio/intrigue-core](https://github.com/intrigueio/intrigue-core)  
  * Alienvault OTX for IPv4, CVE, MD5, SHA1 and SHA2 lookups [https://otx.alienvault.com/](https://otx.alienvault.com/)  
  * Bitcoin Whos Who for Bitcoin lookups [http://bitcoinwhoswho.com/](http://bitcoinwhoswho.com/)  
@@ -353,6 +354,7 @@ A starter list of information sources for your security investigations & integra
  * Incident "Debriefing Facilitation Guide -- Leading Groups at Etsy to Learn From Accidents." by: John Allspaw, Morgan Evans, Daniel Schauenberg; 2016 [http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) and in MarkDown format: [https://github.com/etsy/DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide)  
  * "Digital Services Playbook." [https://playbook.cio.gov/](https://playbook.cio.gov/) and the source in MarkDown at: [https://github.com/usds/playbook](https://github.com/usds/playbook)  
  * 101 Machine Learning Algorithms for Data Science with Cheat Sheets [https://blog.datasciencedojo.com/machine-learning-algorithms/](https://blog.datasciencedojo.com/machine-learning-algorithms/)  
+ * An extensive list of filetypes and the application(s) associated with them [https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles](https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles)  
 
 **Several Tech Company Research & Security Blogs**
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
