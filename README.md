@@ -31,7 +31,8 @@ cd into your new project directory
 
 
 **Awesome-Awesome**
-A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
+* A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
+* A collection of awesome lists for hackers, pentesters & security researchers [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
 
 **Browse** 
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
