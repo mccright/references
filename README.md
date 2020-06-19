@@ -489,6 +489,9 @@ A starter list of information sources for your security investigations & integra
  * GetGeoIP web service to easily look up countries by IP address  [http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
  * Get domain name registration record by Host Name / Domain Name (WhoIS)  [http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
  * Get weather report for any major cities around the world [http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
+ * A much better way to get weather! ...in your terminal [https://github.com/chubin/wttr.in](https://github.com/chubin/wttr.in) and then try some one-liners, for example:  
+   * ~$ curl https://wttr.in/yourCity?format="%l:+%t+%w+%h+%f"  
+   * in your .bashrc: alias weather='curl https://wttr.in/yourCity'  
  * Get Currency, Curreny code, International Dialing code, ISO country code for all countries [http://www.webservicex.net/New/Home/ServiceDetail/19](http://www.webservicex.net/New/Home/ServiceDetail/19)  
  * Get State Code,City,Area Code,Time Zone,Zip Code [http://www.webservicex.net/New/Home/ServiceDetail/42](http://www.webservicex.net/New/Home/ServiceDetail/42)  
  * GetAirportInformationByCountry [http://www.webservicex.net/New/Home/ServiceDetail/20](http://www.webservicex.net/New/Home/ServiceDetail/20)  
