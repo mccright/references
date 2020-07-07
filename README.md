@@ -11,7 +11,8 @@ First and foremost: a couple **git cheat sheets**
 * [https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
 * and TimGreen's list of git & github features -- with a table of resources and books at the bottom:
 [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
-maybe also 
+maybe also  
+* Michael Gieson's git cheat cheet [https://www.gieson.com/Library/cheatsheets/md.html?git](https://www.gieson.com/Library/cheatsheets/md.html?git)  
 * "The simple guide" [http://rogerdudler.github.io/git-guide/](http://rogerdudler.github.io/git-guide/) 
 and 
 * [https://github.com/vineetpandey/github-cheat-sheet](https://github.com/vineetpandey/github-cheat-sheet)
