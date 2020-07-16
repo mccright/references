@@ -41,7 +41,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 
 **Manage Your Privacy**  
 * Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privacy-checklist](https://github.com/diafygi/privacy-checklist)  
-* 11 tips for protecting your privacy... by Olivia Martin [https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/news/11-tips-protecting-your-privacy-and-digital-security-age-trump/)  
+* 11 tips for protecting your privacy... by Olivia Martin [https://freedom.press/training/blog/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/training/blog/11-tips-protecting-your-privacy-and-digital-security-age-trump/)  
 * Your IP address is sometimes your identity [https://myexternalip.com/](https://myexternalip.com/)  
 
 **Software Vulnerability Detection Resources**  
