@@ -170,6 +170,8 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
 * [https://bitbucket.org/tutorials/markdowndemo](https://bitbucket.org/tutorials/markdowndemo)  
 * Markdown Cheatsheet [http://commonmark.org/help/](http://commonmark.org/help/)  
+* [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+* GitHub Flavored Markdown Spec [https://github.github.com/gfm/](https://github.github.com/gfm/)  
 
 **JavaScript**
 * Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
