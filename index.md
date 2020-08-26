@@ -223,6 +223,7 @@ and
 * And a 'free' temporary platform may also be important: "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev." [https://github.com/haneefmubarak/free-for-dev](https://github.com/haneefmubarak/free-for-dev)  
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
 * Application logging guidance [https://github.com/mccright/references/blob/master/AppSec-Logging.md](https://github.com/mccright/references/blob/master/AppSec-Logging.md)  
+* The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
@@ -480,7 +481,7 @@ A starter list of information sources for your security investigations & integra
  * Lists of IP addresses by Country - use to block or to assess your log data, etc. [http://www.ipdeny.com/ipblocks/](http://www.ipdeny.com/ipblocks/) 
  * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
  * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
- * G Suite Toolbox Browserinfo [https://toolbox.googleapps.com/apps/browserinfo/](https://toolbox.googleapps.com/apps/browserinfo/)  
+ * G Suite Toolbox Browserinfo -- very handy [https://toolbox.googleapps.com/apps/browserinfo/](https://toolbox.googleapps.com/apps/browserinfo/)  
  * A useful set of app-friendly utilities [https://httpbin.org/](https://httpbin.org/), for example, what is your current IP address [https://httpbin.org/ip](https://httpbin.org/ip)  
  * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
  * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
