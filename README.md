@@ -240,10 +240,14 @@ and
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
 * Python Cheatsheet from kickstartcoding [https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
+* Docker Official Python Images [https://hub.docker.com/_/python](https://hub.docker.com/_/python)   
+* A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
+* The best Docker base image for your Python application (April 2020) *tl;dr; Ubuntu LTS or Docker Official Python Debian* [https://pythonspeed.com/articles/base-image-python-docker-images/](https://pythonspeed.com/articles/base-image-python-docker-images/)  
 * PyFormat Using % and .format() [https://pyformat.info/](https://pyformat.info/)  
 * Python's strftime directives [https://strftime.org/](https://strftime.org/)  
 * Python's Pathlib explained [https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)  
 * Type hints cheat sheet (Python 3) [https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)  
+* Write Pythonic Code Like a Seasoned Developer Course [https://training.talkpython.fm/courses/explore_pythonic_code/write-pythonic-code-like-a-seasoned-developer](https://training.talkpython.fm/courses/explore_pythonic_code/write-pythonic-code-like-a-seasoned-developer) and [https://github.com/mikeckennedy/write-pythonic-code-demos](https://github.com/mikeckennedy/write-pythonic-code-demos)  
 * 71 Python Code Snippets for Everyday Problems [https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/#checking-if-a-file-exists](https://therenegadecoder.com/code/python-code-snippets-for-everyday-problems/#checking-if-a-file-exists)  
 * 30-seconds-of-python - Curated collection of useful Python snippets that you can understand in 30 seconds or less  [https://github.com/30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)  
 * Packaging Projects with Python [https://github.com/russomi/packaging_tutorial](https://github.com/russomi/packaging_tutorial)  and [https://packaging.python.org/tutorials/packaging-projects/](https://packaging.python.org/tutorials/packaging-projects/)  
@@ -270,7 +274,7 @@ and
     * pew: provides a set of commands to manage multiple virtual environments [https://pypi.org/project/pew](https://pypi.org/project/pew)  
     * tox: a generic virtualenv management and test automation command line tool, driven by a tox.ini configuration file [https://pypi.org/project/tox](https://pypi.org/project/tox)  
     * nox: a tool that automates testing in multiple Python environments, similar to tox, driven by a noxfile.py configuration file [https://pypi.org/project/nox](https://pypi.org/project/nox)  
-    * And a hot-to [https://www.youtube.com/watch?v=N5vscPTWKOk](https://www.youtube.com/watch?v=N5vscPTWKOk)  
+    * And a how-to [https://www.youtube.com/watch?v=N5vscPTWKOk](https://www.youtube.com/watch?v=N5vscPTWKOk)  
 * How to write good quality Python code with GitHub Actions. By Wojciech Krzywiec [https://medium.com/@wkrzywiec/how-to-write-good-quality-python-code-with-github-actions-2f635a2ab09a](https://medium.com/@wkrzywiec/how-to-write-good-quality-python-code-with-github-actions-2f635a2ab09a)  
 * Automating Every Aspect of Your Python Project [https://martinheinz.dev/blog/17](https://martinheinz.dev/blog/17)  
 * An open-source chart and map framework for realtime data [https://github.com/pubnub/eon](https://github.com/pubnub/eon)  
@@ -288,6 +292,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Library of 60+ commonly-used validator functions [https://github.com/insightindustry/validator-collection](https://github.com/insightindustry/validator-collection)  
 * A python library for parsing multiple types of config files, envvars & command line arguments  [https://github.com/naorlivne/parse_it](https://github.com/naorlivne/parse_it)  
 * Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
+* present: A terminal-based presentation tool with colors and effects. [https://github.com/vinayak-mehta/present](https://github.com/vinayak-mehta/present)  
 
 
 **Crypto**  
@@ -349,6 +354,13 @@ A starter list of information sources for your security investigations & integra
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
 * Chen’s Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
+
+
+**Text to Speech**
+* eSpeak NG [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)  
+* Using eSpeak and eSpeakNG [https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/](https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/)  
+* eSpeak NG TTS Bindings for Python3 [https://github.com/sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python)  
+
 
 **Random Cheat Sheets**  
 * OWASP Cheat Sheet Series index: [https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md](https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md) and [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)  
