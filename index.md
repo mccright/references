@@ -4,6 +4,7 @@ references
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 * Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html)  
+* Explore these falsehoods programmers believe in -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
   
 ***Cheat Sheets***  
@@ -592,6 +593,5 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.)  
 By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
 
-
 **Projects associated with Novel Corona Virus - COVID-19**  
-See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md)  
+See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
