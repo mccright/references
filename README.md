@@ -529,6 +529,23 @@ A starter list of information sources for your security investigations & integra
 * "A shell script which turns your Mac into an awesome web development machine." [https://github.com/18F/laptop](https://github.com/18F/laptop)  
 
 
+**There is probably some free training for that...**  
+* Find a class at https://www.classcentral.com/search or https://www.classcentral.com/subjects  
+* Find out about assistance at: https://www.classcentral.com/help/moocs  
+  * By universities (938 on 12 Sept 2020): https://www.classcentral.com/universities  
+  * By sub-groups of universities: https://www.classcentral.com/collection/ivy-league-moocs  
+  * By commercial Institutions (551 on 12 Sept 2020): https://www.classcentral.com/institutions  
+* Free Online Learning Due to Coronavirus - ClassCentral maintains a list of temporarily free courses at: https://www.classcentral.com/report/free-online-learning-coronavirus/  
+* M.I.T. offers free content on OpenCourseWare: https://ocw.mit.edu/index.htm  
+* Open Culture lists more than 1,500 courses: http://www.openculture.com/freeonlinecourses  
+* Coursera https://www.coursera.org/ and https://www.classcentral.com/report/coursera-free-certificate-covid-19/  
+* edX https://www.edx.org/  
+* FutureLearn https://www.futurelearn.com/ and https://www.classcentral.com/report/futurelearn-free-certificates/  
+* Udacity https://www.udacity.com/  
+* Udemy https://www.udemy.com/courses/free/  
+* Upgrad https://www.upgrad.com/free-courses/  
+
+
  **Temporary list for work tools or other resources requiring more follow-up**  
  * Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
  * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
