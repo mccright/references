@@ -129,6 +129,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Know your network -- The Ultimate PCAP [https://weberblog.net/the-ultimate-pcap/](https://weberblog.net/the-ultimate-pcap/)  
 * Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 * and Chrome's internal URLs for problem solving [chrome://chrome-urls/](chrome://chrome-urls/)
+* nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
 
 
 **Pen testing Linux distros**  
