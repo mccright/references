@@ -92,7 +92,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
 * "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)    
 
-**Web Application Vulnerability Analysis**  
+**Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
@@ -100,8 +100,11 @@ Understanding how the adversary operates is essential to effective cyber securit
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
+* Weird Proxies: a cheat sheet about behaviour of various reverse proxies, cache proxies, load balancers, etc. [https://github.com/GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies)  
+* Collection of security tool cheat sheets [https://github.com/gnebbia/cheatsheets/tree/master/sectool](https://github.com/gnebbia/cheatsheets/tree/master/sectool)
 * OWASP based Web Application Security Testing Checklist as an Excel Workbook [https://github.com/tanprathan/OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist)  
 * Web Application Security Guide/Checklist. [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
+* Awesome WAF [https://github.com/0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)  
 * Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
 * SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
