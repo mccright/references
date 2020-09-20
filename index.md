@@ -129,6 +129,9 @@ Understanding how the adversary operates is essential to effective cyber securit
  * Abbreviated vulnerability assessment/recon [https://github.com/jivoi/pentest](https://github.com/jivoi/pentest)  
 * 'domain-scan' A lightweight scan pipeline for orchestrating third party tools, at scale and (optionally) using serverless infrastructure [https://github.com/18F/domain-scan](https://github.com/18F/domain-scan)  
 * Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
+* Offensive Web Application Penetration Testing Framework [https://github.com/0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework)  
+* Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit [https://github.com/0xInfection/XSRFProbe](https://github.com/0xInfection/XSRFProbe)  
+* Web Application Firewall Fingerprinting Tool [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)  
 * Know your network -- The Ultimate PCAP [https://weberblog.net/the-ultimate-pcap/](https://weberblog.net/the-ultimate-pcap/)  
 * Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 * and Chrome's internal URLs for problem solving [chrome://chrome-urls/](chrome://chrome-urls/)
@@ -481,6 +484,7 @@ A starter list of information sources for your security investigations & integra
   
  **Temporary list for new work tools**  
  * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
+ * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
  * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
  * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
  * Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
