@@ -131,6 +131,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
 * Offensive Web Application Penetration Testing Framework [https://github.com/0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework)  
 * Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit [https://github.com/0xInfection/XSRFProbe](https://github.com/0xInfection/XSRFProbe)  
+* Cross Site Scripting detection suite [https://github.com/s0md3v/XSStrike](https://github.com/s0md3v/XSStrike)  
 * Web Application Firewall Fingerprinting Tool [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)  
 * Know your network -- The Ultimate PCAP [https://weberblog.net/the-ultimate-pcap/](https://weberblog.net/the-ultimate-pcap/)  
 * Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
@@ -222,7 +223,11 @@ and
 * DOD Instruction 8500.2 Full Control List [https://www.stigviewer.com/controls/8500](https://www.stigviewer.com/controls/8500)  
 * NIST 800-53 Controls Veiwer [https://www.stigviewer.com/controls/800-53](https://www.stigviewer.com/controls/800-53)  
 * Unified Compliance Hub for navigating the ever-evolving rats nest of public and private mandates [https://www.unifiedcompliance.com/products/](https://www.unifiedcompliance.com/products/)  
-* [http://www.cheatography.com/tag/programming/](http://www.cheatography.com/tag/programming/)
+* [http://www.cheatography.com/tag/programming/](http://www.cheatography.com/tag/programming/)  
+* PortSwigger's Cross-site scripting (XSS) cheat sheet [https://portswigger.net/web-security/cross-site-scripting/cheat-sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)  
+* A small collection of XSS-Payloads [https://github.com/terjanq/Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads)  
+* XSS-Payloads [https://github.com/RenwaX23/XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)  
+* Awesome XSS [https://github.com/s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS)  
 * XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Java Deserialization Cheat Sheet [https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)  
@@ -300,6 +305,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Library of 60+ commonly-used validator functions [https://github.com/insightindustry/validator-collection](https://github.com/insightindustry/validator-collection)  
 * A python library for parsing multiple types of config files, envvars & command line arguments  [https://github.com/naorlivne/parse_it](https://github.com/naorlivne/parse_it)  
 * Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
+* Search for strings in source code - at scale [https://github.com/s0md3v/hardcodes](https://github.com/s0md3v/hardcodes)  
 * present: A terminal-based presentation tool with colors and effects. [https://github.com/vinayak-mehta/present](https://github.com/vinayak-mehta/present)  
 
 
