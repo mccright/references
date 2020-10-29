@@ -252,6 +252,7 @@ and
 **Python**
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
+* another Python CheatSheet - my current favorite [https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)  
 * Python Cheatsheet from kickstartcoding [https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
 * Docker Official Python Images [https://hub.docker.com/_/python](https://hub.docker.com/_/python)   
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
@@ -613,7 +614,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
   * And 2017: "Global Risks 2017 -- 12th Edition" [http://www3.weforum.org/docs/GRR17_Report_web.pdf](http://www3.weforum.org/docs/GRR17_Report_web.pdf)  
   * And 2018:  "The Global Risks Report 2018 - 13th Edition" [http://www3.weforum.org/docs/WEF_GRR18_Report.pdf](http://www3.weforum.org/docs/WEF_GRR18_Report.pdf)  
   * And 2019: "The Global Risks Report 2019 - 14th Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf)  
-  * And most recently: "The Global Risks Report 2020 - 15th Edition"[http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf)  
+  * And most recently: "The Global Risks Report 2020 - 15th Edition"[http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf) or [https://reports.weforum.org/global-risks-report-2020/](https://reports.weforum.org/global-risks-report-2020/)  
 * A definitive list of tools for generating static websites [https://github.com/pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)   
 * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
 * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
