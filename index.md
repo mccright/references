@@ -609,6 +609,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Awesome Selfhosted. This is a list of Free Software network services and web applications which can be hosted locally. [https://github.com/Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)  
 * Awesome SysAdmin. A list of open source sysadmin resources. [https://github.com/kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)  
 * Awesome Data Science.  A repository of resources to learn and apply for real world problems. [https://github.com/okulbilisim/awesome-datascience](https://github.com/okulbilisim/awesome-datascience)  
+   * And data from OurWorldInData for your experiments: [https://github.com/owid/owid-datasets/tree/master/datasets](https://github.com/owid/owid-datasets/tree/master/datasets)  
 * Awesome R [https://github.com/qinwf/awesome-R](https://github.com/qinwf/awesome-R) and [https://awesome-r.com/](https://awesome-r.com/)  
 * Managing risk in the context of a long time-horizon.  
   * See the "Global Risks 2014 - Ninth Edition" Insight Report from the World Economic Forum. [http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf](http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf)   Especially part 2, pages 38-49. It is a short read on risks associated with -- among other topics -- the way the Internet is evolving, risks associated with "trust," and "managing risk" in the context of a long time-horizon.  
