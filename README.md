@@ -597,6 +597,7 @@ A starter list of information sources for your security investigations & integra
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
 * High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
+* Getting communications right is hard. Language is a foundational component.  WorkNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
 * International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
