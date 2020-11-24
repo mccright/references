@@ -275,6 +275,7 @@ and
 * Python Docker image with poetry as dependency manager. [https://github.com/etienne-napoleone/docker-python-poetry](https://github.com/etienne-napoleone/docker-python-poetry)  
 * Essential python tools - Quality [http://aboumrad.info/essential-python-tools-quality.html](http://aboumrad.info/essential-python-tools-quality.html)  
 * Pythonic Data Structures and Algorithms [https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
+* Like the safety of with statements, just not in your code? Let 'just' take care of it [https://github.com/kootenpv/just](https://github.com/kootenpv/just)  
 * Error-handling examples: [https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py](https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py)  
 * Datetime examples: [https://github.com/ianozsvald/datetime-examples/blob/master/examples.py](https://github.com/ianozsvald/datetime-examples/blob/master/examples.py)  
 * Scientific Python Cheatsheet [https://ipgp.github.io/scientific_python_cheat_sheet/](https://ipgp.github.io/scientific_python_cheat_sheet/)  
@@ -301,6 +302,7 @@ and
 * A general purpose Python automatization library with real-time web UI [https://github.com/tuomas2/automate](https://github.com/tuomas2/automate)  
 * tmux session manager [https://github.com/tmux-python/tmuxp](https://github.com/tmux-python/tmuxp)  
 * web.py is a web framework for Python that is as simple as it is powerful. [https://github.com/webpy/webpy](https://github.com/webpy/webpy)  
+* Need to upgrade ad-hoc calls to Requests with a client-side API for your apps? [https://github.com/prkumar/uplink](https://github.com/prkumar/uplink)  
 * A basic spreadsheet to api engine [https://github.com/18F/autoapi](https://github.com/18F/autoapi)  
 * Blog with git [https://github.com/joeyespo/gitpress](https://github.com/joeyespo/gitpress)  
 * deadlinks - link checker [https://github.com/butuzov/deadlinks](https://github.com/butuzov/deadlinks)  
@@ -310,6 +312,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * A python library for parsing multiple types of config files, envvars & command line arguments  [https://github.com/naorlivne/parse_it](https://github.com/naorlivne/parse_it)  
 * Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
 * Search for strings in source code - at scale [https://github.com/s0md3v/hardcodes](https://github.com/s0md3v/hardcodes)  
+* Present data in tables on your terminal [https://github.com/Robpol86/terminaltables](https://github.com/Robpol86/terminaltables)  
 * present: A terminal-based presentation tool with colors and effects. [https://github.com/vinayak-mehta/present](https://github.com/vinayak-mehta/present)  
 
 
