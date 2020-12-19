@@ -239,6 +239,7 @@ and
 * And a 'free' temporary platform may also be important: "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev." [https://github.com/haneefmubarak/free-for-dev](https://github.com/haneefmubarak/free-for-dev)  
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
 * Application logging guidance [https://github.com/mccright/references/blob/master/AppSec-Logging.md](https://github.com/mccright/references/blob/master/AppSec-Logging.md)  
+* One approach to loggiing in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 
 **PHP**
@@ -256,6 +257,7 @@ and
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
 * another Python CheatSheet - my current favorite [https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)  
 * Python Cheatsheet from kickstartcoding [https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
+* A neat set of PDF topical Python cheatsheets by the author of ["Python Crash Course" by Eric Matthes](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_2?crid=EWAWN9O4URJY&dchild=1&keywords=python+crash+course+2nd+edition+by+eric+matthes&qid=1608398592&sprefix=%22python+crash+course%22%2Caps%2C200&sr=8-2) [http://ehmatthes.github.io/pcc/cheatsheets/README.html](http://ehmatthes.github.io/pcc/cheatsheets/README.html) and another version for the 2nd edition of PCC at [https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)  
 * 73 Examples to Help You Master Python's f-strings [https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings](https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings)  
 * Docker Official Python Images [https://hub.docker.com/_/python](https://hub.docker.com/_/python)   
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
@@ -314,6 +316,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Search for strings in source code - at scale [https://github.com/s0md3v/hardcodes](https://github.com/s0md3v/hardcodes)  
 * Present data in tables on your terminal [https://github.com/Robpol86/terminaltables](https://github.com/Robpol86/terminaltables)  
 * present: A terminal-based presentation tool with colors and effects. [https://github.com/vinayak-mehta/present](https://github.com/vinayak-mehta/present)  
+* Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
 
 
 **Crypto**  
