@@ -388,6 +388,7 @@ A starter list of information sources for your security investigations & integra
 
 
 **Random Cheat Sheets**  
+* Cheat Sheets from a terminal via curl: [http://cheat.sh/](http://cheat.sh/)  
 * OWASP Cheat Sheet Series index: [https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md](https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md) and [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)  
 * Massive list of links to lists associated with programming and languages [https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/](https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/)  
 * SQL Injection Cheat Sheet [https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)   
