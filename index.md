@@ -636,6 +636,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Open source, free textbooks: [https://ocw.mit.edu/courses/online-textbooks/](https://ocw.mit.edu/courses/online-textbooks/) and [https://openstax.org/](https://openstax.org/)  
 * WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
+* The *real* cost of a car [https://www.carboncounter.com/#!/explore](https://www.carboncounter.com/#!/explore)  
 * Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.)  
 By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
 
