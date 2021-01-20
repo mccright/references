@@ -273,6 +273,7 @@ and
 * Packaging Projects with Python [https://github.com/russomi/packaging_tutorial](https://github.com/russomi/packaging_tutorial)  and [https://packaging.python.org/tutorials/packaging-projects/](https://packaging.python.org/tutorials/packaging-projects/)  
 * MATLAB–Python–Julia cheatsheet [https://cheatsheets.quantecon.org/](https://cheatsheets.quantecon.org/)  
 * Awesome Python -- A curated list of awesome Python frameworks, libraries and software. Inspired by awesome-php. [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python)  
+* Best-of Web Development with Python, curated & ranked list [https://github.com/ml-tooling/best-of-web-python](https://github.com/ml-tooling/best-of-web-python)  
 * Awesome Python Security [https://github.com/guardrailsio/awesome-python-security](https://github.com/guardrailsio/awesome-python-security)  
 * Awesome Flask [https://github.com/mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask)  
 * Python Docker image with poetry as dependency manager. [https://github.com/etienne-napoleone/docker-python-poetry](https://github.com/etienne-napoleone/docker-python-poetry)  
