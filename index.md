@@ -600,6 +600,13 @@ A starter list of information sources for your security investigations & integra
  * Creepy Wireless Stalking Made Easy [https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/](https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/)  
  * WarWalking With The ESP8266 [https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/](https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/)  
  * Windows 10 Wi-Fi Analyzer [https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n](https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n)  
+ * Code Review Questions:  
+   * Eric Farkas: [http://ericfarkas.com/posts/questions-i-ask-during-code-review](http://ericfarkas.com/posts/questions-i-ask-during-code-review)  
+   * thoughbot’s Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
+   * Examples from StackExchange [https://security.stackexchange.com/questions/tagged/code-review](https://security.stackexchange.com/questions/tagged/code-review)  
+   * Another [https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff](https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff)  
+   * How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
+   * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
  
 **Other**  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
