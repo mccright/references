@@ -254,6 +254,8 @@ and
 
 
 **Python**
+* Hitchhiker's Guide to Python [https://github.com/realpython/python-guide](https://github.com/realpython/python-guide)  
+  * and its 'Web Applications & Frameworks' section [https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst](https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst)  
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
 * another Python CheatSheet - my current favorite [https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)  
