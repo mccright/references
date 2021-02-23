@@ -339,7 +339,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 and 
 * [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)  
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
-* Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/BurpSuite-Secret_Finder/blob/master/SecretFinder.py](https://github.com/m4ll0k/BurpSuite-Secret_Finder/blob/master/SecretFinder.py)  
+* Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py](https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py)  
 
  
 **DOS/Windows Shell**
