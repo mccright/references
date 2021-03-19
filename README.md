@@ -471,6 +471,7 @@ A starter list of information sources for your security investigations & integra
 (and for more details)  
  * 1 Raindrop [http://1raindrop.typepad.com/1_raindrop/](http://1raindrop.typepad.com/1_raindrop/)  
  * Information Week Dark Reading [http://www.darkreading.com/](http://www.darkreading.com/)  
+ * Dark Reading aggregation of news about attacks and breaches [https://www.darkreading.com/attacks-breaches.asp](https://www.darkreading.com/attacks-breaches.asp)  
  * White Hat Security Blog [https://blog.whitehatsec.com/](https://blog.whitehatsec.com/)  
  * Sucuri Blog [https://blog.sucuri.net/](https://blog.sucuri.net/)  
  * FireEye Blog [https://www.fireeye.com/blog/threat-research.html](https://www.fireeye.com/blog/threat-research.html)  
