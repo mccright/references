@@ -3,7 +3,7 @@ references
 
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
-* Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html)  
+* Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Explore these falsehoods programmers believe in -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
   
@@ -339,7 +339,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 and 
 * [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)  
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
-* Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/BurpSuite-Secret_Finder/blob/master/SecretFinder.py](https://github.com/m4ll0k/BurpSuite-Secret_Finder/blob/master/SecretFinder.py)  
+* Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py](https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py)  
 
  
 **DOS/Windows Shell**
@@ -471,6 +471,7 @@ A starter list of information sources for your security investigations & integra
 (and for more details)  
  * 1 Raindrop [http://1raindrop.typepad.com/1_raindrop/](http://1raindrop.typepad.com/1_raindrop/)  
  * Information Week Dark Reading [http://www.darkreading.com/](http://www.darkreading.com/)  
+ * Dark Reading aggregation of news about attacks and breaches [https://www.darkreading.com/attacks-breaches.asp](https://www.darkreading.com/attacks-breaches.asp)  
  * White Hat Security Blog [https://blog.whitehatsec.com/](https://blog.whitehatsec.com/)  
  * Sucuri Blog [https://blog.sucuri.net/](https://blog.sucuri.net/)  
  * FireEye Blog [https://www.fireeye.com/blog/threat-research.html](https://www.fireeye.com/blog/threat-research.html)  
