@@ -550,6 +550,7 @@ A starter list of information sources for your security investigations & integra
 
 **Bash Shell**  
 * Bash scripting CheatSheet [https://devhints.io/bash](https://devhints.io/bash)  
+* Bash for the shell novice [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
 * Pure Bash Bible [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)  
 * Slack CLI via pure bash [https://github.com/rockymadden/slack-cli](https://github.com/rockymadden/slack-cli)  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
