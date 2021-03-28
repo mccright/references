@@ -583,6 +583,7 @@ A starter list of information sources for your security investigations & integra
 
  **Temporary list for work tools or other resources requiring more follow-up**  
  * Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
+ * Raspberry Pi: Tutorials, Models, How to Get Started by Avram Piltch, Tom's Hardware [https://www.tomshardware.com/news/raspberry-pi](https://www.tomshardware.com/news/raspberry-pi)  
  * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
  * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
  * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
