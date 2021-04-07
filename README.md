@@ -142,6 +142,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * DNS research [https://github.com/ogham/dog](https://github.com/ogham/dog)  
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
+* Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
 
 
 **Pen testing Linux distros**  
