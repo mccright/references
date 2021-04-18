@@ -104,10 +104,12 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
 * Weird Proxies: a cheat sheet about behaviour of various reverse proxies, cache proxies, load balancers, etc. [https://github.com/GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies)  
+* Fetch a list of currently-working proxies [https://github.com/stamparm/fetch-some-proxies](https://github.com/stamparm/fetch-some-proxies)  
 * Collection of security tool cheat sheets [https://github.com/gnebbia/cheatsheets/tree/master/sectool](https://github.com/gnebbia/cheatsheets/tree/master/sectool)
 * OWASP based Web Application Security Testing Checklist as an Excel Workbook [https://github.com/tanprathan/OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist)  
 * Web Application Security Guide/Checklist. [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
 * Awesome WAF [https://github.com/0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)  
+* identYwaf is a WAF protection type identification tool using *loud* techniques [https://github.com/stamparm/identYwaf](https://github.com/stamparm/identYwaf)  
 * Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
 * SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
@@ -143,6 +145,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
+* Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
 
 
 **Pen testing Linux distros**  
