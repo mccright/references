@@ -142,6 +142,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * DNS research [https://github.com/ogham/dog](https://github.com/ogham/dog)  
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
+* Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
 
 
 **Pen testing Linux distros**  
@@ -370,13 +371,18 @@ A starter list of information sources for your security investigations & integra
  * PassiveTotal for FQDN Whois lookups [https://www.passivetotal.org/](https://www.passivetotal.org/)  
  * PulseDive for IPv4, FQDN and URL lookups [https://pulsedive.com/](https://pulsedive.com/)  
  * Recorded Future for IPv4, FQDN, MD5, SHA1 and SHA2 lookups [http://recordedfuture.com/](http://recordedfuture.com/)  
- * Shodan for IPv4 lookups [https://www.shodan.io/](https://www.shodan.io/)  
-     * Search Query Fundamentals: [https://help.shodan.io/the-basics/search-query-fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)  
-     * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
+ * For IP lookups and much more:
+     * Shodan [https://www.shodan.io/](https://www.shodan.io/)  
+         * Search Query Fundamentals: [https://help.shodan.io/the-basics/search-query-fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)  
+         * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
+     * Greynoise [https://viz.greynoise.io/trends](https://viz.greynoise.io/trends)  
+     * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
  * ThreatCrowd for IPv4, FQDN and MD5 lookups [https://www.threatcrowd.org/](https://www.threatcrowd.org/)  
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
+ * Wigle for WiFi [https://wigle.net/](https://wigle.net/)  
+ * Sourc ecode Search [https://publicwww.com/](https://publicwww.com/)  
+ * Find *professional* email addresses [https://hunter.io/](https://hunter.io/)  
  * VirusTotal for MD5, SHA1, SHA2, URL and FQDN lookups [https://www.virustotal.com/](https://www.virustotal.com/)  
- * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
  * Buster, An advanced tool for email reconnaissance [https://github.com/sham00n/buster](https://github.com/sham00n/buster)  
  * WayBulk, Search a list of domains on the wayback machine [https://github.com/sham00n/waybulk](https://github.com/sham00n/waybulk)  
 
@@ -582,7 +588,11 @@ A starter list of information sources for your security investigations & integra
 
 
  **Temporary list for work tools or other resources requiring more follow-up**  
+ * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
+   * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
+   * Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
  * Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
+ * Raspberry Pi: Tutorials, Models, How to Get Started by Avram Piltch, Tom's Hardware [https://www.tomshardware.com/news/raspberry-pi](https://www.tomshardware.com/news/raspberry-pi)  
  * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
  * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
  * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
