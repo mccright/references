@@ -159,7 +159,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
 * Shell Script to Convert Your Debian Into Parrot OS Pentesting Mach1ne [https://github.com/blackhatethicalhacking/parrotfromdebian](https://github.com/blackhatethicalhacking/parrotfromdebian)  
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
-* mx-live-usb-maker [https://github.com/MX-Linux/mx-live-usb-maker](https://github.com/MX-Linux/mx-live-usb-maker)  
+* mx-live-usb-maker [https://github.com/MX-Linux/mx-live-usb-maker](https://github.com/MX-Linux/mx-live-usb-maker) and [https://github.com/MX-Linux/lum-qt-appimage/releases](https://github.com/MX-Linux/lum-qt-appimage/releases)  
 * and some Security-oriented Docker containers [https://github.com/khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
