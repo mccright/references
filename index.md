@@ -104,10 +104,12 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
 * Weird Proxies: a cheat sheet about behaviour of various reverse proxies, cache proxies, load balancers, etc. [https://github.com/GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies)  
+* Fetch a list of currently-working proxies [https://github.com/stamparm/fetch-some-proxies](https://github.com/stamparm/fetch-some-proxies)  
 * Collection of security tool cheat sheets [https://github.com/gnebbia/cheatsheets/tree/master/sectool](https://github.com/gnebbia/cheatsheets/tree/master/sectool)
 * OWASP based Web Application Security Testing Checklist as an Excel Workbook [https://github.com/tanprathan/OWASP-Testing-Checklist](https://github.com/tanprathan/OWASP-Testing-Checklist)  
 * Web Application Security Guide/Checklist. [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
 * Awesome WAF [https://github.com/0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)  
+* identYwaf is a WAF protection type identification tool using *loud* techniques [https://github.com/stamparm/identYwaf](https://github.com/stamparm/identYwaf)  
 * Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
 * SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
@@ -143,6 +145,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
+* Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
 
 
 **Pen testing Linux distros**  
@@ -156,6 +159,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
 * Shell Script to Convert Your Debian Into Parrot OS Pentesting Mach1ne [https://github.com/blackhatethicalhacking/parrotfromdebian](https://github.com/blackhatethicalhacking/parrotfromdebian)  
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
+* mx-live-usb-maker [https://github.com/MX-Linux/mx-live-usb-maker](https://github.com/MX-Linux/mx-live-usb-maker)  
 * and some Security-oriented Docker containers [https://github.com/khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
@@ -559,7 +563,9 @@ A starter list of information sources for your security investigations & integra
 
 **Bash Shell**  
 * Bash scripting CheatSheet [https://devhints.io/bash](https://devhints.io/bash)  
-* Bash for the shell novice [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)  
+* Bash for the shell novice:  
+  * [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)  
+  * [https://help.ubuntu.com/community/Beginners/BashScripting](https://help.ubuntu.com/community/Beginners/BashScripting)  
 * Pure Bash Bible [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)  
 * Slack CLI via pure bash [https://github.com/rockymadden/slack-cli](https://github.com/rockymadden/slack-cli)  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
@@ -654,7 +660,8 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
   * And 2017: "Global Risks 2017 -- 12th Edition" [http://www3.weforum.org/docs/GRR17_Report_web.pdf](http://www3.weforum.org/docs/GRR17_Report_web.pdf)  
   * And 2018:  "The Global Risks Report 2018 - 13th Edition" [http://www3.weforum.org/docs/WEF_GRR18_Report.pdf](http://www3.weforum.org/docs/WEF_GRR18_Report.pdf)  
   * And 2019: "The Global Risks Report 2019 - 14th Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf)  
-  * And most recently: "The Global Risks Report 2020 - 15th Edition"[http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf) or [https://reports.weforum.org/global-risks-report-2020/](https://reports.weforum.org/global-risks-report-2020/)  
+  * And 2020: "The Global Risks Report 2020 - 20th Edition"[http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf) or [https://reports.weforum.org/global-risks-report-2020/](https://reports.weforum.org/global-risks-report-2020/)  
+  *  * And most recently: "The Global Risks Report 2021 - 16th Edition" [http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf](http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf)  
 * A definitive list of tools for generating static websites [https://github.com/pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)   
 * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
 * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
