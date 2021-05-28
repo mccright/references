@@ -516,6 +516,8 @@ A starter list of information sources for your security investigations & integra
  * Rafael Micro R820T2 Data Sheet (24-1766 MHz, newer lower noise version of the R820T):  Some info in [https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf](https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf) and register descriptions here: [https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/](https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/) and [https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf](https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf)  
  * Source Code examples for interacting with the R820TU: [https://github.com/emeb/r820t2/tree/master/f030_r820t2](https://github.com/emeb/r820t2/tree/master/f030_r820t2)  
  * "Hello, world!" for GNSS-SDR: [http://gnss-sdr.org/my-first-fix/](http://gnss-sdr.org/my-first-fix/)  
+ * Dump 1090 is a Mode S decoder specifically designed for RTLSDR devices [https://github.com/antirez/dump1090](https://github.com/antirez/dump1090)  
+ * An improved webinterface for use with ADS-B decoders readsb / dump1090-fa [https://github.com/wiedehopf/tar1090](https://github.com/wiedehopf/tar1090)  
   
   
  **Temporary list for new work tools**  
