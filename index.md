@@ -6,6 +6,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Explore these falsehoods programmers believe in -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
+* Remember the *Ten simple rules for making research software more robust* [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
   
 ***Cheat Sheets***  
 First and foremost: a couple **git cheat sheets** 
@@ -159,7 +160,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Parrot Security OS [https://www.parrotsec.org/](https://www.parrotsec.org/)  
 * Shell Script to Convert Your Debian Into Parrot OS Pentesting Mach1ne [https://github.com/blackhatethicalhacking/parrotfromdebian](https://github.com/blackhatethicalhacking/parrotfromdebian)  
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
-* mx-live-usb-maker [https://github.com/MX-Linux/mx-live-usb-maker](https://github.com/MX-Linux/mx-live-usb-maker)  
+* mx-live-usb-maker [https://github.com/MX-Linux/mx-live-usb-maker](https://github.com/MX-Linux/mx-live-usb-maker) and [https://github.com/MX-Linux/lum-qt-appimage/releases](https://github.com/MX-Linux/lum-qt-appimage/releases)  
 * and some Security-oriented Docker containers [https://github.com/khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
@@ -516,6 +517,8 @@ A starter list of information sources for your security investigations & integra
  * Rafael Micro R820T2 Data Sheet (24-1766 MHz, newer lower noise version of the R820T):  Some info in [https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf](https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf) and register descriptions here: [https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/](https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/) and [https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf](https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf)  
  * Source Code examples for interacting with the R820TU: [https://github.com/emeb/r820t2/tree/master/f030_r820t2](https://github.com/emeb/r820t2/tree/master/f030_r820t2)  
  * "Hello, world!" for GNSS-SDR: [http://gnss-sdr.org/my-first-fix/](http://gnss-sdr.org/my-first-fix/)  
+ * Dump 1090 is a Mode S decoder specifically designed for RTLSDR devices [https://github.com/antirez/dump1090](https://github.com/antirez/dump1090)  
+ * An improved webinterface for use with ADS-B decoders readsb / dump1090-fa [https://github.com/wiedehopf/tar1090](https://github.com/wiedehopf/tar1090)  
   
   
  **Temporary list for new work tools**  
@@ -675,3 +678,10 @@ By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://gi
 
 **Projects associated with Novel Corona Virus - COVID-19**  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
+
+**Broadly Reusable Advice**  
+* "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they’re confident it won’t work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
+* On Being Fired [https://third-bit.com/rules/#being-fired](https://third-bit.com/rules/#being-fired)  
+* Ten quick tips for delivering programming lessons [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433)  
+* Ten quick tips for teaching programming [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)  
+* Ten simple rules for making research software more robust [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
