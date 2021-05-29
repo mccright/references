@@ -54,7 +54,8 @@ j) File creation and deletion;
 k) Read access to information deemed critically sensitive (as prioritized by our various constituencies);  
 l) Modification to information deemed critically sensitive (as prioritized by our various constituencies);  
 m) Printing sensitive information; and  
-n) Database modifications (e.g., schema changes, dropped tables, etc.).  
+n) Database modifications (e.g., schema changes, dropped tables, etc.);  
+o) Any event or condition that is not specifically defined  
 
 **NIST AU-3**  
 Log records must contain information that establishes what type of event occurred, when the event occurred, where the event occurred, the source of the event, the outcome of the event, and the identity of any individuals or subjects associated with the event.  
