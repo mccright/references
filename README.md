@@ -594,6 +594,7 @@ A starter list of information sources for your security investigations & integra
 * Udacity https://www.udacity.com/  
 * Udemy https://www.udemy.com/courses/free/  
 * Upgrad https://www.upgrad.com/free-courses/  
+* Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers [https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)  
 
 
  **Temporary list for work tools or other resources requiring more follow-up**  
