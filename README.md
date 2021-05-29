@@ -31,7 +31,14 @@ cd into your new project directory
 **git init** (builds a .git directory that contains all the metadata and repository history)  
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
-
+  
+Rename your old github repo 'master' branch to 'main'...
+```shell
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+```
 
 **Awesome-Awesome**
 * A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
