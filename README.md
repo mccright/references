@@ -32,7 +32,7 @@ cd into your new project directory
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
   
-Rename your old github repo 'master' branch to 'main'...
+Rename your old github repo ['master' branch to 'main'](https://github.com/mccright/rand-notes/blob/master/OffensiveTechTerms.md)...  
 ```shell
 git branch -m master main
 git fetch origin
