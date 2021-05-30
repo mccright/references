@@ -45,7 +45,7 @@ a) Server alerts and error messages;
 b) User log-on and log-off (successful or unsuccessful);  
 c) All system administration activities;  
 d) Modification of privileges and access;  
-e) Start up and shut down;  
+e) Application start up and shut down;  
 f) Application modifications (e.g., new code);  
 g) Application alerts and error messages;  
 h) Configuration changes;  
@@ -97,6 +97,19 @@ The information system must have the capability to provide and generate audit re
 
 ***Logging the GCHQ Way***
 TODO: [https://github.com/gchq/event-logging](https://github.com/gchq/event-logging) and [https://github.com/gchq/event-logging-schema](https://github.com/gchq/event-logging-schema)  
+
+
+**Log records should include at least the following elements:**  
+
+* Identifier of the system that generated the event  
+* Timestamp of the event  
+* The action or type of event and any relevant data  
+  * Additional context where relevant  
+* Success or failure of the action  
+* The user associated with the event  
+* Remote address, if the event occurs over a network connection  
+  * If there is a proxy or gateway in the path, pay special care to log the user's/the far endpoint's IP address, not the proxy/gateway.  
+* (*selectively*) The browser user agent string, if the event occurs as the result of events initiated in/by a browser.  
 
 
 ***References***
