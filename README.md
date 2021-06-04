@@ -220,6 +220,7 @@ and
 **General Secure Programming**  
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
+* Static analysis tools for *all* programming languages [https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
 * Awesome Static Analysis -  a collection of static analysis tools and code quality checkers. [https://github.com/mre/awesome-static-analysis](https://github.com/mre/awesome-static-analysis)  
 * Python Taint -- pyt -- A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications [https://github.com/python-security/pyt](https://github.com/python-security/pyt)  
 * Awesome CI {Continuation Integration}, Incl. tools for git, file and static source code security analysis - [https://github.com/cytopia/awesome-ci](https://github.com/cytopia/awesome-ci)  
