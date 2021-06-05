@@ -253,6 +253,7 @@ and
 * Java Deserialization Cheat Sheet [https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)  
 * HTTP Status Codes on-line [https://httpstatuses.com/](https://httpstatuses.com/)   
 * HTTP Status Codes local [https://github.com/mychris/scripts/blob/master/httpstatus](https://github.com/mychris/scripts/blob/master/httpstatus)  
+* IANA Hypertext Transfer Protocol (HTTP) Status Code Registry [http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)  
 * Sometimes it is just important to get started: "Hello world in every computer language." [https://github.com/leachim6/hello-world](https://github.com/leachim6/hello-world)  
 * And a 'free' temporary platform may also be important: "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev." [https://github.com/haneefmubarak/free-for-dev](https://github.com/haneefmubarak/free-for-dev)  
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
