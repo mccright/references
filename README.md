@@ -531,6 +531,7 @@ A starter list of information sources for your security investigations & integra
   
   
  **Temporary list for new work tools**  
+ * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
  * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
  * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
  * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
