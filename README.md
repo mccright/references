@@ -150,6 +150,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 * and Chrome's internal URLs for problem solving [chrome://chrome-urls/](chrome://chrome-urls/)  
 * DNS research [https://github.com/ogham/dog](https://github.com/ogham/dog)  
+* HTTPie, a user-friendly command-line HTTP client for the API era [https://httpie.io/](https://httpie.io/)  
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
