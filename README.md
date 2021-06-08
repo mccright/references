@@ -152,6 +152,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * DNS research [https://github.com/ogham/dog](https://github.com/ogham/dog)  
 * HTTPie, a user-friendly command-line HTTP client for the API era [https://httpie.io/](https://httpie.io/)  
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
+* Using custom nmap port sets [https://bsago.me/tech-notes/custom-nmap-port-sets](https://bsago.me/tech-notes/custom-nmap-port-sets)  
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
 * Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
