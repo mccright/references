@@ -32,7 +32,7 @@ cd into your new project directory
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
   
-Rename your old github repo 'master' branch to 'main'...
+Rename your old github repo ['master' branch to 'main'](https://github.com/mccright/rand-notes/blob/master/OffensiveTechTerms.md)...  
 ```shell
 git branch -m master main
 git fetch origin
@@ -150,7 +150,9 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 * and Chrome's internal URLs for problem solving [chrome://chrome-urls/](chrome://chrome-urls/)  
 * DNS research [https://github.com/ogham/dog](https://github.com/ogham/dog)  
+* HTTPie, a user-friendly command-line HTTP client for the API era [https://httpie.io/](https://httpie.io/)  
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
+* Using custom nmap port sets [https://bsago.me/tech-notes/custom-nmap-port-sets](https://bsago.me/tech-notes/custom-nmap-port-sets)  
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
 * Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
@@ -200,7 +202,8 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * Markdown Cheatsheet [http://commonmark.org/help/](http://commonmark.org/help/)  
 * [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 * GitHub Flavored Markdown Spec [https://github.github.com/gfm/](https://github.github.com/gfm/)  
-* Another GitHub Flavored Markdown cheatsheet [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)   
+* Another GitHub Flavored Markdown cheatsheet [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)  
+* Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/)  
 
 **JavaScript**
 * Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
@@ -220,6 +223,7 @@ and
 **General Secure Programming**  
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
+* Static analysis tools for *all* programming languages [https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
 * Awesome Static Analysis -  a collection of static analysis tools and code quality checkers. [https://github.com/mre/awesome-static-analysis](https://github.com/mre/awesome-static-analysis)  
 * Python Taint -- pyt -- A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications [https://github.com/python-security/pyt](https://github.com/python-security/pyt)  
 * Awesome CI {Continuation Integration}, Incl. tools for git, file and static source code security analysis - [https://github.com/cytopia/awesome-ci](https://github.com/cytopia/awesome-ci)  
@@ -252,6 +256,7 @@ and
 * Java Deserialization Cheat Sheet [https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)  
 * HTTP Status Codes on-line [https://httpstatuses.com/](https://httpstatuses.com/)   
 * HTTP Status Codes local [https://github.com/mychris/scripts/blob/master/httpstatus](https://github.com/mychris/scripts/blob/master/httpstatus)  
+* IANA Hypertext Transfer Protocol (HTTP) Status Code Registry [http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)  
 * Sometimes it is just important to get started: "Hello world in every computer language." [https://github.com/leachim6/hello-world](https://github.com/leachim6/hello-world)  
 * And a 'free' temporary platform may also be important: "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev." [https://github.com/haneefmubarak/free-for-dev](https://github.com/haneefmubarak/free-for-dev)  
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
@@ -529,6 +534,7 @@ A starter list of information sources for your security investigations & integra
   
   
  **Temporary list for new work tools**  
+ * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
  * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
  * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
  * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
