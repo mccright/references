@@ -203,7 +203,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 * GitHub Flavored Markdown Spec [https://github.github.com/gfm/](https://github.github.com/gfm/)  
 * Another GitHub Flavored Markdown cheatsheet [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)  
-* Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/)  
+* Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/) and [https://staticsitegenerators.net/](https://staticsitegenerators.net/)  
 
 **JavaScript**
 * Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
