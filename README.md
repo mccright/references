@@ -275,6 +275,7 @@ and
 
 
 **Python**
+* "The Complete Python Development Guide." [https://testdriven.io/guides/complete-python/](https://testdriven.io/guides/complete-python/)  
 * Hitchhiker's Guide to Python [https://github.com/realpython/python-guide](https://github.com/realpython/python-guide)  
   * and its 'Web Applications & Frameworks' section [https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst](https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst)  
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
@@ -687,8 +688,8 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
 * The *real* cost of a car [https://www.carboncounter.com/#!/explore](https://www.carboncounter.com/#!/explore)  
-* Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.)  
-By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
+* Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.) By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
+* An excellent first lesson on "Dockerizing FastAPI with Postgres, Uvicorn, and Traefik (and LetsEncript)" By Amal Shaji, 2021-05-04. [https://testdriven.io/blog/fastapi-docker-traefik/](https://testdriven.io/blog/fastapi-docker-traefik/)  
 
 **Projects associated with Novel Corona Virus - COVID-19**  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
