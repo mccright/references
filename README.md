@@ -612,6 +612,7 @@ A starter list of information sources for your security investigations & integra
 
 
  **Temporary list for work tools or other resources requiring more follow-up**  
+ * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
  * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
    * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
    * Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
