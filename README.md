@@ -575,7 +575,7 @@ A starter list of information sources for your security investigations & integra
  * Get Currency, Curreny code, International Dialing code, ISO country code for all countries [http://www.webservicex.net/New/Home/ServiceDetail/19](http://www.webservicex.net/New/Home/ServiceDetail/19)  
  * Get State Code,City,Area Code,Time Zone,Zip Code [http://www.webservicex.net/New/Home/ServiceDetail/42](http://www.webservicex.net/New/Home/ServiceDetail/42)  
  * GetAirportInformationByCountry [http://www.webservicex.net/New/Home/ServiceDetail/20](http://www.webservicex.net/New/Home/ServiceDetail/20)  
- * Website style analizer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
+ * Website style analyzer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
 
 
 **Bash Shell**  
@@ -689,6 +689,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
 * The *real* cost of a car [https://www.carboncounter.com/#!/explore](https://www.carboncounter.com/#!/explore)  
+* My favorite essay on bitcoin [https://www.nytimes.com/2021/06/14/opinion/bitcoin-cryptocurrency-flaws.html](https://www.nytimes.com/2021/06/14/opinion/bitcoin-cryptocurrency-flaws.html)  
 * Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.) By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
 * An excellent first lesson on "Dockerizing FastAPI with Postgres, Uvicorn, and Traefik (and LetsEncript)" By Amal Shaji, 2021-05-04. [https://testdriven.io/blog/fastapi-docker-traefik/](https://testdriven.io/blog/fastapi-docker-traefik/)  
 
