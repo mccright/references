@@ -341,6 +341,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
 * Search for strings in source code - at scale [https://github.com/s0md3v/hardcodes](https://github.com/s0md3v/hardcodes)  
 * Present data in tables on your terminal [https://github.com/Robpol86/terminaltables](https://github.com/Robpol86/terminaltables)  
+* Progress bar [https://github.com/verigak/progress](https://github.com/verigak/progress)  
 * present: A terminal-based presentation tool with colors and effects. [https://github.com/vinayak-mehta/present](https://github.com/vinayak-mehta/present)  
 * Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
 * Colorpedia - a command-line tool for looking up colors, shades and palettes [https://github.com/joowani/colorpedia](https://github.com/joowani/colorpedia)  
