@@ -11,7 +11,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
   
 ***Cheat Sheets***  
 First and foremost: a couple **git cheat sheets** 
-* [https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
+* [https://training.github.com/downloads/github-git-cheat-sheet.pdf](https://training.github.com/downloads/github-git-cheat-sheet.pdf) 
 * and TimGreen's list of git & github features -- with a table of resources and books at the bottom:
 [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 maybe also  
@@ -59,7 +59,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Security Content Automation Protocol (SCAP)  
    * Nist Overview: [http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf](http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf)  
    * SCAP Home: [http://scap.nist.gov/](http://scap.nist.gov/)  
-* State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf](https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf)  
+* State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [https://apps.dtic.mil/sti/pdfs/AD1106086.pdf](https://apps.dtic.mil/sti/pdfs/AD1106086.pdf)  
 * State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)  
 * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
 * Vulnerability and exploit lists:  
