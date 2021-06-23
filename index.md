@@ -4,13 +4,14 @@ references
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 * Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
+* Find something new/different to read: [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
 * Explore these falsehoods programmers believe in -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
 * Remember the *Ten simple rules for making research software more robust* [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
   
 ***Cheat Sheets***  
 First and foremost: a couple **git cheat sheets** 
-* [https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) 
+* [https://training.github.com/downloads/github-git-cheat-sheet.pdf](https://training.github.com/downloads/github-git-cheat-sheet.pdf) 
 * and TimGreen's list of git & github features -- with a table of resources and books at the bottom:
 [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)
 maybe also  
@@ -58,7 +59,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Security Content Automation Protocol (SCAP)  
    * Nist Overview: [http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf](http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf)  
    * SCAP Home: [http://scap.nist.gov/](http://scap.nist.gov/)  
-* State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf](https://www.acq.osd.mil/se/docs/P-8005-SOAR-2016.pdf)  
+* State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation [https://apps.dtic.mil/sti/pdfs/AD1106086.pdf](https://apps.dtic.mil/sti/pdfs/AD1106086.pdf)  
 * State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)  
 * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
 * Vulnerability and exploit lists:  
@@ -83,6 +84,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * "A Non-Trivial Task of Introducing Architecture Risk Analysis into Software Development Process." OWASP EU presentation by Denis Pilipchuk, Global Product Security, Oracle: [http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf](http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf)  
 * Mitre Att&ck Enterprise threat list [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/)  
     "ATT&CK® is a catalog of techniques and tactics that describe post-compromise adversary behavior on typical enterprise IT environments. The core use cases involve using the catalog to analyze, triage, compare, describe, relate, and share post-compromise adversary behavior."  
+* Mitre D3FEND technical knowledge base of defensive countermeasures for common offensive techniques is complementary to MITRE’s ATT&CK, a knowledge base of cyber adversary behavior.  D3FEND complements Mitre Att&ck and establishes terminology of computer network defensive techniques and illuminates previously-unspecified relationships between defensive and offensive methods. [https://d3fend.mitre.org/](https://d3fend.mitre.org/)  
 * Mitre ATT&CK® for Industrial Control Systems threat list [https://collaborate.mitre.org/attackics/index.php/Main_Page](https://collaborate.mitre.org/attackics/index.php/Main_Page)  
     "ATT&CK for ICS is a knowledge base useful for describing the actions an adversary may take while operating within an ICS network. The knowledge base can be used to better characterize and describe post-compromise adversary behavior."  
 * The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC):  
@@ -203,7 +205,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 * GitHub Flavored Markdown Spec [https://github.github.com/gfm/](https://github.github.com/gfm/)  
 * Another GitHub Flavored Markdown cheatsheet [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)  
-* Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/)  
+* Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/) and [https://staticsitegenerators.net/](https://staticsitegenerators.net/)  
 
 **JavaScript**
 * Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
@@ -275,6 +277,7 @@ and
 
 
 **Python**
+* "The Complete Python Development Guide." [https://testdriven.io/guides/complete-python/](https://testdriven.io/guides/complete-python/)  
 * Hitchhiker's Guide to Python [https://github.com/realpython/python-guide](https://github.com/realpython/python-guide)  
   * and its 'Web Applications & Frameworks' section [https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst](https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst)  
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
@@ -340,6 +343,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
 * Search for strings in source code - at scale [https://github.com/s0md3v/hardcodes](https://github.com/s0md3v/hardcodes)  
 * Present data in tables on your terminal [https://github.com/Robpol86/terminaltables](https://github.com/Robpol86/terminaltables)  
+* Progress bar [https://github.com/verigak/progress](https://github.com/verigak/progress)  
 * present: A terminal-based presentation tool with colors and effects. [https://github.com/vinayak-mehta/present](https://github.com/vinayak-mehta/present)  
 * Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
 * Colorpedia - a command-line tool for looking up colors, shades and palettes [https://github.com/joowani/colorpedia](https://github.com/joowani/colorpedia)  
@@ -574,7 +578,7 @@ A starter list of information sources for your security investigations & integra
  * Get Currency, Curreny code, International Dialing code, ISO country code for all countries [http://www.webservicex.net/New/Home/ServiceDetail/19](http://www.webservicex.net/New/Home/ServiceDetail/19)  
  * Get State Code,City,Area Code,Time Zone,Zip Code [http://www.webservicex.net/New/Home/ServiceDetail/42](http://www.webservicex.net/New/Home/ServiceDetail/42)  
  * GetAirportInformationByCountry [http://www.webservicex.net/New/Home/ServiceDetail/20](http://www.webservicex.net/New/Home/ServiceDetail/20)  
- * Website style analizer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
+ * Website style analyzer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
 
 
 **Bash Shell**  
@@ -611,6 +615,7 @@ A starter list of information sources for your security investigations & integra
 
 
  **Temporary list for work tools or other resources requiring more follow-up**  
+ * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
  * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
    * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
    * Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
@@ -687,8 +692,9 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
 * The *real* cost of a car [https://www.carboncounter.com/#!/explore](https://www.carboncounter.com/#!/explore)  
-* Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.)  
-By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
+* My favorite essay on bitcoin [https://www.nytimes.com/2021/06/14/opinion/bitcoin-cryptocurrency-flaws.html](https://www.nytimes.com/2021/06/14/opinion/bitcoin-cryptocurrency-flaws.html)  
+* Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.) By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
+* An excellent first lesson on "Dockerizing FastAPI with Postgres, Uvicorn, and Traefik (and LetsEncript)" By Amal Shaji, 2021-05-04. [https://testdriven.io/blog/fastapi-docker-traefik/](https://testdriven.io/blog/fastapi-docker-traefik/)  
 
 **Projects associated with Novel Corona Virus - COVID-19**  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
