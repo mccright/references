@@ -381,7 +381,6 @@ A starter list of information sources for your security investigations & integra
  * BTC for Bitcoin lookups [https://btc.com/](https://btc.com/)  
  * Censys.io for IPv4 lookups [https://censys.io/](https://censys.io/)  
  * CIRCL (Computer Incident Response Center Luxembourg) for CVE lookups [https://www.circl.lu/](https://www.circl.lu/)  
- * Cymon.io for IPv4 lookups [https://cymon.io/](https://cymon.io/)  
  * Google Safe Browsing for URL lookups [https://safebrowsing.google.com/](https://safebrowsing.google.com/)  
  * Have I Been Pwned for Email lookups [https://haveibeenpwned.com/](https://haveibeenpwned.com/)  
  * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com[](https://exchange.xforce.ibmcloud.com/)  
