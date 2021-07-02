@@ -102,7 +102,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "Application Threat Modeling (OWASP)" [https://www.owasp.org/index.php/Application_Threat_Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)  
 * "Threat Modeling Cheat Sheet (OWASP)" [https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md)  
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
-* "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)    
+* "A Complete Guide to the Common Vulnerability Scoring System Version 3.1" [https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf)    
 
 **Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
@@ -384,7 +384,7 @@ A starter list of information sources for your security investigations & integra
  * Google Safe Browsing for URL lookups [https://safebrowsing.google.com/](https://safebrowsing.google.com/)  
  * Have I Been Pwned for Email lookups [https://haveibeenpwned.com/](https://haveibeenpwned.com/)  
  * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com[](https://exchange.xforce.ibmcloud.com/)  
- * IP Geo Tool {free} for your script integration: [https://tools.keycdn.com/geo.json?host={IP or hostname}](https://tools.keycdn.com/geo.json?host={IP or hostname})  
+ * IP Geo Tool {free} for your script integration: [https://tools.keycdn.com/geo.json?host={IP or hostname}](https://tools.keycdn.com/geo.json?host={IP or hostname}) Important: See [https://tools.keycdn.com/geo](https://tools.keycdn.com/geo) for configuring your request header User-Agent string correctly.  
  * MISP for MD5 and SHA2 [http://www.misp-project.org/](http://www.misp-project.org/)  
    * Also consider MISP Taxonomies for your integration work [https://github.com/MISP/misp-taxonomies/](https://github.com/MISP/misp-taxonomies/)  
  * PassiveTotal for FQDN Whois lookups [https://www.passivetotal.org/](https://www.passivetotal.org/)  
@@ -505,7 +505,7 @@ A starter list of information sources for your security investigations & integra
  * FireEye Blog [https://www.fireeye.com/blog/threat-research.html](https://www.fireeye.com/blog/threat-research.html)  
  * SANS Security Awareness Blog [http://www.securingthehuman.org/blog](http://www.securingthehuman.org/blog)  
  * SANS Digital Forensics Blog [http://digital-forensics.sans.org/blog](http://digital-forensics.sans.org/blog)  
- * SEI Blog [http://blog.sei.cmu.edu/](http://blog.sei.cmu.edu/)  
+ * SEI Blog [https://insights.sei.cmu.edu/blog/](https://insights.sei.cmu.edu/blog/)  
  * System Forensics [http://www.sysforensics.org/](http://www.sysforensics.org/)  
  * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)  
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
@@ -528,7 +528,7 @@ A starter list of information sources for your security investigations & integra
  * DMRDecode  
  * ?? Digital Speech Decoder (software package)  
  * R820T (integrated multi‐band RF tuner IC implemented in CMOS) data sheet: [https://www.rtl-sdr.com/wp-content/uploads/2013/04/R820T_datasheet-Non_R-20111130_unlocked1.pdf](https://www.rtl-sdr.com/wp-content/uploads/2013/04/R820T_datasheet-Non_R-20111130_unlocked1.pdf)  
- * Rafael Micro R820T2 Data Sheet (24-1766 MHz, newer lower noise version of the R820T):  Some info in [https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf](https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf) and register descriptions here: [https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/](https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/) and [https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf](https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf)  
+ * Rafael Micro R820T2 Data Sheet (24-1766 MHz, newer lower noise version of the R820T):  Some info in [https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf](https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf) and register descriptions here: [https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/](https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/) and [https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf](https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf)  
  * Source Code examples for interacting with the R820TU: [https://github.com/emeb/r820t2/tree/master/f030_r820t2](https://github.com/emeb/r820t2/tree/master/f030_r820t2)  
  * "Hello, world!" for GNSS-SDR: [http://gnss-sdr.org/my-first-fix/](http://gnss-sdr.org/my-first-fix/)  
  * Dump 1090 is a Mode S decoder specifically designed for RTLSDR devices [https://github.com/antirez/dump1090](https://github.com/antirez/dump1090)  
@@ -659,7 +659,7 @@ A starter list of information sources for your security investigations & integra
 * High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
 * Getting communications right is hard. Language is a foundational component.  WorkNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
-* International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
+* International Building Code, 2012, Second Printing. [https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration](https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
 * The definitive list of lists (of lists) curated on GitHub [https://github.com/jnv/lists](https://github.com/jnv/lists)  
