@@ -158,6 +158,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
 * Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
+* Awk/gawk manual [https://www.gnu.org/software/gawk/manual/gawk.pdf](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
 
 
 **Pen testing Linux distros**  
