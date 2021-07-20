@@ -451,7 +451,8 @@ A starter list of information sources for your security investigations & integra
  * Google Online Security Blog [http://googleonlinesecurity.blogspot.com/](http://googleonlinesecurity.blogspot.com/) 
  * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at  [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1)   
  * PortSwigger (Burp) Blog [http://blog.portswigger.net/](http://blog.portswigger.net/)  
- * Apple Research News/Blog/Home [oops, I guess there aren't any security blogs here](oops, I guess there aren't any)  
+ * Apple Research News/Blog/Home [oops, I guess there aren't any security blogs here](oops, I guess there aren't any)
+   But Apple hubris is in the press -- Here is a page with links to journalism on the Pegasus Project: [https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437](https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437)  
 
 **Respect software author's license decisions**
  * Comparison of free and open-source software licenses [http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 
