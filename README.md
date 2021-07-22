@@ -446,7 +446,7 @@ A starter list of information sources for your security investigations & integra
  * IBM Community Blogs [https://www-304.ibm.com/connections/communities/service/html/allcommunities](https://www-304.ibm.com/connections/communities/service/html/allcommunities) 
  * IBM DeveloperWorks Blogs -- Recent Updates [https://www.ibm.com/developerworks/](https://www.ibm.com/developerworks/community/groups/service/html/community/updates?communityUuid=81c130c7-4408-4e01-adf5-658ae0ef5f0c&filter=all)  
  * Microsoft Research Blogs [https://www.microsoft.com/en-us/research/blog/](https://www.microsoft.com/en-us/research/blog/)  
- * Microsoft Cybersecurity Blog [http://blogs.microsoft.com/cybertrust/category/cybersecurity/](http://blogs.microsoft.com/cybertrust/category/cybersecurity/) and more generally  [http://blogs.microsoft.com/cybertrust/](http://blogs.microsoft.com/cybertrust/) 
+ * Microsoft Cybersecurity Blog [https://www.microsoft.com/security/blog/](https://www.microsoft.com/security/blog/)  
  * Microsoft Office365 Developer Blog [https://dev.office.com/blogs/](https://dev.office.com/blogs/)  
  * Google Online Security Blog [http://googleonlinesecurity.blogspot.com/](http://googleonlinesecurity.blogspot.com/) 
  * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at  [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1)   
