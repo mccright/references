@@ -69,7 +69,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
-* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [http://www.cybersecurity.my/data/content_files/11/650.pdf](http://www.cybersecurity.my/data/content_files/11/650.pdf)  
+* CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [https://www.cybersecurity.my/data/content_files/11/650.pdf](https://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
   o	A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities.  [https://github.com/nexB/vulnerablecode](https://github.com/nexB/vulnerablecode)  
@@ -102,7 +102,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "Application Threat Modeling (OWASP)" [https://www.owasp.org/index.php/Application_Threat_Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)  
 * "Threat Modeling Cheat Sheet (OWASP)" [https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md)  
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
-* "A Complete Guide to the Common Vulnerability Scoring System Version 2.0" [http://www.first.org/cvss/cvss-guide.html](http://www.first.org/cvss/cvss-guide.html)    
+* "A Complete Guide to the Common Vulnerability Scoring System Version 3.1" [https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf)    
 
 **Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
@@ -158,6 +158,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Scanners Box [also known as scanbox] is a sizable, categorized collection of *scanners* from across GitHub.com [https://github.com/We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box)  
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
 * Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
+* Awk/gawk manual [https://www.gnu.org/software/gawk/manual/gawk.pdf](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
 
 
 **Pen testing Linux distros**  
@@ -384,7 +385,7 @@ A starter list of information sources for your security investigations & integra
  * Google Safe Browsing for URL lookups [https://safebrowsing.google.com/](https://safebrowsing.google.com/)  
  * Have I Been Pwned for Email lookups [https://haveibeenpwned.com/](https://haveibeenpwned.com/)  
  * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com[](https://exchange.xforce.ibmcloud.com/)  
- * IP Geo Tool {free} for your script integration: [https://tools.keycdn.com/geo.json?host={IP or hostname}](https://tools.keycdn.com/geo.json?host={IP or hostname})  
+ * IP Geo Tool {free} for your script integration: [https://tools.keycdn.com/geo.json?host={IP or hostname}](https://tools.keycdn.com/geo.json?host={IP or hostname}) Important: See [https://tools.keycdn.com/geo](https://tools.keycdn.com/geo) for configuring your request header User-Agent string correctly.  
  * MISP for MD5 and SHA2 [http://www.misp-project.org/](http://www.misp-project.org/)  
    * Also consider MISP Taxonomies for your integration work [https://github.com/MISP/misp-taxonomies/](https://github.com/MISP/misp-taxonomies/)  
  * PassiveTotal for FQDN Whois lookups [https://www.passivetotal.org/](https://www.passivetotal.org/)  
@@ -410,6 +411,7 @@ A starter list of information sources for your security investigations & integra
 * Statistics in Pandas Cheatsheet [https://cheatsheets.quantecon.org/stats-cheatsheet.html](https://cheatsheets.quantecon.org/stats-cheatsheet.html)  
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
 * Chen’s Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
+* "Unsupervised Cross-lingual Representation Learning at Scale" by Alexis Conneau and Kartikay Khandelwal, et.al. [https://arxiv.org/pdf/1911.02116.pdf](https://arxiv.org/pdf/1911.02116.pdf)  
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
 
 
@@ -442,14 +444,15 @@ A starter list of information sources for your security investigations & integra
  * IBM Research News [http://ibmresearchnews.blogspot.com/](http://ibmresearchnews.blogspot.com/) 
  * IBM Research Home [http://www.research.ibm.com/](http://www.research.ibm.com/) 
  * IBM Community Blogs [https://www-304.ibm.com/connections/communities/service/html/allcommunities](https://www-304.ibm.com/connections/communities/service/html/allcommunities) 
- * IBM DeveloperWorks Blogs -- Recent Updates [https://www.ibm.com/developerworks/](https://www.ibm.com/developerworks/community/groups/service/html/community/updates?communityUuid=81c130c7-4408-4e01-adf5-658ae0ef5f0c&filter=all) 
- * Microsoft Research Blogs [http://blogs.technet.com/b/inside_microsoft_research/](http://blogs.technet.com/b/inside_microsoft_research/) 
- * Microsoft Cybersecurity Blog [http://blogs.microsoft.com/cybertrust/category/cybersecurity/](http://blogs.microsoft.com/cybertrust/category/cybersecurity/) and more generally  [http://blogs.microsoft.com/cybertrust/](http://blogs.microsoft.com/cybertrust/) 
+ * IBM DeveloperWorks Blogs -- Recent Updates [https://www.ibm.com/developerworks/](https://www.ibm.com/developerworks/community/groups/service/html/community/updates?communityUuid=81c130c7-4408-4e01-adf5-658ae0ef5f0c&filter=all)  
+ * Microsoft Research Blogs [https://www.microsoft.com/en-us/research/blog/](https://www.microsoft.com/en-us/research/blog/)  
+ * Microsoft Cybersecurity Blog [https://www.microsoft.com/security/blog/](https://www.microsoft.com/security/blog/)  
  * Microsoft Office365 Developer Blog [https://dev.office.com/blogs/](https://dev.office.com/blogs/)  
  * Google Online Security Blog [http://googleonlinesecurity.blogspot.com/](http://googleonlinesecurity.blogspot.com/) 
  * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at  [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1)   
  * PortSwigger (Burp) Blog [http://blog.portswigger.net/](http://blog.portswigger.net/)  
- * Apple Research News/Blog/Home [oops, I guess there aren't any security blogs here](oops, I guess there aren't any)  
+ * Apple Research News/Blog/Home [oops, I guess there aren't any security blogs here](oops, I guess there aren't any)
+   But Apple hubris is in the press -- Here is a page with links to journalism on the Pegasus Project: [https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437](https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437)  
 
 **Respect software author's license decisions**
  * Comparison of free and open-source software licenses [http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 
@@ -505,7 +508,7 @@ A starter list of information sources for your security investigations & integra
  * FireEye Blog [https://www.fireeye.com/blog/threat-research.html](https://www.fireeye.com/blog/threat-research.html)  
  * SANS Security Awareness Blog [http://www.securingthehuman.org/blog](http://www.securingthehuman.org/blog)  
  * SANS Digital Forensics Blog [http://digital-forensics.sans.org/blog](http://digital-forensics.sans.org/blog)  
- * SEI Blog [http://blog.sei.cmu.edu/](http://blog.sei.cmu.edu/)  
+ * SEI Blog [https://insights.sei.cmu.edu/blog/](https://insights.sei.cmu.edu/blog/)  
  * System Forensics [http://www.sysforensics.org/](http://www.sysforensics.org/)  
  * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)  
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
@@ -528,7 +531,7 @@ A starter list of information sources for your security investigations & integra
  * DMRDecode  
  * ?? Digital Speech Decoder (software package)  
  * R820T (integrated multi‐band RF tuner IC implemented in CMOS) data sheet: [https://www.rtl-sdr.com/wp-content/uploads/2013/04/R820T_datasheet-Non_R-20111130_unlocked1.pdf](https://www.rtl-sdr.com/wp-content/uploads/2013/04/R820T_datasheet-Non_R-20111130_unlocked1.pdf)  
- * Rafael Micro R820T2 Data Sheet (24-1766 MHz, newer lower noise version of the R820T):  Some info in [https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf](https://www.rtl-sdr.com/wp-content/uploads/2017/06/RTL-SDR-Blog-V3-Datasheet.pdf) and register descriptions here: [https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/](https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/) and [https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf](https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf)  
+ * Rafael Micro R820T2 Data Sheet (24-1766 MHz, newer lower noise version of the R820T):  Some info in [https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf](https://www.rtl-sdr.com/wp-content/uploads/2018/02/RTL-SDR-Blog-V3-Datasheet.pdf) and register descriptions here: [https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/](https://www.rtl-sdr.com/r820t2-register-description-data-sheet-now-available/) and [https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf](https://www.rtl-sdr.com/wp-content/uploads/2016/12/R820T2_Register_Description.pdf)  
  * Source Code examples for interacting with the R820TU: [https://github.com/emeb/r820t2/tree/master/f030_r820t2](https://github.com/emeb/r820t2/tree/master/f030_r820t2)  
  * "Hello, world!" for GNSS-SDR: [http://gnss-sdr.org/my-first-fix/](http://gnss-sdr.org/my-first-fix/)  
  * Dump 1090 is a Mode S decoder specifically designed for RTLSDR devices [https://github.com/antirez/dump1090](https://github.com/antirez/dump1090)  
@@ -659,7 +662,7 @@ A starter list of information sources for your security investigations & integra
 * High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
 * Getting communications right is hard. Language is a foundational component.  WorkNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
-* International Building Code, 2012, Second Printing. [http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm](http://publicecodes.cyberregs.com/icod/ibc/2012/index.htm)  
+* International Building Code, 2012, Second Printing. [https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration](https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
 * The definitive list of lists (of lists) curated on GitHub [https://github.com/jnv/lists](https://github.com/jnv/lists)  
@@ -703,3 +706,4 @@ See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVI
 * Ten quick tips for delivering programming lessons [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433)  
 * Ten quick tips for teaching programming [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)  
 * Ten simple rules for making research software more robust [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
+* You have the right to film police. Here’s how to do it effectively — and safely [https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/](https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/) and why it is important to do so [https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens](https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens/2017/03/20/c7d801a8-0824-11e7-b77c-0047d15a24e0_story.html)  
