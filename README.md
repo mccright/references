@@ -268,6 +268,7 @@ and
 * And a 'free' temporary platform may also be important: "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev." [https://github.com/haneefmubarak/free-for-dev](https://github.com/haneefmubarak/free-for-dev)  
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
 * Application logging guidance [https://github.com/mccright/references/blob/master/AppSec-Logging.md](https://github.com/mccright/references/blob/master/AppSec-Logging.md)  
+* AWS logging guidance [https://betterdev.blog/aws-lambda-logging-best-practices/](https://betterdev.blog/aws-lambda-logging-best-practices/)  
 * One approach to loggiing in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 
