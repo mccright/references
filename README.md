@@ -354,6 +354,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Colorpedia - a command-line tool for looking up colors, shades and palettes [https://github.com/joowani/colorpedia](https://github.com/joowani/colorpedia)  
 * "Python requests is slow and takes very long to complete HTTP or HTTPS request" -- This is fantastic troubleshooting guidance and advice! [https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request](https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request)  
 * Generate *random* user agent strings  
+  * [https://pypi.org/project/random-user-agent/](https://pypi.org/project/random-user-agent/)  
   * [https://pypi.org/project/requests-random-user-agent/](https://pypi.org/project/requests-random-user-agent/)  
   * [https://pypi.org/project/fake_user_agent/](https://pypi.org/project/fake_user_agent/)  
   * [https://pypi.org/project/uas/](https://pypi.org/project/uas/)  
