@@ -629,6 +629,7 @@ A starter list of information sources for your security investigations & integra
 
  **Temporary list for work tools or other resources requiring more follow-up**  
  * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
+ * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash, Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
  * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
    * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
    * Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
@@ -668,6 +669,8 @@ A starter list of information sources for your security investigations & integra
    * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
  
 **Other**  
+* China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
+* MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
 * Before donating to non-profits, do your research [https://www.open990.org/](https://www.open990.org/)  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
