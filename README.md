@@ -164,6 +164,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
 * Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
 * Awk/gawk manual [https://www.gnu.org/software/gawk/manual/gawk.pdf](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
+* Airbus security lab publications [https://airbus-seclab.github.io/](https://airbus-seclab.github.io/) and their tools at [https://github.com/airbus-seclab/](https://github.com/airbus-seclab/)  
 
 
 **Pen testing Linux distros**  
