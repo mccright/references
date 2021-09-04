@@ -8,6 +8,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Find something new/different to read: [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
 * Explore these falsehoods programmers believe in -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
+* Writing well is difficult.  The Strunkifier may help [*think 'Strunk and White' from school written in PHP with a web front end*][http://vinoisnotouzo.com/strunkifier/](http://vinoisnotouzo.com/strunkifier/) and the source at [https://github.com/BSVino/Strunkifier/blob/master/strunkify.php](https://github.com/BSVino/Strunkifier/blob/master/strunkify.php)  
 * Remember the *Ten simple rules for making research software more robust* [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
   
 ***Cheat Sheets***  
