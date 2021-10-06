@@ -302,6 +302,7 @@ and
 * Docker Official Python Images [https://hub.docker.com/_/python](https://hub.docker.com/_/python)   
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
 * The best Docker base image for your Python application (April 2020) *tl;dr; Ubuntu LTS or Docker Official Python Debian* [https://pythonspeed.com/articles/base-image-python-docker-images/](https://pythonspeed.com/articles/base-image-python-docker-images/)  
+* "Docker Best Practices for Python Developers" [https://testdriven.io/blog/docker-best-practices/](https://testdriven.io/blog/docker-best-practices/)  
 * PyFormat Using % and .format() [https://pyformat.info/](https://pyformat.info/)  
 * Python's strftime directives [https://strftime.org/](https://strftime.org/)  
 * Python's Pathlib explained [https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)  
@@ -383,6 +384,7 @@ and
 * [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)  
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
 * Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py](https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py)  
+* "Regular Expressions: Regexes in Python" by John Sturtz [https://realpython.com/regex-python/](https://realpython.com/regex-python/) and part 2 [https://realpython.com/regex-python-part-2/](https://realpython.com/regex-python-part-2/)  
 
  
 **DOS/Windows Shell**
