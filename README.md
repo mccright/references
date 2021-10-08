@@ -170,6 +170,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
 * Awk/gawk manual [https://www.gnu.org/software/gawk/manual/gawk.pdf](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
 * Airbus security lab publications [https://airbus-seclab.github.io/](https://airbus-seclab.github.io/) and their tools at [https://github.com/airbus-seclab/](https://github.com/airbus-seclab/)  
+* Run your own VPN(s) [https://github.com/trailofbits/algo](https://github.com/trailofbits/algo)  
+* "8 Best VPNs in 2021: Tested All Apps, Speed, Security & More." by Chase Williams September 01, 2021 [https://www.wizcase.com/vpn-reviews/](https://www.wizcase.com/vpn-reviews/)  
 
 
 **Pen testing Linux distros**  
@@ -302,7 +304,8 @@ and
 * Docker Official Python Images [https://hub.docker.com/_/python](https://hub.docker.com/_/python)   
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
 * The best Docker base image for your Python application (April 2020) *tl;dr; Ubuntu LTS or Docker Official Python Debian* [https://pythonspeed.com/articles/base-image-python-docker-images/](https://pythonspeed.com/articles/base-image-python-docker-images/)  
-* "Docker Best Practices for Python Developers" [https://testdriven.io/blog/docker-best-practices/](https://testdriven.io/blog/docker-best-practices/)  
+* "Docker Best Practices for Python Developers" By Amal Shaji 2021-10-05 [https://testdriven.io/blog/docker-best-practices/](https://testdriven.io/blog/docker-best-practices/)  
+* "Don’t leak your Docker image’s build secrets." By Itamar Turner-Trauring, 2021-10-01 [https://pythonspeed.com/articles/docker-build-secrets/](https://pythonspeed.com/articles/docker-build-secrets/)  
 * PyFormat Using % and .format() [https://pyformat.info/](https://pyformat.info/)  
 * Python's strftime directives [https://strftime.org/](https://strftime.org/)  
 * Python's Pathlib explained [https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)  
@@ -560,12 +563,12 @@ A starter list of information sources for your security investigations & integra
   
  **Temporary list for new work tools**  
  * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
- * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
- * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
- * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
  * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
  * Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
  * A collection of Docker files from CenturyLink Labs: [https://github.com/CenturyLinkLabs?q=&type=&language=dockerfile](https://github.com/CenturyLinkLabs?q=&type=&language=dockerfile)  
+ * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
+ * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
+ * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
  * A pair of tools for running phishing campaigns to raise security awareness: Swordphish Phishing Awareness Tool [https://github.com/certsocietegenerale/swordphish-awareness/](https://github.com/certsocietegenerale/swordphish-awareness/) and the Outlook add-in companion to report suspicious mail easily [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)  
  * W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
  * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
