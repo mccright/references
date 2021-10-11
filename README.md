@@ -29,6 +29,7 @@ and page 2 of
 and documenation at 
 [http://git-scm.com/docs](http://git-scm.com/docs)  
 * Git Pocket Guide. By Richard E. Silverman [https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)  
+* Finally, git repos may contain sensitive files and the scale of their history can slow pipeline activities. In some use cases git-filter-repo (https://github.com/newren/git-filter-repo) can help.
 
 
 Just get started...  
