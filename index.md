@@ -4,10 +4,14 @@ references
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 * Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
-* Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  See the most up-to-date physical understanding of the climate system and climate change - latest data and interpretations: [https://www.ipcc.ch/report/ar6/wg1/](https://www.ipcc.ch/report/ar6/wg1/)  
+* Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
+  * See the most up-to-date physical understanding of the climate system and climate change - latest data and interpretations: [https://www.ipcc.ch/report/ar6/wg1/](https://www.ipcc.ch/report/ar6/wg1/)  
+  * New research can help you better understand climate-related risks at your home or where you work.  FloodFactor will help you understand the current and future flood risks at any North American address: [https://www.floodfactor.com/](https://www.floodfactor.com/)  
+  * The U.S. National Mortgage Bankers Association researched climate change risks in their domain: [https://img03.en25.com/Web/MortgageBankersAssociation/Research_RIHA_September_2021_Report.pdf](https://img03.en25.com/Web/MortgageBankersAssociation/%7B66e37863-0f2e-45c7-8526-04d615d395e9%7D_22847_Research_RIHA_September_2021_Report.pdf)  
 * Find something new/different to read: [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
 * Explore these falsehoods programmers believe in -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
+* Writing well is difficult.  The Strunkifier may help [*think 'Strunk and White' from school written in PHP with a web front end*][http://vinoisnotouzo.com/strunkifier/](http://vinoisnotouzo.com/strunkifier/) and the source at [https://github.com/BSVino/Strunkifier/blob/master/strunkify.php](https://github.com/BSVino/Strunkifier/blob/master/strunkify.php)  
 * Remember the *Ten simple rules for making research software more robust* [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
   
 ***Cheat Sheets***  
@@ -25,6 +29,7 @@ and page 2 of
 and documenation at 
 [http://git-scm.com/docs](http://git-scm.com/docs)  
 * Git Pocket Guide. By Richard E. Silverman [https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)  
+* Finally, git repos may contain sensitive files and the scale of their history can slow pipeline activities. In some use cases git-filter-repo (https://github.com/newren/git-filter-repo) can help.
 
 
 Just get started...  
@@ -128,6 +133,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
 * SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
+* Pen testing payloads with supporting resources [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)  
 * Penetration Testers Framework (PTF) [https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)  
 * Social-Engineer Toolkit (SET) [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)  
 * A Python based web application scanner - BlackWidow - with Docker help [https://github.com/1N3/BlackWidow](https://github.com/1N3/BlackWidow)  
@@ -164,6 +170,9 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Very simple Python-based recon [https://github.com/naltun/eyes.py](https://github.com/naltun/eyes.py)  
 * Damn Small JS Scanner (DSJS) is a JavaScript library vulnerability scanner [https://github.com/stamparm/DSJS](https://github.com/stamparm/DSJS)  
 * Awk/gawk manual [https://www.gnu.org/software/gawk/manual/gawk.pdf](https://www.gnu.org/software/gawk/manual/gawk.pdf)  
+* Airbus security lab publications [https://airbus-seclab.github.io/](https://airbus-seclab.github.io/) and their tools at [https://github.com/airbus-seclab/](https://github.com/airbus-seclab/)  
+* Run your own VPN(s) [https://github.com/trailofbits/algo](https://github.com/trailofbits/algo)  
+* "8 Best VPNs in 2021: Tested All Apps, Speed, Security & More." by Chase Williams September 01, 2021 [https://www.wizcase.com/vpn-reviews/](https://www.wizcase.com/vpn-reviews/)  
 
 
 **Pen testing Linux distros**  
@@ -296,6 +305,8 @@ and
 * Docker Official Python Images [https://hub.docker.com/_/python](https://hub.docker.com/_/python)   
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
 * The best Docker base image for your Python application (April 2020) *tl;dr; Ubuntu LTS or Docker Official Python Debian* [https://pythonspeed.com/articles/base-image-python-docker-images/](https://pythonspeed.com/articles/base-image-python-docker-images/)  
+* "Docker Best Practices for Python Developers" By Amal Shaji 2021-10-05 [https://testdriven.io/blog/docker-best-practices/](https://testdriven.io/blog/docker-best-practices/)  
+* "Don’t leak your Docker image’s build secrets." By Itamar Turner-Trauring, 2021-10-01 [https://pythonspeed.com/articles/docker-build-secrets/](https://pythonspeed.com/articles/docker-build-secrets/)  
 * PyFormat Using % and .format() [https://pyformat.info/](https://pyformat.info/)  
 * Python's strftime directives [https://strftime.org/](https://strftime.org/)  
 * Python's Pathlib explained [https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)  
@@ -377,6 +388,7 @@ and
 * [http://www.cheatography.com/tag/regex/](http://www.cheatography.com/tag/regex/)  
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
 * Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py](https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py)  
+* "Regular Expressions: Regexes in Python" by John Sturtz [https://realpython.com/regex-python/](https://realpython.com/regex-python/) and part 2 [https://realpython.com/regex-python-part-2/](https://realpython.com/regex-python-part-2/)  
 
  
 **DOS/Windows Shell**
@@ -552,12 +564,12 @@ A starter list of information sources for your security investigations & integra
   
  **Temporary list for new work tools**  
  * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
- * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
- * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
- * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
  * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
  * Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
  * A collection of Docker files from CenturyLink Labs: [https://github.com/CenturyLinkLabs?q=&type=&language=dockerfile](https://github.com/CenturyLinkLabs?q=&type=&language=dockerfile)  
+ * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
+ * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
+ * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
  * A pair of tools for running phishing campaigns to raise security awareness: Swordphish Phishing Awareness Tool [https://github.com/certsocietegenerale/swordphish-awareness/](https://github.com/certsocietegenerale/swordphish-awareness/) and the Outlook add-in companion to report suspicious mail easily [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)  
  * W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
  * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
@@ -722,3 +734,4 @@ See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVI
 * Ten quick tips for teaching programming [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)  
 * Ten simple rules for making research software more robust [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
 * You have the right to film police. Here’s how to do it effectively — and safely [https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/](https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/) and why it is important to do so [https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens](https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens/2017/03/20/c7d801a8-0824-11e7-b77c-0047d15a24e0_story.html)  
+* "Companies are hoarding personal data about you. Here’s how to get them to delete it." [https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/](https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/)  
