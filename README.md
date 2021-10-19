@@ -593,7 +593,7 @@ A starter list of information sources for your security investigations & integra
  * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)    
  * FuzzDB Project [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)  
  * Free IP geolocation API: 'curl http://api.db-ip.com/v2/free/<IP-Address>' or curl http://api.db-ip.com/v2/free/<IP-Address>/countryName [up to 1000/day]  
- * GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?)  
+ * GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?) (Caution: as of October 2021, they are using a self-signed certificate)  
  * GetGeoIP web service to easily look up countries by IP address  [http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
  * Get domain name registration record by Host Name / Domain Name (WhoIS)  [http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
  * Get weather report for any major cities around the world [http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
