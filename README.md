@@ -148,7 +148,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Awesome Mainframe Hacking/Pentesting Resources.[https://github.com/samanL33T/Awesome-Mainframe-Hacking/](https://github.com/samanL33T/Awesome-Mainframe-Hacking/)  
 * Excellent list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)  
 * CloudGoat, Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  
- * Offensive security testing of your AWS environmtne [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)  
+ * Offensive security testing of your AWS environment [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)  
  * Offensive security testing of your CMS - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs [https://github.com/Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK)  
  * Tool-X - a kali linux tool installer for Android Termux [https://github.com/rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X)  
  * An interesting study script intended to automate your reconnaissance work [https://github.com/0blio/lazyrecon](https://github.com/0blio/lazyrecon)   
@@ -281,6 +281,7 @@ and
 * AWS logging guidance [https://betterdev.blog/aws-lambda-logging-best-practices/](https://betterdev.blog/aws-lambda-logging-best-practices/)  
 * One approach to loggiing in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
+* A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
