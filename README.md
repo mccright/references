@@ -13,6 +13,14 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
 * Writing well is difficult.  The Strunkifier may help [*think 'Strunk and White' from school written in PHP with a web front end*][http://vinoisnotouzo.com/strunkifier/](http://vinoisnotouzo.com/strunkifier/) and the source at [https://github.com/BSVino/Strunkifier/blob/master/strunkify.php](https://github.com/BSVino/Strunkifier/blob/master/strunkify.php)  
 * Remember the *Ten simple rules for making research software more robust* [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
+* If you work in a corporate environment, ensure it is supporting open source:  
+  * "Why have an open source program office?." RedHat Brief, Last Updated: 4 February 2021 [https://www.redhat.com/en/resources/open-source-program-office-brief](https://www.redhat.com/en/resources/open-source-program-office-brief)  
+  * "What does an open source program office do?" By Brian Proffitt, 19 December 2019 [https://www.redhat.com/en/blog/what-does-open-source-program-office-do](https://www.redhat.com/en/blog/what-does-open-source-program-office-do)  
+  * "Creating an Open Source Program." By Chris Aniszczyk, COO, Cloud Native Computing Foundation; Jeff McAffer, Director, Open Source Programs Office, Microsoft; Will Norris, Open Source Office Manager, Google; and Andrew Spyker, Container Cloud Manager, Netflix. [https://www.linuxfoundation.org/tools/creating-an-open-source-program/](https://www.linuxfoundation.org/tools/creating-an-open-source-program/)  
+  * "Open source best practices for the enterprise." (A collection of 12 best practices guides for running an open source program office or starting an open source project in your organization. Developed by The Linux Foundation in partnership with the TODO Group, these resources represent the experience of our [Linux Foundation] staff, projects, and members.) [https://www.linuxfoundation.org/resources/open-source-guides/](https://www.linuxfoundation.org/resources/open-source-guides/)  
+  * "A guide to setting up your Open Source Program Office (OSPO) for success -- Learn how to best grow and maintain your open source communities and allies." By J. Manrique Lopez de la Fuente, 08 May 2020 [https://opensource.com/article/20/5/open-source-program-office](https://opensource.com/article/20/5/open-source-program-office)  
+  * "Software Licenses in Plain English -- Lookup popular software licenses summarized at-a-glance." [https://tldrlegal.com/](https://tldrlegal.com/)  
+ 
   
 ***Cheat Sheets***  
 First and foremost: a couple **git cheat sheets** 
