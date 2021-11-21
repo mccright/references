@@ -1,6 +1,7 @@
 references
 ==========
 
+Remember: *If you're not paying for it, you're the product.*  
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 * Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
@@ -13,6 +14,14 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
 * Writing well is difficult.  The Strunkifier may help [*think 'Strunk and White' from school written in PHP with a web front end*][http://vinoisnotouzo.com/strunkifier/](http://vinoisnotouzo.com/strunkifier/) and the source at [https://github.com/BSVino/Strunkifier/blob/master/strunkify.php](https://github.com/BSVino/Strunkifier/blob/master/strunkify.php)  
 * Remember the *Ten simple rules for making research software more robust* [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
+* If you work in a corporate environment, ensure it is supporting open source:  
+  * "Why have an open source program office?." RedHat Brief, Last Updated: 4 February 2021 [https://www.redhat.com/en/resources/open-source-program-office-brief](https://www.redhat.com/en/resources/open-source-program-office-brief)  
+  * "What does an open source program office do?" By Brian Proffitt, 19 December 2019 [https://www.redhat.com/en/blog/what-does-open-source-program-office-do](https://www.redhat.com/en/blog/what-does-open-source-program-office-do)  
+  * "Creating an Open Source Program." By Chris Aniszczyk, COO, Cloud Native Computing Foundation; Jeff McAffer, Director, Open Source Programs Office, Microsoft; Will Norris, Open Source Office Manager, Google; and Andrew Spyker, Container Cloud Manager, Netflix. [https://www.linuxfoundation.org/tools/creating-an-open-source-program/](https://www.linuxfoundation.org/tools/creating-an-open-source-program/)  
+  * "Open source best practices for the enterprise." (A collection of 12 best practices guides for running an open source program office or starting an open source project in your organization. Developed by The Linux Foundation in partnership with the TODO Group, these resources represent the experience of our [Linux Foundation] staff, projects, and members.) [https://www.linuxfoundation.org/resources/open-source-guides/](https://www.linuxfoundation.org/resources/open-source-guides/)  
+  * "A guide to setting up your Open Source Program Office (OSPO) for success -- Learn how to best grow and maintain your open source communities and allies." By J. Manrique Lopez de la Fuente, 08 May 2020 [https://opensource.com/article/20/5/open-source-program-office](https://opensource.com/article/20/5/open-source-program-office)  
+  * "Software Licenses in Plain English -- Lookup popular software licenses summarized at-a-glance." [https://tldrlegal.com/](https://tldrlegal.com/)  
+ 
   
 ***Cheat Sheets***  
 First and foremost: a couple **git cheat sheets** 
@@ -148,7 +157,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Awesome Mainframe Hacking/Pentesting Resources.[https://github.com/samanL33T/Awesome-Mainframe-Hacking/](https://github.com/samanL33T/Awesome-Mainframe-Hacking/)  
 * Excellent list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)  
 * CloudGoat, Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  
- * Offensive security testing of your AWS environmtne [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)  
+ * Offensive security testing of your AWS environment [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)  
  * Offensive security testing of your CMS - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs [https://github.com/Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK)  
  * Tool-X - a kali linux tool installer for Android Termux [https://github.com/rajkumardusad/Tool-X](https://github.com/rajkumardusad/Tool-X)  
  * An interesting study script intended to automate your reconnaissance work [https://github.com/0blio/lazyrecon](https://github.com/0blio/lazyrecon)   
@@ -281,6 +290,7 @@ and
 * AWS logging guidance [https://betterdev.blog/aws-lambda-logging-best-practices/](https://betterdev.blog/aws-lambda-logging-best-practices/)  
 * One approach to loggiing in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
+* A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
@@ -593,7 +603,7 @@ A starter list of information sources for your security investigations & integra
  * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)    
  * FuzzDB Project [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)  
  * Free IP geolocation API: 'curl http://api.db-ip.com/v2/free/<IP-Address>' or curl http://api.db-ip.com/v2/free/<IP-Address>/countryName [up to 1000/day]  
- * GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?)  
+ * GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?) (Caution: as of October 2021, they are using a self-signed certificate)  
  * GetGeoIP web service to easily look up countries by IP address  [http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
  * Get domain name registration record by Host Name / Domain Name (WhoIS)  [http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
  * Get weather report for any major cities around the world [http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
