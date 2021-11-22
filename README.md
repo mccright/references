@@ -489,9 +489,11 @@ A starter list of information sources for your security investigations & integra
    But Apple hubris is in the press -- Here is a page with links to journalism on the Pegasus Project: [https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437](https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437)  
 
 **Respect software author's license decisions**
+ * Software licensing explained [https://en.wikipedia.org/wiki/Software_license](https://en.wikipedia.org/wiki/Software_license)  
  * Comparison of free and open-source software licenses [http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 
  * Open Source Initiative list of links to license information [http://opensource.org/licenses](http://opensource.org/licenses)
- * "Various Licenses and Comments about Them" from GNU [http://www.gnu.org/philosophy/license-list.html](http://www.gnu.org/philosophy/license-list.html)
+ * "Various Licenses and Comments about Them" from GNU [http://www.gnu.org/philosophy/license-list.html](http://www.gnu.org/philosophy/license-list.html)  
+* "Software Licenses in Plain English -- Lookup popular software licenses summarized at-a-glance." [https://tldrlegal.com/](https://tldrlegal.com/)  
 
 **Various public documents, whitepapers and articles about APT campaigns**
 * APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets. [https://github.com/aptnotes/data](https://github.com/aptnotes/data) or go directly to the resource links at [https://github.com/aptnotes/data/blob/master/APTnotes.csv](https://github.com/aptnotes/data/blob/master/APTnotes.csv)   
