@@ -209,7 +209,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * yougetsignal [http://www.yougetsignal.com/tools/open-ports/](http://www.yougetsignal.com/tools/open-ports/)  
   * Reverse IP Domain Check [https://www.yougetsignal.com/tools/web-sites-on-web-server/](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
   * Network Location Check [https://www.yougetsignal.com/tools/network-location/](https://www.yougetsignal.com/tools/network-location/)  
-* viewdns [a range of dns tools] [http://viewdns.info/](http://viewdns.info/)  
+* viewdns [a range of dns tools] [https://viewdns.info/](https://viewdns.info/)  
 * hackertarget [https://hackertarget.com/nmap-online-port-scanner/](https://hackertarget.com/nmap-online-port-scanner/)  
   * Dump links from a page [https://hackertarget.com/extract-links/](https://hackertarget.com/extract-links/)  
   * And a range of related tools [https://hackertarget.com/ip-tools/](https://hackertarget.com/ip-tools/)  
