@@ -63,6 +63,7 @@ git remote set-head origin -a
 **Awesome-Awesome**
 * A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
 * A collection of awesome lists for hackers, pentesters & security researchers [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
+* A curated list of Terminal frameworks, plugins & resources for CLI lovers [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)  
 
 **Browse** 
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
@@ -209,7 +210,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * yougetsignal [http://www.yougetsignal.com/tools/open-ports/](http://www.yougetsignal.com/tools/open-ports/)  
   * Reverse IP Domain Check [https://www.yougetsignal.com/tools/web-sites-on-web-server/](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
   * Network Location Check [https://www.yougetsignal.com/tools/network-location/](https://www.yougetsignal.com/tools/network-location/)  
-* viewdns [a range of dns tools] [http://viewdns.info/](http://viewdns.info/)  
+* viewdns [a range of dns tools] [https://viewdns.info/](https://viewdns.info/)  
 * hackertarget [https://hackertarget.com/nmap-online-port-scanner/](https://hackertarget.com/nmap-online-port-scanner/)  
   * Dump links from a page [https://hackertarget.com/extract-links/](https://hackertarget.com/extract-links/)  
   * And a range of related tools [https://hackertarget.com/ip-tools/](https://hackertarget.com/ip-tools/)  
@@ -489,9 +490,11 @@ A starter list of information sources for your security investigations & integra
    But Apple hubris is in the press -- Here is a page with links to journalism on the Pegasus Project: [https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437](https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437)  
 
 **Respect software author's license decisions**
+ * Software licensing explained [https://en.wikipedia.org/wiki/Software_license](https://en.wikipedia.org/wiki/Software_license)  
  * Comparison of free and open-source software licenses [http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 
  * Open Source Initiative list of links to license information [http://opensource.org/licenses](http://opensource.org/licenses)
- * "Various Licenses and Comments about Them" from GNU [http://www.gnu.org/philosophy/license-list.html](http://www.gnu.org/philosophy/license-list.html)
+ * "Various Licenses and Comments about Them" from GNU [http://www.gnu.org/philosophy/license-list.html](http://www.gnu.org/philosophy/license-list.html)  
+* "Software Licenses in Plain English -- Lookup popular software licenses summarized at-a-glance." [https://tldrlegal.com/](https://tldrlegal.com/)  
 
 **Various public documents, whitepapers and articles about APT campaigns**
 * APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets. [https://github.com/aptnotes/data](https://github.com/aptnotes/data) or go directly to the resource links at [https://github.com/aptnotes/data/blob/master/APTnotes.csv](https://github.com/aptnotes/data/blob/master/APTnotes.csv)   
@@ -692,6 +695,7 @@ A starter list of information sources for your security investigations & integra
  
 **Other**  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
+ * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
 * MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
 * Before donating to non-profits, do your research [https://www.open990.org/](https://www.open990.org/)  
