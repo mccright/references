@@ -63,6 +63,7 @@ git remote set-head origin -a
 **Awesome-Awesome**
 * A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
 * A collection of awesome lists for hackers, pentesters & security researchers [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
+* A curated list of Terminal frameworks, plugins & resources for CLI lovers [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)  
 
 **Browse** 
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
