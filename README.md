@@ -292,6 +292,7 @@ and
 * One approach to loggiing in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 * A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
+* A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
