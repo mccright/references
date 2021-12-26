@@ -744,8 +744,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 **Projects associated with Novel Corona Virus - COVID-19**  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
 
-**WIKI-like platforms for easy sharing**  
-***On your private, safe network*** 
+**WIKI-like platforms for easy sharing (*On your private, safe network*)** 
 * cowyo is a self-contained wiki server that makes jotting notes - simple, easy and fast [https://github.com/schollz/cowyo](https://github.com/schollz/cowyo)  
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
