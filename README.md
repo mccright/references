@@ -185,6 +185,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Run your own VPN(s) [https://github.com/trailofbits/algo](https://github.com/trailofbits/algo)  
 * "8 Best VPNs in 2021: Tested All Apps, Speed, Security & More." by Chase Williams September 01, 2021 [https://www.wizcase.com/vpn-reviews/](https://www.wizcase.com/vpn-reviews/)  
 * Email address parser from website list [https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py](https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py)  
+*  Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
 
 
 **Pen testing Linux distros**  
