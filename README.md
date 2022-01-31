@@ -436,6 +436,7 @@ A starter list of information sources for your security investigations & integra
          * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
      * Greynoise [https://viz.greynoise.io/trends](https://viz.greynoise.io/trends)  
      * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
+     * Cloud IP Ranges [https://github.com/nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges)  
  * ThreatCrowd for IPv4, FQDN and MD5 lookups [https://www.threatcrowd.org/](https://www.threatcrowd.org/)  
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
  * Wigle for WiFi [https://wigle.net/](https://wigle.net/)  
