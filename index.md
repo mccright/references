@@ -4,7 +4,8 @@ references
 Remember: *If you're not paying for it, you're the product.*  
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
-* Flex your perceptions and imagination with Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
+* Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
+* Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
   * See the most up-to-date physical understanding of the climate system and climate change - latest data and interpretations: [https://www.ipcc.ch/report/ar6/wg1/](https://www.ipcc.ch/report/ar6/wg1/)  
   * New research can help you better understand climate-related risks at your home or where you work.  FloodFactor will help you understand the current and future flood risks at any North American address: [https://www.floodfactor.com/](https://www.floodfactor.com/)  
@@ -85,7 +86,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Vulnerability and exploit lists:  
   o	[http://cve.mitre.org/](http://cve.mitre.org/)  
   o	[http://www.cvedetails.com/](http://www.cvedetails.com/)  
-  o	[http://0day.today/](http://0day.today/)  
+  o	[http://w.0day.today/](http://w.0day.today/)  
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
@@ -151,6 +152,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Arachni Web Application Security Scanner Framework {Ruby centric} [http://www.arachni-scanner.com/](http://www.arachni-scanner.com/)  
 * Sn1per is an automated scanner {php} to enumerate and scan for vulnerabilities [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)  
 * WhatWeb - Next generation web scanner [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)  
+* Cloudflare’s in-house lightweight network vulnerability scanner [https://blog.cloudflare.com/introducing-flan-scan/](https://blog.cloudflare.com/introducing-flan-scan/) and [https://github.com/cloudflare/flan](https://github.com/cloudflare/flan)  
 * OWASP-Nettacker - Automated Penetration Testing Framework [https://github.com/zdresearch/OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)  
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
@@ -183,12 +185,13 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Airbus security lab publications [https://airbus-seclab.github.io/](https://airbus-seclab.github.io/) and their tools at [https://github.com/airbus-seclab/](https://github.com/airbus-seclab/)  
 * Run your own VPN(s) [https://github.com/trailofbits/algo](https://github.com/trailofbits/algo)  
 * "8 Best VPNs in 2021: Tested All Apps, Speed, Security & More." by Chase Williams September 01, 2021 [https://www.wizcase.com/vpn-reviews/](https://www.wizcase.com/vpn-reviews/)  
+* Email address parser from website list [https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py](https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py)  
+*  Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
 
 
 **Pen testing Linux distros**  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
-* Bugtraq-2  [http://bugtraq-team.com/](http://bugtraq-team.com/)  
 * DemonLinux  [https://demonlinux.com/about.php](hhttps://demonlinux.com/about.php) 
 * Fedora Security Lab [https://labs.fedoraproject.org/en/security/](https://labs.fedoraproject.org/en/security/)  
 * Kali  [https://www.kali.org/](https://www.kali.org/)  
@@ -244,7 +247,7 @@ and
 * Cheatsheets for experienced React developers getting started with TypeScript [https://github.com/typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)    
 * Node: Up and Running. By Tom Hughes-Croucher and Mike Wilson [http://chimera.labs.oreilly.com/books/1234000001808/index.html](http://chimera.labs.oreilly.com/books/1234000001808/index.html)  
 * Narrative workbook -- This is a companion workbook that will assist you in working through the codeX Narrative that is to be provided. Resources and references provided that will assist you in your journey will be published in the repository. [https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook](https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook)  
-* "Don't make fun of JavaScript" [https://github.com/pixari/dmfojs](https://github.com/pixari/dmfojs) and - GitBook Format - [https://book.dmfoj.dev](https://book.dmfoj.dev)  
+* "Don't make fun of JavaScript" [https://github.com/pixari/dmfojs](https://github.com/pixari/dmfojs)  
 
 
 **General Secure Programming**  
@@ -262,12 +265,12 @@ and
 * Web Application Security Guide/Checklist [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
 * CSRN Security Checklist for Software Developers [https://security.web.cern.ch/security/recommendations/en/checklist_for_coders.shtml](https://security.web.cern.ch/security/recommendations/en/checklist_for_coders.shtml)  
 * Web Application Security Guide [https://en.wikibooks.org/wiki/Web_Application_Security_Guide](https://en.wikibooks.org/wiki/Web_Application_Security_Guide)  
-* DISA Information Assurance Support Environment [http://iase.disa.mil/Pages/index.aspx](http://iase.disa.mil/Pages/index.aspx)
+* DISA Information Assurance Support Environment [https://public.cyber.mil/](https://public.cyber.mil/)
 * Security Technical Implementation Guides (STIGs) [https://public.cyber.mil/stigs/](https://public.cyber.mil/stigs/)  
 * Application Security STIGs [hhttps://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=app-security](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=app-security)  
 * Application Security and Development Security Technical Implementation Guide, Version 5, Release 1 - 26 October 2020 [https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ASD_V5R1_STIG.zip](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ASD_V5R1_STIG.zip)  
 * DoD Cloud Computing Security [https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=cloud-security-stigs](https://public.cyber.mil/stigs/downloads/?_dl_facet_stigs=cloud-security-stigs)  
-* IASE Application Security [http://iase.disa.mil/stigs/app-security/Pages/index.aspx](http://iase.disa.mil/stigs/app-security/Pages/index.aspx)  
+* IASE Application Security [https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ASD_V5R1_STIG.zip](https://dl.dod.cyber.mil/wp-content/uploads/stigs/zip/U_ASD_V5R1_STIG.zip)  
 * Excellent STIG viewer [https://www.stigviewer.com/stigs](https://www.stigviewer.com/stigs)  
 * Equally excellent Common Controls viewer [https://www.unifiedcompliance.com/products/search-controls/](https://www.unifiedcompliance.com/products/search-controls/)  
 * DOD Instruction 8500.2 Full Control List [https://www.stigviewer.com/controls/8500](https://www.stigviewer.com/controls/8500)  
@@ -292,6 +295,7 @@ and
 * One approach to loggiing in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 * A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
+* A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
@@ -418,7 +422,7 @@ A starter list of information sources for your security investigations & integra
  * Censys.io for IPv4 lookups [https://censys.io/](https://censys.io/)  
  * CIRCL (Computer Incident Response Center Luxembourg) for CVE lookups [https://www.circl.lu/](https://www.circl.lu/)  
  * Google Safe Browsing for URL lookups [https://safebrowsing.google.com/](https://safebrowsing.google.com/)  
- * Have I Been Pwned for Email lookups [https://haveibeenpwned.com/](https://haveibeenpwned.com/)  
+ * Have I Been Pwned for Email lookups [https://haveibeenpwned.com](https://haveibeenpwned.com)  
  * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com[](https://exchange.xforce.ibmcloud.com/)  
  * IP Geo Tool {free} for your script integration: [https://tools.keycdn.com/geo.json?host={IP or hostname}](https://tools.keycdn.com/geo.json?host={IP or hostname}) Important: See [https://tools.keycdn.com/geo](https://tools.keycdn.com/geo) for configuring your request header User-Agent string correctly.  
  * MISP for MD5 and SHA2 [http://www.misp-project.org/](http://www.misp-project.org/)  
@@ -432,6 +436,7 @@ A starter list of information sources for your security investigations & integra
          * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
      * Greynoise [https://viz.greynoise.io/trends](https://viz.greynoise.io/trends)  
      * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
+     * Cloud IP Ranges [https://github.com/nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges)  
  * ThreatCrowd for IPv4, FQDN and MD5 lookups [https://www.threatcrowd.org/](https://www.threatcrowd.org/)  
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
  * Wigle for WiFi [https://wigle.net/](https://wigle.net/)  
@@ -461,19 +466,18 @@ A starter list of information sources for your security investigations & integra
 * OWASP Cheat Sheet Series index: [https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md](https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md) and [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)  
 * Massive list of links to lists associated with programming and languages [https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/](https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/)  
 * SQL Injection Cheat Sheet [https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)   
-* Collection of SQL Injection Cheat Sheets [http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet](http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)  
+* Collection of SQL Injection Cheat Sheets [https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet](https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet)  
 * Random reminder of how SQL Joins work.  [http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/](http://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) Browse the comments as well.  And if that doesn't do it, try [http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html](http://gplivna.blogspot.com/2008/01/sql-join-types-im-studying-bit-sql.html)  
-* Random agile development vocabulary  [http://cheatsheetworld.com/programming/agile-development-cheat-sheet/](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)   
- * "awesome-incident-response" a curated list of tools and resources for security incident response [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)  
- * Incident "Debriefing Facilitation Guide -- Leading Groups at Etsy to Learn From Accidents." by: John Allspaw, Morgan Evans, Daniel Schauenberg; 2016 [http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) and in MarkDown format: [https://github.com/etsy/DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide)  
- * "Digital Services Playbook." [https://playbook.cio.gov/](https://playbook.cio.gov/) and the source in MarkDown at: [https://github.com/usds/playbook](https://github.com/usds/playbook)  
+* "awesome-incident-response" a curated list of tools and resources for security incident response [https://github.com/meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)  
+* Incident "Debriefing Facilitation Guide -- Leading Groups at Etsy to Learn From Accidents." by: John Allspaw, Morgan Evans, Daniel Schauenberg; 2016 [http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf](http://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) and in MarkDown format: [https://github.com/etsy/DebriefingFacilitationGuide](https://github.com/etsy/DebriefingFacilitationGuide)  
+* "Digital Services Playbook." [https://playbook.cio.gov/](https://playbook.cio.gov/) and the source in MarkDown at: [https://github.com/usds/playbook](https://github.com/usds/playbook)  
  * 101 Machine Learning Algorithms for Data Science with Cheat Sheets [https://blog.datasciencedojo.com/machine-learning-algorithms/](https://blog.datasciencedojo.com/machine-learning-algorithms/)  
  * An extensive list of filetypes and the application(s) associated with them [https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles](https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles)  
 
 **Several Tech Company Research & Security Blogs**
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
- * Fortify AppSecurity Blog [http://h30499.www3.hp.com/t5/Fortify-Application-Security/bg-p/application-security-fortify-on-demand](http://h30499.www3.hp.com/t5/Fortify-Application-Security/bg-p/application-security-fortify-on-demand) 
- * HP Security Research Blog [http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/bg-p/off-by-on-software-security-blog](http://h30499.www3.hp.com/t5/HP-Security-Research-Blog/bg-p/off-by-on-software-security-blog) 
+ * Fortify AppSecurity Blog [https://community.microfocus.com/cyberres/tags/Fortify](https://community.microfocus.com/cyberres/tags/Fortify) 
+ * Fortify Security Research Blog [https://community.microfocus.com/cyberres/b/off-by-on-software-security-blog](https://community.microfocus.com/cyberres/b/off-by-on-software-security-blog) 
  * HP AppSecurity Feed [https://twitter.com/HPappsecurity](https://twitter.com/HPappsecurity) 
  * IBM Security-Intelligence Feed [http://securityintelligence.com/](http://securityintelligence.com/) 
  * IBM Research News [http://ibmresearchnews.blogspot.com/](http://ibmresearchnews.blogspot.com/) 
@@ -482,7 +486,7 @@ A starter list of information sources for your security investigations & integra
  * IBM DeveloperWorks Blogs -- Recent Updates [https://www.ibm.com/developerworks/](https://www.ibm.com/developerworks/community/groups/service/html/community/updates?communityUuid=81c130c7-4408-4e01-adf5-658ae0ef5f0c&filter=all)  
  * Microsoft Research Blogs [https://www.microsoft.com/en-us/research/blog/](https://www.microsoft.com/en-us/research/blog/)  
  * Microsoft Cybersecurity Blog [https://www.microsoft.com/security/blog/](https://www.microsoft.com/security/blog/)  
- * Microsoft Office365 Developer Blog [https://dev.office.com/blogs/](https://dev.office.com/blogs/)  
+ * Microsoft Office365 Developer Blog [https://developer.microsoft.com/en-us/office](https://developer.microsoft.com/en-us/office) supported by [https://github.com/OfficeDev](https://github.com/OfficeDev)  
  * Google Online Security Blog [http://googleonlinesecurity.blogspot.com/](http://googleonlinesecurity.blogspot.com/) 
  * Google AppSecurity Research [https://www.google.com/about/appsecurity/research/](https://www.google.com/about/appsecurity/research/) and supporting details at  [https://code.google.com/p/google-security-research/issues/list?can=1](https://code.google.com/p/google-security-research/issues/list?can=1)   
  * PortSwigger (Burp) Blog [http://blog.portswigger.net/](http://blog.portswigger.net/)  
@@ -522,7 +526,7 @@ A starter list of information sources for your security investigations & integra
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/) 
  * Schneier on Security [https://www.schneier.com/](https://www.schneier.com/) 
  * IBM X-Force Home [http://securityintelligence.com/topics/x-force/](http://securityintelligence.com/topics/x-force/) 
- * Security Bloggers Network [http://www.securitybloggersnetwork.com/security-bloggers-network-the-feed/](http://www.securitybloggersnetwork.com/security-bloggers-network-the-feed/) 
+ * Security Bloggers Network [https://securityboulevard.com/sbn/](https://securityboulevard.com/sbn/) 
  * News from NetCraft [https://news.netcraft.com/](https://news.netcraft.com/) and their security category at [https://news.netcraft.com/archives/category/security/](https://news.netcraft.com/archives/category/security/)  
  * Help Net Security [http://www.net-security.org/secworld_main.php](http://www.net-security.org/secworld_main.php) 
  * Malwarebytes Blog [https://blog.malwarebytes.org/](https://blog.malwarebytes.org/) 
@@ -540,7 +544,7 @@ A starter list of information sources for your security investigations & integra
  * 1 Raindrop [http://1raindrop.typepad.com/1_raindrop/](http://1raindrop.typepad.com/1_raindrop/)  
  * Information Week Dark Reading [http://www.darkreading.com/](http://www.darkreading.com/)  
  * Dark Reading aggregation of news about attacks and breaches [https://www.darkreading.com/attacks-breaches.asp](https://www.darkreading.com/attacks-breaches.asp)  
- * White Hat Security Blog [https://blog.whitehatsec.com/](https://blog.whitehatsec.com/)  
+ * White Hat Security Blog [https://www.whitehatsec.com/blog/](https://www.whitehatsec.com/blog/)  
  * Sucuri Blog [https://blog.sucuri.net/](https://blog.sucuri.net/)  
  * FireEye Blog [https://www.fireeye.com/blog/threat-research.html](https://www.fireeye.com/blog/threat-research.html)  
  * SANS Security Awareness Blog [http://www.securingthehuman.org/blog](http://www.securingthehuman.org/blog)  
@@ -575,48 +579,46 @@ A starter list of information sources for your security investigations & integra
  * An improved webinterface for use with ADS-B decoders readsb / dump1090-fa [https://github.com/wiedehopf/tar1090](https://github.com/wiedehopf/tar1090)  
   
   
- **Temporary list for new work tools**  
- * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
- * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
- * Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
- * A collection of Docker files from CenturyLink Labs: [https://github.com/CenturyLinkLabs?q=&type=&language=dockerfile](https://github.com/CenturyLinkLabs?q=&type=&language=dockerfile)  
- * Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
- * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
- * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
- * A pair of tools for running phishing campaigns to raise security awareness: Swordphish Phishing Awareness Tool [https://github.com/certsocietegenerale/swordphish-awareness/](https://github.com/certsocietegenerale/swordphish-awareness/) and the Outlook add-in companion to report suspicious mail easily [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)  
- * W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
- * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
- * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
- * WebSphere Password Decoders: [http://strelitzia.net/wasXORdecoder/wasXORdecoder.html](http://strelitzia.net/wasXORdecoder/wasXORdecoder.html) and [http://www.poweredbywebsphere.com/decoder.html](http://www.poweredbywebsphere.com/decoder.html)  
- * Conference Session Search Service - Con Collector [http://cc.thinkst.com/searchMore/](http://cc.thinkst.com/searchMore/)  
- * Some Open Source Network Monitoring Tools:  
+**Temporary list for new work tools**  
+* Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
+* A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
+* Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
+* A collection of Docker files from CenturyLink Labs: [https://github.com/CenturyLinkLabs?q=&type=&language=dockerfile](https://github.com/CenturyLinkLabs?q=&type=&language=dockerfile)  
+* Awesome-Security: [https://github.com/sbilly/awesome-security](https://github.com/sbilly/awesome-security)  
+* Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
+* 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
+* A pair of tools for running phishing campaigns to raise security awareness: Swordphish Phishing Awareness Tool [https://github.com/certsocietegenerale/swordphish-awareness/](https://github.com/certsocietegenerale/swordphish-awareness/) and the Outlook add-in companion to report suspicious mail easily [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)  
+* W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
+* CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
+* Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
+* WebSphere Password Decoders: [http://strelitzia.net/wasXORdecoder/wasXORdecoder.html](http://strelitzia.net/wasXORdecoder/wasXORdecoder.html)  
+* Conference Session Search Service - Con Collector (broken) but they still list conferences [https://www.thinkst.com/ts.html](https://www.thinkst.com/ts.html)  
+* Some Open Source Network Monitoring Tools:  
   ** Snort: [https://www.snort.org/downloads](https://www.snort.org/downloads)  
   ** Suricata: [https://suricata-ids.org/](https://suricata-ids.org/)  
   ** Bro: [https://www.bro.org/](https://www.bro.org/)  
   ** OSSEC - Open Source HIDS SECurity [https://ossec.github.io/](https://ossec.github.io/)  
- * Lists of IP addresses by Country - use to block or to assess your log data, etc. [http://www.ipdeny.com/ipblocks/](http://www.ipdeny.com/ipblocks/) 
- * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
- * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
- * G Suite Toolbox Browserinfo -- very handy [https://toolbox.googleapps.com/apps/browserinfo/](https://toolbox.googleapps.com/apps/browserinfo/)  
- * A useful set of app-friendly utilities [https://httpbin.org/](https://httpbin.org/), for example, what is your current IP address [https://httpbin.org/ip](https://httpbin.org/ip)  
- * A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
- * A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
- * Sometimes you need a little local web server [https://github.com/kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome)  
- * Sometimes only ASCII is needed/allowed -- Convert a HTML table into ASCII table using Python: Colspan and Rowspan allowed [https://github.com/gustavklopp/DashTable](https://github.com/gustavklopp/DashTable)  
- * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)    
- * FuzzDB Project [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)  
- * Free IP geolocation API: 'curl http://api.db-ip.com/v2/free/<IP-Address>' or curl http://api.db-ip.com/v2/free/<IP-Address>/countryName [up to 1000/day]  
- * GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?) (Caution: as of October 2021, they are using a self-signed certificate)  
- * GetGeoIP web service to easily look up countries by IP address  [http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
- * Get domain name registration record by Host Name / Domain Name (WhoIS)  [http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
- * Get weather report for any major cities around the world [http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
- * A much better way to get weather! ...in your terminal [https://github.com/chubin/wttr.in](https://github.com/chubin/wttr.in) and then try some one-liners, for example:  
+* Lists of IP addresses by Country - use to block or to assess your log data, etc. [http://www.ipdeny.com/ipblocks/](http://www.ipdeny.com/ipblocks/) 
+* Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
+* Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
+* G Suite Toolbox Browserinfo -- very handy [https://toolbox.googleapps.com/apps/browserinfo/](https://toolbox.googleapps.com/apps/browserinfo/)  
+* A useful set of app-friendly utilities [https://httpbin.org/](https://httpbin.org/), for example, what is your current IP address [https://httpbin.org/ip](https://httpbin.org/ip)  
+* A fake DNS server that allows you to stealthily extract files from a victim machine through DNS requests [https://github.com/m57/dnsteal](https://github.com/m57/dnsteal)
+* A collection of default Oracle usernames and passwords [https://github.com/Oweoqi/oracle_creds](https://github.com/Oweoqi/oracle_creds)  
+* Sometimes you need a little local web server [https://github.com/kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome)  
+* Sometimes only ASCII is needed/allowed -- Convert a HTML table into ASCII table using Python: Colspan and Rowspan allowed [https://github.com/gustavklopp/DashTable](https://github.com/gustavklopp/DashTable)  
+* Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)    
+* FuzzDB Project [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)  
+* Free IP geolocation API: 'curl http://api.db-ip.com/v2/free/<IP-Address>' or curl http://api.db-ip.com/v2/free/<IP-Address>/countryName [up to 1000/day]  
+* GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?) (Caution: as of October 2021, they are using a self-signed certificate)  
+* GetGeoIP web service to easily look up countries by IP address  [http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
+* Get domain name registration record by Host Name / Domain Name (WhoIS)  [http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
+* Get weather report for any major cities around the world [http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
+* A much better way to get weather! ...in your terminal [https://github.com/chubin/wttr.in](https://github.com/chubin/wttr.in) and then try some one-liners, for example:  
    * ~$ curl https://wttr.in/yourCity?format="%l:+%t+%w+%h+%f"  
    * in your .bashrc: alias weather='curl https://wttr.in/yourCity'  
- * Get Currency, Curreny code, International Dialing code, ISO country code for all countries [http://www.webservicex.net/New/Home/ServiceDetail/19](http://www.webservicex.net/New/Home/ServiceDetail/19)  
- * Get State Code,City,Area Code,Time Zone,Zip Code [http://www.webservicex.net/New/Home/ServiceDetail/42](http://www.webservicex.net/New/Home/ServiceDetail/42)  
- * GetAirportInformationByCountry [http://www.webservicex.net/New/Home/ServiceDetail/20](http://www.webservicex.net/New/Home/ServiceDetail/20)  
- * Website style analyzer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
+* A high-functioning command line tool that displays the current weather (from OpenWeather) in the terminal written in Rust [https://github.com/gourlaysama/girouette](https://github.com/gourlaysama/girouette)  
+* Website style analyzer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
 
 
 **Bash Shell**  
@@ -698,7 +700,7 @@ A starter list of information sources for your security investigations & integra
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
 * MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
-* Before donating to non-profits, do your research [https://www.open990.org/](https://www.open990.org/)  
+* Before donating to non-profits, do your research [https://www.open990.org/org/](https://www.open990.org/org/)  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
 * High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
@@ -731,7 +733,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
 * Big list of HTTP media types [https://www.iana.org/assignments/media-types/media-types.xhtml ](https://www.iana.org/assignments/media-types/media-types.xhtml )  
 * Open source, free textbooks: [https://ocw.mit.edu/courses/online-textbooks/](https://ocw.mit.edu/courses/online-textbooks/) and [https://openstax.org/](https://openstax.org/)  
-* WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2019/1/)  
+* WhitePages: [https://www.therealyellowpages.com/Des-Moines-Regional-IA-2021/1/](https://www.therealyellowpages.com/Des-Moines-Regional-IA-2021/1/)  
 * and something completely different [https://ir.uiowa.edu/annals-of-iowa/](https://ir.uiowa.edu/annals-of-iowa/)  
 * The *real* cost of a car [https://www.carboncounter.com/#!/explore](https://www.carboncounter.com/#!/explore)  
 * My favorite essay on bitcoin [https://www.nytimes.com/2021/06/14/opinion/bitcoin-cryptocurrency-flaws.html](https://www.nytimes.com/2021/06/14/opinion/bitcoin-cryptocurrency-flaws.html)  
@@ -740,6 +742,10 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 
 **Projects associated with Novel Corona Virus - COVID-19**  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
+
+**WIKI-like platforms for easy sharing (*On your private, safe network*)** 
+* cowyo is a self-contained wiki server that makes jotting notes - simple, easy and fast [https://github.com/schollz/cowyo](https://github.com/schollz/cowyo)  
+* Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
 **Broadly Reusable Advice**  
 * "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they’re confident it won’t work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
