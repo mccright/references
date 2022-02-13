@@ -617,6 +617,7 @@ A starter list of information sources for your security investigations & integra
 * A much better way to get weather! ...in your terminal [https://github.com/chubin/wttr.in](https://github.com/chubin/wttr.in) and then try some one-liners, for example:  
    * ~$ curl https://wttr.in/yourCity?format="%l:+%t+%w+%h+%f"  
    * in your .bashrc: alias weather='curl https://wttr.in/yourCity'  
+* A high-functioning command line tool that displays the current weather (from OpenWeather) in the terminal written in Rust [https://github.com/gourlaysama/girouette](https://github.com/gourlaysama/girouette)  
 * Website style analyzer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
 
 
