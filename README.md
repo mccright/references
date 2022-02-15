@@ -58,7 +58,7 @@ git remote set-head origin -a
 ```
 
 **Tell Me About**  
-* A github profile summary: [https://profile-summary-for-github.com/user/<githubUserName>/](https://profile-summary-for-github.com/user/<githubUserName>/) [Thank you tipsy](https://github.com/tipsy/profile-summary-for-github)  
+* A github profile summary: [https://profile-summary-for-github.com/user/<githubUserName>/](https://profile-summary-for-github.com/user/githubUserName/) [Thank you tipsy](https://github.com/tipsy/profile-summary-for-github)  
 
   
 **Awesome-Awesome**
@@ -445,7 +445,7 @@ A starter list of information sources for your security investigations & integra
  * VirusTotal for MD5, SHA1, SHA2, URL and FQDN lookups [https://www.virustotal.com/](https://www.virustotal.com/)  
  * Buster, An advanced tool for email reconnaissance [https://github.com/sham00n/buster](https://github.com/sham00n/buster)  
  * WayBulk, Search a list of domains on the wayback machine [https://github.com/sham00n/waybulk](https://github.com/sham00n/waybulk)  
- * General outline of information about a specific host or domain [https://webrate.org/site/<website hostname>/](https://webrate.org/site/<website hostname>/)  
+ * General outline of information about a specific host or domain [https://webrate.org/site/website-hostname/](https://webrate.org/site/website-hostname/) (**replace "*website-hostname*" with your target.**)  
 
 
 **Math and Statistics**  
