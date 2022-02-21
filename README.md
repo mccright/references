@@ -441,6 +441,7 @@ A starter list of information sources for your security investigations & integra
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
  * Wigle for WiFi [https://wigle.net/](https://wigle.net/)  
  * Sourc ecode Search [https://publicwww.com/](https://publicwww.com/)  
+ * Utility to identify active committers participating in targeted repositories or github.com organizations. [https://github.com/kaakaww/contributors_tool](https://github.com/kaakaww/contributors_tool)  
  * Find *professional* email addresses [https://hunter.io/](https://hunter.io/)  
  * VirusTotal for MD5, SHA1, SHA2, URL and FQDN lookups [https://www.virustotal.com/](https://www.virustotal.com/)  
  * Buster, An advanced tool for email reconnaissance [https://github.com/sham00n/buster](https://github.com/sham00n/buster)  
