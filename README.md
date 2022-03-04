@@ -657,6 +657,7 @@ A starter list of information sources for your security investigations & integra
 
 
  **Temporary list for work tools or other resources requiring more follow-up**  
+ * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
  * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
  * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash, Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
  * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
@@ -698,6 +699,7 @@ A starter list of information sources for your security investigations & integra
    * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
  
 **Other**  
+* Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
 * MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
@@ -746,7 +748,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
 
 **WIKI-like platforms for easy sharing (*On your private, safe network*)** 
-* cowyo is a self-contained wiki server that makes jotting notes - simple, easy and fast [https://github.com/schollz/cowyo](https://github.com/schollz/cowyo)  
+* cowyo is a self-contained wiki server that makes jotting notes - simple, easy and fast, but crude and it feels a little unfinished [https://github.com/schollz/cowyo](https://github.com/schollz/cowyo)  
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
 **Broadly Reusable Advice**  
