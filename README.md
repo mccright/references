@@ -5,7 +5,7 @@ Remember: *If you're not paying for it, you're the product.*
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
-*** **Putin's war**:  
+### Putin's war:  
   * Russia and Ukraine historically produce roughly 25% of wheat exports.  That food source is not largely unavailable to populations that have limited options.  Begin donating to reputable organizations that will be helping feed the millions impacted by Putin's evil destruction and death machine.  
   *  The price of wheat: [https://tradingeconomics.com/commodity/wheat](https://tradingeconomics.com/commodity/wheat)  and  [https://www.macrotrends.net/2534/wheat-prices-historical-chart-data](https://www.macrotrends.net/2534/wheat-prices-historical-chart-data)  
 
