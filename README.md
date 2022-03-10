@@ -4,6 +4,11 @@ references
 Remember: *If you're not paying for it, you're the product.*  
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
+
+*** **Putin's war**:  
+  * Russia and Ukraine historically produce roughly 25% of wheat exports.  That food source is not largely unavailable to populations that have limited options.  Begin donating to reputable organizations that will be helping feed the millions impacted by Putin's evil destruction and death machine.  
+  *  The price of wheat: [https://tradingeconomics.com/commodity/wheat](https://tradingeconomics.com/commodity/wheat)  and  [https://www.macrotrends.net/2534/wheat-prices-historical-chart-data](https://www.macrotrends.net/2534/wheat-prices-historical-chart-data)  
+
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
