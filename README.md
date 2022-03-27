@@ -735,7 +735,7 @@ A starter list of information sources for your security investigations & integra
 * More Free Programming Books [https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)  
 * Tool by Tool, Skill by Skill. By Simon St.Laurent [http://chimera.labs.oreilly.com/books/1234000000882/index.html](http://chimera.labs.oreilly.com/books/1234000000882/index.html)
 Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.oreilly.com/books/1234000000882/apb.html](http://chimera.labs.oreilly.com/books/1234000000882/apb.html)  
-* Awesome Selfhosted. This is a list of Free Software network services and web applications which can be hosted locally. [https://github.com/Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)  
+* Awesome Selfhosted. This is a list of Free Software network services and web applications which can be hosted locally. [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  
 * Awesome SysAdmin. A list of open source sysadmin resources. [https://github.com/kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)  
 * Awesome Data Science.  A repository of resources to learn and apply for real world problems. [https://github.com/okulbilisim/awesome-datascience](https://github.com/okulbilisim/awesome-datascience)  
    * And data from OurWorldInData for your experiments: [https://github.com/owid/owid-datasets/tree/master/datasets](https://github.com/owid/owid-datasets/tree/master/datasets)  
