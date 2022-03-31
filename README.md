@@ -395,6 +395,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
 * Colorpedia - a command-line tool for looking up colors, shades and palettes [https://github.com/joowani/colorpedia](https://github.com/joowani/colorpedia)  
 * "Python requests is slow and takes very long to complete HTTP or HTTPS request" -- This is fantastic troubleshooting guidance and advice! [https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request](https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request)  
+* "Building a Full Stack Application with Flask and HTMx" [https://codecapsules.io/docs/tutorials/build-flask-htmx-app/](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)  
 * Generate *random* user agent strings  
   * [https://pypi.org/project/random-user-agent/](https://pypi.org/project/random-user-agent/)  
   * [https://pypi.org/project/requests-random-user-agent/](https://pypi.org/project/requests-random-user-agent/)  
