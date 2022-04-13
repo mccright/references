@@ -4,10 +4,19 @@ references
 Remember: *If you're not paying for it, you're the product.*  
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
+
+### Putin's war:  
+* Russia and Ukraine historically produce roughly 25% of wheat exports (*as well as material amounts of export barley, corn, potatoes, sunflowers and sugar beets*).  That food source is now largely unavailable to populations that have limited options.  For example, Egypt imports more than two-thirds of its wheat from Russia and Ukraine.  Russian aggression in Ukraine has also resulted in a range of commodity export, import and pricing measures across the globe that also increase food costs and reduce its availability.  For large populations around the world, this shortage will escalate existing food insecurity as well as creating new pools of food insecurity.  All of this increases the scope and intensity of already widespread food-related suffering.  Begin donating to reputable organizations that will be helping feed the millions impacted by Putin's evil misinformation, destruction and death machine.  
+  *  At 4:50PM UTC 2022-03-14, [the commodity price of Wheat was up almost 68% since the start of the year](https://tradingeconomics.com/commodity/wheat).  
+     *  To check the price of wheat see: [https://tradingeconomics.com/commodity/wheat](https://tradingeconomics.com/commodity/wheat)  and  [https://www.macrotrends.net/2534/wheat-prices-historical-chart-data](https://www.macrotrends.net/2534/wheat-prices-historical-chart-data)  
+  * Donate via a reputable channel that you trust -- and have some clear reasons that you trust them.  Unfortunately, there are lots of scammers and grifters stealing money behind pleas for food aid around the world and/or for Ukraine. (*I justs received a plea via email with links to what looked like 8 top-tier 'organizations' and each of the 'donation options' appears to be well-crafted look-alike site on a look-alike domain set up to accept credit card payments.*)  
+
+### Back to the References
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
   * See the most up-to-date physical understanding of the climate system and climate change - latest data and interpretations: [https://www.ipcc.ch/report/ar6/wg1/](https://www.ipcc.ch/report/ar6/wg1/)  
+  * Or, if that is too much detail, see *the same* message in xkcd format [https://xkcd.com/1732/](https://xkcd.com/1732/)  
   * New research can help you better understand climate-related risks at your home or where you work.  FloodFactor will help you understand the current and future flood risks at any North American address: [https://www.floodfactor.com/](https://www.floodfactor.com/)  
   * The U.S. National Mortgage Bankers Association researched climate change risks in their domain: [https://img03.en25.com/Web/MortgageBankersAssociation/Research_RIHA_September_2021_Report.pdf](https://img03.en25.com/Web/MortgageBankersAssociation/%7B66e37863-0f2e-45c7-8526-04d615d395e9%7D_22847_Research_RIHA_September_2021_Report.pdf)  
 * Find something new/different to read: [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
@@ -58,7 +67,7 @@ git remote set-head origin -a
 ```
 
 **Tell Me About**  
-* A github profile summary: [https://profile-summary-for-github.com/user/<githubUserName>/](https://profile-summary-for-github.com/user/<githubUserName>/) [Thank you tipsy](https://github.com/tipsy/profile-summary-for-github)  
+* A github profile summary: [https://profile-summary-for-github.com/user/<githubUserName>/](https://profile-summary-for-github.com/user/githubUserName/) [Thank you tipsy](https://github.com/tipsy/profile-summary-for-github)  
 
   
 **Awesome-Awesome**
@@ -106,8 +115,13 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Mitre Att&ck Enterprise threat list [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/)  
     "ATT&CK® is a catalog of techniques and tactics that describe post-compromise adversary behavior on typical enterprise IT environments. The core use cases involve using the catalog to analyze, triage, compare, describe, relate, and share post-compromise adversary behavior."  
 * Mitre D3FEND™ technical knowledge base of defensive countermeasures for common offensive techniques that is complementary to MITRE’s ATT&CK, a knowledge base of cyber adversary behavior.  D3FEND complements Mitre Att&ck by establishing a terminology of computer network defensive techniques and illuminating previously-unspecified relationships between defensive and offensive methods. [https://d3fend.mitre.org/](https://d3fend.mitre.org/)  
-* Mitre ATT&CK® for Industrial Control Systems threat list [https://collaborate.mitre.org/attackics/index.php/Main_Page](https://collaborate.mitre.org/attackics/index.php/Main_Page)  
-    "ATT&CK for ICS is a knowledge base useful for describing the actions an adversary may take while operating within an ICS network. The knowledge base can be used to better characterize and describe post-compromise adversary behavior."  
+* Related works:  
+   * MITRE ATT&CK® Matrix for Enterprise -- with specialized versions for the following platforms: Windows, macOS, Linux, PRE, Azure AD, Office 365, Google Workspace, SaaS, IaaS, Network, Containers [https://attack.mitre.org/matrices/enterprise/](https://attack.mitre.org/matrices/enterprise/)  
+   * MITRE ATT&CK® Matrix for Mobile -- with specialized versions for the following platforms: Android and iOS [https://attack.mitre.org/matrices/mobile/](https://attack.mitre.org/matrices/mobile/)  
+   * NIST 800-53 Controls to ATT&CK Mappings [https://ctid.mitre-engenuity.org/our-work/nist-800-53-control-mappings/](https://ctid.mitre-engenuity.org/our-work/nist-800-53-control-mappings/)  
+   * Mitre ATT&CK® for Industrial Control Systems threat list [https://collaborate.mitre.org/attackics/index.php/Main_Page](https://collaborate.mitre.org/attackics/index.php/Main_Page)  "ATT&CK for ICS is a knowledge base useful for describing the actions an adversary may take while operating within an ICS network. The knowledge base can be used to better characterize and describe post-compromise adversary behavior."  
+   * MITRE ATT&CK® and CAPEC™ datasets expressed in STIX 2.0 [https://github.com/mitre/cti](https://github.com/mitre/cti)  
+   * Github organization for MITRE ATT&CK [https://github.com/mitre-attack](https://github.com/mitre-attack)  
 * The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC):  
 Understanding how the adversary operates is essential to effective cyber security. CAPEC™ helps by providing a comprehensive dictionary of known patterns of attacks employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. It can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.  
    * Focuses on application security  
@@ -296,6 +310,7 @@ and
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 * A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
 * A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
+* An edge case:  *Protecting* your scripts - PowerShell, Visual Basic (VB), and C# code obfuscation -- "A Beginner's Guide to Obfuscation" [https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
@@ -380,6 +395,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
 * Colorpedia - a command-line tool for looking up colors, shades and palettes [https://github.com/joowani/colorpedia](https://github.com/joowani/colorpedia)  
 * "Python requests is slow and takes very long to complete HTTP or HTTPS request" -- This is fantastic troubleshooting guidance and advice! [https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request](https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request)  
+* "Building a Full Stack Application with Flask and HTMx" [https://codecapsules.io/docs/tutorials/build-flask-htmx-app/](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/) and [https://github.com/codecapsules-io/demo-flask-htmx](https://github.com/codecapsules-io/demo-flask-htmx)  
 * Generate *random* user agent strings  
   * [https://pypi.org/project/random-user-agent/](https://pypi.org/project/random-user-agent/)  
   * [https://pypi.org/project/requests-random-user-agent/](https://pypi.org/project/requests-random-user-agent/)  
@@ -441,10 +457,12 @@ A starter list of information sources for your security investigations & integra
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
  * Wigle for WiFi [https://wigle.net/](https://wigle.net/)  
  * Sourc ecode Search [https://publicwww.com/](https://publicwww.com/)  
+ * Utility to identify active committers participating in targeted repositories or github.com organizations. [https://github.com/kaakaww/contributors_tool](https://github.com/kaakaww/contributors_tool)  
  * Find *professional* email addresses [https://hunter.io/](https://hunter.io/)  
  * VirusTotal for MD5, SHA1, SHA2, URL and FQDN lookups [https://www.virustotal.com/](https://www.virustotal.com/)  
  * Buster, An advanced tool for email reconnaissance [https://github.com/sham00n/buster](https://github.com/sham00n/buster)  
  * WayBulk, Search a list of domains on the wayback machine [https://github.com/sham00n/waybulk](https://github.com/sham00n/waybulk)  
+ * General outline of information about a specific host or domain [https://webrate.org/site/website-hostname/](https://webrate.org/site/website-hostname/) (**replace "*website-hostname*" with your target.**)  
 
 
 **Math and Statistics**  
@@ -655,6 +673,8 @@ A starter list of information sources for your security investigations & integra
 
 
  **Temporary list for work tools or other resources requiring more follow-up**  
+ * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
+ * Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
  * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
  * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash, Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
  * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
@@ -696,9 +716,11 @@ A starter list of information sources for your security investigations & integra
    * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
  
 **Other**  
+* Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
 * MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
+* Chordious [https://github.com/jonthysell/Chordious](https://github.com/jonthysell/Chordious) with related [https://github.com/svg-net/SVG](https://github.com/svg-net/SVG)  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
 * Before donating to non-profits, do your research [https://www.open990.org/org/](https://www.open990.org/org/)  
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
@@ -714,7 +736,7 @@ A starter list of information sources for your security investigations & integra
 * More Free Programming Books [https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)  
 * Tool by Tool, Skill by Skill. By Simon St.Laurent [http://chimera.labs.oreilly.com/books/1234000000882/index.html](http://chimera.labs.oreilly.com/books/1234000000882/index.html)
 Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.oreilly.com/books/1234000000882/apb.html](http://chimera.labs.oreilly.com/books/1234000000882/apb.html)  
-* Awesome Selfhosted. This is a list of Free Software network services and web applications which can be hosted locally. [https://github.com/Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)  
+* Awesome Selfhosted. This is a list of Free Software network services and web applications which can be hosted locally. [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)  
 * Awesome SysAdmin. A list of open source sysadmin resources. [https://github.com/kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)  
 * Awesome Data Science.  A repository of resources to learn and apply for real world problems. [https://github.com/okulbilisim/awesome-datascience](https://github.com/okulbilisim/awesome-datascience)  
    * And data from OurWorldInData for your experiments: [https://github.com/owid/owid-datasets/tree/master/datasets](https://github.com/owid/owid-datasets/tree/master/datasets)  
@@ -744,7 +766,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
 
 **WIKI-like platforms for easy sharing (*On your private, safe network*)** 
-* cowyo is a self-contained wiki server that makes jotting notes - simple, easy and fast [https://github.com/schollz/cowyo](https://github.com/schollz/cowyo)  
+* cowyo is a self-contained wiki server that makes jotting notes - simple, easy and fast, but crude and it feels a little unfinished [https://github.com/schollz/cowyo](https://github.com/schollz/cowyo)  
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
 **Broadly Reusable Advice**  
