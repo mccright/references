@@ -15,12 +15,9 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
-  * See the most up-to-date physical understanding of the climate system and climate change - latest data and interpretations: [https://www.ipcc.ch/report/ar6/wg1/](https://www.ipcc.ch/report/ar6/wg1/)  
-  * Or, if that is too much detail, see *the same* message in xkcd format [https://xkcd.com/1732/](https://xkcd.com/1732/)  
-  * New research can help you better understand climate-related risks at your home or where you work.  FloodFactor will help you understand the current and future flood risks at any North American address: [https://www.floodfactor.com/](https://www.floodfactor.com/)  
-  * The U.S. National Mortgage Bankers Association researched climate change risks in their domain: [https://img03.en25.com/Web/MortgageBankersAssociation/Research_RIHA_September_2021_Report.pdf](https://img03.en25.com/Web/MortgageBankersAssociation/%7B66e37863-0f2e-45c7-8526-04d615d395e9%7D_22847_Research_RIHA_September_2021_Report.pdf)  
+  * I have begun to accumulate links to my reading (*and planned reading*) on another page [https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md)  
 * Find something new/different to read: [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
-* Explore these falsehoods programmers believe in -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
+* Explore these falsehoods programmers believe in (*which too often produce errors at runtime*) -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
 * Writing well is difficult.  The Strunkifier may help [*think 'Strunk and White' from school written in PHP with a web front end*][http://vinoisnotouzo.com/strunkifier/](http://vinoisnotouzo.com/strunkifier/) and the source at [https://github.com/BSVino/Strunkifier/blob/master/strunkify.php](https://github.com/BSVino/Strunkifier/blob/master/strunkify.php)  
 * Remember the *Ten simple rules for making research software more robust* [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
@@ -241,7 +238,8 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * Or use a Python-based command-line utility for using websites that can perform port scans on your behalf [https://github.com/vesche/scanless](https://github.com/vesche/scanless)  
   
 **Markdown**
-* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   
+* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+* [https://docs.github.com/en/get-started/writing-on-github](https://docs.github.com/en/get-started/writing-on-github)   
 * [https://bitbucket.org/tutorials/markdowndemo](https://bitbucket.org/tutorials/markdowndemo)  
 * Markdown Cheatsheet [http://commonmark.org/help/](http://commonmark.org/help/)  
 * [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
