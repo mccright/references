@@ -82,6 +82,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Your IP address is sometimes your identity [https://myexternalip.com/](https://myexternalip.com/)  
 
 **Software Vulnerability Detection Resources**  
+* *DevSecOps* tool lists [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps)  
 * U.S. National Checklist Program [http://checklists.nist.gov](http://checklists.nist.gov) and [https://web.nvd.nist.gov/view/ncp/repository](https://web.nvd.nist.gov/view/ncp/repository) 
 * Security Content Automation Protocol (SCAP)  
    * Nist Overview: [http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf](http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf)  
@@ -96,6 +97,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
+* Library for interacting with Synack API [https://github.com/abdilahrf/synackAPI](https://github.com/abdilahrf/synackAPI)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [https://www.cybersecurity.my/data/content_files/11/650.pdf](https://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
@@ -139,7 +141,9 @@ Understanding how the adversary operates is essential to effective cyber securit
 **Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
-* six2dez/.pentest-book [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
+* bugcrowd / methodology-taxonomy [https://github.com/bugcrowd/methodology-taxonomy](https://github.com/bugcrowd/methodology-taxonomy)  
+* "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
+* six2dez pentest-book [https://pentestbook.six2dez.com/](https://pentestbook.six2dez.com/) and the source at [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
 * An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
@@ -179,6 +183,9 @@ Understanding how the adversary operates is essential to effective cyber securit
 * 'domain-scan' A lightweight scan pipeline for orchestrating third party tools, at scale and (optionally) using serverless infrastructure [https://github.com/18F/domain-scan](https://github.com/18F/domain-scan)  
 * Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
 * Offensive Web Application Penetration Testing Framework [https://github.com/0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework)  
+* ReconFTW automates some reconnaisance activities.  [https://github.com/six2dez/reconftw](https://github.com/six2dez/reconftw)  
+* Reconnoitre: A reconnaissance tool made for the OSCP labs to automate information gathering and service enumeration whilst creating a directory structure to store results, findings and exploits used for each host, recommended commands to execute and directory structures for storing loot and flags. [https://github.com/codingo/Reconnoitre](https://github.com/codingo/Reconnoitre)  
+* Jenkins Pentesting [https://github.com/gquere/pwn_jenkins](https://github.com/gquere/pwn_jenkins)  
 * Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit [https://github.com/0xInfection/XSRFProbe](https://github.com/0xInfection/XSRFProbe)  
 * Cross Site Scripting detection suite [https://github.com/s0md3v/XSStrike](https://github.com/s0md3v/XSStrike)  
 * Web Application Firewall Fingerprinting Tool [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)  
@@ -198,6 +205,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "8 Best VPNs in 2021: Tested All Apps, Speed, Security & More." by Chase Williams September 01, 2021 [https://www.wizcase.com/vpn-reviews/](https://www.wizcase.com/vpn-reviews/)  
 * Email address parser from website list [https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py](https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py)  
 *  Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
+* Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
 
 
 **Pen testing Linux distros**  
@@ -451,6 +459,7 @@ A starter list of information sources for your security investigations & integra
      * Greynoise [https://viz.greynoise.io/trends](https://viz.greynoise.io/trends)  
      * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
      * Cloud IP Ranges [https://github.com/nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges)  
+     * CDN IP Ranges [https://github.com/six2dez/ipcdn](https://github.com/six2dez/ipcdn)  
  * ThreatCrowd for IPv4, FQDN and MD5 lookups [https://www.threatcrowd.org/](https://www.threatcrowd.org/)  
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
  * Wigle for WiFi [https://wigle.net/](https://wigle.net/)  
