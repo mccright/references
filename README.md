@@ -224,6 +224,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
 * mx-live-usb-maker [https://github.com/MX-Linux/mx-live-usb-maker](https://github.com/MX-Linux/mx-live-usb-maker) and [https://github.com/MX-Linux/lum-qt-appimage/releases](https://github.com/MX-Linux/lum-qt-appimage/releases)  
 * and some Security-oriented Docker containers [https://github.com/khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles)  
+* and a cloud-enabled approach to the same idea, RedCloud [https://github.com/khast3x/Redcloud](https://github.com/khast3x/Redcloud)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 
