@@ -309,6 +309,7 @@ and
 * XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Java Deserialization Cheat Sheet [https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)  
+* The Offensive 360 Knowledge base [https://knowledge-base.offensive360.com/](https://knowledge-base.offensive360.com/)  
 * HTTP Status Codes on-line [https://httpstatuses.com/](https://httpstatuses.com/)   
 * HTTP Status Codes local [https://github.com/mychris/scripts/blob/master/httpstatus](https://github.com/mychris/scripts/blob/master/httpstatus)  
 * IANA Hypertext Transfer Protocol (HTTP) Status Code Registry [http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)  
