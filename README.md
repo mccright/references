@@ -141,6 +141,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 **Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
+* Arsenal - an inventory, reminder and launcher to simplify the use of all the hard-to-remember pentest commands [https://github.com/Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal)  
 * bugcrowd / methodology-taxonomy [https://github.com/bugcrowd/methodology-taxonomy](https://github.com/bugcrowd/methodology-taxonomy)  
 * Bugcrowd Vulnerability Rating Taxonomy (VRT) [https://bugcrowd.com/vulnerability-rating-taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) and [https://github.com/bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy)  
 * "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
@@ -689,7 +690,7 @@ A starter list of information sources for your security investigations & integra
  * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
  * Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
  * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
- * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash, Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
+ * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash (*don't do Flash unless it is absolutely necessary for some materially-important purpose*), Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
  * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
    * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
    * Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
@@ -732,6 +733,7 @@ A starter list of information sources for your security investigations & integra
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
+* SVG Python module [https://github.com/orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py)  
 * MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
 * Chordious [https://github.com/jonthysell/Chordious](https://github.com/jonthysell/Chordious) with related [https://github.com/svg-net/SVG](https://github.com/svg-net/SVG)  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
