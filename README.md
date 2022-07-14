@@ -91,6 +91,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)  
 * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
 * Vulnerability and exploit lists:  
+  o [https://www.cisa.gov/known-exploited-vulnerabilities-catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
   o	[http://cve.mitre.org/](http://cve.mitre.org/)  
   o	[http://www.cvedetails.com/](http://www.cvedetails.com/)  
   o	[http://w.0day.today/](http://w.0day.today/)  
