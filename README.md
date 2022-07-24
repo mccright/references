@@ -17,6 +17,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Here is the "NASA JPL Asteroid Watch --> The Next Five Asteroid Approaches"
 [https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches](https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches) to help fuel your "it's always something..." catastrophe habit  
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
+  * We need to act on many, many fronts, but there are some offenders that deserve special attention.  For example, please *[Treat Big Oil and Big Ag Like Big Tobacco](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md#treat-big-oil-and-big-ag-like-big-tobacco)*  
   * I have begun to accumulate links to some of my climate reading (*and planned reading*) in another repository [https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md)  
 * Find something new/different to read: [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
 * Explore these falsehoods programmers believe in (*which too often produce errors at runtime*) -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
@@ -144,6 +145,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 **Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
+* "All in One Hacking tool For Hackers" [https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  
 * Arsenal - an inventory, reminder and launcher to simplify the use of all the hard-to-remember pentest commands [https://github.com/Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal)  
 * bugcrowd / methodology-taxonomy [https://github.com/bugcrowd/methodology-taxonomy](https://github.com/bugcrowd/methodology-taxonomy)  
 * Bugcrowd Vulnerability Rating Taxonomy (VRT) [https://bugcrowd.com/vulnerability-rating-taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) and [https://github.com/bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy)  
@@ -738,6 +740,7 @@ A starter list of information sources for your security investigations & integra
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
 * And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/<SYMBOL>```.  Thank you Shashi Prakash Gautam for your excellent server. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
+* Who pays for writing? Here is an annotated list of organizations that pay writers: [https://github.com/malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
 * SVG Python module [https://github.com/orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py)  
