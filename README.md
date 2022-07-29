@@ -470,6 +470,7 @@ A starter list of information sources for your security investigations & integra
      * Shodan [https://www.shodan.io/](https://www.shodan.io/)  
          * Search Query Fundamentals: [https://help.shodan.io/the-basics/search-query-fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)  
          * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
+         * Docker-hosted Shodan client: [https://github.com/crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan)  
      * Greynoise [https://viz.greynoise.io/trends](https://viz.greynoise.io/trends)  
      * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
      * Cloud IP Ranges [https://github.com/nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges)  
