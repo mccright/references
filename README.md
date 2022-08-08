@@ -698,6 +698,7 @@ A starter list of information sources for your security investigations & integra
  * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
  * Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
  * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
+   * also look into [https://github.com/yangyuexiong/Flask_BestPractices](https://github.com/yangyuexiong/Flask_BestPractices)  
  * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash (*don't do Flash unless it is absolutely necessary for some materially-important purpose*), Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
  * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
    * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
@@ -741,6 +742,7 @@ A starter list of information sources for your security investigations & integra
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
 * And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/<SYMBOL>```.  Thank you Shashi Prakash Gautam for your excellent server. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
+* Look into this simple mass Search & Replace tool (Rust): [https://github.com/nvie/sr](https://github.com/nvie/sr)  
 * Who pays for writing? Here is an annotated list of organizations that pay writers: [https://github.com/malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
