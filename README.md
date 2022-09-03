@@ -604,6 +604,7 @@ A starter list of information sources for your security investigations & integra
    
  **Software Defined Radio (SDR)**  
  * Overview: [http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf](http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf)  
+ * FISSURE -- Frequency Independent SDR-based Signal Understanding and Reverse Engineering -- an open-source RF and reverse engineering framework for signal detection and classification, protocol discovery, vulnerability analysis and more [https://github.com/ainfosec/FISSURE](https://github.com/ainfosec/FISSURE)  
  * Big List of SDR Applications: [https://wiki.radioreference.com/index.php/SDR_Software_Applications](https://wiki.radioreference.com/index.php/SDR_Software_Applications)  
  * PDW (Paging decoder for monitoring POCSAG, FLEX, ACARS, MOBITEX & ERMES pager traffic): [http://www.discriminator.nl/pdw/index-en.html](http://www.discriminator.nl/pdw/index-en.html) and [https://github.com/Discriminator/PDW](https://github.com/Discriminator/PDW)  
  * Unitrunker: [http://www.unitrunker.com/](http://www.unitrunker.com/) (pager RF-to-text?).  Manuals at: [http://utahradio.org/mediawiki/index.php/UniTrunker_Guide](http://utahradio.org/mediawiki/index.php/UniTrunker_Guide) and [http://www.unitrunker.com/windows.html](http://www.unitrunker.com/windows.html) and [http://www.unitrunker.com/realtek.html](http://www.unitrunker.com/realtek.html)   
