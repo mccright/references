@@ -5,8 +5,8 @@ Remember: *If you're not paying for it, you're the product.*
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
-### Putin's war:  
-* Russia and Ukraine historically produce roughly 25% of wheat exports (*as well as material amounts of export barley, corn, potatoes, sunflower seed/oil and sugar beets*).  Despite recent tentative shipping experiments that food source is still largely unavailable to populations that have limited options.  For example, Egypt imports more than two-thirds of its wheat from Russia and Ukraine.  Russian aggression in Ukraine has also resulted in a range of commodity export, import and pricing measures across the globe that also increase food costs and reduce its availability.  For large populations around the world, this shortage will escalate existing food insecurity as well as creating new pools of food insecurity.  All of this increases the scope and intensity of already widespread food-related suffering.  Begin donating to reputable organizations that will be helping feed the millions impacted by Putin's evil misinformation, destruction and death machine.  
+### [Putin's war](https://en.wikipedia.org/wiki/Russo-Ukrainian_War):  
+* Russia and Ukraine historically produce roughly 25% of wheat exports (*as well as material amounts of export barley, corn, potatoes, sunflower seed/oil and sugar beets*).  Despite recent tentative shipping experiments that food source is still largely unavailable to populations that have limited options.  For example, Egypt imports more than two-thirds of its wheat from Russia and Ukraine.  [Russian aggression in Ukraine](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine) has also resulted in a range of commodity export, import and pricing measures across the globe that also increase food costs and reduce its availability.  For large populations around the world, this shortage will escalate existing food insecurity as well as creating new pools of food insecurity.  In addition, CNN reports that [Russians have been stealing "vast amounts of Ukrainian grain and (*farming*) equipment."](https://edition.cnn.com/2022/05/05/europe/russia-ukraine-grain-theft-cmd-intl/index.html)  All of this increases the scope and intensity of already [widespread food-related suffering](https://en.wikipedia.org/wiki/2022_food_crises).  Begin donating to reputable organizations that will be helping feed the millions impacted by Putin's evil misinformation, destruction and death machine.  
   *  At 4:50PM UTC 2022-03-14, [the commodity price of Wheat was up almost 68% since the start of the year (on 2022-06-12 it was up over 57%)](https://tradingeconomics.com/commodity/wheat).  ...*where wheat is a proxy for the broader category of "food" in general*.  
      *  To check the price of wheat see: [https://tradingeconomics.com/commodity/wheat](https://tradingeconomics.com/commodity/wheat)  and  [https://www.macrotrends.net/2534/wheat-prices-historical-chart-data](https://www.macrotrends.net/2534/wheat-prices-historical-chart-data)  
   * Donate via a reputable channel that you trust -- and have some clear reasons that you trust them.  Unfortunately, there are lots of scammers and grifters stealing money behind pleas for food aid around the world and/or for Ukraine. (*I justs received a plea via email with links to what looked like 8 top-tier 'organizations' and each of the 'donation options' appears to be well-crafted look-alike site on a look-alike domain set up to accept credit card payments.*)  
@@ -433,6 +433,10 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
+* **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
+  * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
+  * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
+  * And a Python implementation of *[draft version 1](https://datatracker.ietf.org/doc/html/draft-barnes-cfrg-hpke-01)* at: [https://github.com/dwd/crypto-examples/blob/master/hpke.py](https://github.com/dwd/crypto-examples/blob/master/hpke.py).  
  
 **Regex**
 * Test your regex on line: [https://regex101.com/](https://regex101.com/)  
@@ -600,6 +604,7 @@ A starter list of information sources for your security investigations & integra
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  * Kite Blog: [https://kite.com/blog](https://kite.com/blog)  
+ * AWS Week in Review: [https://aws.amazon.com/blogs/aws/tag/week-in-review/](https://aws.amazon.com/blogs/aws/tag/week-in-review/)  
   
    
  **Software Defined Radio (SDR)**  
