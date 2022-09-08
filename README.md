@@ -179,6 +179,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * WhatWeb - Next generation web scanner [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)  
 * Cloudflare’s in-house lightweight network vulnerability scanner [https://blog.cloudflare.com/introducing-flan-scan/](https://blog.cloudflare.com/introducing-flan-scan/) and [https://github.com/cloudflare/flan](https://github.com/cloudflare/flan)  
 * OWASP-Nettacker - Automated Penetration Testing Framework [https://github.com/zdresearch/OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)  
+* Some starter scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
 * Website fingerprint script [https://github.com/bgiarrizzo/website-fingerprint](https://github.com/bgiarrizzo/website-fingerprint)  
@@ -219,6 +220,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Email address parser from website list [https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py](https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py)  
 *  Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
 * Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
+* sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
 
 
 **Pen testing Linux distros**  
@@ -670,6 +672,7 @@ A starter list of information sources for your security investigations & integra
    * in your .bashrc: alias weather='curl https://wttr.in/yourCity'  
 * A high-functioning command line tool that displays the current weather (from OpenWeather) in the terminal written in Rust [https://github.com/gourlaysama/girouette](https://github.com/gourlaysama/girouette)  
 * Website style analyzer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
+* A python script that generates different sizes favicons from one image [https://github.com/Hecsall/favicon-generator](https://github.com/Hecsall/favicon-generator)  
 
 
 **Bash Shell**  
