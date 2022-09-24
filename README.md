@@ -118,7 +118,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * "A Non-Trivial Task of Introducing Architecture Risk Analysis into Software Development Process." OWASP EU presentation by Denis Pilipchuk, Global Product Security, Oracle: [http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf](http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf)  
 * Mitre Att&ck Enterprise threat list [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/)  
     "ATT&CK® is a catalog of techniques and tactics that describe post-compromise adversary behavior on typical enterprise IT environments. The core use cases involve using the catalog to analyze, triage, compare, describe, relate, and share post-compromise adversary behavior."  
-* Mitre D3FEND™ technical knowledge base of defensive countermeasures for common offensive techniques that is complementary to MITRE’s ATT&CK, a knowledge base of cyber adversary behavior.  D3FEND complements Mitre Att&ck by establishing a terminology of computer network defensive techniques and illuminating previously-unspecified relationships between defensive and offensive methods. [https://d3fend.mitre.org/](https://d3fend.mitre.org/)  
+* Mitre D3FEND™ technical knowledge base of defensive countermeasures for common offensive techniques that is complementary to MITRE's ATT&CK, a knowledge base of cyber adversary behavior.  D3FEND complements Mitre Att&ck by establishing a terminology of computer network defensive techniques and illuminating previously-unspecified relationships between defensive and offensive methods. [https://d3fend.mitre.org/](https://d3fend.mitre.org/)  
 * Related works:  
    * MITRE ATT&CK® Matrix for Enterprise -- with specialized versions for the following platforms: Windows, macOS, Linux, PRE, Azure AD, Office 365, Google Workspace, SaaS, IaaS, Network, Containers [https://attack.mitre.org/matrices/enterprise/](https://attack.mitre.org/matrices/enterprise/)  
    * MITRE ATT&CK® Matrix for Mobile -- with specialized versions for the following platforms: Android and iOS [https://attack.mitre.org/matrices/mobile/](https://attack.mitre.org/matrices/mobile/)  
@@ -135,7 +135,7 @@ Understanding how the adversary operates is essential to effective cyber securit
    * Associated with Common Weakness Enumeration (CWE)  
     [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
 * Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
-* “The STRIDE Threat Model.” [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
+* "The STRIDE Threat Model." [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
 * "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
 * "How To: Create a Threat Model for a Web Application at Design Time." [http://msdn.microsoft.com/en-us/library/ms978527.aspx](http://msdn.microsoft.com/en-us/library/ms978527.aspx)  
 * "Walkthrough: Creating a Threat Model for a Web Application." [http://msdn.microsoft.com/en-us/library/ms978538.aspx](http://msdn.microsoft.com/en-us/library/ms978538.aspx)  
@@ -177,7 +177,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Arachni Web Application Security Scanner Framework {Ruby centric} [http://www.arachni-scanner.com/](http://www.arachni-scanner.com/)  
 * Sn1per is an automated scanner {php} to enumerate and scan for vulnerabilities [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)  
 * WhatWeb - Next generation web scanner [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)  
-* Cloudflare’s in-house lightweight network vulnerability scanner [https://blog.cloudflare.com/introducing-flan-scan/](https://blog.cloudflare.com/introducing-flan-scan/) and [https://github.com/cloudflare/flan](https://github.com/cloudflare/flan)  
+* Cloudflare's in-house lightweight network vulnerability scanner [https://blog.cloudflare.com/introducing-flan-scan/](https://blog.cloudflare.com/introducing-flan-scan/) and [https://github.com/cloudflare/flan](https://github.com/cloudflare/flan)  
 * OWASP-Nettacker - Automated Penetration Testing Framework [https://github.com/zdresearch/OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)  
 * Some starter scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
@@ -362,7 +362,7 @@ and
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
 * The best Docker base image for your Python application (April 2020) *tl;dr; Ubuntu LTS or Docker Official Python Debian* [https://pythonspeed.com/articles/base-image-python-docker-images/](https://pythonspeed.com/articles/base-image-python-docker-images/)  
 * "Docker Best Practices for Python Developers" By Amal Shaji 2021-10-05 [https://testdriven.io/blog/docker-best-practices/](https://testdriven.io/blog/docker-best-practices/)  
-* "Don’t leak your Docker image’s build secrets." By Itamar Turner-Trauring, 2021-10-01 [https://pythonspeed.com/articles/docker-build-secrets/](https://pythonspeed.com/articles/docker-build-secrets/)  
+* "Don't leak your Docker image's build secrets." By Itamar Turner-Trauring, 2021-10-01 [https://pythonspeed.com/articles/docker-build-secrets/](https://pythonspeed.com/articles/docker-build-secrets/)  
 * **unblob** parses unknown binary blobs for more than 30 different archive, compression, and file-system formats, extracts their content recursively, and carves out unknown chunks that have not been accounted for -- just what is needed to explore docker images: [https://github.com/onekey-sec/unblob](https://github.com/onekey-sec/unblob)  
 * PyFormat Using % and .format() [https://pyformat.info/](https://pyformat.info/)  
 * Python's strftime directives [https://strftime.org/](https://strftime.org/)  
@@ -501,7 +501,7 @@ A starter list of information sources for your security investigations & integra
 **Math and Statistics**  
 * Statistics in Pandas Cheatsheet [https://cheatsheets.quantecon.org/stats-cheatsheet.html](https://cheatsheets.quantecon.org/stats-cheatsheet.html)  
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
-* Chen’s Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
+* Chen's Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
 * "Unsupervised Cross-lingual Representation Learning at Scale" by Alexis Conneau and Kartikay Khandelwal, et.al. [https://arxiv.org/pdf/1911.02116.pdf](https://arxiv.org/pdf/1911.02116.pdf)  
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
 
@@ -746,7 +746,7 @@ A starter list of information sources for your security investigations & integra
  * Windows 10 Wi-Fi Analyzer [https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n](https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n)  
  * Code Review Questions:  
    * Eric Farkas: [http://ericfarkas.com/posts/questions-i-ask-during-code-review](http://ericfarkas.com/posts/questions-i-ask-during-code-review)  
-   * thoughbot’s Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
+   * thoughbot's Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
    * Examples from StackExchange [https://security.stackexchange.com/questions/tagged/code-review](https://security.stackexchange.com/questions/tagged/code-review)  
    * Another [https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff](https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff)  
    * How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
@@ -813,12 +813,12 @@ See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVI
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
 **Broadly Reusable Advice**  
-* "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they’re confident it won’t work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
+* "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they're confident it won't work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
 * On Being Fired [https://third-bit.com/rules/#being-fired](https://third-bit.com/rules/#being-fired)  
 * Ten quick tips for delivering programming lessons [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433)  
 * Ten quick tips for teaching programming [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)  
 * Jesse Duffield's "*Stuff I would tell my younger self*" [https://github.com/jesseduffield/wisdom/wiki](https://github.com/jesseduffield/wisdom/wiki)  
 * A [Thesaurus of Job Titles](http://www.enlightenjobs.com/) to help "Improve the information flowing between recruiters and job seekers. Improve how recruiters and job seekers create job postings and resumes/online profiles. Improve how recruiters and job seekers search for candidates and jobs" [https://github.com/johnpcarty/Thesaurus-of-Job-Titles](https://github.com/johnpcarty/Thesaurus-of-Job-Titles)  
 * Ten simple rules for making research software more robust [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
-* You have the right to film police. Here’s how to do it effectively — and safely [https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/](https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/) and why it is important to do so [https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens](https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens/2017/03/20/c7d801a8-0824-11e7-b77c-0047d15a24e0_story.html)  
-* "Companies are hoarding personal data about you. Here’s how to get them to delete it." [https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/](https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/)  
+* You have the right to film police. Here's how to do it effectively — and safely [https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/](https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/) and why it is important to do so [https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens](https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens/2017/03/20/c7d801a8-0824-11e7-b77c-0047d15a24e0_story.html)  
+* "Companies are hoarding personal data about you. Here's how to get them to delete it." [https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/](https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/)  
