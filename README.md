@@ -110,6 +110,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	Vulnerabilities and Attacks [https://github.com/hannob/vulns](https://github.com/hannob/vulns)    
   o	The CVE-Search Project [https://www.cve-search.org/software/](https://www.cve-search.org/software/), and cve-search - a tool to perform local searches for known vulnerabilities [https://github.com/cve-search/cve-search](https://github.com/cve-search/cve-search)  
 * Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
+* There are situations where you may be given a repository without any accompanying information... What is in the repo?? *[crazymax](https://crazymax.dev/)* assembled a Docker image -- [crazymax/docker-linguist](https://github.com/crazy-max/docker-linguist) -- that runs [GitHub Linguist](https://github.com/github/linguist), a library used on GitHub.com to detect blob languages.  You can use is to easily, quickly and *reasonable accurately* identify what languages are used in a given local repository.  Here are some examples of it in use:  [https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository](https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository)  
   
 **Architecture Risk Analysis**  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
@@ -481,7 +482,7 @@ A starter list of information sources for your security investigations & integra
      * Shodan [https://www.shodan.io/](https://www.shodan.io/)  
          * Search Query Fundamentals: [https://help.shodan.io/the-basics/search-query-fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)  
          * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
-         * Docker-hosted Shodan client: [https://github.com/crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan)  
+         * Docker image to run [Shodan CLI](https://github.com/achillean/shodan-python): [https://github.com/crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan)  
      * Greynoise [https://viz.greynoise.io/trends](https://viz.greynoise.io/trends)  
      * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
      * Cloud IP Ranges [https://github.com/nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges)  
