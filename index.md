@@ -5,19 +5,23 @@ Remember: *If you're not paying for it, you're the product.*
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
-### Putin's war:  
-* Russia and Ukraine historically produce roughly 25% of wheat exports (*as well as material amounts of export barley, corn, potatoes, sunflowers and sugar beets*).  That food source is now largely unavailable to populations that have limited options.  For example, Egypt imports more than two-thirds of its wheat from Russia and Ukraine.  Russian aggression in Ukraine has also resulted in a range of commodity export, import and pricing measures across the globe that also increase food costs and reduce its availability.  For large populations around the world, this shortage will escalate existing food insecurity as well as creating new pools of food insecurity.  All of this increases the scope and intensity of already widespread food-related suffering.  Begin donating to reputable organizations that will be helping feed the millions impacted by Putin's evil misinformation, destruction and death machine.  
-  *  At 4:50PM UTC 2022-03-14, [the commodity price of Wheat was up almost 68% since the start of the year](https://tradingeconomics.com/commodity/wheat).  
+### [Putin's war](https://en.wikipedia.org/wiki/Russo-Ukrainian_War):  
+* Putin's attacks on Ukraine and subsequent annexation of Ukrainian lands [violates international law](https://www.cfr.org/article/how-russias-invasion-ukraine-violates-international-law)  
+* Russia and Ukraine historically produce roughly 25% of wheat exports (*as well as material amounts of export barley, corn, potatoes, sunflower seed/oil and sugar beets*).  The IMF reports that food [accounts for about 40 percent of consumer spending in Sub-Saharan African countries](https://www.imf.org/en/Blogs/Articles/2022/04/28/blog-africa-faces-new-shock-as-war-raises-food-fuel-costs).  Despite recent tentative shipping experiments that food source is still largely unavailable to populations that have limited options.  For example, Egypt imports more than two-thirds of its wheat from Russia and Ukraine, and, more broadly, in early March 2022 [as many as 25 African countries imported more than one third of their wheat from the Ukraine and the Russian Federation, and 15 of them imported over half (*page 5*)](https://unctad.org/system/files/official-document/osginf2022d1_en.pdf).  [Russian aggression in Ukraine](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine) has also resulted in a range of commodity export, import and pricing measures across the globe that also increase food costs and reduce its availability.  For large populations around the world, this shortage will escalate existing food insecurity as well as creating new pools of food insecurity.  In addition, CNN reports that [Russians have been stealing "vast amounts of Ukrainian grain and (*farming*) equipment."](https://edition.cnn.com/2022/05/05/europe/russia-ukraine-grain-theft-cmd-intl/index.html)  All of this increases the scope and intensity of already [widespread food-related suffering](https://en.wikipedia.org/wiki/2022_food_crises).  Begin donating to reputable organizations that will be helping feed the millions impacted by Putin's evil misinformation, destruction and death machine.  
+  *  At 4:50PM UTC 2022-03-14, [the commodity price of Wheat was up almost 68% since the start of the year (*on 2022-06-12 it was up over 57%, and once a small amount of Ukrainian grain started shipping again, the price was still up 23% on 2022-10-01*)](https://tradingeconomics.com/commodity/wheat).  ...*where wheat is a proxy for the broader category of "food" in general*.  
      *  To check the price of wheat see: [https://tradingeconomics.com/commodity/wheat](https://tradingeconomics.com/commodity/wheat)  and  [https://www.macrotrends.net/2534/wheat-prices-historical-chart-data](https://www.macrotrends.net/2534/wheat-prices-historical-chart-data)  
   * Donate via a reputable channel that you trust -- and have some clear reasons that you trust them.  Unfortunately, there are lots of scammers and grifters stealing money behind pleas for food aid around the world and/or for Ukraine. (*I justs received a plea via email with links to what looked like 8 top-tier 'organizations' and each of the 'donation options' appears to be well-crafted look-alike site on a look-alike domain set up to accept credit card payments.*)  
 
 ### Back to the References
-* Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
+* Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
+* Here is the "NASA JPL Asteroid Watch --> The Next Five Asteroid Approaches"
+[https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches](https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches) to help fuel your "it's always something..." catastrophe habit  
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
-  * I have begun to accumulate links to my reading (*and planned reading*) on another page [https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md)  
+  * We need to act on many, many fronts, but there are some offenders that deserve special attention.  For example, please *[Treat Big Oil and Big Ag Like Big Tobacco](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md#treat-big-oil-and-big-ag-like-big-tobacco)*  
+  * I have begun to accumulate links to some of my climate reading (*and planned reading*) in another repository [https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md)  
 * Find something new/different to read: [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
-* Explore these falsehoods programmers believe in (*which too often produce errors at runtime*) -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
+* Explore these falsehoods (*too many*) programmers believe in (*which too often produce errors at runtime*) -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
 * Writing well is difficult.  The Strunkifier may help [*think 'Strunk and White' from school written in PHP with a web front end*][http://vinoisnotouzo.com/strunkifier/](http://vinoisnotouzo.com/strunkifier/) and the source at [https://github.com/BSVino/Strunkifier/blob/master/strunkify.php](https://github.com/BSVino/Strunkifier/blob/master/strunkify.php)  
 * Remember the *Ten simple rules for making research software more robust* [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
@@ -28,6 +32,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
   * "Open source best practices for the enterprise." (A collection of 12 best practices guides for running an open source program office or starting an open source project in your organization. Developed by The Linux Foundation in partnership with the TODO Group, these resources represent the experience of our [Linux Foundation] staff, projects, and members.) [https://www.linuxfoundation.org/resources/open-source-guides/](https://www.linuxfoundation.org/resources/open-source-guides/)  
   * "A guide to setting up your Open Source Program Office (OSPO) for success -- Learn how to best grow and maintain your open source communities and allies." By J. Manrique Lopez de la Fuente, 08 May 2020 [https://opensource.com/article/20/5/open-source-program-office](https://opensource.com/article/20/5/open-source-program-office)  
   * "Software Licenses in Plain English -- Lookup popular software licenses summarized at-a-glance." [https://tldrlegal.com/](https://tldrlegal.com/)  
+* Finally, pay attention to where you invest your attention.  A [recent essay](https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html) by Ezra Klein exploring how technology choices influence how/what we learn and behave is worth a careful read: [https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html](https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html).  
  
   
 ***Cheat Sheets***  
@@ -82,6 +87,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Your IP address is sometimes your identity [https://myexternalip.com/](https://myexternalip.com/)  
 
 **Software Vulnerability Detection Resources**  
+* *DevSecOps* tool lists [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps)  
 * U.S. National Checklist Program [http://checklists.nist.gov](http://checklists.nist.gov) and [https://web.nvd.nist.gov/view/ncp/repository](https://web.nvd.nist.gov/view/ncp/repository) 
 * Security Content Automation Protocol (SCAP)  
    * Nist Overview: [http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf](http://csrc.nist.gov/groups/SMA/forum/documents/august2015/forum-august2015-booth.pdf)  
@@ -90,12 +96,14 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * State-of-the-Art Resources (SOAR) for Software Assurance [http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf](http://people.cs.ksu.edu/~hatcliff/890-High-Assurance/Reading/IATAC-SOAR-Software-Security-Assurance.pdf)  
 * Common Vulnerability Scoring System (CVSS) [http://cve.mitre.org/](http://cve.mitre.org/) and [https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2](https://nvd.nist.gov/cvss.cfm?calculator&adv&version=2)  
 * Vulnerability and exploit lists:  
+  o [https://www.cisa.gov/known-exploited-vulnerabilities-catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)  
   o	[http://cve.mitre.org/](http://cve.mitre.org/)  
   o	[http://www.cvedetails.com/](http://www.cvedetails.com/)  
   o	[http://w.0day.today/](http://w.0day.today/)  
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
+* Library for interacting with Synack API [https://github.com/abdilahrf/synackAPI](https://github.com/abdilahrf/synackAPI)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [https://www.cybersecurity.my/data/content_files/11/650.pdf](https://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Or host your own list to keep your research more private:  
@@ -103,6 +111,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	Vulnerabilities and Attacks [https://github.com/hannob/vulns](https://github.com/hannob/vulns)    
   o	The CVE-Search Project [https://www.cve-search.org/software/](https://www.cve-search.org/software/), and cve-search - a tool to perform local searches for known vulnerabilities [https://github.com/cve-search/cve-search](https://github.com/cve-search/cve-search)  
 * Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
+* There are situations where you may be given a repository without any accompanying information... What is in the repo?? *[crazymax](https://crazymax.dev/)* assembled a Docker image -- [crazymax/docker-linguist](https://github.com/crazy-max/docker-linguist) -- that runs [GitHub Linguist](https://github.com/github/linguist), a library used on GitHub.com to detect blob languages.  You can use is to easily, quickly and *reasonable accurately* identify what languages are used in a given local repository.  Here are some examples of it in use:  [https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository](https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository)  
   
 **Architecture Risk Analysis**  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
@@ -111,7 +120,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * "A Non-Trivial Task of Introducing Architecture Risk Analysis into Software Development Process." OWASP EU presentation by Denis Pilipchuk, Global Product Security, Oracle: [http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf](http://2014.appsec.eu/wp-content/uploads/2014/07/Denis.Pilipchuk-A-non-trivial-task-of-Introducing-Architecture-Risk-Analysis-into-the-Software-Development-Process.pdf)  
 * Mitre Att&ck Enterprise threat list [https://mitre.github.io/attack-navigator/enterprise/](https://mitre.github.io/attack-navigator/enterprise/)  
     "ATT&CK® is a catalog of techniques and tactics that describe post-compromise adversary behavior on typical enterprise IT environments. The core use cases involve using the catalog to analyze, triage, compare, describe, relate, and share post-compromise adversary behavior."  
-* Mitre D3FEND™ technical knowledge base of defensive countermeasures for common offensive techniques that is complementary to MITRE’s ATT&CK, a knowledge base of cyber adversary behavior.  D3FEND complements Mitre Att&ck by establishing a terminology of computer network defensive techniques and illuminating previously-unspecified relationships between defensive and offensive methods. [https://d3fend.mitre.org/](https://d3fend.mitre.org/)  
+* Mitre D3FEND™ technical knowledge base of defensive countermeasures for common offensive techniques that is complementary to MITRE's ATT&CK, a knowledge base of cyber adversary behavior.  D3FEND complements Mitre Att&ck by establishing a terminology of computer network defensive techniques and illuminating previously-unspecified relationships between defensive and offensive methods. [https://d3fend.mitre.org/](https://d3fend.mitre.org/)  
 * Related works:  
    * MITRE ATT&CK® Matrix for Enterprise -- with specialized versions for the following platforms: Windows, macOS, Linux, PRE, Azure AD, Office 365, Google Workspace, SaaS, IaaS, Network, Containers [https://attack.mitre.org/matrices/enterprise/](https://attack.mitre.org/matrices/enterprise/)  
    * MITRE ATT&CK® Matrix for Mobile -- with specialized versions for the following platforms: Android and iOS [https://attack.mitre.org/matrices/mobile/](https://attack.mitre.org/matrices/mobile/)  
@@ -119,6 +128,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
    * Mitre ATT&CK® for Industrial Control Systems threat list [https://collaborate.mitre.org/attackics/index.php/Main_Page](https://collaborate.mitre.org/attackics/index.php/Main_Page)  "ATT&CK for ICS is a knowledge base useful for describing the actions an adversary may take while operating within an ICS network. The knowledge base can be used to better characterize and describe post-compromise adversary behavior."  
    * MITRE ATT&CK® and CAPEC™ datasets expressed in STIX 2.0 [https://github.com/mitre/cti](https://github.com/mitre/cti)  
    * Github organization for MITRE ATT&CK [https://github.com/mitre-attack](https://github.com/mitre-attack)  
+   * Atomic Red Team™ is a library of tests mapped to the MITRE ATT&CK® framework. Its mission is to help security teams quickly, portably, and reproducibly test their environments [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)  
 * The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC):  
 Understanding how the adversary operates is essential to effective cyber security. CAPEC™ helps by providing a comprehensive dictionary of known patterns of attacks employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. It can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.  
    * Focuses on application security  
@@ -127,19 +137,25 @@ Understanding how the adversary operates is essential to effective cyber securit
    * Associated with Common Weakness Enumeration (CWE)  
     [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
 * Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
-* “The STRIDE Threat Model.” [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
+* "The STRIDE Threat Model." [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
 * "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
 * "How To: Create a Threat Model for a Web Application at Design Time." [http://msdn.microsoft.com/en-us/library/ms978527.aspx](http://msdn.microsoft.com/en-us/library/ms978527.aspx)  
 * "Walkthrough: Creating a Threat Model for a Web Application." [http://msdn.microsoft.com/en-us/library/ms978538.aspx](http://msdn.microsoft.com/en-us/library/ms978538.aspx)  
 * "Application Threat Modeling (OWASP)" [https://www.owasp.org/index.php/Application_Threat_Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)  
 * "Threat Modeling Cheat Sheet (OWASP)" [https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Threat_Modeling_Cheat_Sheet.md)  
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
-* "A Complete Guide to the Common Vulnerability Scoring System Version 3.1" [https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf)    
+* "A Complete Guide to the Common Vulnerability Scoring System Version 3.1" [https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf)  
+* The System Design Primer [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
 
 **Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
-* six2dez/.pentest-book [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
+* "All in One Hacking tool For Hackers" [https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  
+* Arsenal - an inventory, reminder and launcher to simplify the use of all the hard-to-remember pentest commands [https://github.com/Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal)  
+* bugcrowd / methodology-taxonomy [https://github.com/bugcrowd/methodology-taxonomy](https://github.com/bugcrowd/methodology-taxonomy)  
+* Bugcrowd Vulnerability Rating Taxonomy (VRT) [https://bugcrowd.com/vulnerability-rating-taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) and [https://github.com/bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy)  
+* "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
+* six2dez pentest-book [https://pentestbook.six2dez.com/](https://pentestbook.six2dez.com/) and the source at [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
 * An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
@@ -163,8 +179,9 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Arachni Web Application Security Scanner Framework {Ruby centric} [http://www.arachni-scanner.com/](http://www.arachni-scanner.com/)  
 * Sn1per is an automated scanner {php} to enumerate and scan for vulnerabilities [https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per)  
 * WhatWeb - Next generation web scanner [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)  
-* Cloudflare’s in-house lightweight network vulnerability scanner [https://blog.cloudflare.com/introducing-flan-scan/](https://blog.cloudflare.com/introducing-flan-scan/) and [https://github.com/cloudflare/flan](https://github.com/cloudflare/flan)  
+* Cloudflare's in-house lightweight network vulnerability scanner [https://blog.cloudflare.com/introducing-flan-scan/](https://blog.cloudflare.com/introducing-flan-scan/) and [https://github.com/cloudflare/flan](https://github.com/cloudflare/flan)  
 * OWASP-Nettacker - Automated Penetration Testing Framework [https://github.com/zdresearch/OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)  
+* Some starter scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
 * Website fingerprint script [https://github.com/bgiarrizzo/website-fingerprint](https://github.com/bgiarrizzo/website-fingerprint)  
@@ -179,10 +196,16 @@ Understanding how the adversary operates is essential to effective cyber securit
 * 'domain-scan' A lightweight scan pipeline for orchestrating third party tools, at scale and (optionally) using serverless infrastructure [https://github.com/18F/domain-scan](https://github.com/18F/domain-scan)  
 * Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
 * Offensive Web Application Penetration Testing Framework [https://github.com/0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework)  
+* ReconFTW automates some reconnaisance activities.  [https://github.com/six2dez/reconftw](https://github.com/six2dez/reconftw)  
+* Reconnoitre: A reconnaissance tool made for the OSCP labs to automate information gathering and service enumeration whilst creating a directory structure to store results, findings and exploits used for each host, recommended commands to execute and directory structures for storing loot and flags. [https://github.com/codingo/Reconnoitre](https://github.com/codingo/Reconnoitre)  
+* Jenkins Pentesting [https://github.com/gquere/pwn_jenkins](https://github.com/gquere/pwn_jenkins)  
 * Cross Site Request Forgery (CSRF) Audit and Exploitation Toolkit [https://github.com/0xInfection/XSRFProbe](https://github.com/0xInfection/XSRFProbe)  
 * Cross Site Scripting detection suite [https://github.com/s0md3v/XSStrike](https://github.com/s0md3v/XSStrike)  
 * Web Application Firewall Fingerprinting Tool [https://github.com/EnableSecurity/wafw00f](https://github.com/EnableSecurity/wafw00f)  
 * Know your network -- The Ultimate PCAP [https://weberblog.net/the-ultimate-pcap/](https://weberblog.net/the-ultimate-pcap/)  
+* BurpSuite []()  
+* OWASP Zap []()  
+* HUNT Suite is a collection of Burp Suite Pro/Free and OWASP ZAP extensions [https://github.com/bugcrowd/HUNT](https://github.com/bugcrowd/HUNT)  
 * Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 * and Chrome's internal URLs for problem solving [chrome://chrome-urls/](chrome://chrome-urls/)  
 * DNS research [https://github.com/ogham/dog](https://github.com/ogham/dog)  
@@ -198,6 +221,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "8 Best VPNs in 2021: Tested All Apps, Speed, Security & More." by Chase Williams September 01, 2021 [https://www.wizcase.com/vpn-reviews/](https://www.wizcase.com/vpn-reviews/)  
 * Email address parser from website list [https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py](https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py)  
 *  Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
+* Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
+* sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
 
 
 **Pen testing Linux distros**  
@@ -212,6 +237,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Pentoo  [http://www.pentoo.ch/](http://www.pentoo.ch/)  
 * mx-live-usb-maker [https://github.com/MX-Linux/mx-live-usb-maker](https://github.com/MX-Linux/mx-live-usb-maker) and [https://github.com/MX-Linux/lum-qt-appimage/releases](https://github.com/MX-Linux/lum-qt-appimage/releases)  
 * and some Security-oriented Docker containers [https://github.com/khast3x/Offensive-Dockerfiles](https://github.com/khast3x/Offensive-Dockerfiles)  
+* and a cloud-enabled approach to the same idea, RedCloud [https://github.com/khast3x/Redcloud](https://github.com/khast3x/Redcloud)  
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 
@@ -267,12 +293,14 @@ and
 * Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
 * Static analysis tools for *all* programming languages [https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
 * Awesome Static Analysis -  a collection of static analysis tools and code quality checkers. [https://github.com/mre/awesome-static-analysis](https://github.com/mre/awesome-static-analysis)  
-* Python Taint -- pyt -- A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications [https://github.com/python-security/pyt](https://github.com/python-security/pyt)  
+* Python Taint -- pyt -- A Static Analysis Tool for Detecting common Security Vulnerabilities in Python Web Applications [https://github.com/python-security/pyt](https://github.com/python-security/pyt)  
+* Bandit -- A security linter for detecting common security vulnerabilities in Python applications [https://github.com/PyCQA/bandit](https://github.com/PyCQA/bandit)  
 * Awesome CI {Continuation Integration}, Incl. tools for git, file and static source code security analysis - [https://github.com/cytopia/awesome-ci](https://github.com/cytopia/awesome-ci)  
 * "Avoiding the Top 10 Security Flaws." Design guidance by the IEEE Center for Secure Design (CSD),  [http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html](http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html)  
 * The IEEE Computer Society Center for Secure Design. [http://cybersecurity.ieee.org/center-for-secure-design.html](http://cybersecurity.ieee.org/center-for-secure-design.html)   
 * The OWASP Application Security Verification Standard (ASVS) Project attempts to provide a basis for testing web application technical security controls. [https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)  
 * OWASP Cheat Sheet Series -- a collection of high value information on specific web application security topics [https://www.owasp.org/index.php/Cheat_Sheets](https://www.owasp.org/index.php/Cheat_Sheets) and [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)  
+  * Or if just getting the code to work first is your issue: [https://github.com/Neklaustares-tPtwP/Resources/tree/main/Cheat%20Sheets](https://github.com/Neklaustares-tPtwP/Resources/tree/main/Cheat%20Sheets)  
 * Collection of OWASP Web Application Security Testing Cheat Sheets  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)   
 * Web Application Security Guide/Checklist [https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist](https://en.wikibooks.org/wiki/Web_Application_Security_Guide/Checklist)  
 * CSRN Security Checklist for Software Developers [https://security.web.cern.ch/security/recommendations/en/checklist_for_coders.shtml](https://security.web.cern.ch/security/recommendations/en/checklist_for_coders.shtml)  
@@ -296,6 +324,7 @@ and
 * XSS Prevention Cheat Sheet from OWASP: [https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)  
 *  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Java Deserialization Cheat Sheet [https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)  
+* The Offensive 360 Knowledge base [https://knowledge-base.offensive360.com/](https://knowledge-base.offensive360.com/)  
 * HTTP Status Codes on-line [https://httpstatuses.com/](https://httpstatuses.com/)   
 * HTTP Status Codes local [https://github.com/mychris/scripts/blob/master/httpstatus](https://github.com/mychris/scripts/blob/master/httpstatus)  
 * IANA Hypertext Transfer Protocol (HTTP) Status Code Registry [http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)  
@@ -327,6 +356,7 @@ and
 * Python Cheatsheet, comprehensive [https://gto76.github.io/python-cheatsheet/](https://gto76.github.io/python-cheatsheet/) and [https://github.com/gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)  
 * Python Cheatsheet [https://cheatsheets.quantecon.org/python-cheatsheet.html](https://cheatsheets.quantecon.org/python-cheatsheet.html)  
 * another Python CheatSheet - my current favorite [https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)  
+* A small collection of Python cheatsheets [https://github.com/Neklaustares-tPtwP/Resources/tree/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets](https://github.com/Neklaustares-tPtwP/Resources/tree/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets)  
 * Python Cheatsheet from kickstartcoding [https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
 * A neat set of PDF topical Python cheatsheets by the author of ["Python Crash Course" by Eric Matthes](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_2?crid=EWAWN9O4URJY&dchild=1&keywords=python+crash+course+2nd+edition+by+eric+matthes&qid=1608398592&sprefix=%22python+crash+course%22%2Caps%2C200&sr=8-2) [http://ehmatthes.github.io/pcc/cheatsheets/README.html](http://ehmatthes.github.io/pcc/cheatsheets/README.html) and another version for the 2nd edition of PCC at [https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)  
 * 73 Examples to Help You Master Python's f-strings [https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings](https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings)  
@@ -334,7 +364,8 @@ and
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
 * The best Docker base image for your Python application (April 2020) *tl;dr; Ubuntu LTS or Docker Official Python Debian* [https://pythonspeed.com/articles/base-image-python-docker-images/](https://pythonspeed.com/articles/base-image-python-docker-images/)  
 * "Docker Best Practices for Python Developers" By Amal Shaji 2021-10-05 [https://testdriven.io/blog/docker-best-practices/](https://testdriven.io/blog/docker-best-practices/)  
-* "Don’t leak your Docker image’s build secrets." By Itamar Turner-Trauring, 2021-10-01 [https://pythonspeed.com/articles/docker-build-secrets/](https://pythonspeed.com/articles/docker-build-secrets/)  
+* "Don't leak your Docker image's build secrets." By Itamar Turner-Trauring, 2021-10-01 [https://pythonspeed.com/articles/docker-build-secrets/](https://pythonspeed.com/articles/docker-build-secrets/)  
+* **unblob** parses unknown binary blobs for more than 30 different archive, compression, and file-system formats, extracts their content recursively, and carves out unknown chunks that have not been accounted for -- just what is needed to explore docker images: [https://github.com/onekey-sec/unblob](https://github.com/onekey-sec/unblob)  
 * PyFormat Using % and .format() [https://pyformat.info/](https://pyformat.info/)  
 * Python's strftime directives [https://strftime.org/](https://strftime.org/)  
 * Python's Pathlib explained [https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html](https://rednafi.github.io/digressions/python/2020/04/13/python-pathlib.html)  
@@ -406,6 +437,10 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
+* **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
+  * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
+  * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
+  * And a Python implementation of *[draft version 1](https://datatracker.ietf.org/doc/html/draft-barnes-cfrg-hpke-01)* at: [https://github.com/dwd/crypto-examples/blob/master/hpke.py](https://github.com/dwd/crypto-examples/blob/master/hpke.py).  
  
 **Regex**
 * Test your regex on line: [https://regex101.com/](https://regex101.com/)  
@@ -448,13 +483,15 @@ A starter list of information sources for your security investigations & integra
      * Shodan [https://www.shodan.io/](https://www.shodan.io/)  
          * Search Query Fundamentals: [https://help.shodan.io/the-basics/search-query-fundamentals](https://help.shodan.io/the-basics/search-query-fundamentals)  
          * REST and Streaming API Queries: [https://developer.shodan.io/api/banner-specification](https://developer.shodan.io/api/banner-specification)  
+         * Docker image to run [Shodan CLI](https://github.com/achillean/shodan-python): [https://github.com/crazy-max/docker-shodan](https://github.com/crazy-max/docker-shodan)  
      * Greynoise [https://viz.greynoise.io/trends](https://viz.greynoise.io/trends)  
      * ZoomEye for IPv4 lookups [https://www.zoomeye.org/](https://www.zoomeye.org/)  
      * Cloud IP Ranges [https://github.com/nccgroup/cloud_ip_ranges](https://github.com/nccgroup/cloud_ip_ranges)  
+     * CDN IP Ranges [https://github.com/six2dez/ipcdn](https://github.com/six2dez/ipcdn)  
  * ThreatCrowd for IPv4, FQDN and MD5 lookups [https://www.threatcrowd.org/](https://www.threatcrowd.org/)  
  * ThreatMiner: IPv4, Email, FQDN, MD5, SHA1 and SHA2 lookups [https://www.threatminer.org/](https://www.threatminer.org/)  
  * Wigle for WiFi [https://wigle.net/](https://wigle.net/)  
- * Sourc ecode Search [https://publicwww.com/](https://publicwww.com/)  
+ * Sourcecode Search [https://publicwww.com/](https://publicwww.com/)  
  * Utility to identify active committers participating in targeted repositories or github.com organizations. [https://github.com/kaakaww/contributors_tool](https://github.com/kaakaww/contributors_tool)  
  * Find *professional* email addresses [https://hunter.io/](https://hunter.io/)  
  * VirusTotal for MD5, SHA1, SHA2, URL and FQDN lookups [https://www.virustotal.com/](https://www.virustotal.com/)  
@@ -466,7 +503,7 @@ A starter list of information sources for your security investigations & integra
 **Math and Statistics**  
 * Statistics in Pandas Cheatsheet [https://cheatsheets.quantecon.org/stats-cheatsheet.html](https://cheatsheets.quantecon.org/stats-cheatsheet.html)  
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
-* Chen’s Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
+* Chen's Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
 * "Unsupervised Cross-lingual Representation Learning at Scale" by Alexis Conneau and Kartikay Khandelwal, et.al. [https://arxiv.org/pdf/1911.02116.pdf](https://arxiv.org/pdf/1911.02116.pdf)  
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
 
@@ -571,10 +608,12 @@ A starter list of information sources for your security investigations & integra
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  * Kite Blog: [https://kite.com/blog](https://kite.com/blog)  
+ * AWS Week in Review: [https://aws.amazon.com/blogs/aws/tag/week-in-review/](https://aws.amazon.com/blogs/aws/tag/week-in-review/)  
   
    
  **Software Defined Radio (SDR)**  
  * Overview: [http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf](http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf)  
+ * FISSURE -- Frequency Independent SDR-based Signal Understanding and Reverse Engineering -- an open-source RF and reverse engineering framework for signal detection and classification, protocol discovery, vulnerability analysis and more [https://github.com/ainfosec/FISSURE](https://github.com/ainfosec/FISSURE)  
  * Big List of SDR Applications: [https://wiki.radioreference.com/index.php/SDR_Software_Applications](https://wiki.radioreference.com/index.php/SDR_Software_Applications)  
  * PDW (Paging decoder for monitoring POCSAG, FLEX, ACARS, MOBITEX & ERMES pager traffic): [http://www.discriminator.nl/pdw/index-en.html](http://www.discriminator.nl/pdw/index-en.html) and [https://github.com/Discriminator/PDW](https://github.com/Discriminator/PDW)  
  * Unitrunker: [http://www.unitrunker.com/](http://www.unitrunker.com/) (pager RF-to-text?).  Manuals at: [http://utahradio.org/mediawiki/index.php/UniTrunker_Guide](http://utahradio.org/mediawiki/index.php/UniTrunker_Guide) and [http://www.unitrunker.com/windows.html](http://www.unitrunker.com/windows.html) and [http://www.unitrunker.com/realtek.html](http://www.unitrunker.com/realtek.html)   
@@ -635,6 +674,7 @@ A starter list of information sources for your security investigations & integra
    * in your .bashrc: alias weather='curl https://wttr.in/yourCity'  
 * A high-functioning command line tool that displays the current weather (from OpenWeather) in the terminal written in Rust [https://github.com/gourlaysama/girouette](https://github.com/gourlaysama/girouette)  
 * Website style analyzer for designers [http://stylifyme.com/](http://stylifyme.com/) and source at: [https://github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
+* A python script that generates different sizes favicons from one image [https://github.com/Hecsall/favicon-generator](https://github.com/Hecsall/favicon-generator)  
 
 
 **Bash Shell**  
@@ -674,7 +714,8 @@ A starter list of information sources for your security investigations & integra
  * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
  * Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
  * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
- * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash, Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
+   * also look into [https://github.com/yangyuexiong/Flask_BestPractices](https://github.com/yangyuexiong/Flask_BestPractices)  
+ * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash (*don't do Flash unless it is absolutely necessary for some materially-important purpose*), Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
  * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
    * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
    * Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
@@ -707,7 +748,7 @@ A starter list of information sources for your security investigations & integra
  * Windows 10 Wi-Fi Analyzer [https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n](https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n)  
  * Code Review Questions:  
    * Eric Farkas: [http://ericfarkas.com/posts/questions-i-ask-during-code-review](http://ericfarkas.com/posts/questions-i-ask-during-code-review)  
-   * thoughbot’s Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
+   * thoughbot's Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
    * Examples from StackExchange [https://security.stackexchange.com/questions/tagged/code-review](https://security.stackexchange.com/questions/tagged/code-review)  
    * Another [https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff](https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff)  
    * How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
@@ -715,8 +756,14 @@ A starter list of information sources for your security investigations & integra
  
 **Other**  
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
+* The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
+* And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/<SYMBOL>```.  Thank you Shashi Prakash Gautam for your excellent server. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
+* If you want to just grab a long history for any given security (*through 2018-03-27*), try [https://www.quandl.com/api/v3/datasets/WIKI/<symbol>](https://www.quandl.com/api/v3/datasets/WIKI/<symbol>)  
+* Look into this simple mass Search & Replace tool (Rust): [https://github.com/nvie/sr](https://github.com/nvie/sr)  
+* Who pays for writing? Here is an annotated list of organizations that pay writers: [https://github.com/malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
+* SVG Python module [https://github.com/orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py)  
 * MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
 * Chordious [https://github.com/jonthysell/Chordious](https://github.com/jonthysell/Chordious) with related [https://github.com/svg-net/SVG](https://github.com/svg-net/SVG)  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
@@ -724,7 +771,7 @@ A starter list of information sources for your security investigations & integra
 * Satellite view of my weather [http://re.ssec.wisc.edu/](http://re.ssec.wisc.edu/)  
 * High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
-* Getting communications right is hard. Language is a foundational component.  WorkNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
+* Getting communications right is hard. Language is a foundational component.  WordNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
 * International Building Code, 2012, Second Printing. [https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration](https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
@@ -768,10 +815,12 @@ See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVI
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
 **Broadly Reusable Advice**  
-* "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they’re confident it won’t work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
+* "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they're confident it won't work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
 * On Being Fired [https://third-bit.com/rules/#being-fired](https://third-bit.com/rules/#being-fired)  
 * Ten quick tips for delivering programming lessons [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433)  
 * Ten quick tips for teaching programming [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023)  
+* Jesse Duffield's "*Stuff I would tell my younger self*" [https://github.com/jesseduffield/wisdom/wiki](https://github.com/jesseduffield/wisdom/wiki)  
+* A [Thesaurus of Job Titles](http://www.enlightenjobs.com/) to help "Improve the information flowing between recruiters and job seekers. Improve how recruiters and job seekers create job postings and resumes/online profiles. Improve how recruiters and job seekers search for candidates and jobs" [https://github.com/johnpcarty/Thesaurus-of-Job-Titles](https://github.com/johnpcarty/Thesaurus-of-Job-Titles)  
 * Ten simple rules for making research software more robust [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
-* You have the right to film police. Here’s how to do it effectively — and safely [https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/](https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/) and why it is important to do so [https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens](https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens/2017/03/20/c7d801a8-0824-11e7-b77c-0047d15a24e0_story.html)  
-* "Companies are hoarding personal data about you. Here’s how to get them to delete it." [https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/](https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/)  
+* You have the right to film police. Here's how to do it effectively — and safely [https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/](https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/) and why it is important to do so [https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens](https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens/2017/03/20/c7d801a8-0824-11e7-b77c-0047d15a24e0_story.html)  
+* "Companies are hoarding personal data about you. Here's how to get them to delete it." [https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/](https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/)  
