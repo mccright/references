@@ -223,6 +223,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 *  Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
 * Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
 * sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
+* Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
 
 
 **Pen testing Linux distros**  
@@ -359,6 +360,12 @@ and
 * A small collection of Python cheatsheets [https://github.com/Neklaustares-tPtwP/Resources/tree/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets](https://github.com/Neklaustares-tPtwP/Resources/tree/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets)  
 * Python Cheatsheet from kickstartcoding [https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
 * A neat set of PDF topical Python cheatsheets by the author of ["Python Crash Course" by Eric Matthes](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_2?crid=EWAWN9O4URJY&dchild=1&keywords=python+crash+course+2nd+edition+by+eric+matthes&qid=1608398592&sprefix=%22python+crash+course%22%2Caps%2C200&sr=8-2) [http://ehmatthes.github.io/pcc/cheatsheets/README.html](http://ehmatthes.github.io/pcc/cheatsheets/README.html) and another version for the 2nd edition of PCC at [https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)  
+* The standard Python resources:  
+  * Main website:  https://www.python.org/
+  * Documentation:  https://docs.python.org/
+  * Developer resources:  https://devguide.python.org/
+  * Downloads:  https://www.python.org/downloads/
+  * Module repository:  https://pypi.org/
 * 73 Examples to Help You Master Python's f-strings [https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings](https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings)  
 * Docker Official Python Images [https://hub.docker.com/_/python](https://hub.docker.com/_/python)   
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
