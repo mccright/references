@@ -568,8 +568,9 @@ A starter list of information sources for your security investigations & integra
  * [http://checkshorturl.com/](http://checkshorturl.com/)
  * URL-Expander / URL-Unshortener [http://urlex.org/](http://urlex.org/)  
  
-**Find the code you need** 
- * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)
+**Find the code you need**  
+ * Awesome Algorithms -- A curated list of awesome places to learn and/or practice algorithms [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)  
+ * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)  
  * A large collection of sorting algorithms in many languages [https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93](https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93) 
  * Competitive Programming, algorithms and data structures [https://algocoding.wordpress.com/](https://algocoding.wordpress.com/)
 
@@ -779,6 +780,7 @@ A starter list of information sources for your security investigations & integra
 * High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
 * Getting communications right is hard. Language is a foundational component.  WordNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
+* Sometimes historical context matters when choosing a given term. Merriam-Webster hosts a neat tool that identifies when given words were first used. Look up any year to find out.  From Merriam-Webster, [https://www.merriam-webster.com/dictionary/ad%20hominem](https://www.merriam-webster.com/dictionary/ad%20hominem). Accessed 24 Oct. 2022  
 * International Building Code, 2012, Second Printing. [https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration](https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
