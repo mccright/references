@@ -519,6 +519,7 @@ A starter list of information sources for your security investigations & integra
 * eSpeak NG [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)  
 * Using eSpeak and eSpeakNG [https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/](https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/)  
 * eSpeak NG TTS Bindings for Python3 [https://github.com/sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python)  
+* Larynx -- This engine provides a complete text-to-speech solution for 9 languages in as many as 50 voices and can be used without any proprietary cloud services (*each voice is roughly 250MB*). This project includes an *easy path* using a Docker image. [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)  
 
 
 **Random Cheat Sheets**  
