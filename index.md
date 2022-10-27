@@ -223,6 +223,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 *  Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
 * Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
 * sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
+* Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
 
 
 **Pen testing Linux distros**  
@@ -359,6 +360,12 @@ and
 * A small collection of Python cheatsheets [https://github.com/Neklaustares-tPtwP/Resources/tree/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets](https://github.com/Neklaustares-tPtwP/Resources/tree/main/Cheat%20Sheets/Python%20%26%20All%20Libraries%20Cheat%20Sheets)  
 * Python Cheatsheet from kickstartcoding [https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
 * A neat set of PDF topical Python cheatsheets by the author of ["Python Crash Course" by Eric Matthes](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_2?crid=EWAWN9O4URJY&dchild=1&keywords=python+crash+course+2nd+edition+by+eric+matthes&qid=1608398592&sprefix=%22python+crash+course%22%2Caps%2C200&sr=8-2) [http://ehmatthes.github.io/pcc/cheatsheets/README.html](http://ehmatthes.github.io/pcc/cheatsheets/README.html) and another version for the 2nd edition of PCC at [https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)  
+* The standard Python resources:  
+  * Main website:  https://www.python.org/
+  * Documentation:  https://docs.python.org/
+  * Developer resources:  https://devguide.python.org/
+  * Downloads:  https://www.python.org/downloads/
+  * Module repository:  https://pypi.org/
 * 73 Examples to Help You Master Python's f-strings [https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings](https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings)  
 * Docker Official Python Images [https://hub.docker.com/_/python](https://hub.docker.com/_/python)   
 * A deep dive into the official Docker image for Python [https://pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
@@ -512,6 +519,7 @@ A starter list of information sources for your security investigations & integra
 * eSpeak NG [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)  
 * Using eSpeak and eSpeakNG [https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/](https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/)  
 * eSpeak NG TTS Bindings for Python3 [https://github.com/sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python)  
+* Larynx -- This engine provides a complete text-to-speech solution for 9 languages in as many as 50 voices and can be used without any proprietary cloud services (*each voice is roughly 250MB*). This project includes an *easy path* using a Docker image. [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)  
 
 
 **Random Cheat Sheets**  
@@ -561,8 +569,9 @@ A starter list of information sources for your security investigations & integra
  * [http://checkshorturl.com/](http://checkshorturl.com/)
  * URL-Expander / URL-Unshortener [http://urlex.org/](http://urlex.org/)  
  
-**Find the code you need** 
- * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)
+**Find the code you need**  
+ * Awesome Algorithms -- A curated list of awesome places to learn and/or practice algorithms [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)  
+ * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)  
  * A large collection of sorting algorithms in many languages [https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93](https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93) 
  * Competitive Programming, algorithms and data structures [https://algocoding.wordpress.com/](https://algocoding.wordpress.com/)
 
@@ -772,6 +781,7 @@ A starter list of information sources for your security investigations & integra
 * High-resolution imagery via Earth Engine [https://explorer.earthengine.google.com/#workspace](https://explorer.earthengine.google.com/#workspace)  
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
 * Getting communications right is hard. Language is a foundational component.  WordNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
+* Sometimes historical context matters when choosing a given term. Merriam-Webster hosts a neat tool that identifies when given words were first used. Look up any year to find out.  From Merriam-Webster, [https://www.merriam-webster.com/dictionary/ad%20hominem](https://www.merriam-webster.com/dictionary/ad%20hominem). Accessed 24 Oct. 2022  
 * International Building Code, 2012, Second Printing. [https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration](https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
@@ -824,3 +834,7 @@ See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVI
 * Ten simple rules for making research software more robust [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005412)  
 * You have the right to film police. Here's how to do it effectively — and safely [https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/](https://www.washingtonpost.com/technology/2021/04/22/how-to-film-police-smartphone/) and why it is important to do so [https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens](https://www.washingtonpost.com/business/technology/a-cop-fires-a-teen-dies-yet-six-police-body-cameras-somehow-miss-what-happens/2017/03/20/c7d801a8-0824-11e7-b77c-0047d15a24e0_story.html)  
 * "Companies are hoarding personal data about you. Here's how to get them to delete it." [https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/](https://www.washingtonpost.com/technology/2021/09/26/ask-company-delete-personal-data/)  
+* "The three fundamental Rules of Robotics" 
+>**One**, a robot may not injure a human being, or, through inaction, allow a human being to come to harm. 
+**Two**, a robot must obey the orders given it by human beings except where such orders would conflict with the First Law. 
+**Three**, a robot must protect its own existence as long as such protection does not conflict with the First or Second Laws.  [Isaac Asimov introduced these in his 1942 short story "Runaround" (*included in the 1950 collection I, Robot*) [https://en.wikipedia.org/wiki/Three_Laws_of_Robotics](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics)]  
