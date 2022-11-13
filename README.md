@@ -687,13 +687,18 @@ A starter list of information sources for your security investigations & integra
 
 
 **Bash Shell**  
+* [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)  
 * Bash scripting CheatSheet [https://devhints.io/bash](https://devhints.io/bash)  
 * Bash for the shell novice:  
   * [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)  
   * [https://help.ubuntu.com/community/Beginners/BashScripting](https://help.ubuntu.com/community/Beginners/BashScripting)  
+* Shell script static analysis tool -- a lint for bash/sh/zsh [shellcheck](https://github.com/koalaman/shellcheck)  
 * Pure Bash Bible [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)  
+* Bash Strict Mode by Aaron Maxwell [http://redsymbol.net/articles/unofficial-bash-strict-mode/](http://redsymbol.net/articles/unofficial-bash-strict-mode/)  
 * Slack CLI via pure bash [https://github.com/rockymadden/slack-cli](https://github.com/rockymadden/slack-cli)  
+* [https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
+* A collection of one-liners [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
 
 
 **Development Environment on a Mac**  
@@ -768,6 +773,7 @@ A starter list of information sources for your security investigations & integra
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
 * And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/<SYMBOL>```.  Thank you Shashi Prakash Gautam for your excellent server. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
 * If you want to just grab a long history for any given security (*through 2018-03-27*), try [https://www.quandl.com/api/v3/datasets/WIKI/<symbol>](https://www.quandl.com/api/v3/datasets/WIKI/<symbol>)  
+* Database of False or Misleading Claims By DJ Trump During his 4-Year Presidency (*more than 30,000 of them*) [https://www.washingtonpost.com/graphics/politics/trump-claims-database/](https://www.washingtonpost.com/graphics/politics/trump-claims-database/)  
 * Look into this simple mass Search & Replace tool (Rust): [https://github.com/nvie/sr](https://github.com/nvie/sr)  
 * Who pays for writing? Here is an annotated list of organizations that pay writers: [https://github.com/malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
