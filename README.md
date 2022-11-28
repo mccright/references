@@ -297,6 +297,7 @@ and
 * Awesome Static Analysis -  a collection of static analysis tools and code quality checkers. [https://github.com/mre/awesome-static-analysis](https://github.com/mre/awesome-static-analysis)  
 * Python Taint -- pyt -- A Static Analysis Tool for Detecting common Security Vulnerabilities in Python Web Applications [https://github.com/python-security/pyt](https://github.com/python-security/pyt)  
 * Bandit -- A security linter for detecting common security vulnerabilities in Python applications [https://github.com/PyCQA/bandit](https://github.com/PyCQA/bandit)  
+* Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including OCI and docker) [https://github.com/quay/clair](https://github.com/quay/clair)  
 * Awesome CI {Continuation Integration}, Incl. tools for git, file and static source code security analysis - [https://github.com/cytopia/awesome-ci](https://github.com/cytopia/awesome-ci)  
 * "Avoiding the Top 10 Security Flaws." Design guidance by the IEEE Center for Secure Design (CSD),  [http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html](http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html)  
 * The IEEE Computer Society Center for Secure Design. [http://cybersecurity.ieee.org/center-for-secure-design.html](http://cybersecurity.ieee.org/center-for-secure-design.html)   
@@ -335,7 +336,7 @@ and
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
 * Application logging guidance [https://github.com/mccright/references/blob/master/AppSec-Logging.md](https://github.com/mccright/references/blob/master/AppSec-Logging.md)  
 * AWS logging guidance [https://betterdev.blog/aws-lambda-logging-best-practices/](https://betterdev.blog/aws-lambda-logging-best-practices/)  
-* One approach to loggiing in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
+* One approach to logging in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 * A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
 * A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
@@ -427,6 +428,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
 * Search for strings in source code - at scale [https://github.com/s0md3v/hardcodes](https://github.com/s0md3v/hardcodes)  
 * Present data in tables on your terminal [https://github.com/Robpol86/terminaltables](https://github.com/Robpol86/terminaltables)  
+* Another tool for presenting data in tables [https://github.com/jazzband/prettytable](https://github.com/jazzband/prettytable)  
 * Progress bar [https://github.com/verigak/progress](https://github.com/verigak/progress)  
 * present: A terminal-based presentation tool with colors and effects. [https://github.com/vinayak-mehta/present](https://github.com/vinayak-mehta/present)  
 * Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
@@ -514,6 +516,7 @@ A starter list of information sources for your security investigations & integra
 * Chen's Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
 * "Unsupervised Cross-lingual Representation Learning at Scale" by Alexis Conneau and Kartikay Khandelwal, et.al. [https://arxiv.org/pdf/1911.02116.pdf](https://arxiv.org/pdf/1911.02116.pdf)  
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
+* [Mathics](https://mathics.org/) is a general-purpose computer algebra system (CAS).  The mathics-core repository contains just the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them. [https://github.com/Mathics3/mathics-core](https://github.com/Mathics3/mathics-core)  
 
 
 **Text to Speech**
@@ -724,6 +727,11 @@ A starter list of information sources for your security investigations & integra
 * Upgrad https://www.upgrad.com/free-courses/  
 * Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers [https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)  
 
+**Quantum Computing Resources**  
+Here are some resources to learn more about this topic:  
+* Open-Source Quantum Development.  Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. (*Python 3.7+ in a virtual environment with Anaconda*) [quiskit](https://www.qiskit.org/)  
+* IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
+* Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
  **Temporary list for work tools or other resources requiring more follow-up**  
  * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
