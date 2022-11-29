@@ -797,6 +797,7 @@ Here are some resources to learn more about this topic:
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
 * Getting communications right is hard. Language is a foundational component.  WordNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
 * Sometimes historical context matters when choosing a given term. Merriam-Webster hosts a neat tool that identifies when given words were first used. Look up any year to find out.  From Merriam-Webster, [https://www.merriam-webster.com/dictionary/ad%20hominem](https://www.merriam-webster.com/dictionary/ad%20hominem). Accessed 24 Oct. 2022  
+* Webster's 1913 Unabridged Dictionary at Project Gutenberg [https://www.gutenberg.org/ebooks/29765](https://www.gutenberg.org/ebooks/29765)  
 * International Building Code, 2012, Second Printing. [https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration](https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
