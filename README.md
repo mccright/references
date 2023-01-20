@@ -845,6 +845,7 @@ See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVI
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
 **Broadly Reusable Advice**  
+* The world is brimming with uncertainties.  If you don't have a [will](https://www.freewill.com/glossary#will), create one (*do it now -- you can always morph it later as needed*).  Under many circumstances you can start here for free: [https://www.freewill.com/](https://www.freewill.com/)  (*there are other systems that will help you prepare a basic will for free*)  
 * "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they're confident it won't work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
 * On Being Fired [https://third-bit.com/rules/#being-fired](https://third-bit.com/rules/#being-fired)  
 * Ten quick tips for delivering programming lessons [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433)  
