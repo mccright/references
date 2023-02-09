@@ -619,7 +619,7 @@ A starter list of information sources for your security investigations & integra
  * SANS Digital Forensics Blog [http://digital-forensics.sans.org/blog](http://digital-forensics.sans.org/blog)  
  * SEI Blog [https://insights.sei.cmu.edu/blog/](https://insights.sei.cmu.edu/blog/)  
  * System Forensics [http://www.sysforensics.org/](http://www.sysforensics.org/)  
- * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)  
+ * System Admin, Powershell (*inactive*) [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)  
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  * Kite Blog: [https://kite.com/blog](https://kite.com/blog)  
