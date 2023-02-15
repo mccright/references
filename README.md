@@ -51,7 +51,8 @@ and page 2 of
 and documenation at 
 [http://git-scm.com/docs](http://git-scm.com/docs)  
 * Git Pocket Guide. By Richard E. Silverman [https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)  
-* Finally, git repos may contain sensitive files and the scale of their history can slow pipeline activities. In some use cases git-filter-repo (https://github.com/newren/git-filter-repo) can help.
+* [Monorepos](https://en.wikipedia.org/wiki/Monorepo) can hide a lot of different problems. [git-sizer](https://github.com/github/git-sizer) can help. git-sizer computes various size metrics for a local Git repository, flagging those that might cause you problems or inconvenience.  
+* Finally, git repos may contain sensitive files and the scale of their history can slow pipeline activities. In some use cases [git-filter-repo](https://github.com/newren/git-filter-repo) can help.
 
 
 Just get started...  
