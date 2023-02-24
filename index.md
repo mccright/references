@@ -6,11 +6,7 @@ Collection of reusable references
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
 ### [Putin's war](https://en.wikipedia.org/wiki/Russo-Ukrainian_War):  
-* Putin's attacks on Ukraine and subsequent annexation of Ukrainian lands [violates international law](https://www.cfr.org/article/how-russias-invasion-ukraine-violates-international-law)  
-* Russia and Ukraine historically produce roughly 25% of wheat exports (*as well as material amounts of export barley, corn, potatoes, sunflower seed/oil and sugar beets*).  The IMF reports that food [accounts for about 40 percent of consumer spending in Sub-Saharan African countries](https://www.imf.org/en/Blogs/Articles/2022/04/28/blog-africa-faces-new-shock-as-war-raises-food-fuel-costs).  Despite recent tentative shipping experiments that food source is still largely unavailable to populations that have limited options.  For example, Egypt imports more than two-thirds of its wheat from Russia and Ukraine, and, more broadly, in early March 2022 [as many as 25 African countries imported more than one third of their wheat from the Ukraine and the Russian Federation, and 15 of them imported over half (*page 5*)](https://unctad.org/system/files/official-document/osginf2022d1_en.pdf).  [Russian aggression in Ukraine](https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine) has also resulted in a range of commodity export, import and pricing measures across the globe that also increase food costs and reduce its availability.  For large populations around the world, this shortage will escalate existing food insecurity as well as creating new pools of food insecurity.  In addition, CNN reports that [Russians have been stealing "vast amounts of Ukrainian grain and (*farming*) equipment."](https://edition.cnn.com/2022/05/05/europe/russia-ukraine-grain-theft-cmd-intl/index.html)  All of this increases the scope and intensity of already [widespread food-related suffering](https://en.wikipedia.org/wiki/2022_food_crises).  Begin donating to reputable organizations that will be helping feed the millions impacted by Putin's evil misinformation, destruction and death machine.  
-  *  At 4:50PM UTC 2022-03-14, [the commodity price of Wheat was up almost 68% since the start of the year (*on 2022-06-12 it was up over 57%, and once a small amount of Ukrainian grain started shipping again, the price was still up 23% on 2022-10-01*)](https://tradingeconomics.com/commodity/wheat).  ...*where wheat is a proxy for the broader category of "food" in general*.  
-     *  To check the price of wheat see: [https://tradingeconomics.com/commodity/wheat](https://tradingeconomics.com/commodity/wheat)  and  [https://www.macrotrends.net/2534/wheat-prices-historical-chart-data](https://www.macrotrends.net/2534/wheat-prices-historical-chart-data)  
-  * Donate via a reputable channel that you trust -- and have some clear reasons that you trust them.  Unfortunately, there are lots of scammers and grifters stealing money behind pleas for food aid around the world and/or for Ukraine. (*I justs received a plea via email with links to what looked like 8 top-tier 'organizations' and each of the 'donation options' appears to be well-crafted look-alike site on a look-alike domain set up to accept credit card payments.*)  
+* Don't ignore it.  See: [Putin's war in Ukraine](https://github.com/mccright/rand-notes/blob/master/Putins-war-in-Ukraine.md)  
 
 ### Back to the References
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
@@ -50,7 +46,8 @@ and page 2 of
 and documenation at 
 [http://git-scm.com/docs](http://git-scm.com/docs)  
 * Git Pocket Guide. By Richard E. Silverman [https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/)  
-* Finally, git repos may contain sensitive files and the scale of their history can slow pipeline activities. In some use cases git-filter-repo (https://github.com/newren/git-filter-repo) can help.
+* [Monorepos](https://en.wikipedia.org/wiki/Monorepo) can hide a lot of different problems. [git-sizer](https://github.com/github/git-sizer) can help. git-sizer computes various size metrics for a local Git repository, flagging those that might cause you problems or inconvenience.  
+* Finally, git repos may contain sensitive files and the scale of their history can slow pipeline activities. In some use cases [git-filter-repo](https://github.com/newren/git-filter-repo) can help.
 
 
 Just get started...  
@@ -160,7 +157,9 @@ Understanding how the adversary operates is essential to effective cyber securit
 * An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
+* Active Directory Attack Cheat Sheet [https://medium.com/@dw3113r/active-directory-attack-cheat-sheet-ea9e9744028d](https://medium.com/@dw3113r/active-directory-attack-cheat-sheet-ea9e9744028d) or formatted better at [https://dw3113r.com/2022/07/20/active-directory-attack-cheat-sheet/](https://dw3113r.com/2022/07/20/active-directory-attack-cheat-sheet/)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
+* [ngrok](https://ngrok.com): ngrok is a globally distributed reverse proxy fronting your web services running on a given endpoint, or in any cloud or private network.  *Paid [ngrok](https://ngrok.com/pricing)* has additional features that support its promotion as "the programmable network edge that adds connectivity, security, and observability to your apps with no code changes."  Pay attention to the details of every request.  The free version may not be suitable for your business, your local environment, or your regulators/investors/customers. [https://ngrok.com](https://ngrok.com)  
 * Weird Proxies: a cheat sheet about behaviour of various reverse proxies, cache proxies, load balancers, etc. [https://github.com/GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies)  
 * Fetch a list of currently-working proxies [https://github.com/stamparm/fetch-some-proxies](https://github.com/stamparm/fetch-some-proxies)  
 * Collection of security tool cheat sheets [https://github.com/gnebbia/cheatsheets/tree/master/sectool](https://github.com/gnebbia/cheatsheets/tree/master/sectool)
@@ -296,6 +295,7 @@ and
 * Awesome Static Analysis -  a collection of static analysis tools and code quality checkers. [https://github.com/mre/awesome-static-analysis](https://github.com/mre/awesome-static-analysis)  
 * Python Taint -- pyt -- A Static Analysis Tool for Detecting common Security Vulnerabilities in Python Web Applications [https://github.com/python-security/pyt](https://github.com/python-security/pyt)  
 * Bandit -- A security linter for detecting common security vulnerabilities in Python applications [https://github.com/PyCQA/bandit](https://github.com/PyCQA/bandit)  
+* Clair is an open source project for the static analysis of vulnerabilities in application containers (currently including OCI and docker) [https://github.com/quay/clair](https://github.com/quay/clair)  
 * Awesome CI {Continuation Integration}, Incl. tools for git, file and static source code security analysis - [https://github.com/cytopia/awesome-ci](https://github.com/cytopia/awesome-ci)  
 * "Avoiding the Top 10 Security Flaws." Design guidance by the IEEE Center for Secure Design (CSD),  [http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html](http://cybersecurity.ieee.org/center-for-secure-design/avoiding-the-top-10-security-flaws.html)  
 * The IEEE Computer Society Center for Secure Design. [http://cybersecurity.ieee.org/center-for-secure-design.html](http://cybersecurity.ieee.org/center-for-secure-design.html)   
@@ -334,7 +334,7 @@ and
 * Collection of the most common vulnerabilities found in iOS applications [https://github.com/felixgr/secure-ios-app-dev](https://github.com/felixgr/secure-ios-app-dev)  
 * Application logging guidance [https://github.com/mccright/references/blob/master/AppSec-Logging.md](https://github.com/mccright/references/blob/master/AppSec-Logging.md)  
 * AWS logging guidance [https://betterdev.blog/aws-lambda-logging-best-practices/](https://betterdev.blog/aws-lambda-logging-best-practices/)  
-* One approach to loggiing in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
+* One approach to logging in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 * A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
 * A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
@@ -426,6 +426,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Some examples of how to use the Python module ‘configparser‘ [https://github.com/revfran/pythonConfigParsing](https://github.com/revfran/pythonConfigParsing), [https://github.com/VakinduPhilliam/Python_Configuration_Parser](https://github.com/VakinduPhilliam/Python_Configuration_Parser)  
 * Search for strings in source code - at scale [https://github.com/s0md3v/hardcodes](https://github.com/s0md3v/hardcodes)  
 * Present data in tables on your terminal [https://github.com/Robpol86/terminaltables](https://github.com/Robpol86/terminaltables)  
+* Another tool for presenting data in tables [https://github.com/jazzband/prettytable](https://github.com/jazzband/prettytable)  
 * Progress bar [https://github.com/verigak/progress](https://github.com/verigak/progress)  
 * present: A terminal-based presentation tool with colors and effects. [https://github.com/vinayak-mehta/present](https://github.com/vinayak-mehta/present)  
 * Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
@@ -513,6 +514,7 @@ A starter list of information sources for your security investigations & integra
 * Chen's Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
 * "Unsupervised Cross-lingual Representation Learning at Scale" by Alexis Conneau and Kartikay Khandelwal, et.al. [https://arxiv.org/pdf/1911.02116.pdf](https://arxiv.org/pdf/1911.02116.pdf)  
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
+* [Mathics](https://mathics.org/) is a general-purpose computer algebra system (CAS).  The mathics-core repository contains just the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them. [https://github.com/Mathics3/mathics-core](https://github.com/Mathics3/mathics-core)  
 
 
 **Text to Speech**
@@ -613,7 +615,7 @@ A starter list of information sources for your security investigations & integra
  * SANS Digital Forensics Blog [http://digital-forensics.sans.org/blog](http://digital-forensics.sans.org/blog)  
  * SEI Blog [https://insights.sei.cmu.edu/blog/](https://insights.sei.cmu.edu/blog/)  
  * System Forensics [http://www.sysforensics.org/](http://www.sysforensics.org/)  
- * System Admin, Powershell [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)  
+ * System Admin, Powershell (*inactive*) [http://sysadminconcombre.blogspot.ca/](http://sysadminconcombre.blogspot.ca/)  
  * BOT24 [http://www.bot24.com/](http://www.bot24.com/)  
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  * Kite Blog: [https://kite.com/blog](https://kite.com/blog)  
@@ -687,13 +689,18 @@ A starter list of information sources for your security investigations & integra
 
 
 **Bash Shell**  
+* [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)  
 * Bash scripting CheatSheet [https://devhints.io/bash](https://devhints.io/bash)  
 * Bash for the shell novice:  
   * [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)  
   * [https://help.ubuntu.com/community/Beginners/BashScripting](https://help.ubuntu.com/community/Beginners/BashScripting)  
+* Shell script static analysis tool -- a lint for bash/sh/zsh [shellcheck](https://github.com/koalaman/shellcheck)  
 * Pure Bash Bible [https://github.com/dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)  
+* Bash Strict Mode by Aaron Maxwell [http://redsymbol.net/articles/unofficial-bash-strict-mode/](http://redsymbol.net/articles/unofficial-bash-strict-mode/)  
 * Slack CLI via pure bash [https://github.com/rockymadden/slack-cli](https://github.com/rockymadden/slack-cli)  
+* [https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
+* A collection of one-liners [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
 
 
 **Development Environment on a Mac**  
@@ -718,6 +725,11 @@ A starter list of information sources for your security investigations & integra
 * Upgrad https://www.upgrad.com/free-courses/  
 * Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers [https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)  
 
+**Quantum Computing Resources**  
+Here are some resources to learn more about this topic:  
+* Open-Source Quantum Development.  Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. (*Python 3.7+ in a virtual environment with Anaconda*) [quiskit](https://www.qiskit.org/)  
+* IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
+* Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
  **Temporary list for work tools or other resources requiring more follow-up**  
  * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
@@ -764,15 +776,18 @@ A starter list of information sources for your security investigations & integra
    * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
  
 **Other**  
+* Where are the power outages? [https://poweroutage.com/](https://poweroutage.com/)  
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
 * And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/<SYMBOL>```.  Thank you Shashi Prakash Gautam for your excellent server. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
 * If you want to just grab a long history for any given security (*through 2018-03-27*), try [https://www.quandl.com/api/v3/datasets/WIKI/<symbol>](https://www.quandl.com/api/v3/datasets/WIKI/<symbol>)  
+* Database of False or Misleading Claims By DJ Trump During his 4-Year Presidency (*more than 30,000 of them*) [https://www.washingtonpost.com/graphics/politics/trump-claims-database/](https://www.washingtonpost.com/graphics/politics/trump-claims-database/)  
 * Look into this simple mass Search & Replace tool (Rust): [https://github.com/nvie/sr](https://github.com/nvie/sr)  
 * Who pays for writing? Here is an annotated list of organizations that pay writers: [https://github.com/malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
 * SVG Python module [https://github.com/orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py)  
+* svgcleaner (*rust*) is used to losslessly reduce the size of an SVG image -- generally created in a vector editing application -- before publishing [https://github.com/RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner)  
 * MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
 * Chordious [https://github.com/jonthysell/Chordious](https://github.com/jonthysell/Chordious) with related [https://github.com/svg-net/SVG](https://github.com/svg-net/SVG)  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
@@ -782,6 +797,7 @@ A starter list of information sources for your security investigations & integra
 * Remittances sent from United States to other countries in USD [https://remittancesbycountry.site/country/united_states](https://remittancesbycountry.site/country/united_states)  
 * Getting communications right is hard. Language is a foundational component.  WordNet sometimes helps. [https://en-word.net/](https://en-word.net/) and [https://github.com/globalwordnet/english-wordnet](https://github.com/globalwordnet/english-wordnet)  
 * Sometimes historical context matters when choosing a given term. Merriam-Webster hosts a neat tool that identifies when given words were first used. Look up any year to find out.  From Merriam-Webster, [https://www.merriam-webster.com/dictionary/ad%20hominem](https://www.merriam-webster.com/dictionary/ad%20hominem). Accessed 24 Oct. 2022  
+* Webster's 1913 Unabridged Dictionary at Project Gutenberg [https://www.gutenberg.org/ebooks/29765](https://www.gutenberg.org/ebooks/29765)  
 * International Building Code, 2012, Second Printing. [https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration](https://codes.iccsafe.org/content/IBC2012P12/chapter-1-scope-and-administration)  
 * ISO Country List [https://www.iso.org/obp/ui/#search](https://www.iso.org/obp/ui/#search)
 * Script that extracts character names from a text file and performs analysis of text sentences containing the names. [https://github.com/emdaniels/character-extraction](https://github.com/emdaniels/character-extraction) 
@@ -825,6 +841,7 @@ See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVI
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
 **Broadly Reusable Advice**  
+* The world is brimming with uncertainties.  If you don't have a [will](https://www.freewill.com/glossary#will), create one (*do it now -- you can always morph it later as needed*).  Under many circumstances you can start here for free: [https://www.freewill.com/](https://www.freewill.com/)  (*there are other systems that will help you prepare a basic will for free*)  
 * "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they're confident it won't work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
 * On Being Fired [https://third-bit.com/rules/#being-fired](https://third-bit.com/rules/#being-fired)  
 * Ten quick tips for delivering programming lessons [https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433)  
