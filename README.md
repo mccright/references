@@ -8,7 +8,8 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 ### [Putin's war](https://en.wikipedia.org/wiki/Russo-Ukrainian_War):  
 * Don't ignore it.  See: [Putin's war in Ukraine](https://github.com/mccright/rand-notes/blob/master/Putins-war-in-Ukraine.md)  
 
-### Back to the References
+### Back to the References  
+* Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Here is the "NASA JPL Asteroid Watch --> The Next Five Asteroid Approaches"
