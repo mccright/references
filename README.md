@@ -127,6 +127,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
    * MITRE ATT&CK® and CAPEC™ datasets expressed in STIX 2.0 [https://github.com/mitre/cti](https://github.com/mitre/cti)  
    * Github organization for MITRE ATT&CK [https://github.com/mitre-attack](https://github.com/mitre-attack)  
    * Atomic Red Team™ is a library of tests mapped to the MITRE ATT&CK® framework. Its mission is to help security teams quickly, portably, and reproducibly test their environments [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)  
+   * *infosecn1nja's* Awesome Mitre ATT&CK™ Framework [https://github.com/infosecn1nja/awesome-mitre-attack](https://github.com/infosecn1nja/awesome-mitre-attack)  
 * The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC):  
 Understanding how the adversary operates is essential to effective cyber security. CAPEC™ helps by providing a comprehensive dictionary of known patterns of attacks employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. It can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.  
    * Focuses on application security  
@@ -150,6 +151,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * "All in One Hacking tool For Hackers" [https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  
 * Arsenal - an inventory, reminder and launcher to simplify the use of all the hard-to-remember pentest commands [https://github.com/Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal)  
+* Red Teaming Toolkit [https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)  
+* Red Team Scripts [https://github.com/infosecn1nja/red-team-scripts](https://github.com/infosecn1nja/red-team-scripts)  
 * bugcrowd / methodology-taxonomy [https://github.com/bugcrowd/methodology-taxonomy](https://github.com/bugcrowd/methodology-taxonomy)  
 * Bugcrowd Vulnerability Rating Taxonomy (VRT) [https://bugcrowd.com/vulnerability-rating-taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) and [https://github.com/bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy)  
 * "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
@@ -159,6 +162,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * Active Directory Attack Cheat Sheet [https://medium.com/@dw3113r/active-directory-attack-cheat-sheet-ea9e9744028d](https://medium.com/@dw3113r/active-directory-attack-cheat-sheet-ea9e9744028d) or formatted better at [https://dw3113r.com/2022/07/20/active-directory-attack-cheat-sheet/](https://dw3113r.com/2022/07/20/active-directory-attack-cheat-sheet/)  
+* Active Directory Cheatsheet: [https://github.com/OriolOriolOriol/Active-Directory-Cheat-Sheet](https://github.com/OriolOriolOriol/Active-Directory-Cheat-Sheet)  
+* Active Directory Kill Chain Attack & Defense [https://github.com/infosecn1nja/AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
 * [ngrok](https://ngrok.com): ngrok is a globally distributed reverse proxy fronting your web services running on a given endpoint, or in any cloud or private network.  *Paid [ngrok](https://ngrok.com/pricing)* has additional features that support its promotion as "the programmable network edge that adds connectivity, security, and observability to your apps with no code changes."  Pay attention to the details of every request.  The free version may not be suitable for your business, your local environment, or your regulators/investors/customers. [https://ngrok.com](https://ngrok.com)  
 * Weird Proxies: a cheat sheet about behaviour of various reverse proxies, cache proxies, load balancers, etc. [https://github.com/GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies)  
