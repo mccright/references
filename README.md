@@ -157,6 +157,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Bugcrowd Vulnerability Rating Taxonomy (VRT) [https://bugcrowd.com/vulnerability-rating-taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) and [https://github.com/bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy)  
 * "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
 * six2dez pentest-book [https://pentestbook.six2dez.com/](https://pentestbook.six2dez.com/) and the source at [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
+* Penetration Testing Checklist [https://github.com/infinite-omicron/pentesting-checklist](https://github.com/infinite-omicron/pentesting-checklist) and its companion Pentesting Guide [https://github.com/infinite-omicron/pentesting-guide/](https://github.com/infinite-omicron/pentesting-guide/)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
 * An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
@@ -467,6 +468,7 @@ and
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
 * Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py](https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py)  
 * "Regular Expressions: Regexes in Python" by John Sturtz [https://realpython.com/regex-python/](https://realpython.com/regex-python/) and part 2 [https://realpython.com/regex-python-part-2/](https://realpython.com/regex-python-part-2/)  
+* *Related...* Personally Identifiable Information (PII) Redactor shell script [https://github.com/infinite-omicron/pii-redactor/blob/master/pii_redactor.sh](https://github.com/infinite-omicron/pii-redactor/blob/master/pii_redactor.sh)
 
  
 **DOS/Windows Shell**
@@ -763,6 +765,7 @@ Here are some resources to learn more about this topic:
  * Google Fiber Wifi Data Presentation [http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf](http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf) and related utilities: [https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/](https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/) & [https://github.com/apenwarr/wavedroplet/](https://github.com/apenwarr/wavedroplet/) & blip [https://github.com/apenwarr/blip/](https://github.com/apenwarr/blip/)  
  * blip latency trending utility [https://github.com/apenwarr/blip](https://github.com/apenwarr/blip) hosted at [http://gfblip.appspot.com/](http://gfblip.appspot.com/) and the DNS-aware version [don't have this](don't have this) hosted at [http://6-dot-gfblip.appspot.com)](http://6-dot-gfblip.appspot.com))  
  * Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more.  [https://github.com/micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet)  
+ * *mitmproxy* is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets. A free and open source swiss-army knife for debugging, testing, privacy measurements, and penetration testing. [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)  
  * Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
  * Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
  * Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
