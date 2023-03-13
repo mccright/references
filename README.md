@@ -139,6 +139,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
 * "The STRIDE Threat Model." [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
 * "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
+*  NIST's SP 800-160 Vol. 1 Rev. 1 (2022) "Engineering Trustworthy Secure Systems."  With special attention to the 30 security principles in "Appendix E. Principles for Trustworthy Secure Design."  [https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final)  
 * "How To: Create a Threat Model for a Web Application at Design Time." [http://msdn.microsoft.com/en-us/library/ms978527.aspx](http://msdn.microsoft.com/en-us/library/ms978527.aspx)  
 * "Walkthrough: Creating a Threat Model for a Web Application." [http://msdn.microsoft.com/en-us/library/ms978538.aspx](http://msdn.microsoft.com/en-us/library/ms978538.aspx)  
 * "Application Threat Modeling (OWASP)" [https://www.owasp.org/index.php/Application_Threat_Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)  
