@@ -151,6 +151,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 **Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
+* ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
 * "All in One Hacking tool For Hackers" [https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  
 * Arsenal - an inventory, reminder and launcher to simplify the use of all the hard-to-remember pentest commands [https://github.com/Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal)  
 * Red Teaming Toolkit [https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)  
