@@ -181,7 +181,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
 * SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
-* Pen testing payloads with supporting resources [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)  
+* Pen testing payloads with supporting resources (*this could/should be named 'awsome-payloads'!*) [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) and, easier to navigate [https://swisskyrepo.github.io/PayloadsAllTheThings/](https://swisskyrepo.github.io/PayloadsAllTheThings/)  
 * Penetration Testers Framework (PTF) [https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)  
 * Social-Engineer Toolkit (SET) [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)  
 * A Python based web application scanner - BlackWidow - with Docker help [https://github.com/1N3/BlackWidow](https://github.com/1N3/BlackWidow)  
