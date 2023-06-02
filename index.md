@@ -8,7 +8,9 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 ### [Putin's war](https://en.wikipedia.org/wiki/Russo-Ukrainian_War):  
 * Don't ignore it.  See: [Putin's war in Ukraine](https://github.com/mccright/rand-notes/blob/master/Putins-war-in-Ukraine.md)  
 
-### Back to the References
+### Back to the References  
+* The *time changed* again recently... See how [NIST explains daylight saving time](https://www.nist.gov/pml/time-and-frequency-division/local-time-faqs)  
+* Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Here is the "NASA JPL Asteroid Watch --> The Next Five Asteroid Approaches"
@@ -109,6 +111,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	The CVE-Search Project [https://www.cve-search.org/software/](https://www.cve-search.org/software/), and cve-search - a tool to perform local searches for known vulnerabilities [https://github.com/cve-search/cve-search](https://github.com/cve-search/cve-search)  
 * Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 * There are situations where you may be given a repository without any accompanying information... What is in the repo?? *[crazymax](https://crazymax.dev/)* assembled a Docker image -- [crazymax/docker-linguist](https://github.com/crazy-max/docker-linguist) -- that runs [GitHub Linguist](https://github.com/github/linguist), a library used on GitHub.com to detect blob languages.  You can use is to easily, quickly and *reasonable accurately* identify what languages are used in a given local repository.  Here are some examples of it in use:  [https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository](https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository)  
+* Vulns: Vulnerability scanner for Linux/FreeBSD, agent-less, written in Go. [https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)  
   
 **Architecture Risk Analysis**  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
@@ -126,6 +129,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
    * MITRE ATT&CK® and CAPEC™ datasets expressed in STIX 2.0 [https://github.com/mitre/cti](https://github.com/mitre/cti)  
    * Github organization for MITRE ATT&CK [https://github.com/mitre-attack](https://github.com/mitre-attack)  
    * Atomic Red Team™ is a library of tests mapped to the MITRE ATT&CK® framework. Its mission is to help security teams quickly, portably, and reproducibly test their environments [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)  
+   * *infosecn1nja's* Awesome Mitre ATT&CK™ Framework [https://github.com/infosecn1nja/awesome-mitre-attack](https://github.com/infosecn1nja/awesome-mitre-attack)  
 * The Common Attack Pattern Enumeration and Classification dictionary and classification taxonomy (CAPEC):  
 Understanding how the adversary operates is essential to effective cyber security. CAPEC™ helps by providing a comprehensive dictionary of known patterns of attacks employed by adversaries to exploit known weaknesses in cyber-enabled capabilities. It can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.  
    * Focuses on application security  
@@ -136,6 +140,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
 * "The STRIDE Threat Model." [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
 * "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
+*  NIST's SP 800-160 Vol. 1 Rev. 1 (2022) "Engineering Trustworthy Secure Systems."  With special attention to the 30 security principles in "Appendix E. Principles for Trustworthy Secure Design."  [https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final)  
 * "How To: Create a Threat Model for a Web Application at Design Time." [http://msdn.microsoft.com/en-us/library/ms978527.aspx](http://msdn.microsoft.com/en-us/library/ms978527.aspx)  
 * "Walkthrough: Creating a Threat Model for a Web Application." [http://msdn.microsoft.com/en-us/library/ms978538.aspx](http://msdn.microsoft.com/en-us/library/ms978538.aspx)  
 * "Application Threat Modeling (OWASP)" [https://www.owasp.org/index.php/Application_Threat_Modeling](https://www.owasp.org/index.php/Application_Threat_Modeling)  
@@ -147,17 +152,23 @@ Understanding how the adversary operates is essential to effective cyber securit
 **Web Application Vulnerability Analysis and Pen Testing**  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
+* ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
 * "All in One Hacking tool For Hackers" [https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  
 * Arsenal - an inventory, reminder and launcher to simplify the use of all the hard-to-remember pentest commands [https://github.com/Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal)  
+* Red Teaming Toolkit [https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)  
+* Red Team Scripts [https://github.com/infosecn1nja/red-team-scripts](https://github.com/infosecn1nja/red-team-scripts)  
 * bugcrowd / methodology-taxonomy [https://github.com/bugcrowd/methodology-taxonomy](https://github.com/bugcrowd/methodology-taxonomy)  
 * Bugcrowd Vulnerability Rating Taxonomy (VRT) [https://bugcrowd.com/vulnerability-rating-taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) and [https://github.com/bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy)  
 * "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
 * six2dez pentest-book [https://pentestbook.six2dez.com/](https://pentestbook.six2dez.com/) and the source at [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
+* Penetration Testing Checklist [https://github.com/infinite-omicron/pentesting-checklist](https://github.com/infinite-omicron/pentesting-checklist) and its companion Pentesting Guide [https://github.com/infinite-omicron/pentesting-guide/](https://github.com/infinite-omicron/pentesting-guide/)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
 * An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
 * The Open Penetration Testing Bookmarks Collection [https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md](https://github.com/Oweoqi/pentest-bookmarks/blob/master/BookmarksList.md)  
 * Collection of pentest resources [https://github.com/1N3/](https://github.com/1N3/)  
 * Active Directory Attack Cheat Sheet [https://medium.com/@dw3113r/active-directory-attack-cheat-sheet-ea9e9744028d](https://medium.com/@dw3113r/active-directory-attack-cheat-sheet-ea9e9744028d) or formatted better at [https://dw3113r.com/2022/07/20/active-directory-attack-cheat-sheet/](https://dw3113r.com/2022/07/20/active-directory-attack-cheat-sheet/)  
+* Active Directory Cheatsheet: [https://github.com/OriolOriolOriol/Active-Directory-Cheat-Sheet](https://github.com/OriolOriolOriol/Active-Directory-Cheat-Sheet)  
+* Active Directory Kill Chain Attack & Defense [https://github.com/infosecn1nja/AD-Attack-Defense](https://github.com/infosecn1nja/AD-Attack-Defense)  
 * OWASP Web Application Security Testing Cheatsheet  [https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet)  
 * [ngrok](https://ngrok.com): ngrok is a globally distributed reverse proxy fronting your web services running on a given endpoint, or in any cloud or private network.  *Paid [ngrok](https://ngrok.com/pricing)* has additional features that support its promotion as "the programmable network edge that adds connectivity, security, and observability to your apps with no code changes."  Pay attention to the details of every request.  The free version may not be suitable for your business, your local environment, or your regulators/investors/customers. [https://ngrok.com](https://ngrok.com)  
 * Weird Proxies: a cheat sheet about behaviour of various reverse proxies, cache proxies, load balancers, etc. [https://github.com/GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies)  
@@ -170,7 +181,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Open Source Security Testing Methodology Manual (OSSTMM) [http://www.isecom.org/research/osstmm.html](http://www.isecom.org/research/osstmm.html)  
 * Session Hijacking Cheat Sheet [http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/](http://resources.infosecinstitute.com/session-hijacking-cheat-sheet/)  
 * SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more. [https://github.com/danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)  
-* Pen testing payloads with supporting resources [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)  
+* Pen testing payloads with supporting resources (*this could/should be named 'awsome-payloads'!*) [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) and, easier to navigate [https://swisskyrepo.github.io/PayloadsAllTheThings/](https://swisskyrepo.github.io/PayloadsAllTheThings/)  
 * Penetration Testers Framework (PTF) [https://github.com/trustedsec/ptf](https://github.com/trustedsec/ptf)  
 * Social-Engineer Toolkit (SET) [https://github.com/trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit)  
 * A Python based web application scanner - BlackWidow - with Docker help [https://github.com/1N3/BlackWidow](https://github.com/1N3/BlackWidow)  
@@ -186,6 +197,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Website fingerprint script [https://github.com/bgiarrizzo/website-fingerprint](https://github.com/bgiarrizzo/website-fingerprint)  
 * Awesome Mainframe Hacking/Pentesting Resources.[https://github.com/samanL33T/Awesome-Mainframe-Hacking/](https://github.com/samanL33T/Awesome-Mainframe-Hacking/)  
 * Excellent list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)  
+* Audit and secure your AWS environment(s): [YATAS](https://github.com/padok-team/yatas) "is a simple and easy to use tool to audit your infrastructure for misconfiguration or potential security issues." ..."The goal of YATAS is to help you create a secure AWS environment without too much hassle." [https://github.com/padok-team/yatas](https://github.com/padok-team/yatas) and [https://www.primates.dev/aws-security-misconfiguration-audit-in-30-seconds/](https://www.primates.dev/aws-security-misconfiguration-audit-in-30-seconds/)  
 * CloudGoat, Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  
  * Offensive security testing of your AWS environment [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)  
  * Offensive security testing of your CMS - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs [https://github.com/Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK)  
@@ -289,7 +301,7 @@ and
 
 
 **General Secure Programming**  
-*  Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
+* Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
 * Static analysis tools for *all* programming languages [https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
 * Awesome Static Analysis -  a collection of static analysis tools and code quality checkers. [https://github.com/mre/awesome-static-analysis](https://github.com/mre/awesome-static-analysis)  
@@ -339,6 +351,7 @@ and
 * A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
 * A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
 * An edge case:  *Protecting* your scripts - PowerShell, Visual Basic (VB), and C# code obfuscation -- "A Beginner's Guide to Obfuscation" [https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)  
+* Attack-resistant programming requires a threshold understanding of your current language. ```esolang-box``` is an "easy and standardized docker images for 200+ esoteric (and non-esoteric) languages." https://github.com/hakatashi/esolang-box  
 
 **PHP**
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
@@ -461,6 +474,7 @@ and
 * Another collection of examples: [http://www.regular-expressions.info/examples.html](http://www.regular-expressions.info/examples.html)  
 * Includes a collection of regexes for apikeys/tokens [https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py](https://github.com/m4ll0k/SecretFinder/blob/master/BurpSuite-SecretFinder/SecretFinder.py)  
 * "Regular Expressions: Regexes in Python" by John Sturtz [https://realpython.com/regex-python/](https://realpython.com/regex-python/) and part 2 [https://realpython.com/regex-python-part-2/](https://realpython.com/regex-python-part-2/)  
+* *Related...* Personally Identifiable Information (PII) Redactor shell script [https://github.com/infinite-omicron/pii-redactor/blob/master/pii_redactor.sh](https://github.com/infinite-omicron/pii-redactor/blob/master/pii_redactor.sh)
 
  
 **DOS/Windows Shell**
@@ -757,6 +771,7 @@ Here are some resources to learn more about this topic:
  * Google Fiber Wifi Data Presentation [http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf](http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf) and related utilities: [https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/](https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/) & [https://github.com/apenwarr/wavedroplet/](https://github.com/apenwarr/wavedroplet/) & blip [https://github.com/apenwarr/blip/](https://github.com/apenwarr/blip/)  
  * blip latency trending utility [https://github.com/apenwarr/blip](https://github.com/apenwarr/blip) hosted at [http://gfblip.appspot.com/](http://gfblip.appspot.com/) and the DNS-aware version [don't have this](don't have this) hosted at [http://6-dot-gfblip.appspot.com)](http://6-dot-gfblip.appspot.com))  
  * Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more.  [https://github.com/micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet)  
+ * *mitmproxy* is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets. A free and open source swiss-army knife for debugging, testing, privacy measurements, and penetration testing. [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)  
  * Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
  * Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
  * Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
