@@ -32,8 +32,8 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
   * "Software Licenses in Plain English -- Lookup popular software licenses summarized at-a-glance." [https://tldrlegal.com/](https://tldrlegal.com/)  
 * Finally, pay attention to where you invest your attention.  A [recent essay](https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html) by Ezra Klein exploring how technology choices influence how/what we learn and behave is worth a careful read: [https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html](https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html).  
  
-  
-***Cheat Sheets***  
+
+### Cheat Sheets  
 First and foremost: a couple **git cheat sheets** 
 * [https://training.github.com/downloads/github-git-cheat-sheet.pdf](https://training.github.com/downloads/github-git-cheat-sheet.pdf) 
 * and TimGreen's list of git & github features -- with a table of resources and books at the bottom:
@@ -67,25 +67,25 @@ git branch -u origin/main main
 git remote set-head origin -a
 ```
 
-**Tell Me About**  
+### Tell Me About  
 * A github profile summary: [https://profile-summary-for-github.com/user/<githubUserName>/](https://profile-summary-for-github.com/user/githubUserName/) [Thank you tipsy](https://github.com/tipsy/profile-summary-for-github)  
 
   
-**Awesome-Awesome**
+### Awesome-Awesome  
 * A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
 * A collection of awesome lists for hackers, pentesters & security researchers [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
 * A curated list of Terminal frameworks, plugins & resources for CLI lovers [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)  
 
-**Browse** 
+### Browse** 
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
 * and if you need a little Linux help using it [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
-**Manage Your Privacy**  
+### Manage Your Privacy  
 * Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privacy-checklist](https://github.com/diafygi/privacy-checklist)  
 * 11 tips for protecting your privacy... by Olivia Martin [https://freedom.press/training/blog/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/training/blog/11-tips-protecting-your-privacy-and-digital-security-age-trump/)  
 * Your IP address is sometimes your identity [https://myexternalip.com/](https://myexternalip.com/)  
 
-**Software Vulnerability Detection Resources**  
+### Software Vulnerability Detection Resources  
 * *DevSecOps* tool lists [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps)  
 * U.S. National Checklist Program [http://checklists.nist.gov](http://checklists.nist.gov) and [https://web.nvd.nist.gov/view/ncp/repository](https://web.nvd.nist.gov/view/ncp/repository) 
 * Security Content Automation Protocol (SCAP)  
@@ -113,7 +113,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * There are situations where you may be given a repository without any accompanying information... What is in the repo?? *[crazymax](https://crazymax.dev/)* assembled a Docker image -- [crazymax/docker-linguist](https://github.com/crazy-max/docker-linguist) -- that runs [GitHub Linguist](https://github.com/github/linguist), a library used on GitHub.com to detect blob languages.  You can use is to easily, quickly and *reasonable accurately* identify what languages are used in a given local repository.  Here are some examples of it in use:  [https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository](https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository)  
 * Vulns: Vulnerability scanner for Linux/FreeBSD, agent-less, written in Go. [https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)  
   
-**Architecture Risk Analysis**  
+### Architecture Risk Analysis  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
 * U.S. CERT Definition & Best Practices Document on Architecture Risk Analysis: [https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis](https://www.us-cert.gov/bsi/articles/best-practices/architectural-risk-analysis/architectural-risk-analysis)  
 * Lecture 28: Threat Modeling, or Architectural Risk Analysis - Coursera-hosted lecture on this topic by Michael Hicks, University of Maryland, College Park: [https://www.coursera.org/learn/software-security/lecture/bQAoU/threat-modeling-or-architectural-risk-analysis](https://www.coursera.org/learn/software-security/lecture/bQAoU/threat-modeling-or-architectural-risk-analysis)  
@@ -149,7 +149,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "A Complete Guide to the Common Vulnerability Scoring System Version 3.1" [https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf)  
 * The System Design Primer [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
 
-**Web Application Vulnerability Analysis and Pen Testing**  
+### Web Application Vulnerability Analysis and Pen Testing  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
@@ -237,7 +237,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
 
 
-**Pen testing Linux distros**  
+### Pen testing Linux distros  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
 * DemonLinux  [https://demonlinux.com/about.php](hhttps://demonlinux.com/about.php) 
@@ -253,12 +253,12 @@ Understanding how the adversary operates is essential to effective cyber securit
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 
-**BPF Tools** 
+### BPF Tools** 
 Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * BPF Compiler Collection (BCC) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more [https://github.com/iovisor/bcc](https://github.com/iovisor/bcc)  
 
 
-**Online Scanners**  
+### Online Scanners  
 * yougetsignal [http://www.yougetsignal.com/tools/open-ports/](http://www.yougetsignal.com/tools/open-ports/)  
   * Reverse IP Domain Check [https://www.yougetsignal.com/tools/web-sites-on-web-server/](https://www.yougetsignal.com/tools/web-sites-on-web-server/)  
   * Network Location Check [https://www.yougetsignal.com/tools/network-location/](https://www.yougetsignal.com/tools/network-location/)  
@@ -275,7 +275,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
   * Convert IP Address to Binary, Hexadecimal, Octal, and Long Integer [https://ipaddress.standingtech.com/online-ip-address-converter](https://ipaddress.standingtech.com/online-ip-address-converter)  
 * Or use a Python-based command-line utility for using websites that can perform port scans on your behalf [https://github.com/vesche/scanless](https://github.com/vesche/scanless)  
   
-**Markdown**
+### Markdown  
 * [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 * [https://docs.github.com/en/get-started/writing-on-github](https://docs.github.com/en/get-started/writing-on-github)   
 * [https://bitbucket.org/tutorials/markdowndemo](https://bitbucket.org/tutorials/markdowndemo)  
@@ -285,7 +285,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * Another GitHub Flavored Markdown cheatsheet [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)  
 * Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/) and [https://staticsitegenerators.net/](https://staticsitegenerators.net/)  
 
-**JavaScript**
+### JavaScript  
 * Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
 * [http://www.cheatography.com/acwinter/cheat-sheets/javascript-basic-advanced-and-more/](http://www.cheatography.com/acwinter/cheat-sheets/javascript-basic-advanced-and-more/)
 and 
@@ -300,7 +300,7 @@ and
 * "Don't make fun of JavaScript" [https://github.com/pixari/dmfojs](https://github.com/pixari/dmfojs)  
 
 
-**General Secure Programming**  
+### General Secure Programming  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
 * Static analysis tools for *all* programming languages [https://github.com/analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)  
@@ -353,7 +353,7 @@ and
 * An edge case:  *Protecting* your scripts - PowerShell, Visual Basic (VB), and C# code obfuscation -- "A Beginner's Guide to Obfuscation" [https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)  
 * Attack-resistant programming requires a threshold understanding of your current language. ```esolang-box``` is an "easy and standardized docker images for 200+ esoteric (and non-esoteric) languages." https://github.com/hakatashi/esolang-box  
 
-**PHP**
+### PHP  
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [http://www.cheatography.com/tag/php/](http://www.cheatography.com/tag/php/)  
 * PHP Security Guide, 2005. [http://phpsec.org/projects/guide/](http://phpsec.org/projects/guide/)  
@@ -363,7 +363,7 @@ and
 * PHP Best Practices -- A short, practical guide for common and confusing PHP tasks: [https://phpbestpractices.org/](https://phpbestpractices.org/)  
 
 
-**Python**
+### Python  
 * "The Complete Python Development Guide." [https://testdriven.io/guides/complete-python/](https://testdriven.io/guides/complete-python/)  
 * Hitchhiker's Guide to Python [https://github.com/realpython/python-guide](https://github.com/realpython/python-guide)  
   * and its 'Web Applications & Frameworks' section [https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst](https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst)  
@@ -452,8 +452,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
   * [https://pypi.org/project/fake_user_agent/](https://pypi.org/project/fake_user_agent/)  
   * [https://pypi.org/project/uas/](https://pypi.org/project/uas/)  
 
-
-**Crypto**  
+### Crypto  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
@@ -463,7 +462,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
   * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
   * And a Python implementation of *[draft version 1](https://datatracker.ietf.org/doc/html/draft-barnes-cfrg-hpke-01)* at: [https://github.com/dwd/crypto-examples/blob/master/hpke.py](https://github.com/dwd/crypto-examples/blob/master/hpke.py).  
  
-**Regex**
+### Regex  
 * Test your regex on line: [https://regex101.com/](https://regex101.com/)  
 * Test your JavaScript style regex: [https://regexper.com/](https://regexper.com/)  
 * OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
@@ -477,10 +476,10 @@ and
 * *Related...* Personally Identifiable Information (PII) Redactor shell script [https://github.com/infinite-omicron/pii-redactor/blob/master/pii_redactor.sh](https://github.com/infinite-omicron/pii-redactor/blob/master/pii_redactor.sh)
 
  
-**DOS/Windows Shell**
+### DOS/Windows Shell  
 * Guide to Batch Scripting [http://steve-jansen.github.io/guides/windows-batch-scripting/](http://steve-jansen.github.io/guides/windows-batch-scripting/)   
 
-**Information Sources for your Security Investigations**  
+### Information Sources for your Security Investigations**  
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
  * Awesome OSINT [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)  
@@ -522,7 +521,7 @@ A starter list of information sources for your security investigations & integra
  * General outline of information about a specific host or domain [https://webrate.org/site/website-hostname/](https://webrate.org/site/website-hostname/) (**replace "*website-hostname*" with your target.**)  
 
 
-**Math and Statistics**  
+### Math and Statistics  
 * Statistics in Pandas Cheatsheet [https://cheatsheets.quantecon.org/stats-cheatsheet.html](https://cheatsheets.quantecon.org/stats-cheatsheet.html)  
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
 * Chen's Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
@@ -531,14 +530,14 @@ A starter list of information sources for your security investigations & integra
 * [Mathics](https://mathics.org/) is a general-purpose computer algebra system (CAS).  The mathics-core repository contains just the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them. [https://github.com/Mathics3/mathics-core](https://github.com/Mathics3/mathics-core)  
 
 
-**Text to Speech**
+### Text to Speech  
 * eSpeak NG [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)  
 * Using eSpeak and eSpeakNG [https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/](https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/)  
 * eSpeak NG TTS Bindings for Python3 [https://github.com/sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python)  
 * Larynx -- This engine provides a complete text-to-speech solution for 9 languages in as many as 50 voices and can be used without any proprietary cloud services (*each voice is roughly 250MB*). This project includes an *easy path* using a Docker image. [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)  
 
 
-**Random Cheat Sheets**  
+### Random Cheat Sheets  
 * Cheat Sheets from a terminal via curl: [http://cheat.sh/](http://cheat.sh/)  
 * OWASP Cheat Sheet Series index: [https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md](https://github.com/OWASP/CheatSheetSeries/blob/master/Index.md) and [https://cheatsheetseries.owasp.org/](https://cheatsheetseries.owasp.org/)  
 * Massive list of links to lists associated with programming and languages [https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/](https://neverendingsecurity.wordpress.com/category/documents-manuals/mind-maps/)  
@@ -551,7 +550,7 @@ A starter list of information sources for your security investigations & integra
  * 101 Machine Learning Algorithms for Data Science with Cheat Sheets [https://blog.datasciencedojo.com/machine-learning-algorithms/](https://blog.datasciencedojo.com/machine-learning-algorithms/)  
  * An extensive list of filetypes and the application(s) associated with them [https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles](https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles)  
 
-**Several Tech Company Research & Security Blogs**
+### Several Tech Company Research & Security Blogs**
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
  * Fortify AppSecurity Blog [https://community.microfocus.com/cyberres/tags/Fortify](https://community.microfocus.com/cyberres/tags/Fortify) 
  * Fortify Security Research Blog [https://community.microfocus.com/cyberres/b/off-by-on-software-security-blog](https://community.microfocus.com/cyberres/b/off-by-on-software-security-blog) 
@@ -570,36 +569,36 @@ A starter list of information sources for your security investigations & integra
  * Apple Research News/Blog/Home [oops, I guess there aren't any security blogs here](oops, I guess there aren't any)
    But Apple hubris is in the press -- Here is a page with links to journalism on the Pegasus Project: [https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437](https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437)  
 
-**Respect software author's license decisions**
+### Respect software author's license decisions**
  * Software licensing explained [https://en.wikipedia.org/wiki/Software_license](https://en.wikipedia.org/wiki/Software_license)  
  * Comparison of free and open-source software licenses [http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 
  * Open Source Initiative list of links to license information [http://opensource.org/licenses](http://opensource.org/licenses)
  * "Various Licenses and Comments about Them" from GNU [http://www.gnu.org/philosophy/license-list.html](http://www.gnu.org/philosophy/license-list.html)  
 * "Software Licenses in Plain English -- Lookup popular software licenses summarized at-a-glance." [https://tldrlegal.com/](https://tldrlegal.com/)  
 
-**Various public documents, whitepapers and articles about APT campaigns**
+### Various public documents, whitepapers and articles about APT campaigns  
 * APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets. [https://github.com/aptnotes/data](https://github.com/aptnotes/data) or go directly to the resource links at [https://github.com/aptnotes/data/blob/master/APTnotes.csv](https://github.com/aptnotes/data/blob/master/APTnotes.csv)   
 
-**Verify those shortened URLs**
+### Verify those shortened URLs**
  * [https://tinyurl.com/preview.php](https://tinyurl.com/preview.php)
  * [http://checkshorturl.com/](http://checkshorturl.com/)
  * URL-Expander / URL-Unshortener [http://urlex.org/](http://urlex.org/)  
  
-**Find the code you need**  
+### Find the code you need**  
  * Awesome Algorithms -- A curated list of awesome places to learn and/or practice algorithms [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)  
  * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)  
  * A large collection of sorting algorithms in many languages [https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93](https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93) 
  * Competitive Programming, algorithms and data structures [https://algocoding.wordpress.com/](https://algocoding.wordpress.com/)
 
-**Then copy & morph**
+### Then copy & morph**
  * virtualenv is a tool to create isolated Python environments [https://virtualenv.pypa.io/en/latest/](https://virtualenv.pypa.io/en/latest/)
  * A relatively quick Python Numpy Tutorial by Justin Johnson. [http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
 
-**Risk Management Frameworks**  
+### Risk Management Frameworks  
 * Financial Services Sector "Cybersecurity Profile" - 280 'diagnostic statements' [https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile ](https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile )  
 * NIST SP-800-53 v4 []()  
 
-**Stay Informed**
+### Stay Informed**
 (in no particular order - and thank you Joe Fleischman for the starter set) 
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/) 
  * Schneier on Security [https://www.schneier.com/](https://www.schneier.com/) 
@@ -659,7 +658,7 @@ A starter list of information sources for your security investigations & integra
  * An improved webinterface for use with ADS-B decoders readsb / dump1090-fa [https://github.com/wiedehopf/tar1090](https://github.com/wiedehopf/tar1090)  
   
   
-**Temporary list for new work tools**  
+### Temporary list for new work tools  
 * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
 * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
 * Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
@@ -702,7 +701,7 @@ A starter list of information sources for your security investigations & integra
 * A python script that generates different sizes favicons from one image [https://github.com/Hecsall/favicon-generator](https://github.com/Hecsall/favicon-generator)  
 
 
-**Bash Shell**  
+### Bash Shell  
 * [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)  
 * Bash scripting CheatSheet [https://devhints.io/bash](https://devhints.io/bash)  
 * Bash for the shell novice:  
@@ -717,12 +716,12 @@ A starter list of information sources for your security investigations & integra
 * A collection of one-liners [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
 
 
-**Development Environment on a Mac**  
+### Development Environment on a Mac  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
 * "A shell script which turns your Mac into an awesome web development machine." [https://github.com/18F/laptop](https://github.com/18F/laptop)  
 
 
-**There is probably some free training for that...**  
+### There is probably some free training for that...  
 * Find a class at https://www.classcentral.com/search or https://www.classcentral.com/subjects  
 * Find out about assistance at: https://www.classcentral.com/help/moocs  
   * By universities (938 on 12 Sept 2020): https://www.classcentral.com/universities  
@@ -739,7 +738,7 @@ A starter list of information sources for your security investigations & integra
 * Upgrad https://www.upgrad.com/free-courses/  
 * Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers [https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)  
 
-**Quantum Computing Resources**  
+### Quantum Computing Resources**  
 Here are some resources to learn more about this topic:  
 * Open-Source Quantum Development.  Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. (*Python 3.7+ in a virtual environment with Anaconda*) [quiskit](https://www.qiskit.org/)  
 * IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
@@ -790,7 +789,7 @@ Here are some resources to learn more about this topic:
    * How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
    * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
  
-**Other**  
+### Other  
 * Where are the power outages? [https://poweroutage.com/](https://poweroutage.com/)  
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
@@ -848,14 +847,14 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.) By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
 * An excellent first lesson on "Dockerizing FastAPI with Postgres, Uvicorn, and Traefik (and LetsEncript)" By Amal Shaji, 2021-05-04. [https://testdriven.io/blog/fastapi-docker-traefik/](https://testdriven.io/blog/fastapi-docker-traefik/)  
 
-**Projects associated with Novel Corona Virus - COVID-19**  
+### Projects associated with Novel Corona Virus - COVID-19**  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
 
-**WIKI-like platforms for easy sharing (*On your private, safe network*)** 
+### WIKI-like platforms for easy sharing (*On your private, safe network*)** 
 * cowyo is a self-contained wiki server that makes jotting notes - simple, easy and fast, but crude and it feels a little unfinished [https://github.com/schollz/cowyo](https://github.com/schollz/cowyo)  
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
-**Broadly Reusable Advice**  
+### Broadly Reusable Advice  
 * The world is brimming with uncertainties.  If you don't have a [will](https://www.freewill.com/glossary#will), create one (*do it now -- you can always morph it later as needed*).  Under many circumstances you can start here for free: [https://www.freewill.com/](https://www.freewill.com/)  (*there are other systems that will help you prepare a basic will for free*)  
 * "One reason people insist that you use the proper channels to change things is because they have control of the proper channels and they're confident it won't work." [https://twitter.com/joncstone/status/1269961630940631041](https://twitter.com/joncstone/status/1269961630940631041)  
 * On Being Fired [https://third-bit.com/rules/#being-fired](https://third-bit.com/rules/#being-fired)  
