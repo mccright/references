@@ -2,8 +2,9 @@ references
 ==========
 
 Remember: *If you're not paying for it, you're the product.*  
-and *"[Things can be different.](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/?cn-reloaded=1)"    
+and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"    
 >"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." *[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*  
+
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
