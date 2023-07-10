@@ -732,7 +732,7 @@ A starter list of information sources for your security investigations & integra
 * T Verifica (Noticias Telemundo): https://www.telemundo.com/noticias/t-verifica  
 * The Dispatch Fact Check: https://thedispatch.com/  
 * Washington Post Fact Checker: https://www.washingtonpost.com/news/fact-checker/  
-* Weekly Standard Fact Check: http://www.weeklystandard.com/  
+ 
 
 This is a subset of the longer list at: https://ifcncodeofprinciples.poynter.org/signatories  
 
