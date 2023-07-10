@@ -721,6 +721,21 @@ A starter list of information sources for your security investigations & integra
 * A collection of one-liners [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
 
 
+### Misinformation / Disinformation are Rampant -- Check Those 'Facts'  
+* AP Fact Check: https://www.ap.org/  
+* Check Your Fact: https://checkyourfact.com/  
+* El Detector / Univision Noticias: https://www.univision.com/especiales/noticias/detector/  
+* FactCheck.org, Annenberg Public Policy Center: https://www.factcheck.org/  
+* MediaWise: https://www.poynter.org/mediawise/  
+* Politifact: http://www.politifact.com/  
+* Snopes: https://www.snopes.com/  
+* T Verifica (Noticias Telemundo): https://www.telemundo.com/noticias/t-verifica  
+* The Dispatch Fact Check: https://thedispatch.com/  
+* Washington Post Fact Checker: https://www.washingtonpost.com/news/fact-checker/  
+* Weekly Standard Fact Check: http://www.weeklystandard.com/  
+
+This is a subset of the longer list at: https://ifcncodeofprinciples.poynter.org/signatories  
+
 ### Development Environment on a Mac  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
 * "A shell script which turns your Mac into an awesome web development machine." [https://github.com/18F/laptop](https://github.com/18F/laptop)  
