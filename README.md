@@ -61,6 +61,7 @@ cd into your new project directory
 **git init** (builds a .git directory that contains all the metadata and repository history)  
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
+* or install Joel Parker Henderson's [GitAlias](https://www.gitalias.com/) and do the same more efficiently.  
   
 Rename your old github repo ['master' branch to 'main'](https://github.com/mccright/rand-notes/blob/master/OffensiveTechTerms.md)...  
 ```shell
