@@ -2,7 +2,7 @@ references
 ==========
 
 Remember: *If you're not paying for it, you're the product.*  
-and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"    
+and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"  
 >"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." *[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*  
 
 Collection of reusable references  
@@ -13,7 +13,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 
 ### Back to the References  
 * The *time changed* again recently... See how [NIST explains daylight saving time](https://www.nist.gov/pml/time-and-frequency-division/local-time-faqs)  
-* Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
+* Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  When used with sensitivity and care it can materially enhance productivity in many roles.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Here is the "NASA JPL Asteroid Watch --> The Next Five Asteroid Approaches"
@@ -595,6 +595,7 @@ A starter list of information sources for your security investigations & integra
  * URL-Expander / URL-Unshortener [http://urlex.org/](http://urlex.org/)  
  
 ### Find the code you need**  
+ * In a hurry?  Try asking OpenAI's ChatGPT to write what you need: [https://chat.openai.com/chat](https://chat.openai.com/chat)  
  * Awesome Algorithms -- A curated list of awesome places to learn and/or practice algorithms [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)  
  * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)  
  * A large collection of sorting algorithms in many languages [https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93](https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93) 
@@ -769,53 +770,54 @@ Here are some resources to learn more about this topic:
 * IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
 * Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
- **Temporary list for work tools or other resources requiring more follow-up**  
- * An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences. [Joel Parker Henderson](https://github.com/joelparkerhenderson) has a lot of resources to get you started at: [https://github.com/joelparkerhenderson/architecture-decision-record/tree/main](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main)  
- * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
- * Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
- * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
-   * also look into [https://github.com/yangyuexiong/Flask_BestPractices](https://github.com/yangyuexiong/Flask_BestPractices)  
- * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash (*don't do Flash unless it is absolutely necessary for some materially-important purpose*), Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
- * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
-   * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
-   * Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
- * Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
- * Raspberry Pi: Tutorials, Models, How to Get Started by Avram Piltch, Tom's Hardware [https://www.tomshardware.com/news/raspberry-pi](https://www.tomshardware.com/news/raspberry-pi)  
- * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
- * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
- * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
- * Check Various tools for testing RFC 5077 [https://github.com/vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077)  
- * Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
- * layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)  
- * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
- * Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)  
- * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
- * Handy list of browser user-agent strings (long) in PHP code: [https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc](https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc)  
- * 7500 user-agent strings from Jerry Gamblin [https://github.com/jgamblin/curluseragent/blob/master/ua.txt](https://github.com/jgamblin/curluseragent/blob/master/ua.txt)  
- * Another list (short) of UA strings, categorized by device types [https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml](https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml)
- * Google Fiber Wifi Data Presentation [http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf](http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf) and related utilities: [https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/](https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/) & [https://github.com/apenwarr/wavedroplet/](https://github.com/apenwarr/wavedroplet/) & blip [https://github.com/apenwarr/blip/](https://github.com/apenwarr/blip/)  
- * blip latency trending utility [https://github.com/apenwarr/blip](https://github.com/apenwarr/blip) hosted at [http://gfblip.appspot.com/](http://gfblip.appspot.com/) and the DNS-aware version [don't have this](don't have this) hosted at [http://6-dot-gfblip.appspot.com)](http://6-dot-gfblip.appspot.com))  
- * Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more.  [https://github.com/micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet)  
- * *mitmproxy* is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets. A free and open source swiss-army knife for debugging, testing, privacy measurements, and penetration testing. [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)  
- * Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
- * Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
- * Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
- * A feature-packed Python package and for utilizing SQLite in Python by Plasticity [https://github.com/plasticityai/supersqlite](https://github.com/plasticityai/supersqlite)  
- * An idea for csv-to-json {csv2json.py} [https://github.com/apenwarr/afterquery/blob/master/csv2json.py](https://github.com/apenwarr/afterquery/blob/master/csv2json.py)  
- * Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)  
- * WiGPSFi – ESP8266 + GPS [http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/](http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/)  
- * Creepy Wireless Stalking Made Easy [https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/](https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/)  
- * WarWalking With The ESP8266 [https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/](https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/)  
- * Windows 10 Wi-Fi Analyzer [https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n](https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n)  
- * Code Review Questions:  
-   * Eric Farkas: [http://ericfarkas.com/posts/questions-i-ask-during-code-review](http://ericfarkas.com/posts/questions-i-ask-during-code-review)  
-   * thoughbot's Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
-   * Examples from StackExchange [https://security.stackexchange.com/questions/tagged/code-review](https://security.stackexchange.com/questions/tagged/code-review)  
-   * Another [https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff](https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff)  
-   * How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
-   * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
+###Temporary list for work tools or other resources requiring more follow-up  
+* An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences. [Joel Parker Henderson](https://github.com/joelparkerhenderson) has a lot of resources to get you started at: [https://github.com/joelparkerhenderson/architecture-decision-record/tree/main](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main)  
+* How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
+* Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
+* flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
+* also look into [https://github.com/yangyuexiong/Flask_BestPractices](https://github.com/yangyuexiong/Flask_BestPractices)  
+* fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash (*don't do Flash unless it is absolutely necessary for some materially-important purpose*), Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
+* Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
+* Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
+* Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
+* Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
+* Raspberry Pi: Tutorials, Models, How to Get Started by Avram Piltch, Tom's Hardware [https://www.tomshardware.com/news/raspberry-pi](https://www.tomshardware.com/news/raspberry-pi)  
+* READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
+* Tufin [http://www.tufin.com/](http://www.tufin.com/)  
+* Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
+* Check Various tools for testing RFC 5077 [https://github.com/vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077)  
+* Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
+* layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)  
+* What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
+* Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)  
+* Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* Handy list of browser user-agent strings (long) in PHP code: [https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc](https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc)  
+* 7500 user-agent strings from Jerry Gamblin [https://github.com/jgamblin/curluseragent/blob/master/ua.txt](https://github.com/jgamblin/curluseragent/blob/master/ua.txt)  
+* Another list (short) of UA strings, categorized by device types [https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml](https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml)
+* Google Fiber Wifi Data Presentation [http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf](http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf) and related utilities: [https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/](https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/) & [https://github.com/apenwarr/wavedroplet/](https://github.com/apenwarr/wavedroplet/) & blip [https://github.com/apenwarr/blip/](https://github.com/apenwarr/blip/)  
+* blip latency trending utility [https://github.com/apenwarr/blip](https://github.com/apenwarr/blip) hosted at [http://gfblip.appspot.com/](http://gfblip.appspot.com/) and the DNS-aware version [don't have this](don't have this) hosted at [http://6-dot-gfblip.appspot.com)](http://6-dot-gfblip.appspot.com))  
+* Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more.  [https://github.com/micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet)  
+* *mitmproxy* is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets. A free and open source swiss-army knife for debugging, testing, privacy measurements, and penetration testing. [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)  
+* Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
+* Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
+* Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
+* A feature-packed Python package and for utilizing SQLite in Python by Plasticity [https://github.com/plasticityai/supersqlite](https://github.com/plasticityai/supersqlite)  
+* An idea for csv-to-json {csv2json.py} [https://github.com/apenwarr/afterquery/blob/master/csv2json.py](https://github.com/apenwarr/afterquery/blob/master/csv2json.py)  
+* Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)  
+* WiGPSFi – ESP8266 + GPS [http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/](http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/)  
+* Creepy Wireless Stalking Made Easy [https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/](https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/)  
+* WarWalking With The ESP8266 [https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/](https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/)  
+* Windows 10 Wi-Fi Analyzer [https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n](https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n)  
+* Code Review Questions:  
+* Eric Farkas: [http://ericfarkas.com/posts/questions-i-ask-during-code-review](http://ericfarkas.com/posts/questions-i-ask-during-code-review)  
+* thoughbot's Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
+* Examples from StackExchange [https://security.stackexchange.com/questions/tagged/code-review](https://security.stackexchange.com/questions/tagged/code-review)  
+* Another [https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff](https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff)  
+* How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
+* How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
  
 ### Other  
+* Learn more about what your github repos can do for you: [https://github.com/joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths)  
 * Where are the power outages? [https://poweroutage.com/](https://poweroutage.com/)  
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
