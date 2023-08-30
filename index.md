@@ -2,6 +2,9 @@ references
 ==========
 
 Remember: *If you're not paying for it, you're the product.*  
+and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"  
+>"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." *[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*  
+
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
@@ -10,7 +13,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 
 ### Back to the References  
 * The *time changed* again recently... See how [NIST explains daylight saving time](https://www.nist.gov/pml/time-and-frequency-division/local-time-faqs)  
-* Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
+* Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  When used with sensitivity and care it can materially enhance productivity in many roles.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Here is the "NASA JPL Asteroid Watch --> The Next Five Asteroid Approaches"
@@ -58,6 +61,7 @@ cd into your new project directory
 **git init** (builds a .git directory that contains all the metadata and repository history)  
 **git add .**  (instructs Git to begin tracking all files within and beneath the current directory)  
 **git commit –m'This is the first commit'** (creates the permanent history of all files, with the -m option supplying a message alongside the history marker)  
+* or install Joel Parker Henderson's [GitAlias](https://www.gitalias.com/) and do the same more efficiently.  
   
 Rename your old github repo ['master' branch to 'main'](https://github.com/mccright/rand-notes/blob/master/OffensiveTechTerms.md)...  
 ```shell
@@ -161,6 +165,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Bugcrowd Vulnerability Rating Taxonomy (VRT) [https://bugcrowd.com/vulnerability-rating-taxonomy](https://bugcrowd.com/vulnerability-rating-taxonomy) and [https://github.com/bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy)  
 * "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
 * six2dez pentest-book [https://pentestbook.six2dez.com/](https://pentestbook.six2dez.com/) and the source at [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
+* If you are creative and persistent, you will accumulate valuable passwords and tokens.  Keep them safe from abuse.  Assuming that need support for Linux, Windows, or Mac, you might consider using [KeePassXC](https://keepassxc.org/) on an encrypted+password protected USB drive. See the [recent code review report](https://molotnikov.de/keepassxc-review) by [Zaur Molotnikov](https://molotnikov.de/cv) to help evaluate the risks.  
 * Penetration Testing Checklist [https://github.com/infinite-omicron/pentesting-checklist](https://github.com/infinite-omicron/pentesting-checklist) and its companion Pentesting Guide [https://github.com/infinite-omicron/pentesting-guide/](https://github.com/infinite-omicron/pentesting-guide/)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
 * An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
@@ -198,6 +203,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Awesome Mainframe Hacking/Pentesting Resources.[https://github.com/samanL33T/Awesome-Mainframe-Hacking/](https://github.com/samanL33T/Awesome-Mainframe-Hacking/)  
 * Excellent list of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. [https://github.com/toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)  
 * Audit and secure your AWS environment(s): [YATAS](https://github.com/padok-team/yatas) "is a simple and easy to use tool to audit your infrastructure for misconfiguration or potential security issues." ..."The goal of YATAS is to help you create a secure AWS environment without too much hassle." [https://github.com/padok-team/yatas](https://github.com/padok-team/yatas) and [https://www.primates.dev/aws-security-misconfiguration-audit-in-30-seconds/](https://www.primates.dev/aws-security-misconfiguration-audit-in-30-seconds/)  
+* AWS is a gigantic ecosystem.  There may be opportunities that you are not yet aware of: [https://github.com/donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws)  
 * CloudGoat, Rhino Security Labs' "Vulnerable by Design" AWS deployment tool. [https://github.com/RhinoSecurityLabs/cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat)  
  * Offensive security testing of your AWS environment [https://github.com/RhinoSecurityLabs/pacu](https://github.com/RhinoSecurityLabs/pacu)  
  * Offensive security testing of your CMS - CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 170 other CMSs [https://github.com/Tuhinshubhra/CMSeeK](https://github.com/Tuhinshubhra/CMSeeK)  
@@ -525,8 +531,13 @@ A starter list of information sources for your security investigations & integra
 * Statistics in Pandas Cheatsheet [https://cheatsheets.quantecon.org/stats-cheatsheet.html](https://cheatsheets.quantecon.org/stats-cheatsheet.html)  
 * Manish Saraswat's list of Free books on statistics mathematics data science [http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/](http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)  
 * Chen's Free Data Science Books [http://www.wzchen.com/data-science-books/](http://www.wzchen.com/data-science-books/)  
+* balban's Free Statistics Books [https://github.com/balban/Books/tree/master/Statistics](https://github.com/balban/Books/tree/master/Statistics)  
 * "Unsupervised Cross-lingual Representation Learning at Scale" by Alexis Conneau and Kartikay Khandelwal, et.al. [https://arxiv.org/pdf/1911.02116.pdf](https://arxiv.org/pdf/1911.02116.pdf)  
+* "What Is a Time-Series Plot, and How Can You Create One?" [https://www.timescale.com/blog/what-is-a-time-series-plot-and-how-can-you-create-one/](https://www.timescale.com/blog/what-is-a-time-series-plot-and-how-can-you-create-one/)  
+* "How to Work With Time Series in Python?" [https://www.timescale.com/blog/how-to-work-with-tim/](https://www.timescale.com/blog/how-to-work-with-tim/)  
+* "Tools for Working With Time-Series Analysis in Python" [https://www.timescale.com/blog/tools-for-working-with-time-series-analysis-in-python/](https://www.timescale.com/blog/tools-for-working-with-time-series-analysis-in-python/)  
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
+* functime is a Python library for production-ready global forecasting and time-series feature engineering (*comes with time-series preprocessing (box-cox, differencing etc), cross-validation splitters (expanding and sliding window), and forecast metrics (MASE, SMAPE etc)*) [https://github.com/descendant-ai/functime](https://github.com/descendant-ai/functime)  
 * [Mathics](https://mathics.org/) is a general-purpose computer algebra system (CAS).  The mathics-core repository contains just the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them. [https://github.com/Mathics3/mathics-core](https://github.com/Mathics3/mathics-core)  
 
 
@@ -585,6 +596,7 @@ A starter list of information sources for your security investigations & integra
  * URL-Expander / URL-Unshortener [http://urlex.org/](http://urlex.org/)  
  
 ### Find the code you need**  
+ * In a hurry?  Try asking OpenAI's ChatGPT to write what you need: [https://chat.openai.com/chat](https://chat.openai.com/chat)  
  * Awesome Algorithms -- A curated list of awesome places to learn and/or practice algorithms [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)  
  * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)  
  * A large collection of sorting algorithms in many languages [https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93](https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93) 
@@ -716,6 +728,21 @@ A starter list of information sources for your security investigations & integra
 * A collection of one-liners [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
 
 
+### Misinformation / Disinformation are Rampant -- Check Those 'Facts'  
+* AP Fact Check: https://www.ap.org/  
+* Check Your Fact: https://checkyourfact.com/  
+* El Detector / Univision Noticias: https://www.univision.com/especiales/noticias/detector/  
+* FactCheck.org, Annenberg Public Policy Center: https://www.factcheck.org/  
+* MediaWise: https://www.poynter.org/mediawise/  
+* Politifact: http://www.politifact.com/  
+* Snopes: https://www.snopes.com/  
+* T Verifica (Noticias Telemundo): https://www.telemundo.com/noticias/t-verifica  
+* The Dispatch Fact Check: https://thedispatch.com/  
+* Washington Post Fact Checker: https://www.washingtonpost.com/news/fact-checker/  
+ 
+
+This is a subset of the longer list at: https://ifcncodeofprinciples.poynter.org/signatories  
+
 ### Development Environment on a Mac  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
 * "A shell script which turns your Mac into an awesome web development machine." [https://github.com/18F/laptop](https://github.com/18F/laptop)  
@@ -744,52 +771,55 @@ Here are some resources to learn more about this topic:
 * IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
 * Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
- **Temporary list for work tools or other resources requiring more follow-up**  
- * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
- * Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
- * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
-   * also look into [https://github.com/yangyuexiong/Flask_BestPractices](https://github.com/yangyuexiong/Flask_BestPractices)  
- * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash (*don't do Flash unless it is absolutely necessary for some materially-important purpose*), Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
- * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
-   * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
-   * Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
- * Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
- * Raspberry Pi: Tutorials, Models, How to Get Started by Avram Piltch, Tom's Hardware [https://www.tomshardware.com/news/raspberry-pi](https://www.tomshardware.com/news/raspberry-pi)  
- * READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
- * Tufin [http://www.tufin.com/](http://www.tufin.com/)  
- * Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
- * Check Various tools for testing RFC 5077 [https://github.com/vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077)  
- * Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
- * layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)  
- * What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
- * Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)  
- * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
- * Handy list of browser user-agent strings (long) in PHP code: [https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc](https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc)  
- * 7500 user-agent strings from Jerry Gamblin [https://github.com/jgamblin/curluseragent/blob/master/ua.txt](https://github.com/jgamblin/curluseragent/blob/master/ua.txt)  
- * Another list (short) of UA strings, categorized by device types [https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml](https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml)
- * Google Fiber Wifi Data Presentation [http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf](http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf) and related utilities: [https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/](https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/) & [https://github.com/apenwarr/wavedroplet/](https://github.com/apenwarr/wavedroplet/) & blip [https://github.com/apenwarr/blip/](https://github.com/apenwarr/blip/)  
- * blip latency trending utility [https://github.com/apenwarr/blip](https://github.com/apenwarr/blip) hosted at [http://gfblip.appspot.com/](http://gfblip.appspot.com/) and the DNS-aware version [don't have this](don't have this) hosted at [http://6-dot-gfblip.appspot.com)](http://6-dot-gfblip.appspot.com))  
- * Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more.  [https://github.com/micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet)  
- * *mitmproxy* is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets. A free and open source swiss-army knife for debugging, testing, privacy measurements, and penetration testing. [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)  
- * Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
- * Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
- * Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
- * A feature-packed Python package and for utilizing SQLite in Python by Plasticity [https://github.com/plasticityai/supersqlite](https://github.com/plasticityai/supersqlite)  
- * An idea for csv-to-json {csv2json.py} [https://github.com/apenwarr/afterquery/blob/master/csv2json.py](https://github.com/apenwarr/afterquery/blob/master/csv2json.py)  
- * Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)  
- * WiGPSFi – ESP8266 + GPS [http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/](http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/)  
- * Creepy Wireless Stalking Made Easy [https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/](https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/)  
- * WarWalking With The ESP8266 [https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/](https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/)  
- * Windows 10 Wi-Fi Analyzer [https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n](https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n)  
- * Code Review Questions:  
-   * Eric Farkas: [http://ericfarkas.com/posts/questions-i-ask-during-code-review](http://ericfarkas.com/posts/questions-i-ask-during-code-review)  
-   * thoughbot's Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
-   * Examples from StackExchange [https://security.stackexchange.com/questions/tagged/code-review](https://security.stackexchange.com/questions/tagged/code-review)  
-   * Another [https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff](https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff)  
-   * How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
-   * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
+###Temporary list for work tools or other resources requiring more follow-up  
+* An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences. [Joel Parker Henderson](https://github.com/joelparkerhenderson) has a lot of resources to get you started at: [https://github.com/joelparkerhenderson/architecture-decision-record/tree/main](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main)  
+* How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
+* Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
+* flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
+* also look into [https://github.com/yangyuexiong/Flask_BestPractices](https://github.com/yangyuexiong/Flask_BestPractices)  
+* fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash (*don't do Flash unless it is absolutely necessary for some materially-important purpose*), Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
+* Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
+* Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
+* Lux [https://github.com/lux-org/lux](https://github.com/lux-org/lux)  
+* Begone Ads [Python] [https://github.com/anned20/begoneads/tree/master/begoneads](https://github.com/anned20/begoneads/tree/master/begoneads)  
+* Raspberry Pi: Tutorials, Models, How to Get Started by Avram Piltch, Tom's Hardware [https://www.tomshardware.com/news/raspberry-pi](https://www.tomshardware.com/news/raspberry-pi)  
+* READ: "A Building Code for Building Code -- Putting What We Know Works to Work." By Carl E. Landwehr. [http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf](http://www.landwehr.org/2013-12-cl-acsac-essay-bc.pdf)  
+* Tufin [http://www.tufin.com/](http://www.tufin.com/)  
+* Viewfinity [http://www.viewfinity.com/](http://www.viewfinity.com/)  
+* Check Various tools for testing RFC 5077 [https://github.com/vincentbernat/rfc5077](https://github.com/vincentbernat/rfc5077)  
+* Check interactive SNMP tool with Python [https://github.com/vincentbernat/snimpy](https://github.com/vincentbernat/snimpy)  
+* layer 2 network discovery application [https://github.com/vincentbernat/wiremaps](https://github.com/vincentbernat/wiremaps)  
+* What Port Is? [https://github.com/ncrocfer/whatportis](https://github.com/ncrocfer/whatportis)  
+* Java 8 Cheat Sheet: [http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png](http://zeroturnaround.com/wp-content/uploads/2015/12/RebelLabs-Java-8-cheat-sheet.png)  
+* Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* Handy list of browser user-agent strings (long) in PHP code: [https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc](https://github.com/smxi/php-browser-detection/blob/master/browser_detection.inc)  
+* 7500 user-agent strings from Jerry Gamblin [https://github.com/jgamblin/curluseragent/blob/master/ua.txt](https://github.com/jgamblin/curluseragent/blob/master/ua.txt)  
+* Another list (short) of UA strings, categorized by device types [https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml](https://github.com/miketaylr/useragent-switcher-xml/blob/master/useragentswitcher.xml)
+* Google Fiber Wifi Data Presentation [http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf](http://apenwarr.ca/diary/wifi-data-apenwarr-201602.pdf) and related utilities: [https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/](https://gfiber.googlesource.com/vendor/google/platform/+/master/spectralanalyzer/) & [https://github.com/apenwarr/wavedroplet/](https://github.com/apenwarr/wavedroplet/) & blip [https://github.com/apenwarr/blip/](https://github.com/apenwarr/blip/)  
+* blip latency trending utility [https://github.com/apenwarr/blip](https://github.com/apenwarr/blip) hosted at [http://gfblip.appspot.com/](http://gfblip.appspot.com/) and the DNS-aware version [don't have this](don't have this) hosted at [http://6-dot-gfblip.appspot.com)](http://6-dot-gfblip.appspot.com))  
+* Performance-Bookmarklet helps to analyze the current page through the Resource Timing API, Navigation Timing API and User-Timing - requests by type, domain, load times, marks and more.  [https://github.com/micmro/performance-bookmarklet](https://github.com/micmro/performance-bookmarklet)  
+* *mitmproxy* is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets. A free and open source swiss-army knife for debugging, testing, privacy measurements, and penetration testing. [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)  
+* Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
+* Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
+* Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
+* A feature-packed Python package and for utilizing SQLite in Python by Plasticity [https://github.com/plasticityai/supersqlite](https://github.com/plasticityai/supersqlite)  
+* An idea for csv-to-json {csv2json.py} [https://github.com/apenwarr/afterquery/blob/master/csv2json.py](https://github.com/apenwarr/afterquery/blob/master/csv2json.py)  
+* Text Tools [https://github.com/fmhy/FMHY/wiki/%F0%9F%94%A7-Tools#-text-tools](https://github.com/fmhy/FMHY/wiki/%F0%9F%94%A7-Tools#-text-tools) and more generally "[tools](https://github.com/fmhy/FMHY/wiki/%F0%9F%94%A7-Tools](https://github.com/fmhy/FMHY/wiki/%F0%9F%94%A7-Tools)  
+* Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)  
+* WiGPSFi – ESP8266 + GPS [http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/](http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/)  
+* Creepy Wireless Stalking Made Easy [https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/](https://hackaday.com/2016/12/04/creepy-wireless-stalking-made-easy/)  
+* WarWalking With The ESP8266 [https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/](https://hackaday.com/2016/10/23/warwalking-with-the-esp8266/)  
+* Windows 10 Wi-Fi Analyzer [https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n](https://www.microsoft.com/en-us/store/p/wifi-analyzer/9nblggh33n0n)  
+* Code Review Questions:  
+* Eric Farkas: [http://ericfarkas.com/posts/questions-i-ask-during-code-review](http://ericfarkas.com/posts/questions-i-ask-during-code-review)  
+* thoughbot's Code Review guide [https://github.com/thoughtbot/guides/blob/main/code-review/README.md](https://github.com/thoughtbot/guides/blob/main/code-review/README.md)  
+* Examples from StackExchange [https://security.stackexchange.com/questions/tagged/code-review](https://security.stackexchange.com/questions/tagged/code-review)  
+* Another [https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff](https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff)  
+* How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
+* How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
  
 ### Other  
+* Learn more about what your github repos can do for you: [https://github.com/joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths)  
 * Where are the power outages? [https://poweroutage.com/](https://poweroutage.com/)  
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
@@ -800,8 +830,12 @@ Here are some resources to learn more about this topic:
 * Who pays for writing? Here is an annotated list of organizations that pay writers: [https://github.com/malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)  
 * China Brief [https://jamestown.org/programs/cb/](https://jamestown.org/programs/cb/)  
  * For some background on the expanding criminal industry of ransomware where criminal syndicates have evolved a "conveyor-belt-like process of hacking, encrypting and then negotiating for ransom in cryptocurrencies:" [https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html](https://www.nytimes.com/2021/12/06/world/europe/ransomware-russia-bitcoin.html)  
+ * For a primer on the sprawling People’s Liberation Army (PLA) Strategic Support Force that "centralizes information warfare capabilities in the cyber and space domains" from the U.S. [Congressional Research Service](https://crsreports.congress.gov) see: [China Primer: The People’s Liberation Army (PLA) (Updated December 21, 2022)](https://crsreports.congress.gov/product/pdf/IF/IF11719)  
+ * Online SVG Editor, SVGBob [https://ivanceras.github.io/svgbob-editor/](https://ivanceras.github.io/svgbob-editor/)  
 * SVG Python module [https://github.com/orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py)  
-* svgcleaner (*rust*) is used to losslessly reduce the size of an SVG image -- generally created in a vector editing application -- before publishing [https://github.com/RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner)  
+* svgcleaner (*Rust*) is used to losslessly reduce the size of an SVG image -- generally created in a vector editing application -- before publishing [https://github.com/RazrFalcon/svgcleaner](https://github.com/RazrFalcon/svgcleaner).  See also:  
+  * SVGO (*Python*) [https://github.com/svg/svgo](https://github.com/svg/svgo)  
+  * Scour (*JavaScript/TypeScript*) [https://github.com/scour-project/scour](https://github.com/scour-project/scour)  
 * MuseScore  [https://github.com/musescore/MuseScore](https://github.com/musescore/MuseScore) and [https://musescore.org/en/guitar](https://musescore.org/en/guitar)  
 * Chordious [https://github.com/jonthysell/Chordious](https://github.com/jonthysell/Chordious) with related [https://github.com/svg-net/SVG](https://github.com/svg-net/SVG)  
 * DoD Cyber Workforce Framework - interesting way to describe roles [https://public.cyber.mil/cw/dcwf/](https://public.cyber.mil/cw/dcwf/)  
@@ -834,7 +868,7 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
   * And 2018:  "The Global Risks Report 2018 - 13th Edition" [http://www3.weforum.org/docs/WEF_GRR18_Report.pdf](http://www3.weforum.org/docs/WEF_GRR18_Report.pdf)  
   * And 2019: "The Global Risks Report 2019 - 14th Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf)  
   * And 2020: "The Global Risks Report 2020 - 20th Edition"[http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf) or [https://reports.weforum.org/global-risks-report-2020/](https://reports.weforum.org/global-risks-report-2020/)  
-  *  * And most recently: "The Global Risks Report 2021 - 16th Edition" [http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf](http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf)  
+  * And most recently: "The Global Risks Report 2021 - 16th Edition" [http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf](http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf)  
 * A definitive list of tools for generating static websites [https://github.com/pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)   
 * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
 * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
