@@ -11,6 +11,9 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 ### [Putin's war](https://en.wikipedia.org/wiki/Russo-Ukrainian_War):  
 * Don't ignore it.  See: [Putin's war in Ukraine](https://github.com/mccright/rand-notes/blob/master/Putins-war-in-Ukraine.md)  
 
+### [Trump's Indictments](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump):  
+* Don't ignore them.  See: [Four Main Indictments Against Trump](https://github.com/mccright/rand-notes/blob/master/Trump-in-four-separate-criminal-cases.md)  
+
 ### Back to the References  
 * The *time changed* again recently... See how [NIST explains daylight saving time](https://www.nist.gov/pml/time-and-frequency-division/local-time-faqs)  
 * Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  When used with sensitivity and care it can materially enhance productivity in many roles.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
