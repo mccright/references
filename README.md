@@ -76,7 +76,7 @@ git remote set-head origin -a
 ```
 
 ### Tell Me About  
-* A github profile summary: [https://profile-summary-for-github.com/user/<githubUserName>/](https://profile-summary-for-github.com/user/githubUserName/) [Thank you tipsy](https://github.com/tipsy/profile-summary-for-github)  
+* A github profile summary: [https://profile-summary-for-github.com/user/githubUserName/](https://profile-summary-for-github.com/user/githubUserName/) [Thank you tipsy](https://github.com/tipsy/profile-summary-for-github)  
 
   
 ### Awesome-Awesome  
@@ -683,7 +683,7 @@ A starter list of information sources for your security investigations & integra
 * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
 * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
 * A pair of tools for running phishing campaigns to raise security awareness: Swordphish Phishing Awareness Tool [https://github.com/certsocietegenerale/swordphish-awareness/](https://github.com/certsocietegenerale/swordphish-awareness/) and the Outlook add-in companion to report suspicious mail easily [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)  
-* W3C HTML Tidy - Usage: 'curl <someURL> | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
+* W3C HTML Tidy - Usage: 'curl someURL | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
 * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
 * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
 * WebSphere Password Decoders: [http://strelitzia.net/wasXORdecoder/wasXORdecoder.html](http://strelitzia.net/wasXORdecoder/wasXORdecoder.html)  
@@ -704,7 +704,7 @@ A starter list of information sources for your security investigations & integra
 * Sometimes only ASCII is needed/allowed -- Convert a HTML table into ASCII table using Python: Colspan and Rowspan allowed [https://github.com/gustavklopp/DashTable](https://github.com/gustavklopp/DashTable)  
 * Reference (probably dated, but better than nothing) List of all generic top level domains  [https://github.com/kyleconroy/gtlds](https://github.com/kyleconroy/gtlds)    
 * FuzzDB Project [https://github.com/fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)  
-* Free IP geolocation API: 'curl http://api.db-ip.com/v2/free/<IP-Address>' or curl http://api.db-ip.com/v2/free/<IP-Address>/countryName [up to 1000/day]  
+* Free IP geolocation API: 'curl http://api.db-ip.com/v2/free/IP-Address' or curl http://api.db-ip.com/v2/free/IP-Address/countryName [up to 1000/day]  
 * GetGeoIPContext web service to easily look up countries by Context [http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?) (Caution: as of October 2021, they are using a self-signed certificate)  
 * GetGeoIP web service to easily look up countries by IP address  [http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
 * Get domain name registration record by Host Name / Domain Name (WhoIS)  [http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
@@ -827,8 +827,8 @@ Here are some resources to learn more about this topic:
 * Where are the power outages? [https://poweroutage.com/](https://poweroutage.com/)  
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
-* And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/<SYMBOL>```.  Thank you Shashi Prakash Gautam for your excellent server. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
-* If you want to just grab a long history for any given security (*through 2018-03-27*), try [https://www.quandl.com/api/v3/datasets/WIKI/<symbol>](https://www.quandl.com/api/v3/datasets/WIKI/<symbol>)  
+* And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/SYMBOL```.  Thank you Shashi Prakash Gautam for your excellent server. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
+* If you want to just grab a long history for any given security (*through 2018-03-27*), try [https://www.quandl.com/api/v3/datasets/WIKI/symbol](https://www.quandl.com/api/v3/datasets/WIKI/symbol)  
 * Database of False or Misleading Claims By DJ Trump During his 4-Year Presidency (*more than 30,000 of them*) [https://www.washingtonpost.com/graphics/politics/trump-claims-database/](https://www.washingtonpost.com/graphics/politics/trump-claims-database/)  
 * Look into this simple mass Search & Replace tool (Rust): [https://github.com/nvie/sr](https://github.com/nvie/sr)  
 * Who pays for writing? Here is an annotated list of organizations that pay writers: [https://github.com/malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms)  
