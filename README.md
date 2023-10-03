@@ -413,6 +413,7 @@ and
 * Pythonic Data Structures and Algorithms [https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
 * Like the safety of with statements, just not in your code? Let 'just' take care of it [https://github.com/kootenpv/just](https://github.com/kootenpv/just)  
 * Error-handling examples: [https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py](https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py)  
+* [pymg](https://github.com/mimseyedi/pymg) is a CLI tool that can interpret Python files by the Python interpreter and display the error message in a more readable way if an exception occurs [https://github.com/mimseyedi/pymg](https://github.com/mimseyedi/pymg)  
 * Datetime examples: [https://github.com/ianozsvald/datetime-examples/blob/master/examples.py](https://github.com/ianozsvald/datetime-examples/blob/master/examples.py)  
 * Scientific Python Cheatsheet [https://ipgp.github.io/scientific_python_cheat_sheet/](https://ipgp.github.io/scientific_python_cheat_sheet/)  
 * "10 Useful Python Data Visualization Libraries for Any Discipline" by Melissa Bierly [https://blog.modeanalytics.com/python-data-visualization-libraries/](https://blog.modeanalytics.com/python-data-visualization-libraries/)  
@@ -461,6 +462,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
   * [https://pypi.org/project/requests-random-user-agent/](https://pypi.org/project/requests-random-user-agent/)  
   * [https://pypi.org/project/fake_user_agent/](https://pypi.org/project/fake_user_agent/)  
   * [https://pypi.org/project/uas/](https://pypi.org/project/uas/)  
+* Now that you have a pile of Python code, here is a utility to build presentations out of Python code: pysentation, a CLI for displaying Python presentations [https://github.com/mimseyedi/pysentation](https://github.com/mimseyedi/pysentation)  
 
 ### Crypto  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
@@ -473,7 +475,8 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
   * And a Python implementation of *[draft version 1](https://datatracker.ietf.org/doc/html/draft-barnes-cfrg-hpke-01)* at: [https://github.com/dwd/crypto-examples/blob/master/hpke.py](https://github.com/dwd/crypto-examples/blob/master/hpke.py).  
  
 ### Regex  
-* Test your regex on line: [https://regex101.com/](https://regex101.com/)  
+* Test your regex on line: [https://regex101.com/](https://regex101.com/) or  
+* test your regex with: [https://pythex.org/](https://pythex.org/)  
 * Test your JavaScript style regex: [https://regexper.com/](https://regexper.com/)  
 * OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
 * A really big collection of regex resources [http://regexlib.com/](http://regexlib.com/)
@@ -540,6 +543,7 @@ A starter list of information sources for your security investigations & integra
 * "What Is a Time-Series Plot, and How Can You Create One?" [https://www.timescale.com/blog/what-is-a-time-series-plot-and-how-can-you-create-one/](https://www.timescale.com/blog/what-is-a-time-series-plot-and-how-can-you-create-one/)  
 * "How to Work With Time Series in Python?" [https://www.timescale.com/blog/how-to-work-with-tim/](https://www.timescale.com/blog/how-to-work-with-tim/)  
 * "Tools for Working With Time-Series Analysis in Python" [https://www.timescale.com/blog/tools-for-working-with-time-series-analysis-in-python/](https://www.timescale.com/blog/tools-for-working-with-time-series-analysis-in-python/)  
+* 
 * Complete guide to create a Time Series Forecast (Python) [http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/](http://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) and in R  [http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/](http://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/)  
 * functime is a Python library for production-ready global forecasting and time-series feature engineering (*comes with time-series preprocessing (box-cox, differencing etc), cross-validation splitters (expanding and sliding window), and forecast metrics (MASE, SMAPE etc)*) [https://github.com/descendant-ai/functime](https://github.com/descendant-ai/functime)  
 * [Mathics](https://mathics.org/) is a general-purpose computer algebra system (CAS).  The mathics-core repository contains just the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them. [https://github.com/Mathics3/mathics-core](https://github.com/Mathics3/mathics-core)  
