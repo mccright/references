@@ -4,6 +4,7 @@ references
 Remember: *If you're not paying for it, you're the product.*  
 and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"  
 >"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." *[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*  
+>"The fact that there are pressures and costs does not absolve people of their moral responsibility.  The primary custodian of one's actions is oneself." [Noam Chomsky Tue, 3 Apr 2018 - quoted by Timothy Holborn](https://www.w3.org/community/humancentricai/)  
 
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
@@ -90,6 +91,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 
 ### Manage Your Privacy  
 * Daniel Roesler's excellent Privacy Checklist: [https://github.com/diafygi/privacy-checklist](https://github.com/diafygi/privacy-checklist)  
+* W3C Data Privacy Vocabularies and Controls CG (DPVCG) [https://www.w3.org/community/dpvcg/](https://www.w3.org/community/dpvcg/)  
 * 11 tips for protecting your privacy... by Olivia Martin [https://freedom.press/training/blog/11-tips-protecting-your-privacy-and-digital-security-age-trump/](https://freedom.press/training/blog/11-tips-protecting-your-privacy-and-digital-security-age-trump/)  
 * Your IP address is sometimes your identity [https://myexternalip.com/](https://myexternalip.com/)  
 
@@ -156,11 +158,13 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "OWASP Risk Rating Methodology" [https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)  
 * "A Complete Guide to the Common Vulnerability Scoring System Version 3.1" [https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf)  
 * The System Design Primer [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
+* Use Cases and Requirements on HTTPS-enabled Local Network Servers [https://httpslocal.github.io/usecases/](https://httpslocal.github.io/usecases/), [https://www.w3.org/community/httpslocal/](https://www.w3.org/community/httpslocal/) and [https://github.com/httpslocal/proposals/tree/master](https://github.com/httpslocal/proposals/tree/master)  
 
 ### Web Application Vulnerability Analysis and Pen Testing  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
+* Osmedeus - a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets. [https://github.com/j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)  
 * "All in One Hacking tool For Hackers" [https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  
 * Arsenal - an inventory, reminder and launcher to simplify the use of all the hard-to-remember pentest commands [https://github.com/Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal)  
 * Red Teaming Toolkit [https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)  
@@ -200,6 +204,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * WhatWeb - Next generation web scanner [https://github.com/urbanadventurer/WhatWeb](https://github.com/urbanadventurer/WhatWeb)  
 * Cloudflare's in-house lightweight network vulnerability scanner [https://blog.cloudflare.com/introducing-flan-scan/](https://blog.cloudflare.com/introducing-flan-scan/) and [https://github.com/cloudflare/flan](https://github.com/cloudflare/flan)  
 * OWASP-Nettacker - Automated Penetration Testing Framework [https://github.com/zdresearch/OWASP-Nettacker](https://github.com/zdresearch/OWASP-Nettacker)  
+* Jaeles - An extensible framework written in Go for building your own Web Application Scanner. [https://github.com/jaeles-project/jaeles](https://github.com/jaeles-project/jaeles)  
 * Some starter scripts to (*help*) set up a clean Windows 10 endpoint: [https://github.com/Hecsall/clean-windows](https://github.com/Hecsall/clean-windows)  
 * windows-privesc-check - Security Auditing Tool For Windows [https://code.google.com/archive/p/windows-privesc-check/source/default/source](https://code.google.com/archive/p/windows-privesc-check/source/default/source) and [https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py](https://github.com/1N3/PrivEsc/blob/master/windows/windows-privesc-check/windows-privesc-check.py)  
 * [http://securitywing.com/63-web-application-security-checklist-auditors-developers/](http://securitywing.com/63-web-application-security-checklist-auditors-developers/) (very high level)  
@@ -217,6 +222,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * 'domain-scan' A lightweight scan pipeline for orchestrating third party tools, at scale and (optionally) using serverless infrastructure [https://github.com/18F/domain-scan](https://github.com/18F/domain-scan)  
 * Offensive Web Testing Framework (OWTF), is a framework [https://github.com/owtf/owtf](https://github.com/owtf/owtf)  
 * Offensive Web Application Penetration Testing Framework [https://github.com/0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework)  
+* Metabigor - An Intelligence tool to do OSINT tasks and more but without any API keys. [https://github.com/j3ssie/metabigor](https://github.com/j3ssie/metabigor)  
 * ReconFTW automates some reconnaisance activities.  [https://github.com/six2dez/reconftw](https://github.com/six2dez/reconftw)  
 * Reconnoitre: A reconnaissance tool made for the OSCP labs to automate information gathering and service enumeration whilst creating a directory structure to store results, findings and exploits used for each host, recommended commands to execute and directory structures for storing loot and flags. [https://github.com/codingo/Reconnoitre](https://github.com/codingo/Reconnoitre)  
 * Jenkins Pentesting [https://github.com/gquere/pwn_jenkins](https://github.com/gquere/pwn_jenkins)  
@@ -285,31 +291,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
   * Convert IP Address to Binary, Hexadecimal, Octal, and Long Integer [https://ipaddress.standingtech.com/online-ip-address-converter](https://ipaddress.standingtech.com/online-ip-address-converter)  
 * Or use a Python-based command-line utility for using websites that can perform port scans on your behalf [https://github.com/vesche/scanless](https://github.com/vesche/scanless)  
   
-### Markdown  
-* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-* [https://docs.github.com/en/get-started/writing-on-github](https://docs.github.com/en/get-started/writing-on-github)   
-* [https://bitbucket.org/tutorials/markdowndemo](https://bitbucket.org/tutorials/markdowndemo)  
-* Markdown Cheatsheet [http://commonmark.org/help/](http://commonmark.org/help/)  
-* [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
-* GitHub Flavored Markdown Spec [https://github.github.com/gfm/](https://github.github.com/gfm/)  
-* Another GitHub Flavored Markdown cheatsheet [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)  
-* Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/) and [https://staticsitegenerators.net/](https://staticsitegenerators.net/)  
-
-### JavaScript  
-* Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
-* [http://www.cheatography.com/acwinter/cheat-sheets/javascript-basic-advanced-and-more/](http://www.cheatography.com/acwinter/cheat-sheets/javascript-basic-advanced-and-more/)
-and 
-* [http://www.cheatography.com/tag/javascript/](http://www.cheatography.com/tag/javascript/)
-and 
-* [http://www.sitepoint.com/10-javascript-cheat-sheets/](http://www.sitepoint.com/10-javascript-cheat-sheets/)  
-* Learning JavaScript Design Patterns. Volume 1.6.2, By Addy Osmani [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
-* Programming JavaScript Applications. By Eric Elliott [http://chimera.labs.oreilly.com/books/1234000000262/index.html](http://chimera.labs.oreilly.com/books/1234000000262/index.html)  
-* Cheatsheets for experienced React developers getting started with TypeScript [https://github.com/typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)    
-* Node: Up and Running. By Tom Hughes-Croucher and Mike Wilson [http://chimera.labs.oreilly.com/books/1234000001808/index.html](http://chimera.labs.oreilly.com/books/1234000001808/index.html)  
-* Narrative workbook -- This is a companion workbook that will assist you in working through the codeX Narrative that is to be provided. Resources and references provided that will assist you in your journey will be published in the repository. [https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook](https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook)  
-* "Don't make fun of JavaScript" [https://github.com/pixari/dmfojs](https://github.com/pixari/dmfojs)  
-
-
+  
 ### General Secure Programming  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
 * Awesome App-Sec. A curated list of resources for learning about application security.  [https://github.com/paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec)  
@@ -362,6 +344,7 @@ and
 * A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
 * An edge case:  *Protecting* your scripts - PowerShell, Visual Basic (VB), and C# code obfuscation -- "A Beginner's Guide to Obfuscation" [https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)  
 * Attack-resistant programming requires a threshold understanding of your current language. ```esolang-box``` is an "easy and standardized docker images for 200+ esoteric (and non-esoteric) languages." https://github.com/hakatashi/esolang-box  
+* A Python implementation of [RFC 7519](https://tools.ietf.org/html/rfc7519). [https://github.com/jpadilla/pyjwt](https://github.com/jpadilla/pyjwt)  
 
 ### PHP  
 * Awesome PHP.  A curated list of PHP libraries, resources and shiny things. [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
@@ -411,6 +394,7 @@ and
 * Awesome Flask [https://github.com/mjhea0/awesome-flask](https://github.com/mjhea0/awesome-flask)  
 * Python Docker image with poetry as dependency manager. [https://github.com/etienne-napoleone/docker-python-poetry](https://github.com/etienne-napoleone/docker-python-poetry)  
 * Pythonic Data Structures and Algorithms [https://github.com/keon/algorithms](https://github.com/keon/algorithms)  
+* '*All*' Algorithms implemented in Python ("*may be less efficient than the implementations in the Python standard library. Use them at your discretion.*") [https://github.com/TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)  
 * Like the safety of with statements, just not in your code? Let 'just' take care of it [https://github.com/kootenpv/just](https://github.com/kootenpv/just)  
 * Error-handling examples: [https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py](https://github.com/ianozsvald/python_exception_examples/blob/master/examples.py)  
 * [pymg](https://github.com/mimseyedi/pymg) is a CLI tool that can interpret Python files by the Python interpreter and display the error message in a more readable way if an exception occurs [https://github.com/mimseyedi/pymg](https://github.com/mimseyedi/pymg)  
@@ -464,11 +448,40 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
   * [https://pypi.org/project/uas/](https://pypi.org/project/uas/)  
 * Now that you have a pile of Python code, here is a utility to build presentations out of Python code: pysentation, a CLI for displaying Python presentations [https://github.com/mimseyedi/pysentation](https://github.com/mimseyedi/pysentation)  
 
+
+### Markdown  
+* [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+* [https://docs.github.com/en/get-started/writing-on-github](https://docs.github.com/en/get-started/writing-on-github)   
+* [https://bitbucket.org/tutorials/markdowndemo](https://bitbucket.org/tutorials/markdowndemo)  
+* Markdown Cheatsheet [http://commonmark.org/help/](http://commonmark.org/help/)  
+* [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
+* GitHub Flavored Markdown Spec [https://github.github.com/gfm/](https://github.github.com/gfm/)  
+* Another GitHub Flavored Markdown cheatsheet [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)  
+* Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/) and [https://staticsitegenerators.net/](https://staticsitegenerators.net/)  
+
+
+### JavaScript  
+* Very basic [http://marijnhaverbeke.nl/js-cheatsheet.html](http://marijnhaverbeke.nl/js-cheatsheet.html)
+* [http://www.cheatography.com/acwinter/cheat-sheets/javascript-basic-advanced-and-more/](http://www.cheatography.com/acwinter/cheat-sheets/javascript-basic-advanced-and-more/)
+and 
+* [http://www.cheatography.com/tag/javascript/](http://www.cheatography.com/tag/javascript/)
+and 
+* [http://www.sitepoint.com/10-javascript-cheat-sheets/](http://www.sitepoint.com/10-javascript-cheat-sheets/)  
+* Learning JavaScript Design Patterns. Volume 1.6.2, By Addy Osmani [https://addyosmani.com/resources/essentialjsdesignpatterns/book/](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)  
+* Programming JavaScript Applications. By Eric Elliott [http://chimera.labs.oreilly.com/books/1234000000262/index.html](http://chimera.labs.oreilly.com/books/1234000000262/index.html)  
+* Cheatsheets for experienced React developers getting started with TypeScript [https://github.com/typescript-cheatsheets/react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)    
+* Node: Up and Running. By Tom Hughes-Croucher and Mike Wilson [http://chimera.labs.oreilly.com/books/1234000001808/index.html](http://chimera.labs.oreilly.com/books/1234000001808/index.html)  
+* Narrative workbook -- This is a companion workbook that will assist you in working through the codeX Narrative that is to be provided. Resources and references provided that will assist you in your journey will be published in the repository. [https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook](https://github.com/codex-academy/codeX_ReleaseOneNarrativeWorkbook)  
+* "Don't make fun of JavaScript" [https://github.com/pixari/dmfojs](https://github.com/pixari/dmfojs)  
+
+
 ### Crypto  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* pyca/cryptography - A package providing cryptographic recipes and primitives to Python developers, with the goal of being your "cryptographic standard library". [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
+* Or search for other projects (*there are lots of them*) with: [https://github.com/search?q=cryptography&type=repositories](https://github.com/search?q=cryptography&type=repositories)  
 * **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
   * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
   * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
@@ -606,6 +619,7 @@ A starter list of information sources for your security investigations & integra
 ### Find the code you need**  
  * In a hurry?  Try asking OpenAI's ChatGPT to write what you need: [https://chat.openai.com/chat](https://chat.openai.com/chat)  
  * Awesome Algorithms -- A curated list of awesome places to learn and/or practice algorithms [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)  
+ * Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language [https://github.com/TheAlgorithms](https://github.com/TheAlgorithms)  
  * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)  
  * A large collection of sorting algorithms in many languages [https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93](https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93) 
  * Competitive Programming, algorithms and data structures [https://algocoding.wordpress.com/](https://algocoding.wordpress.com/)
@@ -780,6 +794,7 @@ Here are some resources to learn more about this topic:
 * Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
 ###Temporary list for work tools or other resources requiring more follow-up  
+* The Rust-lang Book [https://github.com/rust-lang/book](https://github.com/rust-lang/book)  
 * An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences. [Joel Parker Henderson](https://github.com/joelparkerhenderson) has a lot of resources to get you started at: [https://github.com/joelparkerhenderson/architecture-decision-record/tree/main](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main)  
 * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
 * Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
