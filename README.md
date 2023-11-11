@@ -16,16 +16,16 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Don't ignore them.  See: [Four Main Indictments Against Trump](https://github.com/mccright/rand-notes/blob/master/Trump-in-four-separate-criminal-cases.md)  
 
 ### Back to the References  
-* The *time changed* again recently... See how [NIST explains daylight saving time](https://www.nist.gov/pml/time-and-frequency-division/local-time-faqs)  
+* The *time changed* again... See how [NIST explains daylight saving time](https://www.nist.gov/pml/time-and-frequency-division/local-time-faqs)  
 * Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  When used with sensitivity and care it can materially enhance productivity in many roles.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
-* Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
+* Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) (*if you have just a minute right now, I recommend **[this](https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_4400.jpg)** [Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid) photo of the [Perseus Galaxy Cluster](https://en.wikipedia.org/wiki/Perseus_Cluster) having a 1000+ galaxies in the foreground about 250 million light years away plus more than 100,000 galaxies in the background, and review an [explanation of what you are looking at](https://apod.nasa.gov/apod/ap231108.html)*) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Here is the "NASA JPL Asteroid Watch --> The Next Five Asteroid Approaches"
 [https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches](https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches) to help fuel your "it's always something..." catastrophe habit  
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
   * We need to act on many, many fronts, but there are some offenders that deserve special attention.  For example, please *[Treat Big Oil and Big Ag Like Big Tobacco](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md#treat-big-oil-and-big-ag-like-big-tobacco)*  
   * I have begun to accumulate links to some of my climate reading (*and planned reading*) in another repository [https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md)  
-* Find something new/different to read: [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
+* Find something new/different to read with [Libby](https://www.overdrive.com/apps/libby), the library reading app, you can use to borrow ebooks, audiobooks, magazines, and more from your local library for free.  Libby is the newer library reading app by OverDrive. See: https://www.overdrive.com/apps/libby or take a more commercial route through    [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
 * Explore these falsehoods (*too many*) programmers believe in (*which too often produce errors at runtime*) -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
 * Writing well is difficult.  The Strunkifier may help [*think 'Strunk and White' from school written in PHP with a web front end*][http://vinoisnotouzo.com/strunkifier/](http://vinoisnotouzo.com/strunkifier/) and the source at [https://github.com/BSVino/Strunkifier/blob/master/strunkify.php](https://github.com/BSVino/Strunkifier/blob/master/strunkify.php)  
@@ -85,7 +85,7 @@ git remote set-head origin -a
 * A collection of awesome lists for hackers, pentesters & security researchers [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
 * A curated list of Terminal frameworks, plugins & resources for CLI lovers [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)  
 
-### Browse** 
+### Browse  
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
 * and if you need a little Linux help using it [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
@@ -278,7 +278,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * and if you need a little Linux help [https://gto76.github.io/linux-cheatsheet/](https://gto76.github.io/linux-cheatsheet/) and [https://github.com/gto76/linux-cheatsheet](https://github.com/gto76/linux-cheatsheet)  
 
 
-### BPF Tools** 
+### BPF Tools  
 Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * BPF Compiler Collection (BCC) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more [https://github.com/iovisor/bcc](https://github.com/iovisor/bcc)  
 
@@ -514,7 +514,7 @@ and
 ### DOS/Windows Shell  
 * Guide to Batch Scripting [http://steve-jansen.github.io/guides/windows-batch-scripting/](http://steve-jansen.github.io/guides/windows-batch-scripting/)   
 
-### Information Sources for your Security Investigations**  
+### Information Sources for your Security Investigations  
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
  * Awesome OSINT [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)  
@@ -591,7 +591,7 @@ A starter list of information sources for your security investigations & integra
  * 101 Machine Learning Algorithms for Data Science with Cheat Sheets [https://blog.datasciencedojo.com/machine-learning-algorithms/](https://blog.datasciencedojo.com/machine-learning-algorithms/)  
  * An extensive list of filetypes and the application(s) associated with them [https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles](https://github.com/vscode-icons/vscode-icons/wiki/ListOfFiles)  
 
-### Several Tech Company Research & Security Blogs**
+### Several Tech Company Research & Security Blogs  
  * AppScan Standard and AppScan Enterprise Forum [http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0](http://www.ibm.com/developerworks/forums/forum.jspa?forumID=1320&start=0) 
  * Fortify AppSecurity Blog [https://community.microfocus.com/cyberres/tags/Fortify](https://community.microfocus.com/cyberres/tags/Fortify) 
  * Fortify Security Research Blog [https://community.microfocus.com/cyberres/b/off-by-on-software-security-blog](https://community.microfocus.com/cyberres/b/off-by-on-software-security-blog) 
@@ -610,7 +610,7 @@ A starter list of information sources for your security investigations & integra
  * Apple Research News/Blog/Home [oops, I guess there aren't any security blogs here](oops, I guess there aren't any)
    But Apple hubris is in the press -- Here is a page with links to journalism on the Pegasus Project: [https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437](https://www.msnbc.com/rachel-maddow-show/pegasus-project-media-index-n1274437)  
 
-### Respect software author's license decisions**
+### Respect software author's license decisions  
  * Software licensing explained [https://en.wikipedia.org/wiki/Software_license](https://en.wikipedia.org/wiki/Software_license)  
  * Comparison of free and open-source software licenses [http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses](http://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses) 
  * Open Source Initiative list of links to license information [http://opensource.org/licenses](http://opensource.org/licenses)
@@ -620,12 +620,12 @@ A starter list of information sources for your security investigations & integra
 ### Various public documents, whitepapers and articles about APT campaigns  
 * APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets. [https://github.com/aptnotes/data](https://github.com/aptnotes/data) or go directly to the resource links at [https://github.com/aptnotes/data/blob/master/APTnotes.csv](https://github.com/aptnotes/data/blob/master/APTnotes.csv)   
 
-### Verify those shortened URLs**
+### Verify those shortened URLs  
  * [https://tinyurl.com/preview.php](https://tinyurl.com/preview.php)
  * [http://checkshorturl.com/](http://checkshorturl.com/)
  * URL-Expander / URL-Unshortener [http://urlex.org/](http://urlex.org/)  
  
-### Find the code you need**  
+### Find the code you need  
  * In a hurry?  Try asking OpenAI's ChatGPT to write what you need: [https://chat.openai.com/chat](https://chat.openai.com/chat)  
  * Awesome Algorithms -- A curated list of awesome places to learn and/or practice algorithms [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)  
  * Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language [https://github.com/TheAlgorithms](https://github.com/TheAlgorithms)  
@@ -633,7 +633,7 @@ A starter list of information sources for your security investigations & integra
  * A large collection of sorting algorithms in many languages [https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93](https://github.com/search?q=sorting+algorithms&ref=reposearch&utf8=%E2%9C%93) 
  * Competitive Programming, algorithms and data structures [https://algocoding.wordpress.com/](https://algocoding.wordpress.com/)
 
-### Then copy & morph**
+### Then copy & morph  
  * virtualenv is a tool to create isolated Python environments [https://virtualenv.pypa.io/en/latest/](https://virtualenv.pypa.io/en/latest/)
  * A relatively quick Python Numpy Tutorial by Justin Johnson. [http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
 
@@ -641,7 +641,7 @@ A starter list of information sources for your security investigations & integra
 * Financial Services Sector "Cybersecurity Profile" - 280 'diagnostic statements' [https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile ](https://www.fsscc.org/Financial-Sector-Cybersecurity-Profile )  
 * NIST SP-800-53 v4 []()  
 
-### Stay Informed**
+### Stay Informed  
 (in no particular order - and thank you Joe Fleischman for the starter set) 
  * Krebs On Security [http://krebsonsecurity.com/](http://krebsonsecurity.com/) 
  * Schneier on Security [https://www.schneier.com/](https://www.schneier.com/) 
@@ -678,7 +678,7 @@ A starter list of information sources for your security investigations & integra
  * AWS Week in Review: [https://aws.amazon.com/blogs/aws/tag/week-in-review/](https://aws.amazon.com/blogs/aws/tag/week-in-review/)  
   
    
- **Software Defined Radio (SDR)**  
+### Software Defined Radio (SDR)  
  * Overview: [http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf](http://microhams.blob.core.windows.net/content/2017/03/RTL-SDR-dongle.pdf)  
  * FISSURE -- Frequency Independent SDR-based Signal Understanding and Reverse Engineering -- an open-source RF and reverse engineering framework for signal detection and classification, protocol discovery, vulnerability analysis and more [https://github.com/ainfosec/FISSURE](https://github.com/ainfosec/FISSURE)  
  * Big List of SDR Applications: [https://wiki.radioreference.com/index.php/SDR_Software_Applications](https://wiki.radioreference.com/index.php/SDR_Software_Applications)  
@@ -716,10 +716,10 @@ A starter list of information sources for your security investigations & integra
 * WebSphere Password Decoders: [http://strelitzia.net/wasXORdecoder/wasXORdecoder.html](http://strelitzia.net/wasXORdecoder/wasXORdecoder.html)  
 * Conference Session Search Service - Con Collector (broken) but they still list conferences [https://www.thinkst.com/ts.html](https://www.thinkst.com/ts.html)  
 * Some Open Source Network Monitoring Tools:  
-  ** Snort: [https://www.snort.org/downloads](https://www.snort.org/downloads)  
-  ** Suricata: [https://suricata-ids.org/](https://suricata-ids.org/)  
-  ** Bro: [https://www.bro.org/](https://www.bro.org/)  
-  ** OSSEC - Open Source HIDS SECurity [https://ossec.github.io/](https://ossec.github.io/)  
+  * Snort: [https://www.snort.org/downloads](https://www.snort.org/downloads)  
+  * Suricata: [https://suricata-ids.org/](https://suricata-ids.org/)  
+  * Bro: [https://www.bro.org/](https://www.bro.org/)  
+  * OSSEC - Open Source HIDS SECurity [https://ossec.github.io/](https://ossec.github.io/)  
 * Lists of IP addresses by Country - use to block or to assess your log data, etc. [http://www.ipdeny.com/ipblocks/](http://www.ipdeny.com/ipblocks/) 
 * Words are important, choose them well [https://wordnik.com/](https://wordnik.com/)  
 * Check a site or service [https://www.hurl.it/](https://www.hurl.it/)  
@@ -796,7 +796,7 @@ This is a subset of the longer list at: https://ifcncodeofprinciples.poynter.org
 * Upgrad https://www.upgrad.com/free-courses/  
 * Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers [https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)  
 
-### Quantum Computing Resources**  
+### Quantum Computing Resources  
 Here are some resources to learn more about this topic:  
 * Open-Source Quantum Development.  Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. (*Python 3.7+ in a virtual environment with Anaconda*) [quiskit](https://www.qiskit.org/)  
 * IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
@@ -913,10 +913,10 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Architecture Patterns with Python, Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices. (A Book about Pythonic Application Architecture Patterns for Managing Complexity.) By Harry Percival, Bob Gregory [https://github.com/cosmicpython/book](https://github.com/cosmicpython/book) and [http://shop.oreilly.com/product/0636920254638.do](http://shop.oreilly.com/product/0636920254638.do)  
 * An excellent first lesson on "Dockerizing FastAPI with Postgres, Uvicorn, and Traefik (and LetsEncript)" By Amal Shaji, 2021-05-04. [https://testdriven.io/blog/fastapi-docker-traefik/](https://testdriven.io/blog/fastapi-docker-traefik/)  
 
-### Projects associated with Novel Corona Virus - COVID-19**  
+### Projects associated with Novel Corona Virus - COVID-19  
 See: [https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md](https://github.com/mccright/rand-notes/blob/master/Novel-Corona-Virus-COVID-19.md) 
 
-### WIKI-like platforms for easy sharing (*On your private, safe network*)** 
+### WIKI-like platforms for easy sharing (*On your private, safe network*)  
 * cowyo is a self-contained wiki server that makes jotting notes - simple, easy and fast, but crude and it feels a little unfinished [https://github.com/schollz/cowyo](https://github.com/schollz/cowyo)  
 * Linx is a more full featured *pastbin-like* platform [https://github.com/ZizzyDizzyMC/linx-server/](https://github.com/ZizzyDizzyMC/linx-server/)  
 
