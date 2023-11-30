@@ -84,6 +84,7 @@ git remote set-head origin -a
 * A curated list of awesome lists: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)   
 * A collection of awesome lists for hackers, pentesters & security researchers [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
 * A curated list of Terminal frameworks, plugins & resources for CLI lovers [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)  
+* Awesome TUIs -- List of projects that provide terminal user interfaces [https://github.com/rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)  
 
 ### Browse  
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
@@ -802,7 +803,7 @@ Here are some resources to learn more about this topic:
 * IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
 * Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
-###Temporary list for work tools or other resources requiring more follow-up  
+### Temporary list for work tools or other resources requiring more follow-up  
 * The Rust-lang Book [https://github.com/rust-lang/book](https://github.com/rust-lang/book)  
 * An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences. [Joel Parker Henderson](https://github.com/joelparkerhenderson) has a lot of resources to get you started at: [https://github.com/joelparkerhenderson/architecture-decision-record/tree/main](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main)  
 * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
@@ -833,9 +834,11 @@ Here are some resources to learn more about this topic:
 * *mitmproxy* is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets. A free and open source swiss-army knife for debugging, testing, privacy measurements, and penetration testing. [https://github.com/mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy)  
 * Transparent proxy server [https://github.com/apenwarr/sshuttle](https://github.com/apenwarr/sshuttle)  
 * Packet decoding for the Go language [https://github.com/apenwarr/gopacket](https://github.com/apenwarr/gopacket) and [https://github.com/google/gopacket](https://github.com/google/gopacket)  
+* Here is a useful starter Flask-and-SQLite tutorial [https://flask.palletsprojects.com/en/3.0.x/patterns/sqlite3/](https://flask.palletsprojects.com/en/3.0.x/patterns/sqlite3/)  
 * Very fast C++ importer from csv files to sqlite3 databases [https://github.com/apenwarr/csv2sqlite](https://github.com/apenwarr/csv2sqlite)  
 * A feature-packed Python package and for utilizing SQLite in Python by Plasticity [https://github.com/plasticityai/supersqlite](https://github.com/plasticityai/supersqlite)  
 * An idea for csv-to-json {csv2json.py} [https://github.com/apenwarr/afterquery/blob/master/csv2json.py](https://github.com/apenwarr/afterquery/blob/master/csv2json.py)  
+* "Structured text tools" -- A useful list of text-based file formats and command line tools for manipulating each [https://github.com/dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools)  
 * Text Tools [https://github.com/fmhy/FMHY/wiki/%F0%9F%94%A7-Tools#-text-tools](https://github.com/fmhy/FMHY/wiki/%F0%9F%94%A7-Tools#-text-tools) and more generally "[tools](https://github.com/fmhy/FMHY/wiki/%F0%9F%94%A7-Tools](https://github.com/fmhy/FMHY/wiki/%F0%9F%94%A7-Tools)  
 * Simple static page development grunt setup [https://github.com/micmro/grunt-simple-boilerplate](https://github.com/micmro/grunt-simple-boilerplate)  
 * WiGPSFi – ESP8266 + GPS [http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/](http://euerdesign.de/2016/04/16/wigpsfi-esp8266-gps/)  
