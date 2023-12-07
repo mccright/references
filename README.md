@@ -257,7 +257,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Run your own VPN(s) [https://github.com/trailofbits/algo](https://github.com/trailofbits/algo)  
 * "8 Best VPNs in 2021: Tested All Apps, Speed, Security & More." by Chase Williams September 01, 2021 [https://www.wizcase.com/vpn-reviews/](https://www.wizcase.com/vpn-reviews/)  
 * Email address parser from website list [https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py](https://github.com/skeitel/Python-Programs-and-Exercises-by-Javier-Marti/blob/master/email_parser_from_website_list.py)  
-*  Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
+* Detect secrets within a code base [https://github.com/Yelp/detect-secrets](https://github.com/Yelp/detect-secrets)  
+* git-secrets -- Prevents you from committing passwords and other sensitive information to a git repository [https://github.com/awslabs/git-secrets](https://github.com/awslabs/git-secrets)  
 * Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
 * sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
 * Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
@@ -894,6 +895,8 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
 * Awesome SysAdmin. A list of open source sysadmin resources. [https://github.com/kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)  
 * Awesome Data Science.  A repository of resources to learn and apply for real world problems. [https://github.com/okulbilisim/awesome-datascience](https://github.com/okulbilisim/awesome-datascience)  
    * And data from OurWorldInData for your experiments: [https://github.com/owid/owid-datasets/tree/master/datasets](https://github.com/owid/owid-datasets/tree/master/datasets)  
+   * Registry of Open Data on AWS [https://registry.opendata.aws/](https://registry.opendata.aws/)  
+   * 487+ Free Open Datasets from AWS: [https://aws.amazon.com/marketplace...](https://aws.amazon.com/marketplace/search/results?trk=8384929b-0eb1-4af3-8996-07aa409646bc&sc_channel=el&FULFILLMENT_OPTION_TYPE=DATA_EXCHANGE&CONTRACT_TYPE=OPEN_DATA_LICENSES&PRICING_MODEL=FREE&filters=FULFILLMENT_OPTION_TYPE%2CCONTRACT_TYPE%2CPRICING_MODEL)  
 * Awesome R [https://github.com/qinwf/awesome-R](https://github.com/qinwf/awesome-R) and [https://awesome-r.com/](https://awesome-r.com/)  
 * Managing risk in the context of a long time-horizon.  
   * See the "Global Risks 2014 - Ninth Edition" Insight Report from the World Economic Forum. [http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf](http://www3.weforum.org/docs/WEF_GlobalRisks_Report_2014.pdf)   Especially part 2, pages 38-49. It is a short read on risks associated with -- among other topics -- the way the Internet is evolving, risks associated with "trust," and "managing risk" in the context of a long time-horizon.  
