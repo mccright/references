@@ -853,6 +853,7 @@ Here are some resources to learn more about this topic:
 * Another [https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff](https://productcoalition.com/code-review-questions-what-should-you-be-looking-for-e3f9c147baff)  
 * How to give a code review [https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771](https://medium.com/better-programming/how-to-give-a-great-code-review-7e32e5ba0771)  
 * How to do code review (.NET) [https://sites.google.com/site/wcfpandu/how-to-review-code](https://sites.google.com/site/wcfpandu/how-to-review-code)  
+* And wildly off-topic -- but important -- [Patient Rights Advocate released](https://www.patientrightsadvocate.org/) its "[Hospital Price Files Finder](https://hospitalpricingfiles.org/)," which it describes as "The first-ever free and publicly available search tool that allows consumers to view the available hospital pricing files from nearly all of the 6,000 hospitals throughout the U.S."  This collection of medical cost-of-service data is not easy to use.  It seems like a data source for some innovative (*and possible profitable*) software development efforts.  [https://hospitalpricingfiles.org/](https://hospitalpricingfiles.org/)  
  
 ### Other  
 * Learn more about what your github repos can do for you: [https://github.com/joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths)  
