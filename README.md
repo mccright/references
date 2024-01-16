@@ -784,9 +784,9 @@ This is a subset of the longer list at: https://ifcncodeofprinciples.poynter.org
 ### There is probably some free training for that...  
 * Find a class at https://www.classcentral.com/search or https://www.classcentral.com/subjects  
 * Find out about assistance at: https://www.classcentral.com/help/moocs  
-  * By universities (938 on 12 Sept 2020): https://www.classcentral.com/universities  
+  * By universities (1301 on 16 Jan 2023): https://www.classcentral.com/universities  
   * By sub-groups of universities: https://www.classcentral.com/collection/ivy-league-moocs  
-  * By commercial Institutions (551 on 12 Sept 2020): https://www.classcentral.com/institutions  
+  * By commercial Institutions (1721 on 16 Jan 2023): https://www.classcentral.com/institutions  
 * Free Online Learning Due to Coronavirus - ClassCentral maintains a list of temporarily free courses at: https://www.classcentral.com/report/free-online-learning-coronavirus/  
 * M.I.T. offers free content on OpenCourseWare: https://ocw.mit.edu/index.htm  
 * Open Culture lists more than 1,500 courses: http://www.openculture.com/freeonlinecourses  
@@ -906,8 +906,11 @@ Especially Appendix B. Sharpening and Maintenance Basics. [http://chimera.labs.o
   * And 2017: "Global Risks 2017 -- 12th Edition" [http://www3.weforum.org/docs/GRR17_Report_web.pdf](http://www3.weforum.org/docs/GRR17_Report_web.pdf)  
   * And 2018:  "The Global Risks Report 2018 - 13th Edition" [http://www3.weforum.org/docs/WEF_GRR18_Report.pdf](http://www3.weforum.org/docs/WEF_GRR18_Report.pdf)  
   * And 2019: "The Global Risks Report 2019 - 14th Edition" [http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf](http://www3.weforum.org/docs/WEF_Global_Risks_Report_2019.pdf)  
-  * And 2020: "The Global Risks Report 2020 - 20th Edition"[http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf) or [https://reports.weforum.org/global-risks-report-2020/](https://reports.weforum.org/global-risks-report-2020/)  
-  * And most recently: "The Global Risks Report 2021 - 16th Edition" [http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf](http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf)  
+  * And 2020: "The Global Risks Report 2020 - 20th Edition" [http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf](http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf) or [https://reports.weforum.org/global-risks-report-2020/](https://reports.weforum.org/global-risks-report-2020/)  
+  * And 2021: "The Global Risks Report 2021 - 21st Edition"[http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf](http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2021.pdf) or [https://www.weforum.org/publications/the-global-risks-report-2021/](https://www.weforum.org/publications/the-global-risks-report-2021/)  
+  * And 2022: "The Global Risks Report 2022 - 22nd Edition" [http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2022.pdf](http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2022.pdf) or [https://www.weforum.org/publications/the-global-risks-report-2022/](https://www.weforum.org/publications/the-global-risks-report-2022/)  
+  * And 2023: "The Global Risks Report 2023 - 23rd Edition" [http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2023.pdf](http://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2023.pdf) or [https://www.weforum.org/publications/the-global-risks-report-2023/](https://www.weforum.org/publications/the-global-risks-report-2023/)  
+  * And most recently: "The Global Risks Report 2024 - 24th Edition" [https://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2024.pdf](https://www3.weforum.org/docs/WEF_The_Global_Risks_Report_2024.pdf) or  [https://www.weforum.org/publications/global-risks-report-2024/](https://www.weforum.org/publications/global-risks-report-2024/)  
 * A definitive list of tools for generating static websites [https://github.com/pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators)   
 * The definitive list of newsletters to keep up to date on various web development technologies [https://github.com/pinceladasdaweb/Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain)  
 * hack-font for your development environment [https://www.npmjs.com/package/hack-font](https://www.npmjs.com/package/hack-font)  
