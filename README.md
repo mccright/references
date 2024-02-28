@@ -489,6 +489,7 @@ and
 ### Crypto  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* [Peter Gutmann](https://www.cs.auckland.ac.nz/~pgut001/) (*a researcher at the University of Auckland*) assembled his "godzilla crypto tutorial," including 973 slides in 12 parts at: https://www.cs.auckland.ac.nz/~pgut001/tutorial/index.html  Although this material is not new, it still seems like a resource that will be of value to many.  
 * pyca/cryptography - A package providing cryptographic recipes and primitives to Python developers, with the goal of being your "cryptographic standard library". [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
@@ -497,6 +498,7 @@ and
   * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
   * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
   * And a Python implementation of *[draft version 1](https://datatracker.ietf.org/doc/html/draft-barnes-cfrg-hpke-01)* at: [https://github.com/dwd/crypto-examples/blob/master/hpke.py](https://github.com/dwd/crypto-examples/blob/master/hpke.py).  
+
  
 ### Regex  
 * Test your regex on line: [https://regex101.com/](https://regex101.com/) or  
