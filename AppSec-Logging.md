@@ -1,7 +1,8 @@
-Application Logging
-===================
+# Application Logging  
 
-***Logging the NISTy Way***
+
+## Logging the NISTy Way  
+
  * Log all information that would be important for identifying the source or nature of an attack, or determining if an action is safe. [CWE-223](https://cwe.mitre.org/data/definitions/223.html)  
  * Log all authentication activities [CWE-778](https://cwe.mitre.org/data/definitions/778.html)  
  * Log all elevated-rights activity [CWE-778](https://cwe.mitre.org/data/definitions/778.html)  
@@ -19,19 +20,17 @@ Application Logging
  * All error message text should be HTML entity encoded before being written to the log file to protect against potential cross-site scripting attacks against the viewer of the logs {logs are an attack path, neutralize hostile content} [CWE-497](https://cwe.mitre.org/data/definitions/497.html)  
  * Log only "known good" input.  Assume all input is malicious. Use a whitelist of acceptable inputs that strictly conform to specifications. Reject any input that does not strictly conform to specifications, or transform it into something that does.  
 
-***Error Handling***
+## Error Handling  
+
  * Display generic, non-descriptive error messages.  Where risk-appropriate, provide user guidance [CWE-209](https://cwe.mitre.org/data/definitions/209.html)  
  * Never emit unhandled errors [CWE-391](https://cwe.mitre.org/data/definitions/391.html)  
  * Configure an 'error-handler of last resort' [CWE-391](https://cwe.mitre.org/data/definitions/391.html)  
  * Suppress raw framework-generated errors [CWE-209](https://cwe.mitre.org/data/definitions/209.html)  
  * [CWE-]()  
- * [CWE-]()  
  * []()  
- * []()  
- * []()  
- 
 
-***NIST Guidance for Logging***  
+## NIST Guidance for Logging  
+
 *NIST SP 800-53 rev 4*  
 **NIST AU-1  Audit Generation / System-Wide / Time-Correlated Audit Trail**  
 The organization must have documented policies and procedures which establish an effective implementation of selected security controls related to auditing and accountability which are developed, disseminated, reviewed, and updated.  
@@ -87,15 +86,17 @@ The information system must have the capability to provide and generate audit re
 **AU-12 (1) Audit Generation / System-Wide / Time-Correlated Audit Trail**  
 The information system compiles audit records into a system-wide (logical or physical) audit trail that is time-correlated to within an organization-defined level of tolerance for relationship between time stamps of individual records in the audit trail.  
 
-**AU-12 (2)	Audit Generation / Standardized Formats**  
+**AU-12 (2) Audit Generation / Standardized Formats**  
 The information system must have the capability to provide and generate audit records in Standardized Format(s).  
 
 
-***Logging the OWASP Way***
+## Logging the OWASP Way  
+
  * Use their excellent CheatSheet: [https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Logging_Cheat_Sheet.md](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Logging_Cheat_Sheet.md)  
 
 
-***Logging the GCHQ Way***
+## Logging the GCHQ Way  
+
 TODO: [https://github.com/gchq/event-logging](https://github.com/gchq/event-logging) and [https://github.com/gchq/event-logging-schema](https://github.com/gchq/event-logging-schema)  
 
 
@@ -112,7 +113,8 @@ TODO: [https://github.com/gchq/event-logging](https://github.com/gchq/event-logg
 * (*selectively*) The browser user agent string, if the event occurs as the result of events initiated in/by a browser.  
 
 
-***References***
+## References  
+
  * Thank you SANS for sending a large paper poster on this topic to goose me into starting on this page.  SANS Securing Web Application Technologies (SWAT) checklist poster, received via surface mail 06-17-2019.  The initial entries in this list were from the top left corner of the checklist side of the poster.  
  * Common Weakness Enumeration (CWE™) List [https://cwe.mitre.org/data/index.html](https://cwe.mitre.org/data/index.html)
  * [http://www.cvedetails.com/cwe-definitions.php](http://www.cvedetails.com/cwe-definitions.php)  
