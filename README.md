@@ -503,7 +503,9 @@ and
 ### Regex  
 * Test your regex on line: [https://regex101.com/](https://regex101.com/) or  
 * test your regex with: [https://pythex.org/](https://pythex.org/)  
+* test and visualize your regex with: [https://extendsclass.com/regex-tester.html](https://extendsclass.com/regex-tester.html)  
 * Test your JavaScript style regex: [https://regexper.com/](https://regexper.com/)  
+* Test your Python style regex: [https://pythonium.net/regex](https://pythonium.net/regex)  
 * OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
 * A really big collection of regex resources [http://regexlib.com/](http://regexlib.com/)
 * [http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
