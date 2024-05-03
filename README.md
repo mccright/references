@@ -264,6 +264,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
 * sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
 * Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
+* OK. You found your way to a remote shell or access to arbitrary remote code execution -- what next?  In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
 
 
 ### Pen testing Linux distros  
@@ -354,6 +355,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * One approach to logging in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 * A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
+* An evolving "command-line tool allowing developers to find security vulnerabilities within a Java project."  It incorporates some static analysis (SAST) and some software composition analysis (SCA). [https://github.com/xJonah/REPELSEC](https://github.com/xJonah/REPELSEC)  
 * A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
 * An edge case:  *Protecting* your scripts - PowerShell, Visual Basic (VB), and C# code obfuscation -- "A Beginner's Guide to Obfuscation" [https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)  
 * Attack-resistant programming requires a threshold understanding of your current language. ```esolang-box``` is an "easy and standardized docker images for 200+ esoteric (and non-esoteric) languages." https://github.com/hakatashi/esolang-box  
