@@ -5,6 +5,7 @@ Remember: *If you're not paying for it, you're the product.*
 and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"  
 >"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." *[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*  
 >"The fact that there are pressures and costs does not absolve people of their moral responsibility.  The primary custodian of one's actions is oneself." [Noam Chomsky Tue, 3 Apr 2018 - quoted by Timothy Holborn](https://www.w3.org/community/humancentricai/)  
+>"A lie is a fiction made up to take away someone else's power." [Elizabeth Mitchell, Guernica Magazine. Essay/Lit World/Politics, January 15, 2021](https://www.guernicamag.com/in-the-land-of-fiction-and-fake-news/)  
 
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
@@ -38,7 +39,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
   * "A guide to setting up your Open Source Program Office (OSPO) for success -- Learn how to best grow and maintain your open source communities and allies." By J. Manrique Lopez de la Fuente, 08 May 2020 [https://opensource.com/article/20/5/open-source-program-office](https://opensource.com/article/20/5/open-source-program-office)  
   * "Software Licenses in Plain English -- Lookup popular software licenses summarized at-a-glance." [https://tldrlegal.com/](https://tldrlegal.com/)  
 * Finally, pay attention to where you invest your attention.  A [recent essay](https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html) by Ezra Klein exploring how technology choices influence how/what we learn and behave is worth a careful read: [https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html](https://www.nytimes.com/2022/08/07/opinion/media-message-twitter-instagram.html).  
->A [recent study](https://www.sciencedirect.com/science/article/abs/pii/S0747563223002145?via%3Dihub) linked higher levels of phubbing to [*partner*] dissatisfaction, and a [2022 study](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.883901/full) found it can lead to feelings of distrust and ostracism. [One study](https://www.sciencedirect.com/science/article/pii/S0747563216303454) found that those who phub a lot are more likely to be phubbed themselves, creating a kind of ripple effect. [https://www.nytimes.com/2023/07/27/well/family/phubbing-phone-snubbing-relationship.html](https://www.nytimes.com/2023/07/27/well/family/phubbing-phone-snubbing-relationship.html)  
+>A [recent study](https://www.sciencedirect.com/science/article/abs/pii/S0747563223002145?via%3Dihub) linked higher levels of [phubbing](https://en.wikipedia.org/wiki/Phubbing) to [*partner*] dissatisfaction, and a [2022 study](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.883901/full) found it can lead to feelings of distrust and ostracism. [One study](https://www.sciencedirect.com/science/article/pii/S0747563216303454) found that those who phub a lot are more likely to be phubbed themselves, creating a kind of ripple effect. [https://www.nytimes.com/2023/07/27/well/family/phubbing-phone-snubbing-relationship.html](https://www.nytimes.com/2023/07/27/well/family/phubbing-phone-snubbing-relationship.html)  
  
 
 ### Cheat Sheets  
@@ -166,6 +167,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
 * Osmedeus - a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets. [https://github.com/j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)  
+* Mantis - command-line framework designed to automate the workflow of asset discovery, reconnaissance, and scanning [https://github.com/PhonePe/mantis](https://github.com/PhonePe/mantis)  
 * "All in One Hacking tool For Hackers" [https://github.com/Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)  
 * Arsenal - an inventory, reminder and launcher to simplify the use of all the hard-to-remember pentest commands [https://github.com/Orange-Cyberdefense/arsenal](https://github.com/Orange-Cyberdefense/arsenal)  
 * Red Teaming Toolkit [https://github.com/infosecn1nja/Red-Teaming-Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)  
@@ -175,6 +177,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
 * six2dez pentest-book [https://pentestbook.six2dez.com/](https://pentestbook.six2dez.com/) and the source at [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
 * If you are creative and persistent, you will accumulate valuable passwords and tokens.  Keep them safe from abuse.  Assuming that need support for Linux, Windows, or Mac, you might consider using [KeePassXC](https://keepassxc.org/) on an encrypted+password protected USB drive. See the [recent code review report](https://molotnikov.de/keepassxc-review) by [Zaur Molotnikov](https://molotnikov.de/cv) to help evaluate the risks.  
+* Sometimes you will need to share secrets.  [https://scrt.link/](https://scrt.link/) with a link that only works one time
+and then self-destructs.  It is imperfect, but likely good-enough for many use cases.
 * Penetration Testing Checklist [https://github.com/infinite-omicron/pentesting-checklist](https://github.com/infinite-omicron/pentesting-checklist) and its companion Pentesting Guide [https://github.com/infinite-omicron/pentesting-guide/](https://github.com/infinite-omicron/pentesting-guide/)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
 * An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
@@ -262,6 +266,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
 * sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
 * Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
+* OK. You found your way to a remote shell or access to arbitrary remote code execution -- what next?  In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
+* You will regularly need to know if something you started is finished, or get notified of an event you are waiting for.  [ntfy](https://ntfy.sh/) is a fantastic service that lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests. I use it to notify myself when scripts fail, or long-running commands complete. [https://ntfy.sh/](https://ntfy.sh/)  
 
 
 ### Pen testing Linux distros  
@@ -352,6 +358,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * One approach to logging in your shell scripts [https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html](https://www.cubicrace.com/2016/03/efficient-logging-mechnism-in-shell.html)  
 * The TIOBE Index of programming language popularity [https://www.tiobe.com/tiobe-index/](https://www.tiobe.com/tiobe-index/)  
 * A collection of ready-to-deploy-in-AWS Serverless Framework services [https://github.com/serverless/examples](https://github.com/serverless/examples)  
+* An evolving "command-line tool allowing developers to find security vulnerabilities within a Java project."  It incorporates some static analysis (SAST) and some software composition analysis (SCA). [https://github.com/xJonah/REPELSEC](https://github.com/xJonah/REPELSEC)  
 * A useful script to help manage Java installation and removal on your Linux host [https://github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
 * An edge case:  *Protecting* your scripts - PowerShell, Visual Basic (VB), and C# code obfuscation -- "A Beginner's Guide to Obfuscation" [https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)  
 * Attack-resistant programming requires a threshold understanding of your current language. ```esolang-box``` is an "easy and standardized docker images for 200+ esoteric (and non-esoteric) languages." https://github.com/hakatashi/esolang-box  
@@ -489,6 +496,7 @@ and
 ### Crypto  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* [Peter Gutmann](https://www.cs.auckland.ac.nz/~pgut001/) (*a researcher at the University of Auckland*) assembled his "godzilla crypto tutorial," including 973 slides in 12 parts at: https://www.cs.auckland.ac.nz/~pgut001/tutorial/index.html  Although this material is not new, it still seems like a resource that will be of value to many.  
 * pyca/cryptography - A package providing cryptographic recipes and primitives to Python developers, with the goal of being your "cryptographic standard library". [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
@@ -497,11 +505,14 @@ and
   * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
   * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
   * And a Python implementation of *[draft version 1](https://datatracker.ietf.org/doc/html/draft-barnes-cfrg-hpke-01)* at: [https://github.com/dwd/crypto-examples/blob/master/hpke.py](https://github.com/dwd/crypto-examples/blob/master/hpke.py).  
+
  
 ### Regex  
 * Test your regex on line: [https://regex101.com/](https://regex101.com/) or  
 * test your regex with: [https://pythex.org/](https://pythex.org/)  
+* test and visualize your regex with: [https://extendsclass.com/regex-tester.html](https://extendsclass.com/regex-tester.html)  
 * Test your JavaScript style regex: [https://regexper.com/](https://regexper.com/)  
+* Test your Python style regex: [https://pythonium.net/regex](https://pythonium.net/regex)  
 * OWASP Validation Regex Repository [https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository](https://www.owasp.org/index.php/OWASP_Validation_Regex_Repository)  
 * A really big collection of regex resources [http://regexlib.com/](http://regexlib.com/)
 * [http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
