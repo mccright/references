@@ -177,6 +177,8 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "*A collection of tools used by Web hackers*" [https://github.com/hahwul/WebHackersWeapons](https://github.com/hahwul/WebHackersWeapons)  
 * six2dez pentest-book [https://pentestbook.six2dez.com/](https://pentestbook.six2dez.com/) and the source at [https://github.com/six2dez/pentest-book](https://github.com/six2dez/pentest-book)  
 * If you are creative and persistent, you will accumulate valuable passwords and tokens.  Keep them safe from abuse.  Assuming that need support for Linux, Windows, or Mac, you might consider using [KeePassXC](https://keepassxc.org/) on an encrypted+password protected USB drive. See the [recent code review report](https://molotnikov.de/keepassxc-review) by [Zaur Molotnikov](https://molotnikov.de/cv) to help evaluate the risks.  
+* Sometimes you will need to share secrets.  [https://scrt.link/](https://scrt.link/) with a link that only works one time
+and then self-destructs.  It is imperfect, but likely good-enough for many use cases.
 * Penetration Testing Checklist [https://github.com/infinite-omicron/pentesting-checklist](https://github.com/infinite-omicron/pentesting-checklist) and its companion Pentesting Guide [https://github.com/infinite-omicron/pentesting-guide/](https://github.com/infinite-omicron/pentesting-guide/)  
 * Automated NoSQL database enumeration and web application exploitation tool [https://github.com/codingo/NoSQLMap](https://github.com/codingo/NoSQLMap)  
 * An eccentric collection of links to pen testing resources [https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)  
@@ -265,6 +267,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
 * Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
 * OK. You found your way to a remote shell or access to arbitrary remote code execution -- what next?  In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
+* You will regularly need to know if something you started is finished, or get notified of an event you are waiting for.  [ntfy](https://ntfy.sh/) is a fantastic service that lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests. I use it to notify myself when scripts fail, or long-running commands complete. [https://ntfy.sh/](https://ntfy.sh/)  
 
 
 ### Pen testing Linux distros  
