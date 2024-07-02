@@ -265,13 +265,17 @@ and then self-destructs.  It is imperfect, but likely good-enough for many use c
 * Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
 * sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
 * Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
-* OK. You found your way to a remote shell or access to arbitrary remote code execution -- what next?  In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
+* OK. You found your way to a remote shell or access to arbitrary remote code execution -- what next?  
+  * In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
+  * If you land on a Windows platform: "WES-NG is a tool based on the output of Windows' systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities. Every Windows OS between Windows XP and Windows 11, including their Windows Server counterparts, is supported." [https://github.com/bitsadmin/wesng](https://github.com/bitsadmin/wesng)  
 * You will regularly need to know if something you started is finished, or get notified of an event you are waiting for.  [ntfy](https://ntfy.sh/) is a fantastic service that lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests. I use it to notify myself when scripts fail, or long-running commands complete. [https://ntfy.sh/](https://ntfy.sh/)  
 
 
 ### Pen testing Linux distros  
+* ArchStrike (idle since 2021) [https://archstrike.org](https://archstrike.org)  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
+* Caine Security [https://www.caine-live.net](https://www.caine-live.net)  
 * DemonLinux  [https://demonlinux.com/about.php](hhttps://demonlinux.com/about.php) 
 * Fedora Security Lab [https://labs.fedoraproject.org/en/security/](https://labs.fedoraproject.org/en/security/)  
 * Kali  [https://www.kali.org/](https://www.kali.org/)  
