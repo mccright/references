@@ -97,6 +97,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Your IP address is sometimes your identity [https://myexternalip.com/](https://myexternalip.com/)  
 
 ### Software Vulnerability Detection Resources  
+* Is the target already beyond its end of life / End-of-life (EOL/EoL)? [https://endoflife.date/](https://endoflife.date/) or [https://github.com/endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)  
 * *DevSecOps* tool lists [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps)  
 * U.S. National Checklist Program [http://checklists.nist.gov](http://checklists.nist.gov) and [https://web.nvd.nist.gov/view/ncp/repository](https://web.nvd.nist.gov/view/ncp/repository) 
 * Security Content Automation Protocol (SCAP)  
@@ -113,6 +114,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
+  o	[https://github.com/vulsio](https://github.com/vulsio) (*json files*)  
 * Library for interacting with Synack API [https://github.com/abdilahrf/synackAPI](https://github.com/abdilahrf/synackAPI)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [https://www.cybersecurity.my/data/content_files/11/650.pdf](https://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
@@ -240,6 +242,8 @@ and then self-destructs.  It is imperfect, but likely good-enough for many use c
 * Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 * and Chrome's internal URLs for problem solving [chrome://chrome-urls/](chrome://chrome-urls/)  
 * DNS research [https://github.com/ogham/dog](https://github.com/ogham/dog)  
+  * Some domains might be outside your intended target list? See the official, full list of registered domains in the .gov zone. The US Government's executive, legislative, and judicial branches are represented, as are US-based state, territory, tribal, city, and county governments: [https://github.com/cisagov/dotgov-data](https://github.com/cisagov/dotgov-data)  
+  * There may be some *additional useful information* you might extract from the target's DNS records -- see "[You’re Closer Than You Think: The Only 6 DNS Concepts You Really Need](https://jonahdevs.com/youre-closer-than-you-think-the-only-6-dns-concepts-you-really-need/?utm_source=tldrnewsletter)." that includes a "complete list of DNS Functionality and Descriptions" that might help you think it through.  
 * HTTPie, a user-friendly command-line HTTP client for the API era [https://httpie.io/](https://httpie.io/)  
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
 * Using custom nmap port sets [https://bsago.me/tech-notes/custom-nmap-port-sets](https://bsago.me/tech-notes/custom-nmap-port-sets)  
@@ -461,6 +465,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
 * Colorpedia - a command-line tool for looking up colors, shades and palettes [https://github.com/joowani/colorpedia](https://github.com/joowani/colorpedia)  
 * "Python requests is slow and takes very long to complete HTTP or HTTPS request" -- This is fantastic troubleshooting guidance and advice! [https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request](https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request)  
+* nmappy may not be the right scanner for you, but you might find its Python source code might be interesting as it attempts to solve a range of network-centric challenges: [https://github.com/bitsadmin/nmappy/blob/master/nmappy.py](https://github.com/bitsadmin/nmappy/blob/master/nmappy.py)  
 * "Building a Full Stack Application with Flask and HTMx" [https://codecapsules.io/docs/tutorials/build-flask-htmx-app/](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/) and [https://github.com/codecapsules-io/demo-flask-htmx](https://github.com/codecapsules-io/demo-flask-htmx)  
 * Generate *random* user agent strings  
   * [https://pypi.org/project/random-user-agent/](https://pypi.org/project/random-user-agent/)  
@@ -499,9 +504,12 @@ and
 ### Crypto  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* A good place to get an overview of the correct tools to use for modern cryptography is "(Updated) Cryptographic Right Answers" by [Thomas Ptacek](https://github.com/tqbf) (*Thank you [William Bond](https://github.com/wbond/oscrypto/blob/master/docs/readme.md#modern-cryptography)*): [https://gist.github.com/tqbf/be58d2d39690c3b366ad](https://gist.github.com/tqbf/be58d2d39690c3b366ad)  
 * [Peter Gutmann](https://www.cs.auckland.ac.nz/~pgut001/) (*a researcher at the University of Auckland*) assembled his "godzilla crypto tutorial," including 973 slides in 12 parts at: https://www.cs.auckland.ac.nz/~pgut001/tutorial/index.html  Although this material is not new, it still seems like a resource that will be of value to many.  
 * pyca/cryptography - A package providing cryptographic recipes and primitives to Python developers, with the goal of being your "cryptographic standard library". [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
+* A fast, pure Python library for parsing and serializing ASN.1 structures. [https://github.com/wbond/asn1crypto](https://github.com/wbond/asn1crypto)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
+* PyNaCl: Python binding to the libsodium library [https://github.com/pyca/pynacl](https://github.com/pyca/pynacl)  
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
 * Or search for other projects (*there are lots of them*) with: [https://github.com/search?q=cryptography&type=repositories](https://github.com/search?q=cryptography&type=repositories)  
 * **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
@@ -587,11 +595,15 @@ A starter list of information sources for your security investigations & integra
 * [Mathics](https://mathics.org/) is a general-purpose computer algebra system (CAS).  The mathics-core repository contains just the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them. [https://github.com/Mathics3/mathics-core](https://github.com/Mathics3/mathics-core)  
 
 
-### Text to Speech  
+### Text to Speech / Speech to Text   
 * eSpeak NG [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)  
 * Using eSpeak and eSpeakNG [https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/](https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/)  
 * eSpeak NG TTS Bindings for Python3 [https://github.com/sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python)  
 * Larynx -- This engine provides a complete text-to-speech solution for 9 languages in as many as 50 voices and can be used without any proprietary cloud services (*each voice is roughly 250MB*). This project includes an *easy path* using a Docker image. [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)  
+* RealtimeTTS is a state-of-the-art text-to-speech (TTS) library designed for real-time applications. It stands out in its ability to convert text streams fast into high-quality auditory output with minimal latency. [https://github.com/KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS)  
+  * Also see its cousin, RealtimeSTT "Easy-to-use, low-latency speech-to-text library for realtime applications." [https://github.com/KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)  
+* Speech-to-text app "Linguflex" includes local TTS. [https://github.com/KoljaB/Linguflex](https://github.com/KoljaB/Linguflex)  
+
 
 
 ### Random Cheat Sheets  
