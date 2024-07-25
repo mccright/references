@@ -97,6 +97,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Your IP address is sometimes your identity [https://myexternalip.com/](https://myexternalip.com/)  
 
 ### Software Vulnerability Detection Resources  
+* Is the target already beyond its end of life / End-of-life (EOL/EoL)? [https://endoflife.date/](https://endoflife.date/) or [https://github.com/endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)  
 * *DevSecOps* tool lists [https://github.com/hahwul/DevSecOps](https://github.com/hahwul/DevSecOps)  
 * U.S. National Checklist Program [http://checklists.nist.gov](http://checklists.nist.gov) and [https://web.nvd.nist.gov/view/ncp/repository](https://web.nvd.nist.gov/view/ncp/repository) 
 * Security Content Automation Protocol (SCAP)  
@@ -113,6 +114,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
   o	[http://www.securityfocus.com/bid/](http://www.securityfocus.com/bid/)  
   o	[https://www.exploit-db.com/](https://www.exploit-db.com/)  
   o	[https://nvd.nist.gov/](https://nvd.nist.gov/)  
+  o	[https://github.com/vulsio](https://github.com/vulsio) (*json files*)  
 * Library for interacting with Synack API [https://github.com/abdilahrf/synackAPI](https://github.com/abdilahrf/synackAPI)  
 * CyberSecurityMalaysia, 3rd Party Information Security Assessment Guideline [https://www.cybersecurity.my/data/content_files/11/650.pdf](https://www.cybersecurity.my/data/content_files/11/650.pdf)  
 * Fortify Taxonomy of Secure Software Errors. [https://vulncat.fortify.com/en](https://vulncat.fortify.com/en)  
@@ -149,6 +151,7 @@ Understanding how the adversary operates is essential to effective cyber securit
    * Associated with Common Weakness Enumeration (CWE)  
     [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
 * Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
+* "The Universal Cloud Threat Model" [https://securosis.com/research/papers/the-universal-cloud-threat-model-for-cloud-native-security/?utm_source=tldrinfosec](https://securosis.com/research/papers/the-universal-cloud-threat-model-for-cloud-native-security/?utm_source=tldrinfosec)  
 * "The STRIDE Threat Model." [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
 * "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
 *  NIST's SP 800-160 Vol. 1 Rev. 1 (2022) "Engineering Trustworthy Secure Systems."  With special attention to the 30 security principles in "Appendix E. Principles for Trustworthy Secure Design."  [https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final)  
@@ -240,6 +243,8 @@ and then self-destructs.  It is imperfect, but likely good-enough for many use c
 * Deploy a private Burp Collaborator Server in Azure. By Javier Olmedo, Jun 17, 2019 [https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70](https://medium.com/bugbountywriteup/deploy-a-private-burp-collaborator-server-in-azure-f0d932ae1d70)  
 * and Chrome's internal URLs for problem solving [chrome://chrome-urls/](chrome://chrome-urls/)  
 * DNS research [https://github.com/ogham/dog](https://github.com/ogham/dog)  
+  * Some domains might be outside your intended target list? See the official, full list of registered domains in the .gov zone. The US Government's executive, legislative, and judicial branches are represented, as are US-based state, territory, tribal, city, and county governments: [https://github.com/cisagov/dotgov-data](https://github.com/cisagov/dotgov-data)  
+  * There may be some *additional useful information* you might extract from the target's DNS records -- see "[You’re Closer Than You Think: The Only 6 DNS Concepts You Really Need](https://jonahdevs.com/youre-closer-than-you-think-the-only-6-dns-concepts-you-really-need/?utm_source=tldrnewsletter)." that includes a "complete list of DNS Functionality and Descriptions" that might help you think it through.  
 * HTTPie, a user-friendly command-line HTTP client for the API era [https://httpie.io/](https://httpie.io/)  
 * nmap tutorial [https://github.com/gnebbia/nmap_tutorial](https://github.com/gnebbia/nmap_tutorial)  
 * Using custom nmap port sets [https://bsago.me/tech-notes/custom-nmap-port-sets](https://bsago.me/tech-notes/custom-nmap-port-sets)  
@@ -265,13 +270,18 @@ and then self-destructs.  It is imperfect, but likely good-enough for many use c
 * Python script to check HTTP security headers [https://github.com/juerkkil/securityheaders](https://github.com/juerkkil/securityheaders)  
 * sslyze [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
 * Sometimes it is important to carefully explore the content of given resources.  Here is an excellent, comprehensive Unicode reference [https://jrgraphix.net/research/unicode_blocks.php](https://jrgraphix.net/research/unicode_blocks.php)  
-* OK. You found your way to a remote shell or access to arbitrary remote code execution -- what next?  In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
+* OK. You found your way to a remote shell or access to arbitrary remote code execution -- what next?  
+  * In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
+  * If you land on a Windows platform: "WES-NG is a tool based on the output of Windows' systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities. Every Windows OS between Windows XP and Windows 11, including their Windows Server counterparts, is supported." [https://github.com/bitsadmin/wesng](https://github.com/bitsadmin/wesng)  
 * You will regularly need to know if something you started is finished, or get notified of an event you are waiting for.  [ntfy](https://ntfy.sh/) is a fantastic service that lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests. I use it to notify myself when scripts fail, or long-running commands complete. [https://ntfy.sh/](https://ntfy.sh/)  
+* OWASP BLT bug logging tool [https://github.com/OWASP-BLT/BLT](https://github.com/OWASP-BLT/BLT)  
 
 
 ### Pen testing Linux distros  
+* ArchStrike (idle since 2021) [https://archstrike.org](https://archstrike.org)  
 * BackBox  [https://backbox.org/](https://backbox.org/)  
 * Blackarch   [https://blackarch.org/](https://blackarch.org/) and [https://github.com/BlackArch/blackarch](https://github.com/BlackArch/blackarch)  
+* Caine Security [https://www.caine-live.net](https://www.caine-live.net)  
 * DemonLinux  [https://demonlinux.com/about.php](hhttps://demonlinux.com/about.php) 
 * Fedora Security Lab [https://labs.fedoraproject.org/en/security/](https://labs.fedoraproject.org/en/security/)  
 * Kali  [https://www.kali.org/](https://www.kali.org/)  
@@ -457,6 +467,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * Color your script output with [https://github.com/gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) or on Windows with [https://pypi.python.org/pypi/colorama](https://pypi.python.org/pypi/colorama)  
 * Colorpedia - a command-line tool for looking up colors, shades and palettes [https://github.com/joowani/colorpedia](https://github.com/joowani/colorpedia)  
 * "Python requests is slow and takes very long to complete HTTP or HTTPS request" -- This is fantastic troubleshooting guidance and advice! [https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request](https://stackoverflow.com/questions/62599036/python-requests-is-slow-and-takes-very-long-to-complete-http-or-https-request)  
+* nmappy may not be the right scanner for you, but you might find its Python source code might be interesting as it attempts to solve a range of network-centric challenges: [https://github.com/bitsadmin/nmappy/blob/master/nmappy.py](https://github.com/bitsadmin/nmappy/blob/master/nmappy.py)  
 * "Building a Full Stack Application with Flask and HTMx" [https://codecapsules.io/docs/tutorials/build-flask-htmx-app/](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/) and [https://github.com/codecapsules-io/demo-flask-htmx](https://github.com/codecapsules-io/demo-flask-htmx)  
 * Generate *random* user agent strings  
   * [https://pypi.org/project/random-user-agent/](https://pypi.org/project/random-user-agent/)  
@@ -495,9 +506,12 @@ and
 ### Crypto  
 * Matthew Green's List of Crypto Resources: [http://blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
 * Crypto101: an introductory course on cryptography. [https://www.crypto101.io/](https://www.crypto101.io/)  
+* A good place to get an overview of the correct tools to use for modern cryptography is "(Updated) Cryptographic Right Answers" by [Thomas Ptacek](https://github.com/tqbf) (*Thank you [William Bond](https://github.com/wbond/oscrypto/blob/master/docs/readme.md#modern-cryptography)*): [https://gist.github.com/tqbf/be58d2d39690c3b366ad](https://gist.github.com/tqbf/be58d2d39690c3b366ad)  
 * [Peter Gutmann](https://www.cs.auckland.ac.nz/~pgut001/) (*a researcher at the University of Auckland*) assembled his "godzilla crypto tutorial," including 973 slides in 12 parts at: https://www.cs.auckland.ac.nz/~pgut001/tutorial/index.html  Although this material is not new, it still seems like a resource that will be of value to many.  
 * pyca/cryptography - A package providing cryptographic recipes and primitives to Python developers, with the goal of being your "cryptographic standard library". [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
+* A fast, pure Python library for parsing and serializing ASN.1 structures. [https://github.com/wbond/asn1crypto](https://github.com/wbond/asn1crypto)  
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
+* PyNaCl: Python binding to the libsodium library [https://github.com/pyca/pynacl](https://github.com/pyca/pynacl)  
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
 * Or search for other projects (*there are lots of them*) with: [https://github.com/search?q=cryptography&type=repositories](https://github.com/search?q=cryptography&type=repositories)  
 * **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
@@ -529,6 +543,7 @@ and
 ### Information Sources for your Security Investigations  
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
+ * What defines a “material” cybersecurity incident? Lacework released a Securities and Exchange Commission (SEC) materiality framework paper [https://www.lacework.com/resource/sec-materiality-framework.html](https://www.lacework.com/resource/sec-materiality-framework.html)  
  * Awesome OSINT [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)  
  * Ammar Amer's OSINT resources [https://github.com/blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)  
  * Discover Your Attack Surface [https://github.com/intrigueio/intrigue-core](https://github.com/intrigueio/intrigue-core)  
@@ -583,11 +598,15 @@ A starter list of information sources for your security investigations & integra
 * [Mathics](https://mathics.org/) is a general-purpose computer algebra system (CAS).  The mathics-core repository contains just the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them. [https://github.com/Mathics3/mathics-core](https://github.com/Mathics3/mathics-core)  
 
 
-### Text to Speech  
+### Text to Speech / Speech to Text   
 * eSpeak NG [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)  
 * Using eSpeak and eSpeakNG [https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/](https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/)  
 * eSpeak NG TTS Bindings for Python3 [https://github.com/sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python)  
 * Larynx -- This engine provides a complete text-to-speech solution for 9 languages in as many as 50 voices and can be used without any proprietary cloud services (*each voice is roughly 250MB*). This project includes an *easy path* using a Docker image. [https://github.com/rhasspy/larynx](https://github.com/rhasspy/larynx)  
+* RealtimeTTS is a state-of-the-art text-to-speech (TTS) library designed for real-time applications. It stands out in its ability to convert text streams fast into high-quality auditory output with minimal latency. [https://github.com/KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS)  
+  * Also see its cousin, RealtimeSTT "Easy-to-use, low-latency speech-to-text library for realtime applications." [https://github.com/KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)  
+* Speech-to-text app "Linguflex" includes local TTS. [https://github.com/KoljaB/Linguflex](https://github.com/KoljaB/Linguflex)  
+
 
 
 ### Random Cheat Sheets  
