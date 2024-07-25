@@ -151,6 +151,7 @@ Understanding how the adversary operates is essential to effective cyber securit
    * Associated with Common Weakness Enumeration (CWE)  
     [http://capec.mitre.org/data/](http://capec.mitre.org/data/)  
 * Example Attack Taxonomy from CAPEC [http://capec.mitre.org/data/definitions/2000.html](http://capec.mitre.org/data/definitions/2000.html)  
+* "The Universal Cloud Threat Model" [https://securosis.com/research/papers/the-universal-cloud-threat-model-for-cloud-native-security/?utm_source=tldrinfosec](https://securosis.com/research/papers/the-universal-cloud-threat-model-for-cloud-native-security/?utm_source=tldrinfosec)  
 * "The STRIDE Threat Model." [http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx](http://msdn.microsoft.com/en-US/library/ee823878(v=cs.20).aspx)  
 * "Improving Web Application Security: Chapter 3, Threat Modeling -- Threats and Countermeasures."  [http://msdn.microsoft.com/en-us/library/ff648644.aspx](http://msdn.microsoft.com/en-us/library/ff648644.aspx) (In depth review of STRIDE and DREAD.)  
 *  NIST's SP 800-160 Vol. 1 Rev. 1 (2022) "Engineering Trustworthy Secure Systems."  With special attention to the 30 security principles in "Appendix E. Principles for Trustworthy Secure Design."  [https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1-rev-1/final)  
@@ -273,6 +274,7 @@ and then self-destructs.  It is imperfect, but likely good-enough for many use c
   * In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
   * If you land on a Windows platform: "WES-NG is a tool based on the output of Windows' systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities. Every Windows OS between Windows XP and Windows 11, including their Windows Server counterparts, is supported." [https://github.com/bitsadmin/wesng](https://github.com/bitsadmin/wesng)  
 * You will regularly need to know if something you started is finished, or get notified of an event you are waiting for.  [ntfy](https://ntfy.sh/) is a fantastic service that lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests. I use it to notify myself when scripts fail, or long-running commands complete. [https://ntfy.sh/](https://ntfy.sh/)  
+* OWASP BLT bug logging tool [https://github.com/OWASP-BLT/BLT](https://github.com/OWASP-BLT/BLT)  
 
 
 ### Pen testing Linux distros  
@@ -541,6 +543,7 @@ and
 ### Information Sources for your Security Investigations  
 A starter list of information sources for your security investigations & integrations:  
 (Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
+ * What defines a “material” cybersecurity incident? Lacework released a Securities and Exchange Commission (SEC) materiality framework paper [https://www.lacework.com/resource/sec-materiality-framework.html](https://www.lacework.com/resource/sec-materiality-framework.html)  
  * Awesome OSINT [https://github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)  
  * Ammar Amer's OSINT resources [https://github.com/blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)  
  * Discover Your Attack Surface [https://github.com/intrigueio/intrigue-core](https://github.com/intrigueio/intrigue-core)  
