@@ -707,6 +707,7 @@ A starter list of information sources for your security investigations & integra
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  * Kite Blog: [https://kite.com/blog](https://kite.com/blog)  
  * AWS Week in Review: [https://aws.amazon.com/blogs/aws/tag/week-in-review/](https://aws.amazon.com/blogs/aws/tag/week-in-review/)  
+ * Center for the Study of Intelligence (CSI) Books and Monographs.  https://www.cia.gov/resources/csi/books-and-monographs/
   
    
 ### Software Defined Radio (SDR)  
@@ -834,6 +835,7 @@ Here are some resources to learn more about this topic:
 * Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
 ### Temporary list for work tools or other resources requiring more follow-up  
+* Center for the Study of Intelligence (CSI) Books and Monographs.  https://www.cia.gov/resources/csi/books-and-monographs/
 * The Rust-lang Book [https://github.com/rust-lang/book](https://github.com/rust-lang/book)  
 * An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences. [Joel Parker Henderson](https://github.com/joelparkerhenderson) has a lot of resources to get you started at: [https://github.com/joelparkerhenderson/architecture-decision-record/tree/main](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main)  
 * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
