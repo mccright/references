@@ -165,6 +165,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Use Cases and Requirements on HTTPS-enabled Local Network Servers [https://httpslocal.github.io/usecases/](https://httpslocal.github.io/usecases/), [https://www.w3.org/community/httpslocal/](https://www.w3.org/community/httpslocal/) and [https://github.com/httpslocal/proposals/tree/master](https://github.com/httpslocal/proposals/tree/master)  
 
 ### Web Application Vulnerability Analysis and Pen Testing  
+* The Secure ur Ass By Learning Cybersecurity repository [SUASS](https://github.com/GTekSD/SUASS). It describes itself as "a comprehensive resource for cybersecurity professionals, students, beginners, and anyone interested in the field of cybersecurity. Here, you'll find a wide range of cybersecurity study materials to help you enhance your knowledge and skills." [https://github.com/GTekSD/SUASS](https://github.com/GTekSD/SUASS)  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
