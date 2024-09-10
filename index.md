@@ -10,11 +10,11 @@ and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
-### [Putin's war](https://en.wikipedia.org/wiki/Russo-Ukrainian_War):  
-* Don't ignore it.  See: [Putin's war in Ukraine](https://github.com/mccright/rand-notes/blob/master/Putins-war-in-Ukraine.md)  
+### Putin's war:  
+* Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War) or my always out of date mess: [Putin's war in Ukraine](https://github.com/mccright/rand-notes/blob/master/Putins-war-in-Ukraine.md)  
 
-### [Trump's Indictments](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump):  
-* Don't ignore them.  See: [Four Main Indictments Against Trump](https://github.com/mccright/rand-notes/blob/master/Trump-in-four-separate-criminal-cases.md)  
+### Trump's Indictments:  
+* Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump) or my much less comprehensive and always out of date mess on the topic: [Four Main Indictments Against Trump](https://github.com/mccright/rand-notes/blob/master/Trump-in-four-separate-criminal-cases.md)  
 
 ### Back to the References  
 * Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  When used with sensitivity and care it can materially enhance productivity in many roles.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
@@ -165,6 +165,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * Use Cases and Requirements on HTTPS-enabled Local Network Servers [https://httpslocal.github.io/usecases/](https://httpslocal.github.io/usecases/), [https://www.w3.org/community/httpslocal/](https://www.w3.org/community/httpslocal/) and [https://github.com/httpslocal/proposals/tree/master](https://github.com/httpslocal/proposals/tree/master)  
 
 ### Web Application Vulnerability Analysis and Pen Testing  
+* The Secure ur Ass By Learning Cybersecurity repository [SUASS](https://github.com/GTekSD/SUASS). It describes itself as "a comprehensive resource for cybersecurity professionals, students, beginners, and anyone interested in the field of cybersecurity. Here, you'll find a wide range of cybersecurity study materials to help you enhance your knowledge and skills." [https://github.com/GTekSD/SUASS](https://github.com/GTekSD/SUASS)  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
 * ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
@@ -707,6 +708,7 @@ A starter list of information sources for your security investigations & integra
  * DDoS Illustrations at [http://www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  * Kite Blog: [https://kite.com/blog](https://kite.com/blog)  
  * AWS Week in Review: [https://aws.amazon.com/blogs/aws/tag/week-in-review/](https://aws.amazon.com/blogs/aws/tag/week-in-review/)  
+ * Center for the Study of Intelligence (CSI) Books and Monographs.  https://www.cia.gov/resources/csi/books-and-monographs/
   
    
 ### Software Defined Radio (SDR)  
@@ -834,6 +836,7 @@ Here are some resources to learn more about this topic:
 * Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
 ### Temporary list for work tools or other resources requiring more follow-up  
+* Center for the Study of Intelligence (CSI) Books and Monographs.  https://www.cia.gov/resources/csi/books-and-monographs/
 * The Rust-lang Book [https://github.com/rust-lang/book](https://github.com/rust-lang/book)  
 * An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences. [Joel Parker Henderson](https://github.com/joelparkerhenderson) has a lot of resources to get you started at: [https://github.com/joelparkerhenderson/architecture-decision-record/tree/main](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main)  
 * How have I known about ripgrep (rg) - an excellent '*grep*' for searching through files in a directory tree? [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)  
