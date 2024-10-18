@@ -169,6 +169,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * The Secure ur Ass By Learning Cybersecurity repository [SUASS](https://github.com/GTekSD/SUASS). It describes itself as "a comprehensive resource for cybersecurity professionals, students, beginners, and anyone interested in the field of cybersecurity. Here, you'll find a wide range of cybersecurity study materials to help you enhance your knowledge and skills." [https://github.com/GTekSD/SUASS](https://github.com/GTekSD/SUASS)  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
+* Tooling is great, but understanding how software systems fail is a critical capability as well.  See "[Be Suspicious of Success, Successful software is buggy software](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)" for some input about what to think about when "testing."
 * ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
 * Osmedeus - a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets. [https://github.com/j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)  
 * Mantis - command-line framework designed to automate the workflow of asset discovery, reconnaissance, and scanning [https://github.com/PhonePe/mantis](https://github.com/PhonePe/mantis)  
@@ -584,6 +585,7 @@ A starter list of information sources for your security investigations & integra
  * Buster, An advanced tool for email reconnaissance [https://github.com/sham00n/buster](https://github.com/sham00n/buster)  
  * WayBulk, Search a list of domains on the wayback machine [https://github.com/sham00n/waybulk](https://github.com/sham00n/waybulk)  
  * General outline of information about a specific host or domain [https://webrate.org/site/website-hostname/](https://webrate.org/site/website-hostname/) (**replace "*website-hostname*" with your target.**)  
+ * Bluetooth "Wall of Sheep." "A little app that discovers bluetooth devices near by and displays them on a board." https://github.com/skittleson/bluetooth-wos  
 
 
 ### Math and Statistics  
