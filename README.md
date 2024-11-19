@@ -11,10 +11,10 @@ Collection of reusable references
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
 ### Putin's war:  
-* Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War) or my always out of date mess: [Putin's war in Ukraine](https://github.com/mccright/rand-notes/blob/master/Putins-war-in-Ukraine.md)  
+* Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War)  
 
 ### Trump's Indictments:  
-* Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump) or my much less comprehensive and always out of date mess on the topic: [Four Main Indictments Against Trump](https://github.com/mccright/rand-notes/blob/master/Trump-in-four-separate-criminal-cases.md)  
+* Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump). Update late 2024: The combination of Trump's election to the U.S. Presidency and his "*total immunity*" [gift from the U.S. Supreme Court](https://en.wikipedia.org/wiki/Trump_v._United_States_(2024)) any judicial activity on this front seems unlikely and he will be free from all criminal prosecutions.  Adults can still consider Trump's behaviors in the context of more than 200 years of executive branch norms -- his likely criminality is an extreme outlier.  Ugg...  
 
 ### Back to the References  
 * Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  When used with sensitivity and care it can materially enhance productivity in many roles.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
@@ -25,6 +25,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
   * We need to act on many, many fronts, but there are some offenders that deserve special attention.  For example, please *[Treat Big Oil and Big Ag Like Big Tobacco](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md#treat-big-oil-and-big-ag-like-big-tobacco)*  
   * I have begun to accumulate links to some of my climate reading (*and planned reading*) in another repository [https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md)  
+  * As an easy-to-understand illustration of climate change see the [USDA Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/).  Look at these maps from previous decades to see warmer winters creep north.  
 * Find something new/different to read with [Libby](https://www.overdrive.com/apps/libby), the library reading app, you can use to borrow ebooks, audiobooks, magazines, and more from your local library for free.  Libby is the newer library reading app by OverDrive. See: https://www.overdrive.com/apps/libby or take a more commercial route through    [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
 * Explore these falsehoods (*too many*) programmers believe in (*which too often produce errors at runtime*) -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
@@ -839,7 +840,7 @@ This is a subset of the longer list at: https://ifcncodeofprinciples.poynter.org
 Here are some resources to learn more about this topic:  
 * Open-Source Quantum Development.  Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. (*Python 3.7+ in a virtual environment with Anaconda*) [quiskit](https://www.qiskit.org/)  
 * IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
-* Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
+* I have some old, unmaintained resources at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
 ### Temporary list for work tools or other resources requiring more follow-up  
 * Center for the Study of Intelligence (CSI) Books and Monographs.  https://www.cia.gov/resources/csi/books-and-monographs/
