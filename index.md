@@ -11,10 +11,10 @@ Collection of reusable references
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
 ### Putin's war:  
-* Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War) or my always out of date mess: [Putin's war in Ukraine](https://github.com/mccright/rand-notes/blob/master/Putins-war-in-Ukraine.md)  
+* Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War)  
 
 ### Trump's Indictments:  
-* Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump) or my much less comprehensive and always out of date mess on the topic: [Four Main Indictments Against Trump](https://github.com/mccright/rand-notes/blob/master/Trump-in-four-separate-criminal-cases.md)  
+* Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump). Update late 2024: The combination of Trump's election to the U.S. Presidency and his "*total immunity*" [gift from the U.S. Supreme Court](https://en.wikipedia.org/wiki/Trump_v._United_States_(2024)) any judicial activity on this front seems unlikely and he will be free from all criminal prosecutions.  Adults can still consider Trump's behaviors in the context of more than 200 years of executive branch norms -- his likely criminality is an extreme outlier.  Ugg...  
 
 ### Back to the References  
 * Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  When used with sensitivity and care it can materially enhance productivity in many roles.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
@@ -25,6 +25,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Begin [or continue] to work individually and collectively to slow climate change.  Little of what we do is relevant in a world destablized by climate change.  
   * We need to act on many, many fronts, but there are some offenders that deserve special attention.  For example, please *[Treat Big Oil and Big Ag Like Big Tobacco](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md#treat-big-oil-and-big-ag-like-big-tobacco)*  
   * I have begun to accumulate links to some of my climate reading (*and planned reading*) in another repository [https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md](https://github.com/mccright/rand-notes/blob/master/Climate-Resources.md)  
+  * As an easy-to-understand illustration of climate change see the [USDA Plant Hardiness Zone Map](https://planthardiness.ars.usda.gov/).  Look at these maps from previous decades to see warmer winters creep north.  
 * Find something new/different to read with [Libby](https://www.overdrive.com/apps/libby), the library reading app, you can use to borrow ebooks, audiobooks, magazines, and more from your local library for free.  Libby is the newer library reading app by OverDrive. See: https://www.overdrive.com/apps/libby or take a more commercial route through    [https://books.google.com/](https://books.google.com/?hl=en&tab=pp)  
 * Explore these falsehoods (*too many*) programmers believe in (*which too often produce errors at runtime*) -- Awesome Falsehood [https://github.com/kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)  
 * Or, if you are needing a break from your normal grind, join others doing people-powered research [https://www.zooniverse.org/projects?page=1&status=live](https://www.zooniverse.org/projects?page=1&status=live)  
@@ -125,6 +126,8 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [https://github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 * There are situations where you may be given a repository without any accompanying information... What is in the repo?? *[crazymax](https://crazymax.dev/)* assembled a Docker image -- [crazymax/docker-linguist](https://github.com/crazy-max/docker-linguist) -- that runs [GitHub Linguist](https://github.com/github/linguist), a library used on GitHub.com to detect blob languages.  You can use is to easily, quickly and *reasonable accurately* identify what languages are used in a given local repository.  Here are some examples of it in use:  [https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository](https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository)  
 * Vulns: Vulnerability scanner for Linux/FreeBSD, agent-less, written in Go. [https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)  
+* This is tool to build a local copy of the CPE (Common Platform Enumeration) https://github.com/vulsio/go-cpe-dictionary  
+* boofuzz: Network Protocol Fuzzing for Humans (*Boofuzz is a fork of and the successor to the venerable [Sulley](https://github.com/OpenRCE/sulley) fuzzing framework.*) https://github.com/jtpereyda/boofuzz  
   
 ### Architecture Risk Analysis  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
@@ -163,11 +166,13 @@ Understanding how the adversary operates is essential to effective cyber securit
 * "A Complete Guide to the Common Vulnerability Scoring System Version 3.1" [https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf](https://www.first.org/cvss/v3-1/cvss-v31-specification_r1.pdf)  
 * The System Design Primer [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
 * Use Cases and Requirements on HTTPS-enabled Local Network Servers [https://httpslocal.github.io/usecases/](https://httpslocal.github.io/usecases/), [https://www.w3.org/community/httpslocal/](https://www.w3.org/community/httpslocal/) and [https://github.com/httpslocal/proposals/tree/master](https://github.com/httpslocal/proposals/tree/master)  
+* I have no direct association with Tesla or Tesla engineering efforts, but based on my reading of general news and narrow analysis of descriptions of Tesla's auto-driving and its AI it seems like a material failure of their Architecture Risk Analysis practices.  See: "Tesla Self-Driving Deaths." The [linked map](https://dawnproject.com/nhtsa-map-1/) indicates registered deaths associated with Tesla’s self-driving software since 2016 in the United States. The information contains fatalities recorded by NHTSA’s Standing General Order on Crash Reporting for Level 2 ADAS-equipped vehicles since its inception in June 2021, and confirmed self-driving deaths pre-dating NHTSA’s database of crash statistics: [https://dawnproject.com/nhtsa-map-1/](https://dawnproject.com/nhtsa-map-1/).  If crash and death numbers are not convincing, you might look at some videos by [The Dawn Project](https://dawnproject.com/) of Tesla's Full Self-Driving AI: https://vimeo.com/988491613/fcfcdf7190 (Blow past stopped school buses), https://vimeo.com/942153183/9b3848b364 (Run down children crossing the road) or https://vimeo.com/843429267/bc871414fd (Blow through stop signs).   
 
 ### Web Application Vulnerability Analysis and Pen Testing  
 * The Secure ur Ass By Learning Cybersecurity repository [SUASS](https://github.com/GTekSD/SUASS). It describes itself as "a comprehensive resource for cybersecurity professionals, students, beginners, and anyone interested in the field of cybersecurity. Here, you'll find a wide range of cybersecurity study materials to help you enhance your knowledge and skills." [https://github.com/GTekSD/SUASS](https://github.com/GTekSD/SUASS)  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
+* Tooling is great, but understanding how software systems fail is a critical capability as well.  See "[Be Suspicious of Success, Successful software is buggy software](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)" for some input about what to think about when "testing."
 * ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
 * Osmedeus - a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets. [https://github.com/j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)  
 * Mantis - command-line framework designed to automate the workflow of asset discovery, reconnaissance, and scanning [https://github.com/PhonePe/mantis](https://github.com/PhonePe/mantis)  
@@ -514,6 +519,7 @@ and
 * Compiler-free Python crypto library [https://github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
 * PyNaCl: Python binding to the libsodium library [https://github.com/pyca/pynacl](https://github.com/pyca/pynacl)  
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
+  * Here is an example of using CyberChef to to deobfuscate malware: ["Advanced Cyberchef Techniques - Defeating Nanocore Obfuscation With Math and Flow Control"](https://www.embeeresearch.io/advanced-cyberchef-techniques-defeating-nanocore-obfuscation-with-math-and-flow-control/)  
 * Or search for other projects (*there are lots of them*) with: [https://github.com/search?q=cryptography&type=repositories](https://github.com/search?q=cryptography&type=repositories)  
 * **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
   * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
@@ -582,6 +588,7 @@ A starter list of information sources for your security investigations & integra
  * Buster, An advanced tool for email reconnaissance [https://github.com/sham00n/buster](https://github.com/sham00n/buster)  
  * WayBulk, Search a list of domains on the wayback machine [https://github.com/sham00n/waybulk](https://github.com/sham00n/waybulk)  
  * General outline of information about a specific host or domain [https://webrate.org/site/website-hostname/](https://webrate.org/site/website-hostname/) (**replace "*website-hostname*" with your target.**)  
+ * Bluetooth "Wall of Sheep." "A little app that discovers bluetooth devices near by and displays them on a board." https://github.com/skittleson/bluetooth-wos  
 
 
 ### Math and Statistics  
@@ -833,7 +840,7 @@ This is a subset of the longer list at: https://ifcncodeofprinciples.poynter.org
 Here are some resources to learn more about this topic:  
 * Open-Source Quantum Development.  Qiskit [quiss-kit] is an open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. (*Python 3.7+ in a virtual environment with Anaconda*) [quiskit](https://www.qiskit.org/)  
 * IBM Quantum Lab [https://quantum-computing.ibm.com/lab](https://quantum-computing.ibm.com/lab)  
-* Also see my resources page at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
+* I have some old, unmaintained resources at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
 ### Temporary list for work tools or other resources requiring more follow-up  
 * Center for the Study of Intelligence (CSI) Books and Monographs.  https://www.cia.gov/resources/csi/books-and-monographs/
