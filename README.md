@@ -12,7 +12,7 @@ Collection of reusable references
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
 ### Putin's war:  
-* Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War)  
+* Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War). And resist/confront [Trump 47’s early efforts](https://www.axios.com/2025/03/04/trump-russia-ukraine-policy-pro-putin) to strengthen ties with Putin.  
 
 ### Trump's Indictments:  
 * Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump). Update March 2025: The combination of Trump's election to the U.S. Presidency and his "*total immunity*" [gift from the U.S. Supreme Court](https://en.wikipedia.org/wiki/Trump_v._United_States_(2024)) any judicial activity on this front seems unlikely and he will be free from all pending criminal prosecutions.  Adults can still consider Trump's behaviors in the context of more than 200 years of executive branch norms and his activities to disassemble/eliminate administrative and security functions across the Federal government, along with his ignoring Court orders -- his likely criminality is an extreme outlier.  Ugg...  
