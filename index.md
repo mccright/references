@@ -614,7 +614,7 @@ A starter list of information sources for your security investigations & integra
 * RealtimeTTS is a state-of-the-art text-to-speech (TTS) library designed for real-time applications. It stands out in its ability to convert text streams fast into high-quality auditory output with minimal latency. [https://github.com/KoljaB/RealtimeTTS](https://github.com/KoljaB/RealtimeTTS)  
   * Also see its cousin, RealtimeSTT "Easy-to-use, low-latency speech-to-text library for realtime applications." [https://github.com/KoljaB/RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)  
 * Speech-to-text app "Linguflex" includes local TTS. [https://github.com/KoljaB/Linguflex](https://github.com/KoljaB/Linguflex)  
-
+* NanoTTS: Speech synthesizer commandline utility (*Thank you Gregory Naughton*) [https://github.com/gmn/nanotts](https://github.com/gmn/nanotts)  
 
 
 ### Random Cheat Sheets  
@@ -742,6 +742,8 @@ A starter list of information sources for your security investigations & integra
   
   
 ### Temporary list for new work tools  
+* Review this Awesome Docker list/resource from time to time: https://github.com/veggiemonk/awesome-docker  
+* Review this Awesome Remote Job list/resource to see if there is anything useful to me: https://github.com/lukasz-madon/awesome-remote-job  
 * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
 * A collection of minimal Docker images: [https://github.com/vektorcloud](https://github.com/vektorcloud)  
 * Another collection of specialized Docker images: [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
@@ -843,6 +845,8 @@ Here are some resources to learn more about this topic:
 * I have some old, unmaintained resources at [https://github.com/mccright/rand-notes/blob/master/quantum-computing.md](https://github.com/mccright/rand-notes/blob/master/quantum-computing.md)  
 
 ### Temporary list for work tools or other resources requiring more follow-up  
+* SVAR - Simple Voice Activated Recorder. https://github.com/Arkq/svar  
+* Alien invasion shoot-em-up that runs in a terminal with bash (*everyone needs a break once in a while*): https://github.com/vaniacer/piu-piu-SH/  
 * Center for the Study of Intelligence (CSI) Books and Monographs.  https://www.cia.gov/resources/csi/books-and-monographs/
 * The Rust-lang Book [https://github.com/rust-lang/book](https://github.com/rust-lang/book)  
 * An architecture decision record (ADR) is a document that captures an important architecture decision made along with its context and consequences. [Joel Parker Henderson](https://github.com/joelparkerhenderson) has a lot of resources to get you started at: [https://github.com/joelparkerhenderson/architecture-decision-record/tree/main](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main)  
@@ -850,6 +854,7 @@ Here are some resources to learn more about this topic:
 * Get Windows Token Information [https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1](https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Get-OSTokenInformation.ps1) 
 * flaskql-playground [https://github.com/cmpilato/flaskql-playground](https://github.com/cmpilato/flaskql-playground)  
 * also look into [https://github.com/yangyuexiong/Flask_BestPractices](https://github.com/yangyuexiong/Flask_BestPractices)  
+* and this little model Flask app: https://github.com/gmn/PythonWeb/  
 * fedy: Fedora post-install tool to install multimedia codecs and additional software that Fedora doesn't want to ship, like H264 support, Adobe Flash (*don't do Flash unless it is absolutely necessary for some materially-important purpose*), Oracle Java etc., and much more with just a few clicks [https://github.com/rpmfusion-infra/fedy](https://github.com/rpmfusion-infra/fedy)  
 * Sometimes you are given data with no description of its layout/nature.  Here are two data exploration utilities:  
 * Flenser [https://github.com/JohnMcCambridge/flenser](https://github.com/JohnMcCambridge/flenser)  
@@ -896,7 +901,7 @@ Here are some resources to learn more about this topic:
  
 ### Other  
 * Learn more about what your github repos can do for you: [https://github.com/joelparkerhenderson/github-special-files-and-paths](https://github.com/joelparkerhenderson/github-special-files-and-paths)  
-* Where are the power outages? [https://poweroutage.com/](https://poweroutage.com/)  
+* Where are the power outages? [https://poweroutage.com/](https://poweroutage.com/) and [https://poweroutage.us/](https://poweroutage.us/)  
 * Fear & Greed Index [https://money.cnn.com/data/fear-and-greed/](https://money.cnn.com/data/fear-and-greed/)  
 * The **best** command line stock price grabber for a quick sanity check! Thank you Patrick Stadler. [https://github.com/pstadler/ticker.sh](https://github.com/pstadler/ticker.sh)  
 * And another great-looking command line stock price grabber: ```curl https://terminal-stocks.herokuapp.com/SYMBOL```.  Thank you Shashi Prakash Gautam for your excellent server. [https://github.com/shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks)  
