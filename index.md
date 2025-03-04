@@ -3,9 +3,9 @@ references
 
 Remember: *If you're not paying for it, you're the product.*  
 and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"  
->"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." *[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*  
->"The fact that there are pressures and costs does not absolve people of their moral responsibility.  The primary custodian of one's actions is oneself." [Noam Chomsky Tue, 3 Apr 2018 - quoted by Timothy Holborn](https://www.w3.org/community/humancentricai/)  
->"A lie is a fiction made up to take away someone else's power." [Elizabeth Mitchell, Guernica Magazine. Essay/Lit World/Politics, January 15, 2021](https://www.guernicamag.com/in-the-land-of-fiction-and-fake-news/)  
+>"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." <small>*[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*</small>  
+>"The fact that there are pressures and costs does not absolve people of their moral responsibility.  The primary custodian of one's actions is oneself." <small>[Noam Chomsky Tue, 3 Apr 2018 - quoted by Timothy Holborn](https://www.w3.org/community/humancentricai/)</small>  
+>"A lie is a fiction made up to take away someone else's power." <small>[Elizabeth Mitchell, Guernica Magazine. Essay/Lit World/Politics, January 15, 2021](https://www.guernicamag.com/in-the-land-of-fiction-and-fake-news/)</small>  
 
 Collection of reusable references  
 Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
@@ -14,7 +14,7 @@ Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/r
 * Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War)  
 
 ### Trump's Indictments:  
-* Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump). Update late 2024: The combination of Trump's election to the U.S. Presidency and his "*total immunity*" [gift from the U.S. Supreme Court](https://en.wikipedia.org/wiki/Trump_v._United_States_(2024)) any judicial activity on this front seems unlikely and he will be free from all criminal prosecutions.  Adults can still consider Trump's behaviors in the context of more than 200 years of executive branch norms -- his likely criminality is an extreme outlier.  Ugg...  
+* Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump). Update March 2025: The combination of Trump's election to the U.S. Presidency and his "*total immunity*" [gift from the U.S. Supreme Court](https://en.wikipedia.org/wiki/Trump_v._United_States_(2024)) any judicial activity on this front seems unlikely and he will be free from all pending criminal prosecutions.  Adults can still consider Trump's behaviors in the context of more than 200 years of executive branch norms and his activities to disassemble/eliminate administrative and security functions across the Federal government, along with his ignoring Court orders -- his likely criminality is an extreme outlier.  Ugg...  
 
 ### Back to the References  
 * Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat) (*there are look-alike scams*).  It is impressive technology.  When used with sensitivity and care it can materially enhance productivity in many roles.  [ChatGPT](https://chat.openai.com/auth/login) can be unavailable during peak hours.  
