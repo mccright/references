@@ -4,6 +4,7 @@ references
 Remember: *If you're not paying for it, you're the product.*  
 and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"  
 >"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." <small>*[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*</small>  
+>"What matters most, is what people, human people, we, do. not what other people do…" <small>[Timothy Holborn](https://www.w3.org/community/humancentricai/2023/04/05/join-the-w3c-human-centric-ai-community-group-and-help-build-a-better-future-for-all/)</small>  
 >"The fact that there are pressures and costs does not absolve people of their moral responsibility.  The primary custodian of one's actions is oneself." <small>[Noam Chomsky Tue, 3 Apr 2018 - quoted by Timothy Holborn](https://www.w3.org/community/humancentricai/)</small>  
 >"A lie is a fiction made up to take away someone else's power." <small>[Elizabeth Mitchell, Guernica Magazine. Essay/Lit World/Politics, January 15, 2021](https://www.guernicamag.com/in-the-land-of-fiction-and-fake-news/)</small>  
 
