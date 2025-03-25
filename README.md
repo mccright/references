@@ -788,7 +788,7 @@ A starter list of information sources for your security investigations & integra
 * A python script that generates different sizes favicons from one image [https://github.com/Hecsall/favicon-generator](https://github.com/Hecsall/favicon-generator)  
 
 
-### Bash Shell  
+### Bash Shell and Terminals More Broadly  
 * [https://github.com/alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)  
 * Bash scripting CheatSheet [https://devhints.io/bash](https://devhints.io/bash)  
 * Bash for the shell novice:  
@@ -801,6 +801,12 @@ A starter list of information sources for your security investigations & integra
 * [https://github.com/herrbischoff/awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)  
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
 * A collection of one-liners [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
+* Terminal Browsers:  It happens that needing *freeform* access to explore some Internet resources while constrained to a terminal interface is not that uncommon. Here are a some options (*thanks to Mats Tage Axelsson, [LXF280](https://linuxformat.com/linux-format-280.html)*)  
+  * [Elinks]()  
+  * [w3m]()  
+  * [browsh]()  
+  * [Links]()  
+  * [Lynx](https://lynx.browser.org/)  
 
 
 ### Misinformation / Disinformation are Rampant -- Check Those 'Facts'  
