@@ -802,10 +802,9 @@ A starter list of information sources for your security investigations & integra
 * A beginner's guide to setting up a development environment on macOS [https://github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
 * A collection of one-liners [https://github.com/jlevy/the-art-of-command-line#one-liners](https://github.com/jlevy/the-art-of-command-line#one-liners)  
 * Terminal Browsers:  It happens that needing *freeform* access to explore some Internet resources while constrained to a terminal interface is not that uncommon. Here are a some options (*thanks to Mats Tage Axelsson, [LXF280](https://linuxformat.com/linux-format-280.html)*)  
-  * [Elinks]()  
-  * [w3m]()  
-  * [browsh]()  
-  * [Links]()  
+  * [Elinks](https://github.com/rkd77/elinks)  
+  * [w3m](https://w3m.sourceforge.net) and for Debian, updated [w3m](https://github.com/tats/w3m)  
+  * [browsh](https://brow.sh)  
   * [Lynx](https://lynx.browser.org/)  
 
 
