@@ -747,6 +747,7 @@ A starter list of information sources for your security investigations & integra
   
   
 ### Temporary list for new work tools  
+* U.S. and World Population Clock: https://www.census.gov/popclock/  
 * Review this Awesome Docker list/resource from time to time: https://github.com/veggiemonk/awesome-docker  
 * Review this Awesome Remote Job list/resource to see if there is anything useful to me: https://github.com/lukasz-madon/awesome-remote-job  
 * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
