@@ -133,6 +133,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Vulns: Vulnerability scanner for Linux/FreeBSD, agent-less, written in Go. [https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)  
 * This is tool to build a local copy of the CPE (Common Platform Enumeration) https://github.com/vulsio/go-cpe-dictionary  
 * boofuzz: Network Protocol Fuzzing for Humans (*Boofuzz is a fork of and the successor to the venerable [Sulley](https://github.com/OpenRCE/sulley) fuzzing framework.*) https://github.com/jtpereyda/boofuzz  
+* mdinfo: Meta Data Info (mdinfo) is a command line tool for printing metadata information about files. [https://github.com/RhetTbull/mdinfo](https://github.com/RhetTbull/mdinfo)  
   
 ### Architecture Risk Analysis  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
@@ -526,6 +527,7 @@ and
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
   * Here is an example of using CyberChef to to deobfuscate malware: ["Advanced Cyberchef Techniques - Defeating Nanocore Obfuscation With Math and Flow Control"](https://www.embeeresearch.io/advanced-cyberchef-techniques-defeating-nanocore-obfuscation-with-math-and-flow-control/)  
 * Or search for other projects (*there are lots of them*) with: [https://github.com/search?q=cryptography&type=repositories](https://github.com/search?q=cryptography&type=repositories)  
+* Or local search with monkeSearch [https://github.com/monkesearch/monkeSearch](https://github.com/monkesearch/monkeSearch)  
 * **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
   * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
   * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
@@ -612,6 +614,7 @@ A starter list of information sources for your security investigations & integra
 
 
 ### Text to Speech / Speech to Text   
+* VibeVoice: A Frontier Long Conversational Text-to-Speech Model [https://github.com/microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)  
 * eSpeak NG [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)  
 * Using eSpeak and eSpeakNG [https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/](https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/)  
 * eSpeak NG TTS Bindings for Python3 [https://github.com/sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python)  
@@ -748,6 +751,7 @@ A starter list of information sources for your security investigations & integra
   
 ### Temporary list for new work tools  
 * U.S. and World Population Clock: https://www.census.gov/popclock/  
+* readNum: This python project turns a number into a readable spelled-out form [https://github.com/theRealProHacker/readNum/](https://github.com/theRealProHacker/readNum/)  
 * Review this Awesome Docker list/resource from time to time: https://github.com/veggiemonk/awesome-docker  
 * Review this Awesome Remote Job list/resource to see if there is anything useful to me: https://github.com/lukasz-madon/awesome-remote-job  
 * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
