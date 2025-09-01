@@ -569,7 +569,7 @@ A starter list of information sources for your security investigations & integra
  * CIRCL (Computer Incident Response Center Luxembourg) for CVE lookups [https://www.circl.lu/](https://www.circl.lu/)  
  * Google Safe Browsing for URL lookups [https://safebrowsing.google.com/](https://safebrowsing.google.com/)  
  * Have I Been Pwned for Email lookups [https://haveibeenpwned.com](https://haveibeenpwned.com)  
- * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com[](https://exchange.xforce.ibmcloud.com/)  
+ * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com](https://exchange.xforce.ibmcloud.com/)  
  * IP Geo Tool {free} for your script integration: [https://tools.keycdn.com/geo.json?host={IP or hostname}](https://tools.keycdn.com/geo.json?host={IP or hostname}) Important: See [https://tools.keycdn.com/geo](https://tools.keycdn.com/geo) for configuring your request header User-Agent string correctly.  
  * MISP for MD5 and SHA2 [http://www.misp-project.org/](http://www.misp-project.org/)  
    * Also consider MISP Taxonomies for your integration work [https://github.com/MISP/misp-taxonomies/](https://github.com/MISP/misp-taxonomies/)  
