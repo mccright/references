@@ -396,6 +396,8 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 
 
 ### Python  
+* Describe the environment (sometimes for Python troubleshooting): https://github.com/rapidsai/cudf/blob/branch-25.10/print_env.sh  
+* Fun. Image2Text utilities: https://github.com/vietnh1009/ASCII-generator  
 * "The Complete Python Development Guide." [https://testdriven.io/guides/complete-python/](https://testdriven.io/guides/complete-python/)  
 * Hitchhiker's Guide to Python [https://github.com/realpython/python-guide](https://github.com/realpython/python-guide)  
   * and its 'Web Applications & Frameworks' section [https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst](https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst)  
