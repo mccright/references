@@ -1,13 +1,13 @@
 references
 ==========
 
-Remember: *If you're not paying for it, you're the product.*  
+Remember: *If you're not paying for it, you're the product.*🫲🏼  
 and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-waste-this-moment/)"  
 >"However the future unfolds, it's not something to be predicted, like the passage of a comet.  It's something we build." <small>*[by Robert Kunzig - behind a National Geographic paywall](https://www.nationalgeographic.com/magazine/article/lets-not-waste-this-crucial-moment-we-need-to-stop-abusing-the-planet-feature)*</small>  
 >"What matters most, is what people, human people, we, do. not what other people do…" *<small>[Timothy Holborn](https://www.w3.org/community/humancentricai/2023/04/05/join-the-w3c-human-centric-ai-community-group-and-help-build-a-better-future-for-all/)</small>*  
 >"The fact that there are pressures and costs does not absolve people of their moral responsibility.  The primary custodian of one's actions is oneself." *<small>[Noam Chomsky Tue, 3 Apr 2018 - quoted by Timothy Holborn](https://www.w3.org/community/humancentricai/)</small>*  
 >"A lie is a fiction made up to take away someone else's power." *<small>[Elizabeth Mitchell, Guernica Magazine. Essay/Lit World/Politics, January 15, 2021](https://www.guernicamag.com/in-the-land-of-fiction-and-fake-news/)</small>*  
-Core Values Matter:  Guiding principles shape our lives -- don't drift, [choose your priorities](https://www.thebehavioralscientist.com/list-of-values)  
+Core Values Matter:  Guiding principles shape our lives -- don't drift, [identify your priorities](https://www.thebehavioralscientist.com/list-of-values)  
 
 This is a collection of reusable references. Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
@@ -15,10 +15,10 @@ This is a collection of reusable references. Hosted at: [https://mccright.github
 * Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War). And resist/confront [Trump 47’s shameful early efforts](https://www.axios.com/2025/03/04/trump-russia-ukraine-policy-pro-putin) to strengthen ties with Putin by making material concessions **before** any negotiations about ending Putin's war with Ukraine.  
 
 ### Trump's Indictments:  
-* Don't ignore them.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump). Update March 2025: The combination of Trump's election to the U.S. Presidency and his "*total immunity*" [gift from the U.S. Supreme Court](https://en.wikipedia.org/wiki/Trump_v._United_States_(2024)) any judicial activity on this front seems unlikely and he will be free from all pending criminal prosecutions.  Adults can still acknowledge his 34 felony convictions and consider Trump's past and ongoing behaviors in the context of more than 200 years of executive branch norms and his activities to disassemble/eliminate administrative and security functions across the Federal government, along with his ignoring Court orders, his grift/extortion/corruption associated with cryptocurrency and access to power schemes -- his likely criminality is an extreme outlier.  Ugg...  
+* Don't ignore them -- after thorough trials on two unrelated sets of allegations Trump was convicted.  See: [Wikipedia: Indictments against Donald Trump](https://en.wikipedia.org/wiki/Indictments_against_Donald_Trump). Update March 2025: The combination of Trump's election to the U.S. Presidency and his *"total immunity" [gift from the U.S. Supreme Court](https://en.wikipedia.org/wiki/Trump_v._United_States_(2024))* any judicial activity on this front seems unlikely and he will be free from all pending criminal prosecutions.  Adults, though, can still acknowledge his 34 felony convictions and consider Trump's past and ongoing behaviors in the context of U.S. democracy, more than 200 years of executive branch norms, his activities to disassemble/eliminate administrative and scientific functions across the Federal government, his large-scale firings and other administrative shrinking of cybersecurity [threat monitoring, alarming and education](https://en.wikipedia.org/wiki/Cybersecurity_and_Infrastructure_Security_Agency) across agencies that previously had strong capabilities, along with his increasingly frequent pattern of ignoring Court orders, his grift/extortion/corruption associated with cryptocurrency and access to power schemes, his firing of governmental & military leaders he perceives as exhibiting insufficient fealty to him, his pattern of removing female and *non-white* governmental & military leaders *without cause*, and his turning the U.S. military against "*Democratic*" cities -- his likely criminality is an extreme outlier.  Ugg...  
 
 ### Agnotology – the study of the cultural production of ignorance:  
-* (*[Agnotology](https://en.wikipedia.org/wiki/Agnotology)*) -- There is a broad cultural movement to intentionally induce ignorance and/or doubt across broad swaths of science, medicine, politics, *news* reporting, the humanities and much more. This activity is manifest via the *publication* of intentionally inaccurate or misleading *ideas* and *data* through all communication media (**fiction and lies as fact**).  This movement has sufficient traction and mass to drive its *ideas* and "*data*" into the most politically and financially powerful organizations across the globe -- creating useful narritive and manufactured controversy to achieve varied goals.  The U.S. government's executive leadership currently seems a concentrated expression of this movement -- consider their treatment of migrants, their attacks on *[individual & group rights](https://en.wikipedia.org/wiki/Individual_and_group_rights)* and on the *[rule of law](https://en.wikipedia.org/wiki/Rule_of_law)*, cryptocurrency marketing & implementations, environmental harms, devaluing of science in all forms and across all fields, disassembly and disposal of what they call *the administrative state*, enlarging and and obfuscating financial risks throughout business and non-business environments, recharacterizing of presidential power as absolute and embodying [immunity](https://en.wikipedia.org/wiki/Trump_v._United_States) (*absolute and presumptive*).  Supporters of this movement seem to assume (*quoting Isaac Asimov*) "[the false notion that democracy means that '*my ignorance is just as good as your knowledge*](https://quotees.co.uk/philosophy/isaac-asimov-my-ignorance-is-just-as-good-as-your-knowledge-quote/).'"  
+* (*[Agnotology](https://en.wikipedia.org/wiki/Agnotology)*) -- There is a broad cultural movement to intentionally induce ignorance and/or doubt across broad swaths of science, medicine, politics, *news* reporting, the humanities and much more. This activity is manifest via the *publication* of intentionally inaccurate or misleading *ideas* and *data* through all communication media (**fiction and lies as fact**).  This movement has sufficient traction and mass to drive its *ideas* and "*data*" into the most politically and financially powerful organizations across the globe -- creating *useful* narritive and manufactured controversy to achieve varied goals.  The U.S. government's executive leadership currently seems a concentrated expression of this movement -- consider their treatment of migrants, their attacks on *[individual & group rights](https://en.wikipedia.org/wiki/Individual_and_group_rights)* and on the *[rule of law](https://en.wikipedia.org/wiki/Rule_of_law)*, cryptocurrency marketing & implementations, environmental harms, devaluing of science in all forms and across all fields, disassembly and disposal of what they call *the administrative state*, enlarging and and obfuscating financial risks throughout business and non-business environments, recharacterizing of presidential power as absolute and embodying [immunity](https://en.wikipedia.org/wiki/Trump_v._United_States) (*absolute and presumptive*).  Supporters of this "*movement*" seem to assume (*quoting Isaac Asimov*) "[the false notion that democracy means that '*my ignorance is just as good as your knowledge*](https://quotees.co.uk/philosophy/isaac-asimov-my-ignorance-is-just-as-good-as-your-knowledge-quote/).'" Aslo see: [false equivalence](https://en.wikipedia.org/wiki/False_equivalence), [whitewashing](https://en.wikipedia.org/wiki/Whitewashing_(censorship)) and [reputation laundering](https://en.wikipedia.org/wiki/Reputation_laundering).  
 
 
 ### Back to the References  
@@ -133,6 +133,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
 * Vulns: Vulnerability scanner for Linux/FreeBSD, agent-less, written in Go. [https://github.com/future-architect/vuls](https://github.com/future-architect/vuls)  
 * This is tool to build a local copy of the CPE (Common Platform Enumeration) https://github.com/vulsio/go-cpe-dictionary  
 * boofuzz: Network Protocol Fuzzing for Humans (*Boofuzz is a fork of and the successor to the venerable [Sulley](https://github.com/OpenRCE/sulley) fuzzing framework.*) https://github.com/jtpereyda/boofuzz  
+* mdinfo: Meta Data Info (mdinfo) is a command line tool for printing metadata information about files. [https://github.com/RhetTbull/mdinfo](https://github.com/RhetTbull/mdinfo)  
   
 ### Architecture Risk Analysis  
 * BSIMM Definitions of Architecture Risk Analysis - Builds an ARA definition by describing a set of increasingly mature risk analysis practices: [https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/  ](https://www.bsimm.com/framework/software-security-development-lifecycle/architecture-analysis/)  
@@ -147,6 +148,7 @@ Sears catalog of Linux software -- Awesome Linux Software [https://github.com/lu
    * MITRE ATT&CK® Matrix for Mobile -- with specialized versions for the following platforms: Android and iOS [https://attack.mitre.org/matrices/mobile/](https://attack.mitre.org/matrices/mobile/)  
    * NIST 800-53 Controls to ATT&CK Mappings [https://ctid.mitre-engenuity.org/our-work/nist-800-53-control-mappings/](https://ctid.mitre-engenuity.org/our-work/nist-800-53-control-mappings/)  
    * Mitre ATT&CK® for Industrial Control Systems threat list [https://collaborate.mitre.org/attackics/index.php/Main_Page](https://collaborate.mitre.org/attackics/index.php/Main_Page)  "ATT&CK for ICS is a knowledge base useful for describing the actions an adversary may take while operating within an ICS network. The knowledge base can be used to better characterize and describe post-compromise adversary behavior."  
+   * [Stripe](https://stripe.dev/)'s FT3: Fraud Tools, Tactics, and Techniques Framework is Stripe's adaptation of ATT&CK-style security frameworks, specifically designed to enhance their understanding of the tactics, techniques, and procedures (TTPs) used by actors in fraudulent activities. Developed as a resource for combating financial crime and improving organizational fraud prevention, FT3 is targeted at serving a variety of stakeholders across the anti-fraud/fraud-detection ecosystem.  [https://github.com/stripe/ft3/blob/master/](https://github.com/stripe/ft3/blob/master/)
    * MITRE ATT&CK® and CAPEC™ datasets expressed in STIX 2.0 [https://github.com/mitre/cti](https://github.com/mitre/cti)  
    * Github organization for MITRE ATT&CK [https://github.com/mitre-attack](https://github.com/mitre-attack)  
    * Atomic Red Team™ is a library of tests mapped to the MITRE ATT&CK® framework. Its mission is to help security teams quickly, portably, and reproducibly test their environments [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)  
@@ -177,7 +179,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * The Secure ur Ass By Learning Cybersecurity repository [SUASS](https://github.com/GTekSD/SUASS). It describes itself as "a comprehensive resource for cybersecurity professionals, students, beginners, and anyone interested in the field of cybersecurity. Here, you'll find a wide range of cybersecurity study materials to help you enhance your knowledge and skills." [https://github.com/GTekSD/SUASS](https://github.com/GTekSD/SUASS)  
 * List of awesome penetration testing resources, tools and other shiny things [https://github.com/enaqx/awesome-pentest](https://github.com/enaqx/awesome-pentest)  
 * Awesome collection of hacking tools [https://github.com/jekil/awesome-hacking](https://github.com/jekil/awesome-hacking)  
-* Tooling is great, but understanding how software systems fail is a critical capability as well.  See "[Be Suspicious of Success, Successful software is buggy software](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)" for some input about what to think about when "testing."
+* Tooling is great, but understanding how software systems fail is a critical capability as well.  See "[Be Suspicious of Success, Successful software is buggy software](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)" for some input about what to think about when "testing."  
 * ```Kitsec```, a toolkit CLI to help simplify and centralize your risk eval. workflow [https://github.com/kitsec-labs/kitsec-core](https://github.com/kitsec-labs/kitsec-core)  
 * Osmedeus - a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets. [https://github.com/j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)  
 * Mantis - command-line framework designed to automate the workflow of asset discovery, reconnaissance, and scanning [https://github.com/PhonePe/mantis](https://github.com/PhonePe/mantis)  
@@ -284,8 +286,9 @@ and then self-destructs.  It is imperfect, but likely good-enough for many use c
 * OK. You found your way to a remote shell or access to arbitrary remote code execution -- what next?  
   * In order to better understand your options, consider what kernel vulnerabilities are present on that target. An option for that is the shell script `LES` (*Linux privilege escalation auditing tool*), it is "designed to assist in detecting security deficiencies for a given Linux kernel/Linux-based machine." [https://github.com/The-Z-Labs/linux-exploit-suggester](https://github.com/The-Z-Labs/linux-exploit-suggester) ... Before you get too busy with that, you might use it on your own Linux platforms to see if you are vulnerable.  
   * If you land on a Windows platform: "WES-NG is a tool based on the output of Windows' systeminfo utility which provides the list of vulnerabilities the OS is vulnerable to, including any exploits for these vulnerabilities. Every Windows OS between Windows XP and Windows 11, including their Windows Server counterparts, is supported." [https://github.com/bitsadmin/wesng](https://github.com/bitsadmin/wesng)  
+* Velociraptor - Endpoint visibility and collection tool [https://github.com/Velocidex/velociraptor](https://github.com/Velocidex/velociraptor). This is a feature rich toolset that contains tooling that may have value in your vulnerability assessments. Caution: Like any endpoint monitoring tool, there is a risk that it can be used in *unintended* ways. In [Sept. 2025 threat actors are using](https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html?utm_source=mccright_references) Velociraptor endpoint monitoring feature set to deploy Visual Studio Code for command and control tunneling, likely to establish persistent backdoor access.  
 * You will regularly need to know if something you started is finished, or get notified of an event you are waiting for.  [ntfy](https://ntfy.sh/) is a fantastic service that lets you send push notifications to your phone or desktop via scripts from any computer, using simple HTTP PUT or POST requests. I use it to notify myself when scripts fail, or long-running commands complete. [https://ntfy.sh/](https://ntfy.sh/)  
-* OWASP BLT bug logging tool [https://github.com/OWASP-BLT/BLT](https://github.com/OWASP-BLT/BLT)  
+* OWASP BLT 🐜🪳 bug 🦗🪰 logging tool [https://github.com/OWASP-BLT/BLT](https://github.com/OWASP-BLT/BLT)  
 
 
 ### Pen testing Linux distros  
@@ -395,6 +398,8 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 
 
 ### Python  
+* Describe the environment (sometimes for Python troubleshooting): https://github.com/rapidsai/cudf/blob/branch-25.10/print_env.sh  
+* Fun. Image2Text utilities: https://github.com/vietnh1009/ASCII-generator  
 * "The Complete Python Development Guide." [https://testdriven.io/guides/complete-python/](https://testdriven.io/guides/complete-python/)  
 * Hitchhiker's Guide to Python [https://github.com/realpython/python-guide](https://github.com/realpython/python-guide)  
   * and its 'Web Applications & Frameworks' section [https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst](https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst)  
@@ -526,6 +531,7 @@ and
 * The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [https://gchq.github.io/CyberChef](https://gchq.github.io/CyberChef) and [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef)  
   * Here is an example of using CyberChef to to deobfuscate malware: ["Advanced Cyberchef Techniques - Defeating Nanocore Obfuscation With Math and Flow Control"](https://www.embeeresearch.io/advanced-cyberchef-techniques-defeating-nanocore-obfuscation-with-math-and-flow-control/)  
 * Or search for other projects (*there are lots of them*) with: [https://github.com/search?q=cryptography&type=repositories](https://github.com/search?q=cryptography&type=repositories)  
+* Or local search with monkeSearch [https://github.com/monkesearch/monkeSearch](https://github.com/monkesearch/monkeSearch)  
 * **[RFC 9180 Hybrid public-key encryption (HPKE)](https://datatracker.ietf.org/doc/html/rfc9180)**   See a useful overview from CloudFlare: [https://blog.cloudflare.com/hybrid-public-key-encryption/](https://blog.cloudflare.com/hybrid-public-key-encryption/).  
   * "[TL;DR - Hybrid Public Key Encryption.](https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/)"  
   * "[Hybrid Public Key Encryption: My Involvement in Development and Analysis of a Cryptographic Standard](https://www.benjaminlipp.de/p/hpke-cryptographic-standard/)."  
@@ -567,7 +573,7 @@ A starter list of information sources for your security investigations & integra
  * CIRCL (Computer Incident Response Center Luxembourg) for CVE lookups [https://www.circl.lu/](https://www.circl.lu/)  
  * Google Safe Browsing for URL lookups [https://safebrowsing.google.com/](https://safebrowsing.google.com/)  
  * Have I Been Pwned for Email lookups [https://haveibeenpwned.com](https://haveibeenpwned.com)  
- * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com[](https://exchange.xforce.ibmcloud.com/)  
+ * IBM XForce Exchange for IPv4, EFQDN lookups [https://exchange.xforce.ibmcloud.com](https://exchange.xforce.ibmcloud.com/)  
  * IP Geo Tool {free} for your script integration: [https://tools.keycdn.com/geo.json?host={IP or hostname}](https://tools.keycdn.com/geo.json?host={IP or hostname}) Important: See [https://tools.keycdn.com/geo](https://tools.keycdn.com/geo) for configuring your request header User-Agent string correctly.  
  * MISP for MD5 and SHA2 [http://www.misp-project.org/](http://www.misp-project.org/)  
    * Also consider MISP Taxonomies for your integration work [https://github.com/MISP/misp-taxonomies/](https://github.com/MISP/misp-taxonomies/)  
@@ -612,6 +618,7 @@ A starter list of information sources for your security investigations & integra
 
 
 ### Text to Speech / Speech to Text   
+* VibeVoice: A Frontier Long Conversational Text-to-Speech Model [https://github.com/microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)  
 * eSpeak NG [https://github.com/espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)  
 * Using eSpeak and eSpeakNG [https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/](https://vitux.com/convert-text-to-voice-with-espeak-on-ubuntu/)  
 * eSpeak NG TTS Bindings for Python3 [https://github.com/sayak-brm/espeakng-python](https://github.com/sayak-brm/espeakng-python)  
@@ -747,6 +754,8 @@ A starter list of information sources for your security investigations & integra
   
   
 ### Temporary list for new work tools  
+* U.S. and World Population Clock: https://www.census.gov/popclock/  
+* readNum: This python project turns a number into a readable spelled-out form [https://github.com/theRealProHacker/readNum/](https://github.com/theRealProHacker/readNum/)  
 * Review this Awesome Docker list/resource from time to time: https://github.com/veggiemonk/awesome-docker  
 * Review this Awesome Remote Job list/resource to see if there is anything useful to me: https://github.com/lukasz-madon/awesome-remote-job  
 * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [https://github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
@@ -757,7 +766,7 @@ A starter list of information sources for your security investigations & integra
 * Awesome console services [https://github.com/gnebbia/awesome-console-services](https://github.com/gnebbia/awesome-console-services)  
 * 'The Book of Secret Knowledge' - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: [https://github.com/trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)  
 * A pair of tools for running phishing campaigns to raise security awareness: Swordphish Phishing Awareness Tool [https://github.com/certsocietegenerale/swordphish-awareness/](https://github.com/certsocietegenerale/swordphish-awareness/) and the Outlook add-in companion to report suspicious mail easily [https://github.com/certsocietegenerale/NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity)  
-* W3C HTML Tidy - Usage: 'curl someURL | Tidy -iq' [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
+* W3C HTML Tidy - Usage: ```'curl someURL | Tidy -iq'``` [http://www.html-tidy.org/](http://www.html-tidy.org/) and [https://github.com/htacg/tidy-html5](https://github.com/htacg/tidy-html5)  
 * CanaryTokens [https://canarytokens.org/generate](https://canarytokens.org/generate)  
 * Canary (a 'honeypot' appliance) [https://canary.tools/](https://canary.tools/)  
 * WebSphere Password Decoders: [http://strelitzia.net/wasXORdecoder/wasXORdecoder.html](http://strelitzia.net/wasXORdecoder/wasXORdecoder.html)  
