@@ -502,6 +502,7 @@ pyautogit [https://github.com/jwlodek/pyautogit](https://github.com/jwlodek/pyau
 * GitHub Flavored Markdown Spec [https://github.github.com/gfm/](https://github.github.com/gfm/)  
 * Another GitHub Flavored Markdown cheatsheet [https://github.com/tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet)  
 * Collection of static site generators [https://jamstack.org/generators/](https://jamstack.org/generators/) and [https://staticsitegenerators.net/](https://staticsitegenerators.net/)  
+* Static site generator written in Python [https://github.com/getpelican/pelican](https://github.com/getpelican/pelican)  
 
 
 ### JavaScript  
