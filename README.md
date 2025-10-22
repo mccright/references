@@ -8,6 +8,7 @@ and "[Things can be different...](https://earthrights.co.uk/2020/12/23/lets-not-
 >"The fact that there are pressures and costs does not absolve people of their moral responsibility.  The primary custodian of one's actions is oneself." *<small>[Noam Chomsky Tue, 3 Apr 2018 - quoted by Timothy Holborn](https://www.w3.org/community/humancentricai/)</small>*  
 >"A lie is a fiction made up to take away someone else's power." *<small>[Elizabeth Mitchell, Guernica Magazine. Essay/Lit World/Politics, January 15, 2021](https://www.guernicamag.com/in-the-land-of-fiction-and-fake-news/)</small>*  
 Core Values Matter:  Guiding principles shape our lives -- don't drift, [identify your priorities](https://www.thebehavioralscientist.com/list-of-values)  
+>To write is to act. (*Scribere est agere.*)  Withholding the truth suggests falsehood. (*Suppressio veri suggestio est falsi.*)  
 
 This is a collection of reusable references. Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
