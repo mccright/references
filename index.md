@@ -8,8 +8,9 @@ Remember: "[Things can be different...](https://earthrights.co.uk/2020/12/23/let
 >"A lie is a fiction made up to take away someone else's power." *<small>[Elizabeth Mitchell, Guernica Magazine. Essay/Lit World/Politics, January 15, 2021](https://www.guernicamag.com/in-the-land-of-fiction-and-fake-news/)</small>*  
 Core Values Matter:  Guiding principles shape our lives -- don't drift, [identify your priorities](https://www.thebehavioralscientist.com/list-of-values)  
 >To write is to act. <small>(*Scribere est agere.*)</small>  Withholding the truth suggests falsehood. <small>(*Suppressio veri suggestio est falsi.*)</small>  
->and *If you're not paying for it, you're the product.*🫲🏼  
-
+>"Draw close what you want more of, push away what you want less." *<small>by [Angela Duckworth](https://angeladuckworth.com/) - in the [NYT](https://www.nytimes.com/2025/12/28/opinion/willpower-doesnt-work-this-does.html)</small>* and in Latin: Accede quod vis plus, repelle quod vis minus.
+>and *If you're not paying for it, you're the product.*  (*Si non solvente pro eo, productum es.*)🫲🏼  
+Si non solvente pro eo, productum es
 This is a collection of reusable references. Hosted at: [https://mccright.github.io/references/](https://mccright.github.io/references/)  
 
 [2025](https://mccright.github.io/references/2025-calendar.md), [2026](https://mccright.github.io/references/2026-calendar.md)
