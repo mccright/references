@@ -21,10 +21,10 @@ This is a collection of reusable references. Hosted at: [https://mccright.github
 * Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War). And resist/confront [Trump 47’s shameful early efforts](https://www.axios.com/2025/03/04/trump-russia-ukraine-policy-pro-putin) to strengthen ties with Putin by making material concessions **before** any negotiations about ending Putin's war with Ukraine.  
 
 ### Trump's Indictments:  
-See '''Trumps_Indictments''' [here](https://mccright.github.io/references/Trumps_Indictments.md)  
+See '''Trumps_Indictments''' [here](https://mccright.github.io/references/Trumps_Indictments)  
 
 ### Agnotology – the study of the cultural production of ignorance:  
-See '''Agnotology''' [here](https://mccright.github.io/references/Agnotology.md)  
+See '''Agnotology''' [here](https://mccright.github.io/references/Agnotology)  
 
 
 ### Back to the References  
