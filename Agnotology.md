@@ -17,3 +17,7 @@ The U.S. government's executive leadership currently seems a concentrated expres
 Supporters of this "*movement*" seem to assume (*quoting Isaac Asimov*) "[the false notion that democracy means that '*my ignorance is just as good as your knowledge*'](https://quotees.co.uk/philosophy/isaac-asimov-my-ignorance-is-just-as-good-as-your-knowledge-quote/)." Also see: [false equivalence](https://en.wikipedia.org/wiki/False_equivalence), [whitewashing](https://en.wikipedia.org/wiki/Whitewashing_(censorship)) and [reputation laundering](https://en.wikipedia.org/wiki/Reputation_laundering).  
 
 To one extent or another, most of us are involved in choosing our leaders.  It is important to get that *electing* right, please take the time to thoughtfully read and think about the essay: "[How (Not) to Choose Our Leaders](https://www.brainpickings.org/2020/08/23/octavia-butler-parable-leaders/)."  
+
+And from [Maria A Ressa](https://en.wikipedia.org/wiki/Maria_Ressa) in "[How to Stand Up to a Dictator: A Nobel Laureate's Fight Against Authoritarianism](https://lccn.loc.gov/2023020558):"  
+>Without facts, you can’t have truth. Without truth, you can’t have trust. Without all three, we have no shared reality, and democracy as we know it -- and all meaningful human endeavors -- are dead.  
+
