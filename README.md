@@ -29,7 +29,7 @@ See '''Agnotology''' [here](https://mccright.github.io/references/Agnotology)
 
 
 ### Back to the References  
-* Try the genuine ChatGPT here: [https://chat.openai.com/chat](https://chat.openai.com/chat).  It is impressive technology as is that of an increasing number of AI competitors.  When used with sensitivity and care many AI platforms can materially enhance productivity in many roles.  If you are using free access to the platforms that provide, expect service limitations during peak hours.  
+* U.S. Energy flow 2025: [eia.gov/totalenergy/data/flow-graphs/total-energy.php](https://www.eia.gov/totalenergy/data/flow-graphs/total-energy.php)  
 * Flex your perceptions and imagination with the Astronomy Photo of the Day [https://apod.nasa.gov/apod/astropix.html](https://apod.nasa.gov/apod/astropix.html) (*if you have just a minute right now, I recommend **[this](https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_4400.jpg)** [Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid) photo of the [Perseus Galaxy Cluster](https://en.wikipedia.org/wiki/Perseus_Cluster) having a 1000+ galaxies in the foreground about 250 million light years away plus more than 100,000 galaxies in the background, and review an [explanation of what you are looking at](https://apod.nasa.gov/apod/ap231108.html)*) or see what is new from the James Webb Space Telescope [https://webbtelescope.org/news/news-releases](https://webbtelescope.org/news/news-releases) [*[or their Flicker collection](https://www.flickr.com/photos/nasawebbtelescope/albums)*] or read at length from NASA's ebook collection [https://www.nasa.gov/connect/ebooks/index.html](https://www.nasa.gov/connect/ebooks/index.html) or explore the Apollo Lunar Surface Journal [high-tech from a different age] [https://www.hq.nasa.gov/alsj/main.html](https://www.hq.nasa.gov/alsj/main.html)  
 * Flex your perceptions and imagination with a *real-time* visualization of global marine shipping [https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3](https://www.marinetraffic.com/en/ais/home/centerx:80.5/centery:8.7/zoom:3)  
 * Here is the "NASA JPL Asteroid Watch --> The Next Five Asteroid Approaches"
@@ -686,7 +686,12 @@ A starter list of information sources for your security investigations & integra
  * URL-Expander / URL-Unshortener [http://urlex.org/](http://urlex.org/)  
  
 ### Find the code you need  
- * In a hurry?  Try asking OpenAI's ChatGPT to write what you need: [https://chat.openai.com/chat](https://chat.openai.com/chat)  
+ * In a hurry?  
+   * Try asking 
+   * Anthropic's [Claude Code](https://claude.ai/login?returnTo=%2Fcode&plan=free),  
+   * Microsoft's [copilot](https://copilot.microsoft.com/),  
+   * OpenAI's [ChatGPT](https://chat.openai.com/chat),  
+   * Google's [Gemini](https://gemini.google.com/app) to write what you need.  
  * Awesome Algorithms -- A curated list of awesome places to learn and/or practice algorithms [https://github.com/tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms)  
  * Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language [https://github.com/TheAlgorithms](https://github.com/TheAlgorithms)  
  * [http://c2.com/cgi/wiki?FindPage](http://c2.com/cgi/wiki?FindPage)  
