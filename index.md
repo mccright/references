@@ -8,6 +8,7 @@ Remember: "[Things can be different...](https://earthrights.co.uk/2020/12/23/let
 >• "Reality exists, regardless of your emotional support of it." *<small>[Kenneth Reitz. 'A Concise List of Personal Values'](https://kennethreitz.org/values)</small>*  
 >• "A lie is a fiction made up to take away someone else's power." *<small>[Elizabeth Mitchell, Guernica Magazine. Essay/Lit World/Politics, January 15, 2021](https://www.guernicamag.com/in-the-land-of-fiction-and-fake-news/)</small>*  
 >• "Without facts, you can’t have truth. Without truth, you can’t have trust. Without all three, we have no shared reality, and democracy as we know it -- and all meaningful human endeavors -- are dead." *<small>[Maria A Ressa](https://en.wikipedia.org/wiki/Maria_Ressa) in "[How to Stand Up to a Dictator: A Nobel Laureate's Fight Against Authoritarianism](https://lccn.loc.gov/2023020558)</small>*  
+>• "Chance favors only the prepared mind." *<small>[quote](https://en.wikiquote.org/wiki/Louis_Pasteur) from [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur)</small>*  
 >• Core Values Matter:  Guiding principles shape our lives -- don't drift, [identify your priorities](https://www.thebehavioralscientist.com/list-of-values)  
 >• To write is to act. <small>(*Scribere est agere.*)</small>  
 >• Withholding the truth suggests falsehood. <small>(*Suppressio veri suggestio est falsi.*)</small>  
