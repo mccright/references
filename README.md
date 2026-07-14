@@ -99,6 +99,9 @@ git remote set-head origin -a
 * A collection of awesome lists for hackers, pentesters & security researchers [https://github.com/Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)  
 * A curated list of Terminal frameworks, plugins & resources for CLI lovers [https://github.com/k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)  
 * Awesome TUIs -- List of projects that provide terminal user interfaces [https://github.com/rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis)  
+* Awesome Finder -- TUI based finder for searching the awesome resources on awesome series such as awesome-python, awesome-go and so on [https://github.com/mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder)  
+* Several *Awesome* resource navigation projects at [https://github.com/skyllwt?tab=repositories](https://github.com/skyllwt?tab=repositories&q=awesome&type=&language=&sort=)  
+* Awesome Claude Code [https://github.com/jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code)  
 
 ### Browse  
 Sears catalog of Linux software -- Awesome Linux Software [https://github.com/luongvo209/Awesome-Linux-Software](https://github.com/luongvo209/Awesome-Linux-Software)   
