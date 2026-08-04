@@ -142,8 +142,8 @@ Sears catalog of Linux software -- Awesome Linux Software [github.com/luongvo209
 * Scripts to help run Fortify -- and other code assessment tools -- in your Amazon cloud [github.com/awslabs/one-line-scan/](https://github.com/awslabs/one-line-scan/)  
 * There are situations where you may be given a repository without any accompanying information... What is in the repo?? *[crazymax](https://crazymax.dev/)* assembled a Docker image -- [crazymax/docker-linguist](https://github.com/crazy-max/docker-linguist) -- that runs [GitHub Linguist](https://github.com/github/linguist), a library used on GitHub.com to detect blob languages.  You can use is to easily, quickly and *reasonable accurately* identify what languages are used in a given local repository.  Here are some examples of it in use:  [github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository](https://github.com/mccright/FortifyStuff/blob/master/Developer-Access-to-Static-Analysis-Data.md#what-languages-are-in-a-given-target-repository)  
 * Vulns: Vulnerability scanner for Linux/FreeBSD, agent-less, written in Go. [github.com/future-architect/vuls](https://github.com/future-architect/vuls)  
-* This is tool to build a local copy of the CPE (Common Platform Enumeration) https://github.com/vulsio/go-cpe-dictionary  
-* boofuzz: Network Protocol Fuzzing for Humans (*Boofuzz is a fork of and the successor to the venerable [Sulley](https://github.com/OpenRCE/sulley) fuzzing framework.*) https://github.com/jtpereyda/boofuzz  
+* This is tool to build a local copy of the CPE (Common Platform Enumeration) [github.com/vulsio/go-cpe-dictionary](https://github.com/vulsio/go-cpe-dictionary)  
+* boofuzz: Network Protocol Fuzzing for Humans (*Boofuzz is a fork of and the successor to the venerable [Sulley](https://github.com/OpenRCE/sulley) fuzzing framework.*) [github.com/jtpereyda/boofuzz](https://github.com/jtpereyda/boofuzz)  
 * mdinfo: Meta Data Info (mdinfo) is a command line tool for printing metadata information about files. [github.com/RhetTbull/mdinfo](https://github.com/RhetTbull/mdinfo)  
   
 ### Architecture Risk Analysis  
@@ -185,7 +185,7 @@ Understanding how the adversary operates is essential to effective cyber securit
 * The System Design Primer [github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)  
 * Use Cases and Requirements on HTTPS-enabled Local Network Servers [httpslocal.github.io/usecases/](https://httpslocal.github.io/usecases/), [www.w3.org/community/httpslocal/](https://www.w3.org/community/httpslocal/) and [github.com/httpslocal/proposals/tree/master](https://github.com/httpslocal/proposals/tree/master)  
 * How Complex Systems Fail (*Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety*) [how.complexsystems.fail/](https://how.complexsystems.fail/)  
-* I have no direct association with Tesla or Tesla engineering efforts, but based on my reading of general news and narrow analysis of descriptions of Tesla's auto-driving and its AI it seems like a material failure of their Architecture Risk Analysis practices.  See: "Tesla Self-Driving Deaths." The [linked map](https://dawnproject.com/nhtsa-map-1/) indicates registered deaths associated with Tesla’s self-driving software since 2016 in the United States. The information contains fatalities recorded by NHTSA’s Standing General Order on Crash Reporting for Level 2 ADAS-equipped vehicles since its inception in June 2021, and confirmed self-driving deaths pre-dating NHTSA’s database of crash statistics: [dawnproject.com/nhtsa-map-1/](https://dawnproject.com/nhtsa-map-1/).  If crash and death numbers are not convincing, you might look at some videos by [The Dawn Project](https://dawnproject.com/) of Tesla's Full Self-Driving AI: https://vimeo.com/988491613/fcfcdf7190 (Blow past stopped school buses), https://vimeo.com/942153183/9b3848b364 (Run down children crossing the road) or https://vimeo.com/843429267/bc871414fd (Blow through stop signs).   
+* I have no direct association with Tesla or Tesla engineering efforts, but based on my reading of general news and narrow analysis of descriptions of Tesla's auto-driving and its AI it seems like a material failure of their Architecture Risk Analysis practices.  See: "Tesla Self-Driving Deaths." The [linked map](https://dawnproject.com/nhtsa-map-1/) indicates registered deaths associated with Tesla’s self-driving software since 2016 in the United States. The information contains fatalities recorded by NHTSA’s Standing General Order on Crash Reporting for Level 2 ADAS-equipped vehicles since its inception in June 2021, and confirmed self-driving deaths pre-dating NHTSA’s database of crash statistics: [dawnproject.com/nhtsa-map-1/](https://dawnproject.com/nhtsa-map-1/).  If crash and death numbers are not convincing, you might look at some videos by [The Dawn Project](https://dawnproject.com/) of Tesla's Full Self-Driving AI: [vimeo.com/988491613/fcfcdf7190](https://vimeo.com/988491613/fcfcdf7190) (Blow past stopped school buses), [vimeo.com/942153183/9b3848b364](https://vimeo.com/942153183/9b3848b364) (Run down children crossing the road) or [vimeo.com/843429267/bc871414fd](https://vimeo.com/843429267/bc871414fd) (Blow through stop signs).   
 
 ### Web Application Vulnerability Analysis and Pen Testing  
 * The Secure ur Ass By Learning Cybersecurity repository [SUASS](https://github.com/GTekSD/SUASS). It describes itself as "a comprehensive resource for cybersecurity professionals, students, beginners, and anyone interested in the field of cybersecurity. Here, you'll find a wide range of cybersecurity study materials to help you enhance your knowledge and skills." [github.com/GTekSD/SUASS](https://github.com/GTekSD/SUASS)  
@@ -397,7 +397,7 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * An evolving "command-line tool allowing developers to find security vulnerabilities within a Java project."  It incorporates some static analysis (SAST) and some software composition analysis (SCA). [github.com/xJonah/REPELSEC](https://github.com/xJonah/REPELSEC)  
 * A useful script to help manage Java installation and removal on your Linux host [github.com/chrishantha/install-java](https://github.com/chrishantha/install-java)  
 * An edge case:  *Protecting* your scripts - PowerShell, Visual Basic (VB), and C# code obfuscation -- "A Beginner's Guide to Obfuscation" [github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation](https://github.com/BC-SECURITY/Beginners-Guide-to-Obfuscation)  
-* Attack-resistant programming requires a threshold understanding of your current language. ```esolang-box``` is an "easy and standardized docker images for 200+ esoteric (and non-esoteric) languages." https://github.com/hakatashi/esolang-box  
+* Attack-resistant programming requires a threshold understanding of your current language. ```esolang-box``` is an "easy and standardized docker images for 200+ esoteric (and non-esoteric) languages." [github.com/hakatashi/esolang-box](https://github.com/hakatashi/esolang-box)  
 * A Python implementation of [RFC 7519](https://tools.ietf.org/html/rfc7519). [github.com/jpadilla/pyjwt](https://github.com/jpadilla/pyjwt)  
 
 ### PHP  
@@ -411,8 +411,8 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 
 
 ### Python  
-* Describe the environment (sometimes for Python troubleshooting): https://github.com/rapidsai/cudf/blob/branch-25.10/print_env.sh  
-* Fun. Image2Text utilities: https://github.com/vietnh1009/ASCII-generator  
+* Describe the environment (sometimes for Python troubleshooting): [github.com/rapidsai/cudf/blob/branch-25.10/print_env.sh](https://github.com/rapidsai/cudf/blob/branch-25.10/print_env.sh)  
+* Fun. Image2Text utilities: [github.com/vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)  
 * "The Complete Python Development Guide." [testdriven.io/guides/complete-python/](https://testdriven.io/guides/complete-python/)  
 * Hitchhiker's Guide to Python [github.com/realpython/python-guide](https://github.com/realpython/python-guide)  
   * and its 'Web Applications & Frameworks' section [github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst](https://github.com/realpython/python-guide/blob/master/docs/scenarios/web.rst)  
@@ -423,11 +423,11 @@ Explore your Live Linux Kernel Image - Berkeley Packet Filters & eBPF
 * Python Cheatsheet from kickstartcoding [github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf](https://github.com/kickstartcoding/cheatsheets/blob/master/build/topical/python.pdf)  
 * A neat set of PDF topical Python cheatsheets by the author of ["Python Crash Course" by Eric Matthes](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_2?crid=EWAWN9O4URJY&dchild=1&keywords=python+crash+course+2nd+edition+by+eric+matthes&qid=1608398592&sprefix=%22python+crash+course%22%2Caps%2C200&sr=8-2) [ehmatthes.github.io/pcc/cheatsheets/README.html](http://ehmatthes.github.io/pcc/cheatsheets/README.html) and another version for the 2nd edition of PCC at [ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/)  
 * The standard Python resources:  
-  * Main website:  https://www.python.org/
-  * Documentation:  https://docs.python.org/
-  * Developer resources:  https://devguide.python.org/
-  * Downloads:  https://www.python.org/downloads/
-  * Module repository:  https://pypi.org/
+  * Main website:  [python.org/](https://www.python.org/)  
+  * Documentation:  [docs.python.org/](https://docs.python.org/)  
+  * Developer resources:  [devguide.python.org/](https://devguide.python.org/)  
+  * Downloads:  [www.python.org/downloads/](https://www.python.org/downloads/)  
+  * Module repository:  [pypi.org/](https://pypi.org/)  
 * 73 Examples to Help You Master Python's f-strings [miguendes.me/73-examples-to-help-you-master-pythons-f-strings](https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings)  
 * Docker Official Python Images [hub.docker.com/_/python](https://hub.docker.com/_/python)   
 * A deep dive into the official Docker image for Python [pythonspeed.com/articles/official-python-docker-image/](https://pythonspeed.com/articles/official-python-docker-image/)  
@@ -537,7 +537,7 @@ and
 * Matthew Green's List of Crypto Resources: [blog.cryptographyengineering.com/](http://blog.cryptographyengineering.com/)  
 * Crypto101: an introductory course on cryptography. [www.crypto101.io/](https://www.crypto101.io/)  
 * A good place to get an overview of the correct tools to use for modern cryptography is "(Updated) Cryptographic Right Answers" by [Thomas Ptacek](https://github.com/tqbf) (*Thank you [William Bond](https://github.com/wbond/oscrypto/blob/master/docs/readme.md#modern-cryptography)*): [gist.github.com/tqbf/be58d2d39690c3b366ad](https://gist.github.com/tqbf/be58d2d39690c3b366ad)  
-* [Peter Gutmann](https://www.cs.auckland.ac.nz/~pgut001/) (*a researcher at the University of Auckland*) assembled his "godzilla crypto tutorial," including 973 slides in 12 parts at: https://www.cs.auckland.ac.nz/~pgut001/tutorial/index.html  Although this material is not new, it still seems like a resource that will be of value to many.  
+* [Peter Gutmann](https://www.cs.auckland.ac.nz/~pgut001/) (*a researcher at the University of Auckland*) assembled his "godzilla crypto tutorial," including 973 slides in 12 parts at: [www.cs.auckland.ac.nz/~pgut001/tutorial/index.html](https://www.cs.auckland.ac.nz/~pgut001/tutorial/index.html)  Although this material is not new, it still seems like a resource that will be of value to many.  
 * pyca/cryptography - A package providing cryptographic recipes and primitives to Python developers, with the goal of being your "cryptographic standard library". [github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 * A fast, pure Python library for parsing and serializing ASN.1 structures. [github.com/wbond/asn1crypto](https://github.com/wbond/asn1crypto)  
 * Compiler-free Python crypto library [github.com/wbond/oscrypto](https://github.com/wbond/oscrypto)  
@@ -574,7 +574,7 @@ and
 
 ### Information Sources for your Security Investigations  
 A starter list of information sources for your security investigations & integrations:  
-(Thank you https://github.com/cloudtracer/ThreatPinchLookup)  
+(Thank you [github.com/cloudtracer/ThreatPinchLookup](https://github.com/cloudtracer/ThreatPinchLookup) for some of this list)  
  * What defines a “material” cybersecurity incident? Lacework released a Securities and Exchange Commission (SEC) materiality framework paper [www.lacework.com/resource/sec-materiality-framework.html](https://www.lacework.com/resource/sec-materiality-framework.html)  
  * Awesome OSINT [github.com/jivoi/awesome-osint](https://github.com/jivoi/awesome-osint)  
  * Ammar Amer's OSINT resources [github.com/blaCCkHatHacEEkr/OSINT_TIPS](https://github.com/blaCCkHatHacEEkr/OSINT_TIPS)  
@@ -613,7 +613,7 @@ A starter list of information sources for your security investigations & integra
  * Buster, An advanced tool for email reconnaissance [github.com/sham00n/buster](https://github.com/sham00n/buster)  
  * WayBulk, Search a list of domains on the wayback machine [github.com/sham00n/waybulk](https://github.com/sham00n/waybulk)  
  * General outline of information about a specific host or domain [webrate.org/site/website-hostname/](https://webrate.org/site/website-hostname/) (**replace "*website-hostname*" with your target.**)  
- * Bluetooth "Wall of Sheep." "A little app that discovers bluetooth devices near by and displays them on a board." https://github.com/skittleson/bluetooth-wos  
+ * Bluetooth "Wall of Sheep." "A little app that discovers bluetooth devices near by and displays them on a board." [github.com/skittleson/bluetooth-wos](https://github.com/skittleson/bluetooth-wos)  
 
 
 ### Math and Statistics  
@@ -746,7 +746,7 @@ A starter list of information sources for your security investigations & integra
  * DDoS Illustrations at [www.digitalattackmap.com/](http://www.digitalattackmap.com/) Thank you Diego Navarro.  
  * Kite Blog: [kite.com/blog](https://kite.com/blog)  
  * AWS Week in Review: [aws.amazon.com/blogs/aws/tag/week-in-review/](https://aws.amazon.com/blogs/aws/tag/week-in-review/)  
- * Center for the Study of Intelligence (CSI) Books and Monographs.  https://www.cia.gov/resources/csi/books-and-monographs/
+ * Center for the Study of Intelligence (CSI) Books and Monographs.  [cia.gov/resources/csi/books-and-monographs/](https://www.cia.gov/resources/csi/books-and-monographs/)
   
    
 ### Software Defined Radio (SDR)  
@@ -773,10 +773,10 @@ A starter list of information sources for your security investigations & integra
   
   
 ### Temporary list for new work tools  
-* U.S. and World Population Clock: https://www.census.gov/popclock/  
+* U.S. and World Population Clock: [census.gov/popclock/](https://www.census.gov/popclock/)  
 * readNum: This python project turns a number into a readable spelled-out form [github.com/theRealProHacker/readNum/](https://github.com/theRealProHacker/readNum/)  
-* Review this Awesome Docker list/resource from time to time: https://github.com/veggiemonk/awesome-docker  
-* Review this Awesome Remote Job list/resource to see if there is anything useful to me: https://github.com/lukasz-madon/awesome-remote-job  
+* Review this Awesome Docker list/resource from time to time: [github.com/veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)  
+* Review this Awesome Remote Job list/resource to see if there is anything useful to me: [github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)  
 * Top-like interface for container metrics - ctop provides a concise and condensed overview of real-time metrics for multiple containers [github.com/bcicen/ctop](https://github.com/bcicen/ctop) or one of the others at [github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal](https://github.com/veggiemonk/awesome-docker/blob/master/README.md#terminal)  
 * A collection of minimal Docker images: [github.com/vektorcloud](https://github.com/vektorcloud)  
 * Another collection of specialized Docker images: [github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)  
@@ -810,11 +810,13 @@ A starter list of information sources for your security investigations & integra
 * GetGeoIPContext web service to easily look up countries by Context [www.webservicex.net/geoipservice.asmx/GetGeoIPContext?](http://www.webservicex.net/geoipservice.asmx/GetGeoIPContext?) (Caution: as of October 2021, they are using a self-signed certificate)  
 * GetGeoIP web service to easily look up countries by IP address  [www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string](http://www.webservicex.net/geoipservice.asmx/GetGeoIP?IPAddress=string)  
 * Get domain name registration record by Host Name / Domain Name (WhoIS)  [www.webservicex.net/whois.asmx/GetWhoIS?HostName=string](http://www.webservicex.net/whois.asmx/GetWhoIS?HostName=string)  
-* Get weather report for any major cities around the world [www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
-* A much better way to get weather! ...in your terminal [github.com/chubin/wttr.in](https://github.com/chubin/wttr.in) and then try some one-liners, for example:  
-   * ~$ curl https://wttr.in/yourCity?format="%l:+%t+%w+%h+%f"  
-   * in your .bashrc: alias weather='curl https://wttr.in/yourCity'  
-* A high-functioning command line tool that displays the current weather (from OpenWeather) in the terminal written in Rust [github.com/gourlaysama/girouette](https://github.com/gourlaysama/girouette)  
+* Get a Weather report on the command line:  
+	* Here is my contribution: [github.com/mccright/weather-in-terminal](https://github.com/mccright/weather-in-terminal)  
+	* Get weather report for any major cities around the world [www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string](http://www.webservicex.net/globalweather.asmx/GetWeather?CityName=string&CountryName=string)  
+	* Another way to get weather ...in your terminal [github.com/chubin/wttr.in](https://github.com/chubin/wttr.in) and then try some one-liners, for example:  
+	   * ~$ curl https://wttr.in/yourCity?format="%l:+%t+%w+%h+%f"  
+	   * in your .bashrc: alias weather='curl https://wttr.in/yourCity'  
+	* A high-functioning command line tool that displays the current weather (from OpenWeather) in the terminal written in Rust [github.com/gourlaysama/girouette](https://github.com/gourlaysama/girouette)  
 * Website style analyzer for designers [stylifyme.com/](http://stylifyme.com/) and source at: [github.com/micmro/Stylify-Me](https://github.com/micmro/Stylify-Me)  
 * A python script that generates different sizes favicons from one image [github.com/Hecsall/favicon-generator](https://github.com/Hecsall/favicon-generator)  
 
@@ -849,10 +851,9 @@ A starter list of information sources for your security investigations & integra
 * Snopes: https://www.snopes.com/  
 * T Verifica (Noticias Telemundo): https://www.telemundo.com/noticias/t-verifica  
 * The Dispatch Fact Check: https://thedispatch.com/  
-* Washington Post Fact Checker: https://www.washingtonpost.com/news/fact-checker/  
  
 
-This is a subset of the longer list at: https://ifcncodeofprinciples.poynter.org/signatories  
+This started with a subset of the longer list at: https:// ifcncodeofprinciples.poynter.org/signatories  
 
 ### Development Environment on a Mac  
 * A beginner's guide to setting up a development environment on macOS [github.com/nicolashery/mac-dev-setup](https://github.com/nicolashery/mac-dev-setup)  
