@@ -17,7 +17,7 @@ Remember: "[Things can be different...](https://earthrights.co.uk/2020/12/23/let
 
 This is a collection of reusable references. Hosted at: [mccright.github.io/references/](https://mccright.github.io/references/)  
 
-[2025](https://mccright.github.io/references/2025-calendar.md), [2026](https://mccright.github.io/references/2026-calendar.md)
+[2025](https://mccright.github.io/references/2025-calendar.md), [2026](https://mccright.github.io/references/2026-calendar.md), [2027](2027-calendar.md)
 
 ### Putin's war:  
 * Don't ignore it.  See: [Wikipedia: Russo-Ukrainian War](https://en.wikipedia.org/wiki/Russo-Ukrainian_War). And resist/confront [Trump 47’s shameful early efforts](https://www.axios.com/2025/03/04/trump-russia-ukraine-policy-pro-putin) to strengthen ties with Putin by making material concessions **before** any negotiations about ending Putin's war with Ukraine.  
